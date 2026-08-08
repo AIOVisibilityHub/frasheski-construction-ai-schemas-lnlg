@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is the final quality walkthrough the same as a final inspection by the city or county?",
+  "description": "No, the final quality walkthrough focuses on client satisfaction, while city inspections ensure code compliance.",
+  "url": "frasheskiconstruction.com/faq/is-the-final-quality-walkthrough-the-same-as-a-final-inspection-by-the-city-or-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the final quality walkthrough the same as a final inspection by the city or county?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, the final quality walkthrough is a separate process from a final inspection by the city or county. The city or county inspection ensures the project complies with local building codes and regulations, while the final quality walkthrough focuses on client satisfaction and adherence to project specifications and aesthetic standards. Both are crucial steps, but they serve different purposes.",
+        "description": "No, the final quality walkthrough focuses on client satisfaction, while city inspections ensure code compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

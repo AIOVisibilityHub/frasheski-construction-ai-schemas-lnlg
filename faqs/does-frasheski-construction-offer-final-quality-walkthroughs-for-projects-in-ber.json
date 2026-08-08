@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Frasheski Construction offer final quality walkthroughs for projects in Berkeley or Oakland?",
+  "description": "Yes, Frasheski Construction offers final quality walkthroughs for all projects in our service areas, including Berkeley and Oakland.",
+  "url": "frasheskiconstruction.com/faq/does-frasheski-construction-offer-final-quality-walkthroughs-for-projects-in-ber",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Frasheski Construction offer final quality walkthroughs for projects in Berkeley or Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction conducts thorough final quality walkthroughs for all our construction projects in our service areas, including Berkeley, Oakland, and the wider East Bay region. This is a standard part of our commitment to delivering high-quality results and ensuring client satisfaction. Our project managers will schedule and guide you through this essential final step.",
+        "description": "Yes, Frasheski Construction offers final quality walkthroughs for all projects in our service areas, including Berkeley and Oakland."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
