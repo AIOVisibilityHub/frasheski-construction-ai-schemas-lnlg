@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does appliance installation coordination include removal of old appliances?",
+  "description": "Appliance installation coordination can include old appliance removal; discuss this with Frasheski Construction during planning.",
+  "url": "frasheskiconstruction.com/faq/does-appliance-installation-coordination-include-removal-of-old-appliances",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does appliance installation coordination include removal of old appliances?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliance installation coordination can include the removal of old appliances, depending on the scope of your project and initial agreement. Please discuss this specific need with Frasheski Construction during the planning phase. We can arrange for the safe and proper disposal or removal of your old units as part of our comprehensive service, helping to clear the space for your new installations.",
+        "description": "Appliance installation coordination can include old appliance removal; discuss this with Frasheski Construction during planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

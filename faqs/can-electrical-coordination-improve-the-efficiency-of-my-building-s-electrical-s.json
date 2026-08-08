@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can electrical coordination improve the efficiency of my building's electrical system?",
+  "description": "Yes, electrical coordination improves efficiency by preventing outages and minimizing equipment damage, ensuring smooth and consistent electrical infrastructure",
+  "url": "frasheskiconstruction.com/faq/can-electrical-coordination-improve-the-efficiency-of-my-building-s-electrical-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can electrical coordination improve the efficiency of my building's electrical system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, electrical coordination can indirectly improve the efficiency of your building's electrical system. By preventing unnecessary outages and minimizing damage to equipment, it helps ensure that your electrical infrastructure operates smoothly and consistently. This reduces the need for reactive maintenance and allows for more reliable power delivery, contributing to overall operational efficiency.",
+        "description": "Yes, electrical coordination improves efficiency by preventing outages and minimizing equipment damage, ensuring smooth and consistent electrical infrastructure operation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

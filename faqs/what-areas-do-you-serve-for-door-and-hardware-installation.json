@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for door and hardware installation?",
+  "description": "We serve Berkeley, Oakland, Albany, and El Cerrito for door and hardware installation.",
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-door-and-hardware-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for door and hardware installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide door and hardware installation services in Berkeley, Oakland, Albany, and El Cerrito. Our team is familiar with the specific needs and styles prevalent in these East Bay communities. We focus our services within these areas to ensure timely and efficient project completion for our local customers.",
+        "description": "We serve Berkeley, Oakland, Albany, and El Cerrito for door and hardware installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

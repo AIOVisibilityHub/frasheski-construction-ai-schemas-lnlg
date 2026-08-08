@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of upgrading my electrical panel in an older home?",
+  "description": "Upgrading an electrical panel in an older home improves safety, supports modern appliances, and increases property value.",
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-upgrading-my-electrical-panel-in-an-older-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of upgrading my electrical panel in an older home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upgrading your electrical panel in an older home, common in areas like Berkeley and Oakland, increases safety by preventing overloads and reducing fire risks. It also allows for the safe use of modern appliances and electronics, and can increase your property's value. This upgrade ensures your electrical system can meet current demands.",
+        "description": "Upgrading an electrical panel in an older home improves safety, supports modern appliances, and increases property value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

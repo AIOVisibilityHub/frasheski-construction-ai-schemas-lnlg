@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is trade scheduling in construction?",
+  "description": "Trade scheduling organizes and coordinates different construction trades to ensure smooth project progression.",
+  "url": "frasheskiconstruction.com/faq/what-is-trade-scheduling-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is trade scheduling in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trade scheduling in construction involves organizing and coordinating the various specialized trades—such as plumbers, electricians, and carpenters—that contribute to a building project. It dictates the sequence of their work, ensuring that each trade arrives on-site when their work can commence and without hindering other ongoing activities. Effective trade scheduling minimizes delays, optimizes resource allocation, and helps maintain the project timeline and budget.",
+        "description": "Trade scheduling organizes and coordinates different construction trades to ensure smooth project progression."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

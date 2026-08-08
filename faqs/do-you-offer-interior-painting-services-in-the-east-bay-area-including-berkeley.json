@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer interior painting services in the East Bay area, including Berkeley and Oakland?",
+  "description": "Yes, Frasheski Construction provides interior painting services throughout the East Bay area, including Berkeley and Oakland.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-interior-painting-services-in-the-east-bay-area-including-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer interior painting services in the East Bay area, including Berkeley and Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction proudly serves the East Bay area, including Berkeley, Oakland, Albany, El Cerrito, and Kensington. We are familiar with the unique architectural styles and homeowner preferences in these communities and are ready to assist with your interior painting needs.",
+        "description": "Yes, Frasheski Construction provides interior painting services throughout the East Bay area, including Berkeley and Oakland."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does flooring installation coordination cost?",
+  "description": "Flooring installation coordination cost is part of the overall project estimate, covering materials, labor, and management.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-flooring-installation-coordination-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does flooring installation coordination cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of flooring installation coordination is included in our overall project estimate. We provide a comprehensive quote that covers materials, labor, and project management, ensuring transparency and no hidden fees. The final cost will depend on the scope of your project, the specific materials chosen, and any necessary subfloor preparation.",
+        "description": "Flooring installation coordination cost is part of the overall project estimate, covering materials, labor, and management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if punch list items are not completed?",
+  "description": "Uncompleted punch list items can delay final payment and project closeout.",
+  "url": "frasheskiconstruction.com/faq/what-happens-if-punch-list-items-are-not-completed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if punch list items are not completed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If punch list items are not completed, it can delay final payment to the contractor and potentially impact project closeout. The contract often specifies provisions for addressing incomplete work, which may include withholding a portion of payment until all items are resolved. It's crucial for both parties to ensure all agreed-upon work is finished.",
+        "description": "Uncompleted punch list items can delay final payment and project closeout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

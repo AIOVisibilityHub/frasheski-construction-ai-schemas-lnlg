@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is tile installation coordination?",
+  "description": "Tile installation coordination manages all aspects of your tile project, from selection to final installation, ensuring a smooth and efficient process.",
+  "url": "frasheskiconstruction.com/faq/what-is-tile-installation-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is tile installation coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tile installation coordination involves managing all aspects of your tile project, from initial design consultation to final installation. This includes helping you select the right tiles for your space, scheduling deliveries, coordinating with other contractors, and overseeing the installation process to ensure it meets quality standards and stays on schedule. It aims to streamline the project and minimize stress for the client.",
+        "description": "Tile installation coordination manages all aspects of your tile project, from selection to final installation, ensuring a smooth and efficient process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in professional door installation?",
+  "description": "Professional door installation involves removing the old door, preparing the opening, installing the new frame and door, and fitting all necessary hardware and",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-professional-door-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in professional door installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professional door installation involves several steps to ensure proper fit and function. This includes carefully removing the old door and frame, preparing the opening, installing the new door frame, hanging the new door, and installing the necessary hardware such as hinges, handles, and locks. The process concludes with finishing touches like trim and weatherstripping to ensure the door operates smoothly and seals effectively.",
+        "description": "Professional door installation involves removing the old door, preparing the opening, installing the new frame and door, and fitting all necessary hardware and trim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

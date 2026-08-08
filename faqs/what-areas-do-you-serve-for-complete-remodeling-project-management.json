@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for complete remodeling project management?",
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South Sa",
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-complete-remodeling-project-management",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for complete remodeling project management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction proudly offers complete remodeling project management services in Berkeley, East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco. We focus on providing high-quality service to clients across the East Bay and surrounding communities, ensuring local expertise and timely service for your renovation needs.",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

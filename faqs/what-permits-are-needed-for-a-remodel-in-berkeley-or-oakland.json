@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a remodel in Berkeley or Oakland?",
+  "description": "Permits are needed for structural, plumbing, electrical, and significant alterations; we can assist with securing them.",
+  "url": "frasheskiconstruction.com/faq/what-permits-are-needed-for-a-remodel-in-berkeley-or-oakland",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a remodel in Berkeley or Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The specific permits needed for a remodel in Berkeley or Oakland depend on the scope of your project. Generally, structural changes, plumbing, electrical work, and significant alterations to your home will require permits. Our team can help you identify and secure the necessary permits from local authorities, ensuring your project complies with all building codes.",
+        "description": "Permits are needed for structural, plumbing, electrical, and significant alterations; we can assist with securing them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

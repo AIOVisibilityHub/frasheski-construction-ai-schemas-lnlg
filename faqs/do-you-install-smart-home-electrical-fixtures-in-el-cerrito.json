@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you install smart home electrical fixtures in El Cerrito?",
+  "description": "Yes, Frasheski Construction installs smart home electrical fixtures in El Cerrito, integrating various smart lighting and connected devices into your electrical",
+  "url": "frasheskiconstruction.com/faq/do-you-install-smart-home-electrical-fixtures-in-el-cerrito",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you install smart home electrical fixtures in El Cerrito?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction installs smart home electrical fixtures in El Cerrito and the surrounding East Bay area. We can integrate various smart lighting systems, smart outlets, and other connected devices into your home's electrical infrastructure. This includes setting up compatible wiring and ensuring proper connectivity for features like app control, voice commands, and automated schedules. Our team can help you choose and install smart fixtures that enhance your home's efficiency and convenience.",
+        "description": "Yes, Frasheski Construction installs smart home electrical fixtures in El Cerrito, integrating various smart lighting and connected devices into your electrical system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

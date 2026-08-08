@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for cabinet installation coordination?",
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, and surrounding San Francisco Bay Area communities.",
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-cabinet-installation-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for cabinet installation coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction provides cabinet installation coordination services throughout the East Bay area, including Berkeley, Oakland, Albany, El Cerrito, Kensington, and Alameda. We also serve San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco. If your project is within these regions, we are equipped to assist you.",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, and surrounding San Francisco Bay Area communities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

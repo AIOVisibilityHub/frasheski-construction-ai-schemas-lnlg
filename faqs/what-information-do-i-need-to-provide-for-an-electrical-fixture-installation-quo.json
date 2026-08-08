@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide for an electrical fixture installation quote?",
+  "description": "To get an electrical fixture installation quote, provide details like fixture type, size, location, and whether it's new or a replacement.",
+  "url": "frasheskiconstruction.com/faq/what-information-do-i-need-to-provide-for-an-electrical-fixture-installation-quo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide for an electrical fixture installation quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When requesting a quote for electrical fixture installation, it's helpful to provide details such as the type of fixture (e.g., chandelier, ceiling fan, sconce), its size and weight, and the location where it will be installed. Indicate if it's a replacement for an existing fixture or if it's a new installation where no wiring currently exists. Photos of the area and the new fixture can also be very useful. This information helps Frasheski Construction provide an accurate estimate for your project in the East Bay area.",
+        "description": "To get an electrical fixture installation quote, provide details like fixture type, size, location, and whether it's new or a replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

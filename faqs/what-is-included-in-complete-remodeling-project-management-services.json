@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in complete remodeling project management services?",
+  "description": "Our complete remodeling project management services cover everything from design and permitting to budget management and quality control.",
+  "url": "frasheskiconstruction.com/faq/what-is-included-in-complete-remodeling-project-management-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in complete remodeling project management services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complete remodeling project management services at Frasheski Construction cover all phases of your renovation. This includes initial consultation and design, securing necessary permits, scheduling and overseeing all trades (plumbing, electrical, carpentry, etc.), managing the budget, ensuring quality control, and regular communication with you throughout the project. We aim to streamline the process and handle all the complexities of your remodel.",
+        "description": "Our complete remodeling project management services cover everything from design and permitting to budget management and quality control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

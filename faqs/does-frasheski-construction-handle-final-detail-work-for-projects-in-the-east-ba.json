@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Frasheski Construction handle final detail work for projects in the East Bay area?",
+  "description": "Yes, Frasheski Construction handles all final detail work for projects in the East Bay, including Berkeley, Oakland, and El Cerrito.",
+  "url": "frasheskiconstruction.com/faq/does-frasheski-construction-handle-final-detail-work-for-projects-in-the-east-ba",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Frasheski Construction handle final detail work for projects in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction proudly handles all aspects of construction, including comprehensive final detail work, for projects across the East Bay area. Our service regions include Berkeley, Oakland, Albany, El Cerrito, and surrounding communities. We ensure every project we undertake meets our high standards of finish and client satisfaction before completion.",
+        "description": "Yes, Frasheski Construction handles all final detail work for projects in the East Bay, including Berkeley, Oakland, and El Cerrito."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

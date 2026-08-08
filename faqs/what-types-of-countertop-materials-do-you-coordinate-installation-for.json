@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of countertop materials do you coordinate installation for?",
+  "description": "We coordinate installation for natural stone (granite, marble), engineered stone (quartz), and solid surface countertops.",
+  "url": "frasheskiconstruction.com/faq/what-types-of-countertop-materials-do-you-coordinate-installation-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of countertop materials do you coordinate installation for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We coordinate installation for a wide range of countertop materials, including natural stone like granite, marble, and quartzite, as well as engineered stone such as quartz. We can also assist with solid surface options. Our expertise covers various materials to suit different aesthetic preferences and functional needs for homes in Berkeley, East Bay, Oakland, Albany, and El Cerrito.",
+        "description": "We coordinate installation for natural stone (granite, marble), engineered stone (quartz), and solid surface countertops."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

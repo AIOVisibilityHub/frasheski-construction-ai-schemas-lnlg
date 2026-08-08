@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider hiring a professional electrician for kitchen and bathroom lighting projects?",
+  "description": "Hire an electrician for new wiring, circuit installation, outlet relocation, or projects near water for safety and code compliance.",
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-hiring-a-professional-electrician-for-kitchen-and-bathroo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider hiring a professional electrician for kitchen and bathroom lighting projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should hire a professional electrician for any kitchen or bathroom lighting project that involves new wiring, relocating existing outlets, installing new circuits, or working near water sources. Tasks like replacing a simple fixture with an existing connection might be DIY-friendly, but for safety and compliance with local codes, an electrician is recommended for most significant lighting upgrades.",
+        "description": "Hire an electrician for new wiring, circuit installation, outlet relocation, or projects near water for safety and code compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

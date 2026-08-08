@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does bathroom plumbing installation usually take?",
+  "description": "Installation time varies: a simple replacement may take 1-2 days, while a full new installation can take 3-7 business days.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-bathroom-plumbing-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does bathroom plumbing installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of bathroom plumbing installation can vary depending on the scope of the project. A simple replacement of existing fixtures might take a day or two. A complete new installation for a full bathroom, including rough-in plumbing, could take anywhere from 3 to 7 business days, especially if it's part of a larger renovation. Factors like the size of the bathroom, complexity of the design, and any unforeseen issues can influence the timeline.",
+        "description": "Installation time varies: a simple replacement may take 1-2 days, while a full new installation can take 3-7 business days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

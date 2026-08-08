@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you handle unexpected issues during fixture installation?",
+  "description": "We proactively identify, assess, and communicate unexpected issues during fixture installation to find efficient solutions with all parties, minimizing delays a",
+  "url": "frasheskiconstruction.com/faq/how-do-you-handle-unexpected-issues-during-fixture-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you handle unexpected issues during fixture installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unexpected issues during fixture installation are addressed through a proactive and communicative approach. Our coordinators are experienced in identifying potential problems early, such as discrepancies between design plans and existing conditions, or issues with fixture delivery or quality. When an issue arises, we first assess the situation to understand its impact. We then communicate transparently with all relevant parties, including the client, contractors, and suppliers, to discuss solutions. We strive to find practical and efficient resolutions that minimize delays and additional costs, always keeping the project's overall goals and client satisfaction in mind.",
+        "description": "We proactively identify, assess, and communicate unexpected issues during fixture installation to find efficient solutions with all parties, minimizing delays and costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

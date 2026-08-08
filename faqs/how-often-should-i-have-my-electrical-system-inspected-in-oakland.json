@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I have my electrical system inspected in Oakland?",
+  "description": "It's recommended to have your electrical system inspected every 5-10 years in Oakland, especially for older homes.",
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-have-my-electrical-system-inspected-in-oakland",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I have my electrical system inspected in Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For homes in Oakland, especially older properties, an electrical inspection every 5-10 years is recommended. This helps identify outdated wiring, overloaded circuits, and potential fire hazards. Regular inspections ensure your system meets current safety codes and can handle modern electrical demands.",
+        "description": "It's recommended to have your electrical system inspected every 5-10 years in Oakland, especially for older homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

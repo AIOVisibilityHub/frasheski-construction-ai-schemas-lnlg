@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider when choosing a contractor for appliance installation coordination in the East Bay area?",
+  "description": "When choosing a contractor in the East Bay, consider their experience, integration with other trades, communication, and track record.",
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-choosing-a-contractor-for-appliance-installation-coo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider when choosing a contractor for appliance installation coordination in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for appliance installation coordination in the East Bay area, consider their experience with similar projects, their ability to integrate with other trades, and their communication process. Look for a contractor who prioritizes scheduling efficiency, understands appliance specifications, and has a proven track record of successful installations. References and examples of past work can be helpful.",
+        "description": "When choosing a contractor in the East Bay, consider their experience, integration with other trades, communication, and track record."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

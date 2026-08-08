@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does appliance installation coordination work with Frasheski Construction?",
+  "description": "Frasheski Construction integrates appliance installation coordination into your project timeline, managing delivery and setup with suppliers and installers.",
+  "url": "frasheskiconstruction.com/faq/how-does-appliance-installation-coordination-work-with-frasheski-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does appliance installation coordination work with Frasheski Construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With Frasheski Construction, our team integrates appliance installation coordination directly into your project timeline. We communicate with your appliance suppliers and our installation partners to align delivery and setup with the overall construction schedule. This includes confirming utility hookups, ensuring proper clearances, and overseeing the final installation to meet project specifications.",
+        "description": "Frasheski Construction integrates appliance installation coordination into your project timeline, managing delivery and setup with suppliers and installers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be present during countertop installation?",
+  "description": "Being present at the start and end of installation is recommended for discussions and a final walkthrough.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-be-present-during-countertop-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be present during countertop installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it's not always strictly necessary for you to be present for the entire duration of the installation, we recommend being available at the beginning to discuss any last-minute details with the installers and at the end for a final walkthrough. This ensures your satisfaction with the completed work. We serve clients in Berkeley, East Bay, Oakland, Albany, and El Cerrito and will communicate scheduling clearly.",
+        "description": "Being present at the start and end of installation is recommended for discussions and a final walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

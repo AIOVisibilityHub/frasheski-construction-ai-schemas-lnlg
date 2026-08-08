@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my kitchen for countertop installation?",
+  "description": "Clear existing countertops, disconnect appliances, ensure clear access, and protect surrounding areas.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-kitchen-for-countertop-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my kitchen for countertop installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for countertop installation, clear all items from your existing countertops and disconnect any sinks or cooktops that are to be replaced. Ensure a clear path for installers to access the kitchen. It's also advisable to protect adjacent flooring and cabinetry. Our team will provide specific preparation guidelines prior to the installation date for our East Bay, Oakland, and Berkeley clients.",
+        "description": "Clear existing countertops, disconnect appliances, ensure clear access, and protect surrounding areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

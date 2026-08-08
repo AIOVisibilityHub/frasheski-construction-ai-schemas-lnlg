@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to paint or stain my new trim and molding?",
+  "description": "Yes, new trim and molding usually need painting or staining to protect them and match your home's aesthetic.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-paint-or-stain-my-new-trim-and-molding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to paint or stain my new trim and molding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most trim and molding materials require a finish, whether paint or stain, to protect them and match your home's decor. If you choose unfinished wood, staining can highlight its natural grain. MDF and many types of wood are often painted to blend with walls or provide a contrasting accent. This step is crucial for longevity and appearance.",
+        "description": "Yes, new trim and molding usually need painting or staining to protect them and match your home's aesthetic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

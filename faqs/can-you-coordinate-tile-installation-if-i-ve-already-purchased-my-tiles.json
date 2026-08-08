@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you coordinate tile installation if I've already purchased my tiles?",
+  "description": "Yes, we can coordinate your tile installation even if you've already purchased tiles, integrating them into our project planning and management.",
+  "url": "frasheskiconstruction.com/faq/can-you-coordinate-tile-installation-if-i-ve-already-purchased-my-tiles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you coordinate tile installation if I've already purchased my tiles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we can absolutely coordinate your tile installation even if you've already purchased your tiles. Our coordination services are flexible. We will review the tiles you've acquired to ensure they are suitable for your intended application and then proceed with planning the installation, scheduling our team, and managing the project to completion. We focus on integrating your materials into a successful outcome.",
+        "description": "Yes, we can coordinate your tile installation even if you've already purchased tiles, integrating them into our project planning and management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

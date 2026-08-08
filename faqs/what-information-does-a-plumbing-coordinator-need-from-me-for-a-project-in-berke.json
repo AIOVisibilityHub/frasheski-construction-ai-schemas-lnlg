@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does a plumbing coordinator need from me for a project in Berkeley?",
+  "description": "A plumbing coordinator needs architectural drawings, fixture locations, appliance specs, and budget/timeline details for a Berkeley project.",
+  "url": "frasheskiconstruction.com/faq/what-information-does-a-plumbing-coordinator-need-from-me-for-a-project-in-berke",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does a plumbing coordinator need from me for a project in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a project in Berkeley, a plumbing coordinator would need architectural drawings, desired fixture locations, appliance specifications, and any specific water efficiency goals you might have. Information on existing plumbing systems for remodels, as well as your budget and timeline expectations, are also crucial for accurate planning and execution.",
+        "description": "A plumbing coordinator needs architectural drawings, fixture locations, appliance specs, and budget/timeline details for a Berkeley project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

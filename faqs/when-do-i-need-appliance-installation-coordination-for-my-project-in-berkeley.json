@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need appliance installation coordination for my project in Berkeley?",
+  "description": "You need appliance installation coordination for construction or renovation projects involving new appliances, particularly in the Berkeley and East Bay areas.",
+  "url": "frasheskiconstruction.com/faq/when-do-i-need-appliance-installation-coordination-for-my-project-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need appliance installation coordination for my project in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need appliance installation coordination when your construction or renovation project involves new appliances, especially if multiple trades are involved. This service is crucial for kitchen or laundry room remodels, new home builds, or major appliance replacements in the Berkeley, East Bay, Oakland, Albany, or El Cerrito areas. It helps streamline the process and prevents scheduling conflicts.",
+        "description": "You need appliance installation coordination for construction or renovation projects involving new appliances, particularly in the Berkeley and East Bay areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

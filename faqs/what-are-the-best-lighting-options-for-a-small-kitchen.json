@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the best lighting options for a small kitchen?",
+  "description": "Layered lighting with recessed, under-cabinet, and a decorative fixture works best for small kitchens.",
+  "url": "frasheskiconstruction.com/faq/what-are-the-best-lighting-options-for-a-small-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best lighting options for a small kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For small kitchens, layered lighting is key. Consider recessed lighting for general illumination, under-cabinet strip lighting to brighten countertops, and a decorative pendant or flush-mount fixture for ambient light. Dimmers are also helpful to adjust brightness for different tasks and moods. Focus on fixtures that don't visually clutter the space.",
+        "description": "Layered lighting with recessed, under-cabinet, and a decorative fixture works best for small kitchens."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

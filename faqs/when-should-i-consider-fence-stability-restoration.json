@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider fence stability restoration?",
+  "description": "Consider fence stability restoration if your fence is leaning, swaying, has loose posts, or shows rot, as these indicate compromised integrity.",
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-fence-stability-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider fence stability restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider fence stability restoration if your fence is visibly leaning, swaying in the wind, has loose posts, or shows signs of rot or insect damage at the base. These issues can compromise the fence's integrity, posing a safety risk and reducing its effectiveness. Addressing them promptly can prevent further damage and avoid the need for full fence replacement.",
+        "description": "Consider fence stability restoration if your fence is leaning, swaying, has loose posts, or shows rot, as these indicate compromised integrity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

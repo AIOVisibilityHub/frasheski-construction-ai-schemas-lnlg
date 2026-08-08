@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Frasheski Construction coordinate appliance installations if I purchase appliances from a different supplier?",
+  "description": "Yes, Frasheski Construction can coordinate appliance installations even if you buy from a different supplier.",
+  "url": "frasheskiconstruction.com/faq/can-frasheski-construction-coordinate-appliance-installations-if-i-purchase-appl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Frasheski Construction coordinate appliance installations if I purchase appliances from a different supplier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction can coordinate appliance installations even if you purchase your appliances from a different supplier. We will work directly with your chosen vendor to manage delivery schedules and ensure that our installation team is ready when the appliances arrive. Our focus is on integrating the installation seamlessly into your overall project plan.",
+        "description": "Yes, Frasheski Construction can coordinate appliance installations even if you buy from a different supplier."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

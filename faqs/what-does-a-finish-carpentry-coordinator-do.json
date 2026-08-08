@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a finish carpentry coordinator do?",
+  "description": "A coordinator manages scheduling, material procurement, and installation of all finish carpentry, ensuring quality and timelines.",
+  "url": "frasheskiconstruction.com/faq/what-does-a-finish-carpentry-coordinator-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a finish carpentry coordinator do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A finish carpentry coordinator oversees the scheduling, material procurement, and installation of all finish carpentry elements. This includes working with various subcontractors, inspecting work for quality, managing timelines, and addressing any challenges that arise during the finishing stages of a project. They act as a central point of contact to ensure all finish work meets project specifications.",
+        "description": "A coordinator manages scheduling, material procurement, and installation of all finish carpentry, ensuring quality and timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are permits required for electrical work during a remodel in the East Bay area?",
+  "description": "Yes, permits are almost always required for remodel electrical work in the East Bay to ensure code compliance and safety.",
+  "url": "frasheskiconstruction.com/faq/are-permits-required-for-electrical-work-during-a-remodel-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are permits required for electrical work during a remodel in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, permits are almost always required for electrical work during a remodel in the East Bay area, including cities like Berkeley, Oakland, and Albany. This ensures that the work complies with local building codes and safety standards. Permitting typically involves submitting plans, having the work inspected at various stages, and receiving final approval. Working without proper permits can lead to fines, difficulties with insurance, and problems when selling your home.",
+        "description": "Yes, permits are almost always required for remodel electrical work in the East Bay to ensure code compliance and safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

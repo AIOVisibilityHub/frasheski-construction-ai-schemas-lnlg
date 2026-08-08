@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I ensure quality in the final detail work?",
+  "description": "Ensure quality in final detail work through regular communication with your contractor, active participation in punch list walkthroughs, and reviewing completed",
+  "url": "frasheskiconstruction.com/faq/how-do-i-ensure-quality-in-the-final-detail-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I ensure quality in the final detail work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure quality in final detail work, regular communication with your contractor is key. Participate actively in punch list walkthroughs, clearly documenting any concerns. Review completed items thoroughly. A reputable contractor will have their own quality control processes in place and will be responsive to your feedback, aiming for a high standard of finish.",
+        "description": "Ensure quality in final detail work through regular communication with your contractor, active participation in punch list walkthroughs, and reviewing completed items."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

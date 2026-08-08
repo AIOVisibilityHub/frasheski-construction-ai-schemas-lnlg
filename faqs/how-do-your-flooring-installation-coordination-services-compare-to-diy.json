@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do your flooring installation coordination services compare to DIY?",
+  "description": "Our services offer expertise, efficiency, and peace of mind, while DIY can be cost-effective for simple projects.",
+  "url": "frasheskiconstruction.com/faq/how-do-your-flooring-installation-coordination-services-compare-to-diy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do your flooring installation coordination services compare to DIY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our professional flooring installation coordination services offer expertise, efficiency, and peace of mind that DIY projects often lack. We handle material sourcing, scheduling, and quality control, ensuring a professional finish. DIY can be cost-effective for simple projects, but complex installations benefit from our experience in avoiding common pitfalls and ensuring longevity.",
+        "description": "Our services offer expertise, efficiency, and peace of mind, while DIY can be cost-effective for simple projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

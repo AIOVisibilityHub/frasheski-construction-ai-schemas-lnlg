@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a typical bathroom plumbing installation?",
+  "description": "A typical installation involves rough-in plumbing, fixture installation, connecting to water and drainage systems, and testing for leaks and proper function.",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-a-typical-bathroom-plumbing-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a typical bathroom plumbing installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical bathroom plumbing installation involves several key steps, including rough-in plumbing where water supply and drain lines are run within walls and floors. This is followed by the installation of fixtures such as toilets, sinks, showers, and bathtubs. Connections are made to the main water supply and drainage systems. Finally, the system is tested for leaks and proper function. This process ensures all components are correctly integrated for a fully functional bathroom.",
+        "description": "A typical installation involves rough-in plumbing, fixture installation, connecting to water and drainage systems, and testing for leaks and proper function."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

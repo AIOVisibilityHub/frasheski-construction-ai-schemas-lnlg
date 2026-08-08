@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between cabinet installation and cabinet installation coordination?",
+  "description": "Installation is the physical act; coordination is the management of the entire installation process.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-cabinet-installation-and-cabinet-installation-coo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between cabinet installation and cabinet installation coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cabinet installation refers to the physical act of mounting cabinets to walls and assembling them. Cabinet installation coordination, however, is the comprehensive management process that ensures the installation happens smoothly. This includes planning, scheduling, communication with all parties involved, and problem-solving, all designed to deliver a complete project efficiently and to a high standard.",
+        "description": "Installation is the physical act; coordination is the management of the entire installation process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

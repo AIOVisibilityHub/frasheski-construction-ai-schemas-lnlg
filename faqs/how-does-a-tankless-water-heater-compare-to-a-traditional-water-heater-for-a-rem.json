@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a tankless water heater compare to a traditional water heater for a remodel?",
+  "description": "Tankless water heaters provide on-demand hot water and save space, while traditional heaters are cheaper upfront but less energy-efficient.",
+  "url": "frasheskiconstruction.com/faq/how-does-a-tankless-water-heater-compare-to-a-traditional-water-heater-for-a-rem",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a tankless water heater compare to a traditional water heater for a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a remodel, a tankless water heater offers on-demand hot water, saving energy by heating water only when needed. This also saves space as it doesn't require a large storage tank. Traditional tank water heaters, while generally less expensive upfront, continuously heat and store water, leading to standby energy losses. Tankless units can have higher installation costs and may require venting modifications, but they often provide long-term energy savings and endless hot water for your remodeled home.",
+        "description": "Tankless water heaters provide on-demand hot water and save space, while traditional heaters are cheaper upfront but less energy-efficient."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

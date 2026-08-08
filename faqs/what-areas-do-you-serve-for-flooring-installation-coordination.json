@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for flooring installation coordination?",
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, and surrounding areas for flooring installation coordination.",
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-flooring-installation-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for flooring installation coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide flooring installation coordination services in Berkeley, the East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco, and the East San Francisco area. Our primary service areas are Berkeley, East Bay, Oakland, Albany, and El Cerrito.",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, and surrounding areas for flooring installation coordination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

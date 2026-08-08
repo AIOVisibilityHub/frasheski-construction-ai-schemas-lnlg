@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do to prepare for cabinet installation?",
+  "description": "Clear the work area, remove existing fixtures, and ensure walls are ready for installation.",
+  "url": "frasheskiconstruction.com/faq/what-should-i-do-to-prepare-for-cabinet-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do to prepare for cabinet installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for cabinet installation, ensure the work area is clear of personal belongings and existing fixtures have been removed if applicable. The walls should be ready for installation, meaning any necessary demolition, patching, or painting is complete. We will provide a specific preparation checklist tailored to your project to ensure a smooth start on installation day.",
+        "description": "Clear the work area, remove existing fixtures, and ensure walls are ready for installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

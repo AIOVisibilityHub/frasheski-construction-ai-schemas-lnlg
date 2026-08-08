@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for remodel planning with Frasheski Construction?",
+  "description": "Our process involves consultation, design, material selection, permits, and establishing a timeline and cost estimate.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-remodel-planning-with-frasheski-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for remodel planning with Frasheski Construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With Frasheski Construction, our remodel planning process typically begins with an initial consultation to discuss your vision and needs. We then move to design development, where we work with you to create detailed plans. This is followed by material selection and permit acquisition. Finally, we establish a clear project timeline and cost estimate before construction commences.",
+        "description": "Our process involves consultation, design, material selection, permits, and establishing a timeline and cost estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

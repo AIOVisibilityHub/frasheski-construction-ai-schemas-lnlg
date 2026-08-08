@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I withhold payment until the punch list is finished?",
+  "description": "Yes, many contracts allow for withholding a portion of final payment until the punch list is finished.",
+  "url": "frasheskiconstruction.com/faq/can-i-withhold-payment-until-the-punch-list-is-finished",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I withhold payment until the punch list is finished?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most construction contracts allow for a portion of the final payment to be withheld until the punch list is satisfactorily completed. This retainage incentivizes the contractor to finalize all remaining tasks. The specific terms for withholding payment should be clearly outlined in your construction agreement.",
+        "description": "Yes, many contracts allow for withholding a portion of final payment until the punch list is finished."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

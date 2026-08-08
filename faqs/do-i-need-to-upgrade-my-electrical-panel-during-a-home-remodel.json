@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to upgrade my electrical panel during a home remodel?",
+  "description": "An electrical panel upgrade might be needed if adding new appliances, expanding, or experiencing tripped breakers.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-upgrade-my-electrical-panel-during-a-home-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to upgrade my electrical panel during a home remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upgrading your electrical panel may be necessary during a home remodel if you're adding new major appliances, expanding your living space, or notice frequent tripped breakers. An older panel might not have the capacity to handle increased electrical demand, leading to safety hazards and an unreliable power supply. A qualified electrician can assess your current panel and future needs to determine if an upgrade is required.",
+        "description": "An electrical panel upgrade might be needed if adding new appliances, expanding, or experiencing tripped breakers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

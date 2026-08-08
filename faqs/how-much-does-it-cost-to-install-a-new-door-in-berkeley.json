@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to install a new door in Berkeley?",
+  "description": "Door installation costs in Berkeley vary by door type, materials, hardware, and installation complexity; contact a professional for an estimate.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-install-a-new-door-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to install a new door in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of installing a new door in Berkeley can vary significantly based on the type of door, materials, and the complexity of the installation. Factors influencing the price include whether it's an interior or exterior door, the chosen hardware, and any necessary frame adjustments. For an accurate estimate, it's best to contact a local professional for a consultation.",
+        "description": "Door installation costs in Berkeley vary by door type, materials, hardware, and installation complexity; contact a professional for an estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

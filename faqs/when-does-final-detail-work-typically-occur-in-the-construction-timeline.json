@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does final detail work typically occur in the construction timeline?",
+  "description": "Final detail work occurs at the end of the construction timeline, after major installations, often coinciding with punch list completion.",
+  "url": "frasheskiconstruction.com/faq/when-does-final-detail-work-typically-occur-in-the-construction-timeline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does final detail work typically occur in the construction timeline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Final detail work typically occurs at the very end of the construction timeline, after the major structural and functional elements are in place. It usually begins once primary construction, plumbing, electrical, and HVAC installations are largely complete. This phase often coincides with the punch list generation and walkthroughs, allowing for immediate correction of any noted issues before official project closeout.",
+        "description": "Final detail work occurs at the end of the construction timeline, after major installations, often coinciding with punch list completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

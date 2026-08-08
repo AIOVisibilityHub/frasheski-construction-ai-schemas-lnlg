@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer tile installation coordination for commercial projects in the East Bay area?",
+  "description": "Yes, we offer tile installation coordination for commercial projects across the East Bay, tailored for efficiency and high-quality results.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-tile-installation-coordination-for-commercial-projects-in-the-east",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer tile installation coordination for commercial projects in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction provides comprehensive tile installation coordination for commercial projects throughout the East Bay area, including Oakland, Albany, and El Cerrito. We understand the unique demands of commercial timelines and budgets, and our coordination services are tailored to ensure efficient execution, minimal disruption to your business operations, and a high-quality finish that meets commercial standards.",
+        "description": "Yes, we offer tile installation coordination for commercial projects across the East Bay, tailored for efficiency and high-quality results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

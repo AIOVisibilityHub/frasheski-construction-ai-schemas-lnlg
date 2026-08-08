@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between knob-and-tube and modern electrical wiring, and why should I upgrade during a remodel?",
+  "description": "Knob-and-tube lacks a ground wire and is less safe than modern grounded wiring; upgrading improves safety and capacity.",
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-knob-and-tube-and-modern-electrical-wiring-and-why",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between knob-and-tube and modern electrical wiring, and why should I upgrade during a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Knob-and-tube wiring, common in older homes, uses ceramic insulators to separate wires, lacking a ground wire. Modern wiring, typically non-metallic (NM) cable, includes a ground wire, significantly enhancing safety by providing a path for fault currents. Upgrading during a remodel improves safety by reducing fire hazards and allows for the installation of grounded outlets, essential for many modern appliances and electronics. It also increases your home's electrical capacity.",
+        "description": "Knob-and-tube lacks a ground wire and is less safe than modern grounded wiring; upgrading improves safety and capacity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

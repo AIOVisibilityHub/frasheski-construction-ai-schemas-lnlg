@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right paint colors for my home?",
+  "description": "We offer color consultation to help you choose the right paint colors based on your preferences, decor, and lighting.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-paint-colors-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right paint colors for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing paint colors can be a significant decision, and we offer color consultation services to help. We can discuss your preferences, the existing decor, lighting conditions, and the mood you want to create in each space. We can also provide samples and swatches to help you visualize the colors in your home before making a final decision.",
+        "description": "We offer color consultation to help you choose the right paint colors based on your preferences, decor, and lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

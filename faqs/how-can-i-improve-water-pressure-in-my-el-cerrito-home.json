@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I improve water pressure in my El Cerrito home?",
+  "description": "Improve water pressure by checking aerators, the main shut-off valve, and pressure regulator; professional help may be needed for leaks or corrosion.",
+  "url": "frasheskiconstruction.com/faq/how-can-i-improve-water-pressure-in-my-el-cerrito-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I improve water pressure in my El Cerrito home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To improve water pressure in your El Cerrito home, check for sediment buildup in aerators, inspect your water shut-off valve to ensure it's fully open, and consider issues with your pressure regulator. For persistent low pressure, we can assess your plumbing system for leaks or pipe corrosion, which may require professional intervention.",
+        "description": "Improve water pressure by checking aerators, the main shut-off valve, and pressure regulator; professional help may be needed for leaks or corrosion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

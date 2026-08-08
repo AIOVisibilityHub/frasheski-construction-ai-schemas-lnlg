@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Frasheski Construction ensure clear communication during remodel planning?",
+  "description": "We ensure clear communication through regular meetings, detailed documentation, and direct access to your project manager.",
+  "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-ensure-clear-communication-during-remodel-planni",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Frasheski Construction ensure clear communication during remodel planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction prioritizes clear communication throughout the remodel planning process. We use regular meetings, detailed project documentation, and direct access to your project manager. Our goal is to ensure you are informed at every step, your questions are answered promptly, and any adjustments to the scope are discussed and approved efficiently.",
+        "description": "We ensure clear communication through regular meetings, detailed documentation, and direct access to your project manager."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

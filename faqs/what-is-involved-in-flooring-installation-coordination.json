@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in flooring installation coordination?",
+  "description": "Flooring installation coordination manages material selection, scheduling, and project oversight for a smooth installation.",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-flooring-installation-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in flooring installation coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flooring installation coordination involves managing all aspects of your new flooring project. This includes helping you select the right flooring materials, scheduling delivery and installation, coordinating with other contractors if needed, and overseeing the entire process to ensure a smooth and timely completion. We handle the logistics so you don't have to.",
+        "description": "Flooring installation coordination manages material selection, scheduling, and project oversight for a smooth installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
