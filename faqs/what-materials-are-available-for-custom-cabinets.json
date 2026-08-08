@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are available for custom cabinets?",
+  "description": "We offer materials like solid hardwoods, plywood, and MDF, along with various finishes and hardware, for custom cabinets.",
+  "url": "frasheskiconstruction.com/faq/what-materials-are-available-for-custom-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are available for custom cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer a wide range of high-quality materials for custom cabinets to suit various styles and budgets. Options include solid hardwoods like maple, cherry, oak, and walnut, as well as engineered wood products such as plywood and MDF for painted finishes. For countertops, we work with quartz, granite, marble, and butcher block. We also provide various finishes, hardware selections, and internal storage accessories to complete your custom design.",
+        "description": "We offer materials like solid hardwoods, plywood, and MDF, along with various finishes and hardware, for custom cabinets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for getting new cabinets from Frasheski Construction?",
+  "description": "The process for new cabinets involves consultation, design, custom fabrication, and professional installation by Frasheski Construction.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-getting-new-cabinets-from-frasheski-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for getting new cabinets from Frasheski Construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation to discuss your vision, needs, and budget. Next, we move to the design phase where our team creates detailed plans and renderings. Once approved, we proceed with custom fabrication of your cabinets. Finally, our skilled installers will meticulously install your new cabinetry, ensuring everything is perfectly aligned and functional. We keep you informed throughout each stage of the project.",
+        "description": "The process for new cabinets involves consultation, design, custom fabrication, and professional installation by Frasheski Construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

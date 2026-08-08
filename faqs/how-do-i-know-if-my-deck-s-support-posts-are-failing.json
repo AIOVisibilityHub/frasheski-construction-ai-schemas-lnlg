@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my deck's support posts are failing?",
+  "description": "Look for rot, cracks, soft spots, leaning, or instability in the posts. Deck settling can also be a sign of failing supports.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-deck-s-support-posts-are-failing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my deck's support posts are failing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Failing deck support posts often show signs of rot, especially at ground level or where they meet concrete. Look for visible cracks, soft spots when probed, or a general leaning or instability of the posts. Significant settling of the deck in one area can also indicate a failing post. Regular inspection for moisture damage and insect activity is important.",
+        "description": "Look for rot, cracks, soft spots, leaning, or instability in the posts. Deck settling can also be a sign of failing supports."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

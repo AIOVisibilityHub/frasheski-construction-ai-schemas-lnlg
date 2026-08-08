@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer warranties on your interior painting services?",
+  "description": "Yes, we offer warranties on our interior painting services, with specific details outlined in your project agreement.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-warranties-on-your-interior-painting-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer warranties on your interior painting services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We stand by the quality of our work and offer a warranty on our interior painting services. Specific warranty details, including duration and coverage, will be provided in your project agreement. Our goal is your complete satisfaction with the finished product.",
+        "description": "Yes, we offer warranties on our interior painting services, with specific details outlined in your project agreement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

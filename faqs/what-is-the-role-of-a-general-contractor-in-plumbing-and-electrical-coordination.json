@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the role of a general contractor in plumbing and electrical coordination?",
+  "description": "A general contractor oversees the project, schedules trades, facilitates communication, and resolves conflicts to ensure coordination.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-role-of-a-general-contractor-in-plumbing-and-electrical-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of a general contractor in plumbing and electrical coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The general contractor plays a central role in facilitating coordination. They are responsible for overseeing the entire project, scheduling the various trades, and ensuring open lines of communication. They often act as the primary point of contact for resolving conflicts between plumbers and electricians, ensuring that all work aligns with the overall project plan, budget, and timeline.",
+        "description": "A general contractor oversees the project, schedules trades, facilitates communication, and resolves conflicts to ensure coordination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

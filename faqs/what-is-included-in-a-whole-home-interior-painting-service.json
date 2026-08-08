@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a whole-home interior painting service?",
+  "description": "Whole-home interior painting includes surface preparation, priming, painting walls, ceilings, and trim, protection of your belongings, and cleanup.",
+  "url": "frasheskiconstruction.com/faq/what-is-included-in-a-whole-home-interior-painting-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a whole-home interior painting service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whole-home interior painting typically includes preparing all surfaces by cleaning, patching, and sanding. It also involves applying primer and two coats of paint to walls, ceilings, and trim. Furniture and flooring are protected, and the work area is cleaned up daily. Specific services can be customized based on your home's needs and your preferences.",
+        "description": "Whole-home interior painting includes surface preparation, priming, painting walls, ceilings, and trim, protection of your belongings, and cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

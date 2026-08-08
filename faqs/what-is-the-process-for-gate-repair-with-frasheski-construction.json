@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for gate repair with Frasheski Construction?",
+  "description": "Our process involves a diagnostic assessment, a detailed repair explanation with an estimate, and then professional repair by our technicians.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-gate-repair-with-frasheski-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for gate repair with Frasheski Construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our gate repair process begins with a diagnostic assessment to identify the root cause of the problem. Following the assessment, we provide a detailed explanation of the necessary repairs and a transparent cost estimate. Once approved, our experienced technicians will proceed with the repair using quality parts and tools. We aim for efficient and effective service, ensuring your gate is fully functional and secure. We serve the Berkeley, East Bay, Oakland, Albany, and El Cerrito areas.",
+        "description": "Our process involves a diagnostic assessment, a detailed repair explanation with an estimate, and then professional repair by our technicians."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

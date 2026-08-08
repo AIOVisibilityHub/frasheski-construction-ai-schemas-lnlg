@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a reliable cabinet repair service?",
+  "description": "Choose a reliable service by checking reviews, experience, licensing, detailed estimates, and warranties.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-a-reliable-cabinet-repair-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a reliable cabinet repair service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a cabinet repair service, look for companies with good reviews, relevant experience, and clear communication. Ensure they provide detailed estimates, are licensed, and offer warranties on their work. Ask for references or a portfolio of previous projects to gauge their quality. A reliable service will prioritize customer satisfaction and provide transparent information throughout the repair process.",
+        "description": "Choose a reliable service by checking reviews, experience, licensing, detailed estimates, and warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between trim painting and cabinet painting?",
+  "description": "Trim painting is for architectural elements like baseboards, while cabinet painting focuses on kitchen or bathroom cabinets, each with distinct techniques.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-trim-painting-and-cabinet-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between trim painting and cabinet painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both involve detailed painting, trim painting focuses on architectural elements like baseboards, crown molding, and window casings. Cabinet painting, on the other hand, specifically addresses kitchen or bathroom cabinets, requiring different preparation techniques and often specialized coatings for durability and aesthetics in high-use areas. Each has unique requirements.",
+        "description": "Trim painting is for architectural elements like baseboards, while cabinet painting focuses on kitchen or bathroom cabinets, each with distinct techniques."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

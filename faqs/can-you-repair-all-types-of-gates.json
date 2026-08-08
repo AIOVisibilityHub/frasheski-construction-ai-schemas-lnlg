@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you repair all types of gates?",
+  "description": "We repair most gate types, including sliding, swing, automatic, and manual gates made from various materials.",
+  "url": "frasheskiconstruction.com/faq/can-you-repair-all-types-of-gates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you repair all types of gates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We repair a variety of gate types, including sliding gates, swing gates, automatic gates, and manual gates. Our technicians are experienced with different materials such as wood, steel, and aluminum, and can address issues with various gate operating systems. We service residential and commercial properties in Berkeley, East Bay, Oakland, Albany, and El Cerrito. If you have a specific gate type not mentioned, please contact us to discuss your needs.",
+        "description": "We repair most gate types, including sliding, swing, automatic, and manual gates made from various materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

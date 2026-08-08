@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in your cabinet installation service?",
+  "description": "Our service includes assembly, precise installation, hardware, trim work, site preparation, cleanup, and final inspection.",
+  "url": "frasheskiconstruction.com/faq/what-is-included-in-your-cabinet-installation-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in your cabinet installation service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our cabinet installation service includes the professional assembly and precise installation of all new cabinetry, ensuring they are level, plumb, and securely fastened. This also covers the installation of hardware such as handles and pulls, and any necessary trim work for a finished look. We manage the entire installation process from start to finish, including site preparation, cleanup, and a final inspection to guarantee the quality of our work and your satisfaction.",
+        "description": "Our service includes assembly, precise installation, hardware, trim work, site preparation, cleanup, and final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

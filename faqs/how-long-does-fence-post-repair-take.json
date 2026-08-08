@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does fence-post repair take?",
+  "description": "Fence-post repair can take a few hours for a single post to a full day or more for multiple or complex repairs.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-fence-post-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does fence-post repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The time required for fence-post repair depends on the number of posts needing attention and the complexity of the damage. A single, straightforward post replacement can often be completed within a few hours to half a day. However, if multiple posts are compromised, or if there are complications like extensive root systems, buried utilities, or difficult access, the repair could extend to a full day or more. We aim to complete repairs efficiently while ensuring structural integrity.",
+        "description": "Fence-post repair can take a few hours for a single post to a full day or more for multiple or complex repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

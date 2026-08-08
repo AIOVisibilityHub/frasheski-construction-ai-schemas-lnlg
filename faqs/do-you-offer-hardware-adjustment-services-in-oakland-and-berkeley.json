@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer hardware adjustment services in Oakland and Berkeley?",
+  "description": "Yes, we offer hardware adjustment services in Oakland, Berkeley, and the wider East Bay area.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-hardware-adjustment-services-in-oakland-and-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer hardware adjustment services in Oakland and Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer hardware adjustment services in Oakland, Berkeley, and the wider East Bay area, including Albany, El Cerrito, and Kensington. Our team is available to assist with various functional adjustments to ensure your home's hardware operates smoothly and efficiently. Contact us to schedule an assessment in your specific location.",
+        "description": "Yes, we offer hardware adjustment services in Oakland, Berkeley, and the wider East Bay area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

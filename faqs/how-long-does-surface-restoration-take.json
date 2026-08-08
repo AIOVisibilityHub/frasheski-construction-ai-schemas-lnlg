@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does surface restoration take?",
+  "description": "Restoration time varies by project size and damage, from a few days for small projects to a week for larger ones.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-surface-restoration-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does surface restoration take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of surface restoration varies depending on the size of the area, the type of surface, and the extent of the damage. A small patio restoration might take a day or two, while a larger driveway or multiple surface projects could take several days to a week. We provide an estimated timeline with your project proposal and work efficiently to minimize disruption.",
+        "description": "Restoration time varies by project size and damage, from a few days for small projects to a week for larger ones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

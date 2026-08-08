@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Frasheski Construction help with cabinet design for small spaces?",
+  "description": "Yes, Frasheski Construction can help with cabinet design for small spaces by creating custom solutions to maximize storage and functionality.",
+  "url": "frasheskiconstruction.com/faq/can-frasheski-construction-help-with-cabinet-design-for-small-spaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Frasheski Construction help with cabinet design for small spaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction specializes in optimizing cabinet design for all spaces, including small or unusually shaped areas. Our designers are adept at creating custom solutions that maximize storage, improve functionality, and enhance the aesthetic of compact kitchens, bathrooms, or other rooms. We focus on smart layouts, multi-functional features, and appropriate sizing to make the most of your available space.",
+        "description": "Yes, Frasheski Construction can help with cabinet design for small spaces by creating custom solutions to maximize storage and functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

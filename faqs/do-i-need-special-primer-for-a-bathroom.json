@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special primer for a bathroom?",
+  "description": "Yes, use a high-humidity primer in bathrooms for better adhesion, stain blocking, mildew resistance, and paint longevity.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-special-primer-for-a-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special primer for a bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, using a high-quality primer specifically designed for high-humidity environments is advisable in bathrooms. These primers offer excellent adhesion, block stains, and crucially, provide mildew resistance. They create a solid base for your topcoat, preventing paint from peeling or blistering due to moisture. A good primer can significantly extend the life and appearance of your bathroom paint job.",
+        "description": "Yes, use a high-humidity primer in bathrooms for better adhesion, stain blocking, mildew resistance, and paint longevity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

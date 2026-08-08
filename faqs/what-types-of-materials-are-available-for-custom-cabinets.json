@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of materials are available for custom cabinets?",
+  "description": "Custom cabinet materials include hardwoods like maple and cherry, as well as plywood, MDF, and particleboard with various finishes.",
+  "url": "frasheskiconstruction.com/faq/what-types-of-materials-are-available-for-custom-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of materials are available for custom cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer a wide range of materials for custom cabinets to suit various budgets and styles. Common choices include solid hardwoods like maple, cherry, and oak, which are known for their durability and beauty. Other options include plywood, MDF, and particleboard, often used for cabinet boxes, with various finishes such as laminates, thermofoil, or wood veneers. Our team can help you select the best materials for your project.",
+        "description": "Custom cabinet materials include hardwoods like maple and cherry, as well as plywood, MDF, and particleboard with various finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

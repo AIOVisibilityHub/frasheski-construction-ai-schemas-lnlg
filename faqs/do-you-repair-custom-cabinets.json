@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you repair custom cabinets?",
+  "description": "Yes, we repair custom cabinets, applying specialized techniques to match existing finishes and designs.",
+  "url": "frasheskiconstruction.com/faq/do-you-repair-custom-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you repair custom cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we have experience repairing custom cabinets. Custom cabinetry often requires specialized techniques and a keen eye for detail to match existing finishes, wood types, and construction styles. Our team is skilled in working with unique designs and materials to ensure that repairs blend seamlessly with the original craftsmanship of your custom cabinets, maintaining their unique appeal.",
+        "description": "Yes, we repair custom cabinets, applying specialized techniques to match existing finishes and designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

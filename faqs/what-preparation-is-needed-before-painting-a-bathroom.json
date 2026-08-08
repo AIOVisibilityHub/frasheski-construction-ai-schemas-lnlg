@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before painting a bathroom?",
+  "description": "Before painting, clean walls, patch holes, caulk as needed, tape off fixtures, and protect surfaces. Ensure good ventilation.",
+  "url": "frasheskiconstruction.com/faq/what-preparation-is-needed-before-painting-a-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before painting a bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper preparation is key for a lasting bathroom paint job. This includes cleaning walls thoroughly to remove soap scum, grease, and grime. Any holes or cracks should be patched and sanded smooth. Loose caulk around tubs or sinks should be removed and reapplied. Taping off trim, fixtures, and covering floors and countertops protects them from paint splatters. Ensuring the bathroom is well-ventilated is also important for drying and odor reduction.",
+        "description": "Before painting, clean walls, patch holes, caulk as needed, tape off fixtures, and protect surfaces. Ensure good ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

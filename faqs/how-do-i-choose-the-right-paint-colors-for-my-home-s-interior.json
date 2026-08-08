@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right paint colors for my home's interior?",
+  "description": "Consider desired mood, existing furnishings, and natural light when choosing paint colors. We offer color consultations and samples.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-paint-colors-for-my-home-s-interior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right paint colors for my home's interior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing paint colors can be challenging. Consider the mood you want to create in each room, your existing furnishings, and the natural light. We can provide color consultation services and offer sample swatches to help you visualize the colors in your space before making a final decision.",
+        "description": "Consider desired mood, existing furnishings, and natural light when choosing paint colors. We offer color consultations and samples."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

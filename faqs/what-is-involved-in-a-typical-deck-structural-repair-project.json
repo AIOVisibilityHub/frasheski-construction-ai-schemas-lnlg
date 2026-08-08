@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a typical deck structural repair project?",
+  "description": "Deck structural repair involves inspecting and replacing damaged joists, beams, and posts, reinforcing connections, and addressing foundation issues to restore",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-a-typical-deck-structural-repair-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a typical deck structural repair project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical deck structural repair project involves a thorough inspection to identify compromised components. This may include replacing rotten or damaged joists, beams, or support posts, reinforcing connections with new hardware, and addressing any foundation issues. The work aims to restore the deck's stability and safety, often without requiring a full deck replacement.",
+        "description": "Deck structural repair involves inspecting and replacing damaged joists, beams, and posts, reinforcing connections, and addressing foundation issues to restore stability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

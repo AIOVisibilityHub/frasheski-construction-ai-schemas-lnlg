@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to paint kitchen cabinets in the East Bay area?",
+  "description": "The cost of painting kitchen cabinets in the East Bay varies, typically ranging from hundreds to a few thousand dollars, depending on project specifics.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-paint-kitchen-cabinets-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to paint kitchen cabinets in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of painting kitchen cabinets in the East Bay area varies widely based on the number of cabinets, their current condition, the type of paint chosen, and the complexity of the desired finish. A full kitchen cabinet painting project can range from several hundred to a few thousand dollars. We provide detailed, personalized quotes after assessing your specific kitchen and discussing your preferences. Our quotes are transparent and outline all aspects of the job.",
+        "description": "The cost of painting kitchen cabinets in the East Bay varies, typically ranging from hundreds to a few thousand dollars, depending on project specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prolong the life of my wood fence after repair?",
+  "description": "After repair, prolong your wood fence's life by annual cleaning, checking fasteners, ensuring drainage, and applying stain or sealant every few years.",
+  "url": "frasheskiconstruction.com/faq/how-can-i-prolong-the-life-of-my-wood-fence-after-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prolong the life of my wood fence after repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After wood fence repair, regular maintenance is key to extending its lifespan. This includes cleaning the fence annually to remove dirt and mildew, checking for loose fasteners, and ensuring proper drainage around the base of posts. Applying a fresh coat of stain or sealant every few years can protect the wood from moisture and UV damage. Promptly addressing any new signs of wear or damage can also prevent minor issues from becoming major repairs.",
+        "description": "After repair, prolong your wood fence's life by annual cleaning, checking fasteners, ensuring drainage, and applying stain or sealant every few years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

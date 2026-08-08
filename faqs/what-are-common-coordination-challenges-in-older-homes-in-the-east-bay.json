@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common coordination challenges in older homes in the East Bay?",
+  "description": "Limited space and outdated infrastructure in older East Bay homes present common coordination challenges, requiring careful planning.",
+  "url": "frasheskiconstruction.com/faq/what-are-common-coordination-challenges-in-older-homes-in-the-east-bay",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common coordination challenges in older homes in the East Bay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Older homes in the East Bay, like those in Berkeley or Oakland, often present unique coordination challenges. Limited space within walls and ceilings, outdated existing infrastructure, and the presence of unexpected elements can complicate new installations. Careful planning and experienced professionals are crucial to integrate new plumbing and electrical systems seamlessly with existing structures while adhering to modern codes.",
+        "description": "Limited space and outdated infrastructure in older East Bay homes present common coordination challenges, requiring careful planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

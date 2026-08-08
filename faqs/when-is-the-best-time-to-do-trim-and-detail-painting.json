@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to do trim and detail painting?",
+  "description": "Trim and detail painting can be done year-round as an interior project, often coordinated with other home updates.",
+  "url": "frasheskiconstruction.com/faq/when-is-the-best-time-to-do-trim-and-detail-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to do trim and detail painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trim and detail painting can be done at any time of year, as it's typically an interior project. However, it's often a good idea to coordinate it with other interior painting projects or during a general home refresh to minimize disruption. We work year-round and can schedule your project at your convenience.",
+        "description": "Trim and detail painting can be done year-round as an interior project, often coordinated with other home updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

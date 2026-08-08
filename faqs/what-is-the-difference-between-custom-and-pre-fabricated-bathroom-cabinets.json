@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between custom and pre-fabricated bathroom cabinets?",
+  "description": "Custom cabinets are built to specific designs and dimensions, while pre-fabricated cabinets are standard sizes, offering different levels of flexibility and cos",
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-custom-and-pre-fabricated-bathroom-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between custom and pre-fabricated bathroom cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom bathroom cabinets are built to your specific dimensions, design preferences, and material choices, offering maximum flexibility and a perfect fit for unique spaces. They often come with a higher price tag and longer lead time. Pre-fabricated, or stock, cabinets are mass-produced in standard sizes and styles, making them more affordable and readily available. While they offer less customization, they can be a great option for standard bathroom layouts and tighter budgets. We can help you weigh the pros and cons for your project.",
+        "description": "Custom cabinets are built to specific designs and dimensions, while pre-fabricated cabinets are standard sizes, offering different levels of flexibility and cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

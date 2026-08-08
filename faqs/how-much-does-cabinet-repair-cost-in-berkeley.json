@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does cabinet repair cost in Berkeley?",
+  "description": "Cabinet repair costs depend on damage extent and material. We offer free estimates.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-cabinet-repair-cost-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does cabinet repair cost in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of cabinet repair varies depending on the extent of the damage, the type of material, and the complexity of the repair. We offer free estimates after assessing the damage. Our estimates are transparent and detail the labor and material costs involved. For minor repairs, costs are typically lower, while extensive damage may require more significant investment.",
+        "description": "Cabinet repair costs depend on damage extent and material. We offer free estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to paint a room in the East Bay area?",
+  "description": "Room painting costs in the East Bay vary; we provide free, no-obligation estimates after assessing your specific project.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-paint-a-room-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to paint a room in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to paint a room in the East Bay area varies based on factors like room size, ceiling height, condition of walls, and paint quality. For a basic 10x12 foot room, you might expect to pay a certain range, but we provide free, no-obligation estimates after an on-site assessment to give you an accurate price tailored to your specific needs.",
+        "description": "Room painting costs in the East Bay vary; we provide free, no-obligation estimates after assessing your specific project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

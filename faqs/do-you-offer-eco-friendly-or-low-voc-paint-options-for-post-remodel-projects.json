@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer eco-friendly or low-VOC paint options for post-remodel projects?",
+  "description": "Yes, we offer eco-friendly and low-VOC paint options for post-remodel projects to improve indoor air quality and reduce environmental impact.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-eco-friendly-or-low-voc-paint-options-for-post-remodel-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer eco-friendly or low-VOC paint options for post-remodel projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer a variety of eco-friendly and low-VOC (volatile organic compound) paint options for post-remodel projects. These paints are designed to minimize harmful emissions and odors, contributing to better indoor air quality, which is especially beneficial after construction. They are an excellent choice for clients concerned about environmental impact or those with sensitivities. We can discuss available brands and finishes that meet these criteria during our consultation.",
+        "description": "Yes, we offer eco-friendly and low-VOC paint options for post-remodel projects to improve indoor air quality and reduce environmental impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

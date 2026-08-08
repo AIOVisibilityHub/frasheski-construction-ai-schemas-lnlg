@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does gate repair take?",
+  "description": "Repair time depends on the issue's complexity; simple repairs take hours, complex ones may take a day or longer.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-gate-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does gate repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of gate repair depends on the complexity of the issue. Simple repairs like sensor adjustments or minor component replacements can often be completed within a few hours. More complex repairs, such as motor replacement or extensive structural work, might take a full day or require multiple visits, especially if custom parts need to be ordered. We aim to complete repairs efficiently while ensuring quality workmanship.",
+        "description": "Repair time depends on the issue's complexity; simple repairs take hours, complex ones may take a day or longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

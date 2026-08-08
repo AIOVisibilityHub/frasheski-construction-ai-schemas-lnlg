@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you repair all types of railings?",
+  "description": "We repair various railing types, including wood, metal, and composite.",
+  "url": "frasheskiconstruction.com/faq/do-you-repair-all-types-of-railings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you repair all types of railings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction repairs a variety of railing types, including wood, metal (such as wrought iron, aluminum, and steel), and composite railings. Our experienced team can address issues ranging from minor cosmetic damage to significant structural problems for both interior and exterior railings.",
+        "description": "We repair various railing types, including wood, metal, and composite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

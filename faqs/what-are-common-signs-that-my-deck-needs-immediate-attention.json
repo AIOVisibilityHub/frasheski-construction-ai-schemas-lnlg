@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my deck needs immediate attention?",
+  "description": "Signs include cracked or rotting boards, fading finish, excessive mildew, and loose railings or stairs.",
+  "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-deck-needs-immediate-attention",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my deck needs immediate attention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for cracked, splintered, or rotting boards, which can indicate structural weakness and safety hazards. Fading or peeling stain/sealer suggests a loss of protection from the elements. Excessive mildew or algae growth not only makes the deck slippery but can also accelerate wood decay. Any loose railings or stairs also require immediate repair for safety.",
+        "description": "Signs include cracked or rotting boards, fading finish, excessive mildew, and loose railings or stairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to repair a wood fence panel in Berkeley?",
+  "description": "The cost of wood fence panel repair in Berkeley depends on the damage and materials. We offer detailed estimates after assessment.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-repair-a-wood-fence-panel-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to repair a wood fence panel in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to repair a wood fence panel in Berkeley varies depending on the extent of the damage, the type of wood, and the labor involved. Minor repairs, such as replacing a few pickets, are generally less expensive than major structural fixes. We provide detailed estimates after assessing the specific repair needs.",
+        "description": "The cost of wood fence panel repair in Berkeley depends on the damage and materials. We offer detailed estimates after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

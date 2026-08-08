@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer painting and finishing services for additions in Berkeley and Oakland?",
+  "description": "Yes, we offer painting and finishing services for additions in Berkeley, Oakland, Albany, El Cerrito, and Kensington.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-painting-and-finishing-services-for-additions-in-berkeley-and-oakla",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer painting and finishing services for additions in Berkeley and Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide comprehensive painting and finishing services for additions in Berkeley, Oakland, and surrounding East Bay areas including Albany, El Cerrito, and Kensington. Our team is experienced in handling various types of additions, ensuring a professional and high-quality finish that complements your existing property. We are familiar with the local architectural styles and can offer recommendations to suit your home and the local environment.",
+        "description": "Yes, we offer painting and finishing services for additions in Berkeley, Oakland, Albany, El Cerrito, and Kensington."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

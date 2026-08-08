@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of professional deck maintenance services?",
+  "description": "Cost factors include deck size, condition, type of service, materials, and local labor rates in the East Bay.",
+  "url": "frasheskiconstruction.com/faq/what-factors-influence-the-cost-of-professional-deck-maintenance-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of professional deck maintenance services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of professional deck maintenance in the East Bay depends on several factors: the size of your deck, the current condition of the wood (e.g., extensive repairs needed), the type of service requested (cleaning, sealing, staining, repairs), and the specific materials chosen. Local labor rates in areas like Berkeley or San Francisco also play a role in the overall pricing.",
+        "description": "Cost factors include deck size, condition, type of service, materials, and local labor rates in the East Bay."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

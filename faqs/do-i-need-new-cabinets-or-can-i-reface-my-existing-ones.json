@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need new cabinets or can I reface my existing ones?",
+  "description": "Choose replacement if cabinet boxes are damaged or you want a new layout; refacing works for sound boxes needing an aesthetic update.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-new-cabinets-or-can-i-reface-my-existing-ones",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need new cabinets or can I reface my existing ones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision to replace or reface cabinets depends on the condition of your existing cabinet boxes and your desired aesthetic. Refacing is a good option if your current cabinet frames are structurally sound and you're happy with the layout, but want an updated look. Full replacement is recommended if your cabinet boxes are damaged, you desire a different layout, or you want a significant change in style and functionality. We can help you evaluate the best option for your home.",
+        "description": "Choose replacement if cabinet boxes are damaged or you want a new layout; refacing works for sound boxes needing an aesthetic update."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

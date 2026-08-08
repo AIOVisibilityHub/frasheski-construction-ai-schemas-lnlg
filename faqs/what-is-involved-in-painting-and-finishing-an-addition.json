@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in painting and finishing an addition?",
+  "description": "Painting and finishing an addition involves surface preparation, applying paint or finishes, and potentially protective topcoats.",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-painting-and-finishing-an-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in painting and finishing an addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Painting and finishing an addition involves several steps to ensure a durable and aesthetically pleasing result. This typically includes surface preparation such as cleaning, sanding, and priming to create a smooth base. Then, multiple coats of paint or other finishes are applied, often with drying time in between. Finally, protective topcoats may be used for enhanced longevity and appearance. The process varies depending on the materials used in the addition and the desired outcome.",
+        "description": "Painting and finishing an addition involves surface preparation, applying paint or finishes, and potentially protective topcoats."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

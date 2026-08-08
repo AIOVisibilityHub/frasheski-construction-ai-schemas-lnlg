@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does cabinet repair take?",
+  "description": "Repair time varies from a few hours for minor issues to several days for extensive damage.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-cabinet-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does cabinet repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of cabinet repair depends on the scope of the project. Minor repairs like fixing a loose hinge or a small scratch might take a few hours. More extensive damage, such as water damage restoration or replacing multiple components, could take a few days. We provide an estimated timeline with your quote after assessing the damage.",
+        "description": "Repair time varies from a few hours for minor issues to several days for extensive damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

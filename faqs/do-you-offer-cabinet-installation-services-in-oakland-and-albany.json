@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer cabinet installation services in Oakland and Albany?",
+  "description": "Yes, we provide cabinet installation services in Oakland, Albany, Berkeley, El Cerrito, and the wider East Bay area.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-cabinet-installation-services-in-oakland-and-albany",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer cabinet installation services in Oakland and Albany?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction proudly offers comprehensive cabinet installation services throughout Oakland, Albany, Berkeley, El Cerrito, and the wider East Bay area. We are familiar with the local architectural styles and building codes, ensuring a smooth and compliant installation process. Our team is committed to providing high-quality craftsmanship and personalized service to all our clients in these communities.",
+        "description": "Yes, we provide cabinet installation services in Oakland, Albany, Berkeley, El Cerrito, and the wider East Bay area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

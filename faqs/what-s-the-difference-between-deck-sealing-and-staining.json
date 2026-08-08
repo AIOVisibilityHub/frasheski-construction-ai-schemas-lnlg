@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between deck sealing and staining?",
+  "description": "Sealing protects wood from moisture and UV, preserving its natural color. Staining adds color and protection. The choice depends on aesthetic and protection nee",
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-deck-sealing-and-staining",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between deck sealing and staining?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sealing primarily protects the wood from moisture and UV rays, preserving its natural color. Staining, on the other hand, penetrates the wood to add color while also offering protection. Stains come in various opacities, from transparent to solid. The choice depends on your desired aesthetic and level of protection. Both help extend the life of your deck by preventing rot and weathering.",
+        "description": "Sealing protects wood from moisture and UV, preserving its natural color. Staining adds color and protection. The choice depends on aesthetic and protection needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes boards to get damaged?",
+  "description": "Boards are damaged by moisture (rot), insects, fungi, impact, and general wear and tear.",
+  "url": "frasheskiconstruction.com/faq/what-causes-boards-to-get-damaged",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes boards to get damaged?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boards can become damaged due to various factors including prolonged exposure to moisture leading to rot, insect infestations such as termites or carpenter ants, fungal growth, impact from external forces, or general wear and tear over time. Proper maintenance and timely repairs can mitigate these risks.",
+        "description": "Boards are damaged by moisture (rot), insects, fungi, impact, and general wear and tear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

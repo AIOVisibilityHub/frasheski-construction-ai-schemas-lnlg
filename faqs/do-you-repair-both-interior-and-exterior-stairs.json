@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you repair both interior and exterior stairs?",
+  "description": "Yes, we repair both interior and exterior stairs, using appropriate materials and techniques for each.",
+  "url": "frasheskiconstruction.com/faq/do-you-repair-both-interior-and-exterior-stairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you repair both interior and exterior stairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction repairs both interior and exterior stairs. Each type of stair requires specific materials and repair techniques to ensure longevity and safety. We have experience with various materials, including wood, concrete, and composite, and can address issues unique to both indoor and outdoor environments.",
+        "description": "Yes, we repair both interior and exterior stairs, using appropriate materials and techniques for each."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

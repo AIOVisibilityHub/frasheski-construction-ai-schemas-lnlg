@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should plumbing and electrical coordination begin in a construction project?",
+  "description": "Coordination should begin in the design phase to prevent issues and ensure smooth installation before rough-in.",
+  "url": "frasheskiconstruction.com/faq/when-should-plumbing-and-electrical-coordination-begin-in-a-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should plumbing and electrical coordination begin in a construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coordination should ideally begin during the design phase of a project. Early collaboration between plumbers and electricians, alongside architects and general contractors, allows for integrated planning. This proactive approach identifies potential clashes on paper, enabling adjustments before any physical work starts, saving time and money. It's crucial before framing and rough-in stages to avoid rework.",
+        "description": "Coordination should begin in the design phase to prevent issues and ensure smooth installation before rough-in."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

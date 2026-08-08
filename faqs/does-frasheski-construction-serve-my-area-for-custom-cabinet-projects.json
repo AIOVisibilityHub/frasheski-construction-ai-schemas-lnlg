@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Frasheski Construction serve my area for custom cabinet projects?",
+  "description": "Frasheski Construction serves Berkeley, Oakland, Albany, El Cerrito, and other East Bay areas, as well as parts of San Francisco and Marin.",
+  "url": "frasheskiconstruction.com/faq/does-frasheski-construction-serve-my-area-for-custom-cabinet-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Frasheski Construction serve my area for custom cabinet projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction proudly serves various locations across the East Bay, including Berkeley, Oakland, Albany, El Cerrito, and Kensington. We also extend our services to Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco. If you're located in these areas and are considering custom cabinet solutions, please reach out for a consultation.",
+        "description": "Frasheski Construction serves Berkeley, Oakland, Albany, El Cerrito, and other East Bay areas, as well as parts of San Francisco and Marin."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

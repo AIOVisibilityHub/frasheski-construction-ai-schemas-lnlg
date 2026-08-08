@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you help with interior build-outs for different types of businesses?",
+  "description": "We handle interior build-outs for diverse businesses like retail, offices, and restaurants, adapting to their specific needs.",
+  "url": "frasheskiconstruction.com/faq/can-you-help-with-interior-build-outs-for-different-types-of-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you help with interior build-outs for different types of businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we have experience with interior build-outs for a variety of commercial spaces, including retail stores, offices, restaurants, and medical facilities. Each type of business has unique requirements for functionality, aesthetics, and code compliance. We adapt our design and construction approach to meet the specific operational needs and brand identity of your business, ensuring the space is optimized for your particular industry.",
+        "description": "We handle interior build-outs for diverse businesses like retail, offices, and restaurants, adapting to their specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

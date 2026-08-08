@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer cabinet painting services in Berkeley and Oakland?",
+  "description": "Yes, Frasheski Construction offers kitchen cabinet painting services in Berkeley, Oakland, and other East Bay areas.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-cabinet-painting-services-in-berkeley-and-oakland",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer cabinet painting services in Berkeley and Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction proudly offers professional kitchen cabinet painting services in Berkeley, Oakland, and surrounding East Bay areas, including Albany, El Cerrito, and Kensington. Our experienced team is familiar with the architectural styles and common home layouts in these communities, allowing us to provide tailored and efficient services. We are dedicated to delivering high-quality results that enhance the beauty and value of your home in these specific locations.",
+        "description": "Yes, Frasheski Construction offers kitchen cabinet painting services in Berkeley, Oakland, and other East Bay areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

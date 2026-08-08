@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I get an estimate for room painting services in Berkeley or Oakland?",
+  "description": "Contact us by phone or website to schedule an on-site visit and receive a detailed estimate for painting services in Berkeley or Oakland.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-get-an-estimate-for-room-painting-services-in-berkeley-or-oakland",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I get an estimate for room painting services in Berkeley or Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To receive an estimate for room painting services in Berkeley, Oakland, or other East Bay areas we serve, simply contact us by phone or through our website. We will schedule a convenient time to visit your property, assess the scope of work, and provide you with a detailed, written estimate.",
+        "description": "Contact us by phone or website to schedule an on-site visit and receive a detailed estimate for painting services in Berkeley or Oakland."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

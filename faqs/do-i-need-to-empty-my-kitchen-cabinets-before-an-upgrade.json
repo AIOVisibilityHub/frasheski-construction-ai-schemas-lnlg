@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to empty my kitchen cabinets before an upgrade?",
+  "description": "Yes, you need to empty your kitchen cabinets for safety and efficiency.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-empty-my-kitchen-cabinets-before-an-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to empty my kitchen cabinets before an upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is essential to empty your kitchen cabinets before an upgrade project begins. This allows our team to work efficiently and safely. We recommend removing all contents, including dishes, food items, and small appliances. For larger projects, temporary storage solutions for your kitchen items might be helpful. We will provide detailed preparation instructions before starting any work.",
+        "description": "Yes, you need to empty your kitchen cabinets for safety and efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
