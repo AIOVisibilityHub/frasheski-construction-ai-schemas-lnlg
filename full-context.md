@@ -1,0 +1,134 @@
+# Frasheski Construction — Full AI Context
+
+**Canonical URL:** frasheskiconstruction.com
+**Generated:** 2026-08-08
+
+## Overview
+Frasheski Construction publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
+
+## Package Contents
+- **1466** faqs
+- **257** helpArticles
+- **29** services
+- **24** personnel
+- **2** locations
+- **1** organization
+- **15** reviews
+
+## Cross-Destination Index — Related AI Data Sources
+- [canonical] Frasheski Construction — canonical website — frasheskiconstruction.com
+- [ai-data-hub] Frasheski Construction — AI Data Hub — https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
+- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg
+- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
+
+Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+
+## Services
+- Kitchen Remodeling
+- Full kitchen renovations
+- Kitchen design and layout improvements
+- Cabinet installation
+- Cabinet repair and refinishing
+- Countertop replacement
+- Backsplash installation
+- Kitchen plumbing upgrades
+- Kitchen electrical and lighting upgrades
+- Appliance-area preparation and installation coordination
+- Interior painting and finishing
+- Bathroom Remodeling
+- Full bathroom renovations
+- Shower and tub upgrades
+- Vanity and cabinet installation
+- Bathroom plumbing work
+- Bathroom electrical and lighting upgrades
+- Tile and surface updates
+- Paint and finish work
+- Accessibility-minded bathroom modifications
+- Home Remodeling
+- Interior home renovations
+- Outdated-room modernization
+- Functional layout improvements
+- Multi-room remodeling
+- Interior finish upgrades
+- Remodeling project planning and coordination
+- Room Additions
+- Home additions
+- Room expansions
+- New-room construction
+- Interior build-outs
+- Addition plumbing and electrical coordination
+- Painting and finishing for additions
+- Cabinet Services
+- Cabinet repair
+- Cabinet installation
+- Kitchen cabinet upgrades
+- Bathroom vanity/cabinet upgrades
+- Hardware and functional adjustments
+- Custom-fit cabinet solutions
+- Interior Painting
+- Whole-home interior painting
+- Room painting
+- Kitchen painting
+- Bathroom painting
+- Post-remodel finish painting
+- Trim and detail painting
+- Deck Repair
+- Deck structural repairs
+- Deck board replacement
+- Railing repair
+- Stair repair
+- Surface restoration
+- Deck maintenance improvements
+- Wood Fence Repair
+- Wood fence-panel repair
+- Fence-post repair
+- Gate repair
+- Damaged-board replacement
+- Fence stability restoration
+- Plumbing and Electrical
+- Remodel-related plumbing
+- Kitchen plumbing installation
+- Bathroom plumbing installation
+- Remodel-related electrical work
+- Kitchen and bathroom lighting
+- Electrical fixture installation 
+- Complete remodeling project management
+- Remodel planning and scope coordination
+- Trade scheduling and sequencing
+- Plumbing coordination
+- Electrical coordination
+- Cabinet installation coordination
+- Countertop installation coordination
+- Tile installation coordination
+- Flooring installation coordination
+- Appliance installation coordination
+- Fixture installation coordination
+- Interior painting coordination
+- Finish carpentry coordination
+- Trim and molding installation
+- Door and hardware installation
+- Final detail work
+- Punch-list completion
+- Final quality walkthrough
+- Jobsite cleanup and project closeout
+- Electrical fixture installation
+
+## Areas Served
+- Berkeley
+- East Bay 
+- Oakland
+- Albany
+- El Cerrito
+- Kensington
+- Alameda
+- San Francisco
+- Sausalito
+- Tiburon
+- Mill Valley
+- Daly City
+- Brisbane
+- South San Francisco 
+- East San Francisco area
+
+## Machine-Readable Index
+See [publishing-manifest.json](./publishing-manifest.json) for the full file index with categories, byte counts, and purposes.
