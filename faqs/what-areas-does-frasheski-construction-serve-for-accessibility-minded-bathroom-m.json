@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas does Frasheski Construction serve for accessibility-minded bathroom modifications?",
+  "description": "Frasheski Construction serves Berkeley, the East Bay area, Oakland, Albany, and El Cerrito for accessibility-minded bathroom modifications.",
+  "url": "frasheskiconstruction.com/faq/what-areas-does-frasheski-construction-serve-for-accessibility-minded-bathroom-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas does Frasheski Construction serve for accessibility-minded bathroom modifications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction proudly serves various areas for accessibility-minded bathroom modifications, including Berkeley, the wider East Bay area, Oakland, Albany, and El Cerrito. We are committed to helping residents in these communities create safer and more accessible living spaces.",
+        "description": "Frasheski Construction serves Berkeley, the East Bay area, Oakland, Albany, and El Cerrito for accessibility-minded bathroom modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

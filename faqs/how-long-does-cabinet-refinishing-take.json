@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does cabinet refinishing take?",
+  "description": "Cabinet refinishing typically takes a few days to a couple of weeks, depending on kitchen size and project complexity.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-cabinet-refinishing-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does cabinet refinishing take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a cabinet refinishing project depends on the size of your kitchen and the complexity of the work. A typical kitchen cabinet refinishing project can take anywhere from a few days to a couple of weeks from start to finish. This includes preparation, sanding, priming, painting or staining, and curing time. We will provide a more accurate timeline after assessing your specific needs.",
+        "description": "Cabinet refinishing typically takes a few days to a couple of weeks, depending on kitchen size and project complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

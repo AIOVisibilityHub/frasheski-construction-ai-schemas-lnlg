@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for backsplash installation?",
+  "description": "The process involves surface preparation, material application, grouting, and sealing.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-backsplash-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for backsplash installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The backsplash installation process typically begins with surface preparation, ensuring the wall is clean, dry, and level. Next, the chosen material is cut to size and adhered to the wall. After the adhesive sets, grout is applied to fill the spaces between tiles, followed by a thorough cleaning and sealing if necessary. Frasheski Construction ensures each step is completed with attention to detail for a lasting finish.",
+        "description": "The process involves surface preparation, material application, grouting, and sealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

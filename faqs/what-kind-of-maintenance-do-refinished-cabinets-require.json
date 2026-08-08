@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance do refinished cabinets require?",
+  "description": "Refinished cabinets need regular cleaning with a soft, damp cloth and mild soap; avoid harsh cleaners and excessive moisture.",
+  "url": "frasheskiconstruction.com/faq/what-kind-of-maintenance-do-refinished-cabinets-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance do refinished cabinets require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refinished cabinets require simple maintenance to preserve their appearance and durability. Regular cleaning with a soft, damp cloth and mild soap is usually sufficient. Avoid abrasive cleaners, harsh chemicals, or excessive moisture, as these can damage the finish. Promptly wipe up spills to prevent staining or water damage. With proper care, your refinished cabinets will maintain their beauty for many years.",
+        "description": "Refinished cabinets need regular cleaning with a soft, damp cloth and mild soap; avoid harsh cleaners and excessive moisture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

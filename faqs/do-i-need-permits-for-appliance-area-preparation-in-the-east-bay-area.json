@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for appliance-area preparation in the East Bay area?",
+  "description": "Permits may be needed for significant electrical, plumbing, or structural changes during appliance-area preparation in the East Bay.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-permits-for-appliance-area-preparation-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for appliance-area preparation in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depending on the scope of the work, permits may be required for appliance-area preparation in Berkeley, Oakland, and other East Bay cities. Modifications involving significant electrical, plumbing, or structural changes typically require permits to ensure compliance with local building codes. We can advise you on specific permit requirements for your project and assist with the application process.",
+        "description": "Permits may be needed for significant electrical, plumbing, or structural changes during appliance-area preparation in the East Bay."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

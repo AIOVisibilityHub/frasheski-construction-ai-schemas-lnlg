@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for interior painting?",
+  "description": "The process includes consultation, preparation, painting, and a final walkthrough to ensure satisfaction.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-interior-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for interior painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our interior painting process typically begins with a consultation to understand your vision and provide a detailed estimate. Once approved, we assist with color selection if needed. We then prepare the space by moving furniture, protecting floors, and repairing any wall imperfections. After thorough preparation, we apply primers and the agreed-upon paint coats. Finally, we conduct a walkthrough with you to ensure satisfaction and address any final touch-ups before cleaning up the work area.",
+        "description": "The process includes consultation, preparation, painting, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

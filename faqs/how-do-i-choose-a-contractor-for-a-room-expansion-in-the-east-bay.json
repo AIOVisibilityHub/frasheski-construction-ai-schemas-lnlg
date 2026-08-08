@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for a room expansion in the East Bay?",
+  "description": "Choose a licensed, experienced contractor in the East Bay by checking references, portfolios, and local code knowledge.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-a-contractor-for-a-room-expansion-in-the-east-bay",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for a room expansion in the East Bay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for your room expansion in the East Bay, look for licensed and insured professionals with experience in similar projects. Check their references, review their portfolio, and ensure they have a good understanding of local building codes in your specific city (e.g., Oakland, El Cerrito). Get detailed written estimates and compare proposals to find a contractor who aligns with your budget and vision.",
+        "description": "Choose a licensed, experienced contractor in the East Bay by checking references, portfolios, and local code knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between appliance-area preparation and appliance installation?",
+  "description": "Preparation readies the space with correct dimensions and utilities; installation places and connects the appliance within that space.",
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-appliance-area-preparation-and-appliance-installat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between appliance-area preparation and appliance installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliance-area preparation involves getting the space ready for the appliance – ensuring correct dimensions, utility connections, and structural support. Appliance installation is the physical act of placing the appliance into the prepared space, connecting it to utilities, and ensuring it functions correctly. Both are critical steps, and we coordinate both phases for a complete solution.",
+        "description": "Preparation readies the space with correct dimensions and utilities; installation places and connects the appliance within that space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

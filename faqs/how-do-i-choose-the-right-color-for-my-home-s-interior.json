@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right color for my home's interior?",
+  "description": "Consider room purpose, decor, lighting, and personal preference. We offer color consultations and samples.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-color-for-my-home-s-interior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right color for my home's interior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right interior color involves considering several factors: the room's purpose, existing furniture and decor, natural lighting, and your personal preference. We can provide color consultation services, offering samples and advice on how different shades can impact the mood and perceived size of a space. It's often helpful to test a few colors on your walls before making a final decision.",
+        "description": "Consider room purpose, decor, lighting, and personal preference. We offer color consultations and samples."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

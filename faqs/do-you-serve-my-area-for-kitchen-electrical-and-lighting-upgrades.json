@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you serve my area for kitchen electrical and lighting upgrades?",
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South Sa",
+  "url": "frasheskiconstruction.com/faq/do-you-serve-my-area-for-kitchen-electrical-and-lighting-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you serve my area for kitchen electrical and lighting upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction serves Berkeley, the East Bay area, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco. If you are located in these areas, we would be happy to provide a consultation for your kitchen electrical and lighting upgrades.",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

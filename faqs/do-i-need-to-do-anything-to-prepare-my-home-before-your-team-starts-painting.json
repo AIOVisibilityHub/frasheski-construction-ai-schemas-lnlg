@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to do anything to prepare my home before your team starts painting?",
+  "description": "For interior work, remove fragile items; for exterior, ensure clear access and trim foliage. Our team handles covers.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-your-team-starts-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to do anything to prepare my home before your team starts painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While our team handles most of the preparation, there are a few things you can do to help. For interior painting, please remove valuable or fragile items from the rooms and clear pathways. For exterior work, ensure easy access to the painting areas and trim any overgrown shrubs or trees if possible. We will cover furniture and floors as part of our process.",
+        "description": "For interior work, remove fragile items; for exterior, ensure clear access and trim foliage. Our team handles covers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

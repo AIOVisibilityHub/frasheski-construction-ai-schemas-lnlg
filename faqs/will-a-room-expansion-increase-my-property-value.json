@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a room expansion increase my property value?",
+  "description": "Yes, a quality room expansion can increase property value, especially if it adds functional living space.",
+  "url": "frasheskiconstruction.com/faq/will-a-room-expansion-increase-my-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a room expansion increase my property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-planned and executed room expansion can significantly increase your property value, especially if it adds functional living space like an extra bedroom, bathroom, or a more spacious kitchen. The return on investment varies based on the type of addition, quality of work, and local real estate market conditions in areas like Berkeley, Oakland, or Alameda. It's generally a sound investment if done correctly.",
+        "description": "Yes, a quality room expansion can increase property value, especially if it adds functional living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

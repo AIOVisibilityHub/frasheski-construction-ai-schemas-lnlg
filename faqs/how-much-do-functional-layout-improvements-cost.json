@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do functional layout improvements cost?",
+  "description": "Costs vary based on scope, materials, and complexity; we provide detailed estimates after an initial project assessment.",
+  "url": "frasheskiconstruction.com/faq/how-much-do-functional-layout-improvements-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do functional layout improvements cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of functional layout improvements varies significantly based on the scope of work, materials chosen, and the complexity of the design. Factors influencing the price include structural modifications, plumbing and electrical changes, and the extent of demolition and reconstruction. We provide detailed, transparent estimates after an initial consultation and assessment of your specific project requirements. It's difficult to give a general cost without understanding your project.",
+        "description": "Costs vary based on scope, materials, and complexity; we provide detailed estimates after an initial project assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

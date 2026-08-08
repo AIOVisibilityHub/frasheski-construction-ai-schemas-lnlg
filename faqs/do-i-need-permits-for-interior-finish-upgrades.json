@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for interior finish upgrades?",
+  "description": "Permit needs depend on the work and local regulations. Cosmetic changes usually don't need permits; structural, plumbing, or electrical work generally does. Che",
+  "url": "frasheskiconstruction.com/faq/do-i-need-permits-for-interior-finish-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for interior finish upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit requirements for interior finish upgrades depend on the nature of the work and local regulations in Berkeley, East Bay, Oakland, Albany, and El Cerrito. Cosmetic changes like painting or new flooring typically don't require permits. However, structural modifications, plumbing, or electrical work almost always do. Always check with your local planning department or contractor.",
+        "description": "Permit needs depend on the work and local regulations. Cosmetic changes usually don't need permits; structural, plumbing, or electrical work generally does. Check with your local planning department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

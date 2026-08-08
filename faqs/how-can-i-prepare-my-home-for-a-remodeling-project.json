@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prepare my home for a remodeling project?",
+  "description": "Clear the work area, secure valuables, and discuss access and utilities with your contractor.",
+  "url": "frasheskiconstruction.com/faq/how-can-i-prepare-my-home-for-a-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prepare my home for a remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare your home, clear the work area of personal belongings, valuables, and furniture. If possible, set up a temporary living space for areas being remodeled. Discuss access points and utility shut-off locations with your contractor to ensure a smooth start to the project.",
+        "description": "Clear the work area, secure valuables, and discuss access and utilities with your contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

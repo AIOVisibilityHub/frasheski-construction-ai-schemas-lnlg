@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can modernization improve the energy efficiency of my room?",
+  "description": "Yes, modernization can improve energy efficiency through upgrades like better windows, insulation, and efficient lighting/HVAC.",
+  "url": "frasheskiconstruction.com/faq/can-modernization-improve-the-energy-efficiency-of-my-room",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can modernization improve the energy efficiency of my room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, room modernization can significantly improve energy efficiency. This often includes upgrading to energy-efficient windows and doors, adding or improving insulation in walls and ceilings, and installing more efficient lighting and HVAC systems. These upgrades can lead to lower utility bills and a more comfortable indoor environment.",
+        "description": "Yes, modernization can improve energy efficiency through upgrades like better windows, insulation, and efficient lighting/HVAC."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

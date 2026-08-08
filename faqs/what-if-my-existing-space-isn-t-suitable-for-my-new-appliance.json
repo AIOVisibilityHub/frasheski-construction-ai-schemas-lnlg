@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my existing space isn't suitable for my new appliance?",
+  "description": "If your space isn't suitable, we modify it by adjusting cabinets, relocating outlets, moving plumbing, or reinforcing floors to fit your new appliance.",
+  "url": "frasheskiconstruction.com/faq/what-if-my-existing-space-isn-t-suitable-for-my-new-appliance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my existing space isn't suitable for my new appliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your existing space isn't suitable, we offer solutions to modify it. This could involve adjusting cabinet openings, extending or relocating electrical outlets, adding or moving plumbing lines, or reinforcing flooring. Our team identifies the necessary changes and provides a plan to adapt your space to perfectly accommodate your new appliance.",
+        "description": "If your space isn't suitable, we modify it by adjusting cabinets, relocating outlets, moving plumbing, or reinforcing floors to fit your new appliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

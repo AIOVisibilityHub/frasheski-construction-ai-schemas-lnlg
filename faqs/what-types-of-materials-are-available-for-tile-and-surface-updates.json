@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of materials are available for tile and surface updates?",
+  "description": "Material options include ceramic, porcelain, natural stone, and glass for tiles, and quartz, granite, marble, solid surface, and butcher block for surfaces.",
+  "url": "frasheskiconstruction.com/faq/what-types-of-materials-are-available-for-tile-and-surface-updates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of materials are available for tile and surface updates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer a wide range of materials to suit various styles and budgets. For tiles, options include ceramic, porcelain, natural stone (marble, granite, travertine), and glass. For surfaces like countertops, popular choices include quartz, granite, marble, solid surface, and butcher block. Each material has unique properties regarding durability, maintenance, and appearance. We can help you choose the best fit for your home in Oakland, Albany, or El Cerrito.",
+        "description": "Material options include ceramic, porcelain, natural stone, and glass for tiles, and quartz, granite, marble, solid surface, and butcher block for surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

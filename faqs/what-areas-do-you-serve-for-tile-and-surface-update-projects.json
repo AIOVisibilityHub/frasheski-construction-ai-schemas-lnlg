@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for tile and surface update projects?",
+  "description": "We serve Berkeley, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisc",
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-tile-and-surface-update-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for tile and surface update projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We proudly serve the East Bay area for all tile and surface update projects. Our service locations include Berkeley, Oakland, Albany, El Cerrito, and Kensington. We also extend our services to Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco. If you're in any of these areas, we're ready to help transform your home.",
+        "description": "We serve Berkeley, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does interior painting cost in the East Bay area?",
+  "description": "Interior painting costs in the East Bay depend on square footage, surface condition, paint type, and prep work. We provide detailed estimates.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-interior-painting-cost-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does interior painting cost in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of interior painting in the East Bay area varies based on factors like the square footage to be painted, the condition of the surfaces, the type and quality of paint chosen, and any necessary prep work like patching or sanding. We provide detailed, no-obligation estimates after a site visit to accurately assess your specific project requirements. Our estimates include labor, materials, and any necessary surface preparation.",
+        "description": "Interior painting costs in the East Bay depend on square footage, surface condition, paint type, and prep work. We provide detailed estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

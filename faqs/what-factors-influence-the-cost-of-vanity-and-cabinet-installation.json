@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of vanity and cabinet installation?",
+  "description": "Cost factors include cabinet size and type, material choices, design complexity, and necessary plumbing or electrical work.",
+  "url": "frasheskiconstruction.com/faq/what-factors-influence-the-cost-of-vanity-and-cabinet-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of vanity and cabinet installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several factors affect the cost of vanity and cabinet installation. These include the size and number of cabinets, the type of materials chosen (e.g., custom vs. semi-custom, wood species, countertop material), the complexity of the design, and any necessary plumbing or electrical modifications. Access to the installation site and the need for removal and disposal of old fixtures also play a role. We provide a transparent quote based on these specific project details.",
+        "description": "Cost factors include cabinet size and type, material choices, design complexity, and necessary plumbing or electrical work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

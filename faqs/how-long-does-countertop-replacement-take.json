@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does countertop replacement take?",
+  "description": "Countertop replacement can take several weeks from material selection to installation, with the actual installation typically lasting 1-2 days.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-countertop-replacement-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does countertop replacement take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of countertop replacement varies. The initial consultation and material selection can take a few days or weeks, depending on your decision-making process. Once materials are ordered, fabrication typically takes 1-3 weeks. The actual installation usually takes 1-2 days, depending on the complexity of the job and the material being installed. We provide an estimated timeline during your consultation.",
+        "description": "Countertop replacement can take several weeks from material selection to installation, with the actual installation typically lasting 1-2 days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

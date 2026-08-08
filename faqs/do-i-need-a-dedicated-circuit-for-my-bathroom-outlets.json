@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a dedicated circuit for my bathroom outlets?",
+  "description": "Yes, a dedicated 20-amp circuit is typically required for bathroom receptacles to safely support high-wattage appliances.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-dedicated-circuit-for-my-bathroom-outlets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a dedicated circuit for my bathroom outlets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, current electrical codes typically require a dedicated 20-amp circuit for bathroom receptacles. This is to ensure that high-wattage appliances like hair dryers, curling irons, and electric razors can be used safely without overloading the circuit. Having a dedicated circuit minimizes the risk of tripped breakers and provides a more reliable power supply for your bathroom's electrical needs.",
+        "description": "Yes, a dedicated 20-amp circuit is typically required for bathroom receptacles to safely support high-wattage appliances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

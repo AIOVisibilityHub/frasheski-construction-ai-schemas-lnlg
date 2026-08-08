@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for my interior home renovation project?",
+  "description": "Permits are often required for structural, plumbing, or electrical changes; we can help with the process.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-my-interior-home-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for my interior home renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many interior home renovation projects in the East Bay Area, especially those involving structural changes, plumbing, electrical, or significant layout modifications, require permits from your local city or county building department. Minor cosmetic updates like painting or flooring typically do not. Failing to obtain necessary permits can lead to fines, project delays, and issues during resale. We assist clients in navigating the permitting process to ensure compliance with local regulations.",
+        "description": "Permits are often required for structural, plumbing, or electrical changes; we can help with the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

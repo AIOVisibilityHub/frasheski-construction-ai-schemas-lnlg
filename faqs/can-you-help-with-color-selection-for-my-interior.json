@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you help with color selection for my interior?",
+  "description": "Yes, we can help with color selection by offering guidance on trends, color psychology, and how lighting affects paint.",
+  "url": "frasheskiconstruction.com/faq/can-you-help-with-color-selection-for-my-interior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you help with color selection for my interior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we can provide guidance and resources for color selection. We understand that choosing the right color can be challenging, and our team can offer insights into current trends, color psychology, and how different lighting conditions affect paint colors. We can also suggest colors that complement your existing décor and enhance the ambiance of your space, helping you make an informed decision.",
+        "description": "Yes, we can help with color selection by offering guidance on trends, color psychology, and how lighting affects paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

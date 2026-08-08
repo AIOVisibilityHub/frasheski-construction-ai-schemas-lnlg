@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do home additions increase property value in Oakland?",
+  "description": "Well-designed home additions generally increase property value in Oakland by adding functional space and amenities.",
+  "url": "frasheskiconstruction.com/faq/do-home-additions-increase-property-value-in-oakland",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do home additions increase property value in Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, well-designed and constructed home additions typically increase property value in areas like Oakland. Adding functional living space, extra bedrooms, or updated amenities can significantly enhance your home's appeal and market worth. The return on investment often depends on the type of addition and local market conditions.",
+        "description": "Well-designed home additions generally increase property value in Oakland by adding functional space and amenities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

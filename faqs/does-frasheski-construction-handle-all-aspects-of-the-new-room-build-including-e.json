@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Frasheski Construction handle all aspects of the new room build, including electrical and plumbing?",
+  "description": "Yes, Frasheski Construction handles all aspects of new room builds, including structural work, electrical, plumbing, and finishing touches.",
+  "url": "frasheskiconstruction.com/faq/does-frasheski-construction-handle-all-aspects-of-the-new-room-build-including-e",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Frasheski Construction handle all aspects of the new room build, including electrical and plumbing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction manages all aspects of your new room build, providing a comprehensive service. This includes structural work, framing, roofing, electrical wiring, plumbing, HVAC, insulation, drywall, flooring, and finishing touches. We coordinate all trades and ensure that every component of your new room meets quality standards and local codes in your East Bay location, providing a seamless and efficient construction process.",
+        "description": "Yes, Frasheski Construction handles all aspects of new room builds, including structural work, electrical, plumbing, and finishing touches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

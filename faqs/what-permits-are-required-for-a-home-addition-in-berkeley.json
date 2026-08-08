@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for a home addition in Berkeley?",
+  "description": "Home additions in Berkeley usually require building, zoning, and specialized permits. We help clients with the permitting process.",
+  "url": "frasheskiconstruction.com/faq/what-permits-are-required-for-a-home-addition-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for a home addition in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Home additions in Berkeley typically require building permits, zoning permits, and potentially specialized permits depending on the scope of work, such as electrical or plumbing permits. Frasheski Construction assists clients in navigating the local permitting process, ensuring all necessary approvals are obtained before construction begins.",
+        "description": "Home additions in Berkeley usually require building, zoning, and specialized permits. We help clients with the permitting process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

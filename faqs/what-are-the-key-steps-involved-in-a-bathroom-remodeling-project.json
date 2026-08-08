@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key steps involved in a bathroom remodeling project?",
+  "description": "Key steps in a bathroom remodel include design, material selection, demolition, rough-in work, installation of fixtures and finishes, and final touches.",
+  "url": "frasheskiconstruction.com/faq/what-are-the-key-steps-involved-in-a-bathroom-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key steps involved in a bathroom remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical bathroom remodel involves several key steps. It starts with an initial consultation and design planning, followed by material selection. Next comes demolition, rough-in work for plumbing and electrical, and then installation of new fixtures, flooring, and finishes. The project concludes with painting, final touches, and a thorough cleanup. Throughout the process, we maintain clear communication and ensure quality control.",
+        "description": "Key steps in a bathroom remodel include design, material selection, demolition, rough-in work, installation of fixtures and finishes, and final touches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

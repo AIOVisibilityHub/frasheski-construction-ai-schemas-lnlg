@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for bathroom plumbing work?",
+  "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and Kensington for bathroom plumbing work.",
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-bathroom-plumbing-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for bathroom plumbing work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction provides bathroom plumbing services to clients throughout the East Bay area. Our primary service locations include Berkeley, Oakland, Albany, El Cerrito, and Kensington. We are dedicated to serving these communities with reliable and professional plumbing solutions. If you are located in a nearby area, please contact us to confirm if we can extend our services to your specific location.",
+        "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and Kensington for bathroom plumbing work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

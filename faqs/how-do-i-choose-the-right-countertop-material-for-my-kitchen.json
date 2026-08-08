@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right countertop material for my kitchen?",
+  "description": "Select countertop material by considering durability, maintenance, looks, and budget; options include granite, quartz, marble, and butcher block.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-countertop-material-for-my-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right countertop material for my kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right countertop material involves considering durability, maintenance, aesthetics, and budget. Popular options include granite, quartz, marble, butcher block, and concrete. Granite and quartz are durable, heat-resistant, and low-maintenance. Marble offers a luxurious look but requires more maintenance. Butcher block provides a warm aesthetic but needs regular sealing. We can discuss the characteristics of each material, their pros and cons, and help you select the best fit for your lifestyle and kitchen design in areas like Oakland and El Cerrito.",
+        "description": "Select countertop material by considering durability, maintenance, looks, and budget; options include granite, quartz, marble, and butcher block."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

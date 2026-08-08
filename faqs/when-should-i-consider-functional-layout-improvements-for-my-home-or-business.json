@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider functional layout improvements for my home or business?",
+  "description": "Consider functional layout improvements when your space no longer meets your needs, feels cramped, or hinders daily activities.",
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-functional-layout-improvements-for-my-home-or-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider functional layout improvements for my home or business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider functional layout improvements when your current space no longer meets your needs, feels cramped, or hinders daily activities. This could be due to a growing family, changes in business operations, or a desire for a more modern and efficient living or working environment. Signs that it's time for improvements include wasted space, poor workflow, or dissatisfaction with how your rooms function.",
+        "description": "Consider functional layout improvements when your space no longer meets your needs, feels cramped, or hinders daily activities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

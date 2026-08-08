@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of updating my home's tile and surfaces?",
+  "description": "Updating tile and surfaces improves home aesthetics, increases value, and offers enhanced durability and easier maintenance.",
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-updating-my-home-s-tile-and-surfaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of updating my home's tile and surfaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Updating your tile and surfaces can significantly enhance your home's aesthetic appeal and increase its market value. New materials offer improved durability, easier maintenance, and can modernize your space. For example, upgrading bathroom tiles can prevent water damage, while new kitchen countertops can create a more functional and inviting cooking area. It's an investment that improves both the look and longevity of your home.",
+        "description": "Updating tile and surfaces improves home aesthetics, increases value, and offers enhanced durability and easier maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

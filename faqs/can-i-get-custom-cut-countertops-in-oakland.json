@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get custom-cut countertops in Oakland?",
+  "description": "Yes, we offer custom-cut countertops in Oakland, tailored to your kitchen's dimensions, design preferences, and specific cutouts.",
+  "url": "frasheskiconstruction.com/faq/can-i-get-custom-cut-countertops-in-oakland",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get custom-cut countertops in Oakland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide custom-cut countertops tailored to your specific kitchen dimensions and design preferences in Oakland and surrounding areas. Our process involves precise measurements to ensure an exact fit for your unique space, including any irregular shapes, angles, or specific cutouts for sinks and cooktops. We work with various materials to bring your custom design to life.",
+        "description": "Yes, we offer custom-cut countertops in Oakland, tailored to your kitchen's dimensions, design preferences, and specific cutouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer emergency bathroom plumbing services in Berkeley?",
+  "description": "We address urgent plumbing situations in Berkeley; please contact us directly for emergencies.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-bathroom-plumbing-services-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer emergency bathroom plumbing services in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We understand that plumbing emergencies can happen at any time. While we primarily operate during standard business hours, we strive to accommodate urgent situations for our clients in Berkeley and surrounding areas. For immediate concerns, please contact us directly, and we will assess the situation to determine the quickest way to address your emergency plumbing needs, preventing further damage to your home.",
+        "description": "We address urgent plumbing situations in Berkeley; please contact us directly for emergencies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

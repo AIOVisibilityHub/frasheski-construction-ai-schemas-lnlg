@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a home addition?",
+  "description": "The timeline for a home addition varies; smaller projects may take a few months, larger ones six months or more.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-complete-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a home addition depends on its scope and complexity. Smaller additions might take a few months, while larger or more intricate projects could extend to six months or more. We provide a projected timeline during the planning phase, keeping you informed of progress and any potential adjustments.",
+        "description": "The timeline for a home addition varies; smaller projects may take a few months, larger ones six months or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete kitchen electrical and lighting upgrades?",
+  "description": "Minor upgrades take 1-2 days; extensive projects can take several days to a week. We provide timelines during consultation.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-complete-kitchen-electrical-and-lighting-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete kitchen electrical and lighting upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for kitchen electrical and lighting upgrades depends on the project's complexity. Minor upgrades, such as installing new light fixtures or a few outlets, might take a day or two. More extensive work, like a complete kitchen rewire or significant lighting redesign, could take several days to a week. We will provide a project timeline during your consultation.",
+        "description": "Minor upgrades take 1-2 days; extensive projects can take several days to a week. We provide timelines during consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

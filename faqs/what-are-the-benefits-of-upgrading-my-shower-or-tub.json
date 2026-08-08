@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of upgrading my shower or tub?",
+  "description": "Upgrading can improve aesthetics, functionality, home value, and address plumbing issues.",
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-upgrading-my-shower-or-tub",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of upgrading my shower or tub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upgrading your shower or tub can enhance your bathroom's aesthetic, improve functionality, and increase your home's value. Modern fixtures often offer better water efficiency, and new designs can create a more accessible or luxurious bathing experience. It also provides an opportunity to address any existing issues like leaks or outdated plumbing.",
+        "description": "Upgrading can improve aesthetics, functionality, home value, and address plumbing issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

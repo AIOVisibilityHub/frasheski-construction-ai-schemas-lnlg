@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need architectural plans for functional layout improvements?",
+  "description": "Architectural plans are often needed for significant functional layout improvements, particularly those involving structural changes, and for obtaining permits.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-architectural-plans-for-functional-layout-improvements",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need architectural plans for functional layout improvements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For significant functional layout improvements, especially those involving structural changes, moving walls, or altering plumbing and electrical systems, architectural plans are typically required. These plans ensure compliance with local building codes and safety regulations, and are often necessary for obtaining permits. Our team can help determine if architectural plans are needed for your specific project and can assist in their development or recommend trusted architects.",
+        "description": "Architectural plans are often needed for significant functional layout improvements, particularly those involving structural changes, and for obtaining permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

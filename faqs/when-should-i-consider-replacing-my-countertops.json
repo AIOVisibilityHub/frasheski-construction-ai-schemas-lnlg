@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my countertops?",
+  "description": "Consider replacing countertops when they are damaged, outdated, or during a kitchen renovation to enhance your home's appearance and value.",
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-my-countertops",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my countertops?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your countertops if they are visibly damaged, such as deep scratches, cracks, or extensive staining that cannot be repaired. Outdated styles or colors that no longer match your home's aesthetic are also good reasons for replacement. If you are renovating your kitchen or simply want to refresh your living space, new countertops can significantly enhance the overall look and value.",
+        "description": "Consider replacing countertops when they are damaged, outdated, or during a kitchen renovation to enhance your home's appearance and value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

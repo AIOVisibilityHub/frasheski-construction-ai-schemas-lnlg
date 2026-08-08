@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you handle cabinet removal as part of the installation service?",
+  "description": "Yes, we include cabinet removal as part of our installation service to prepare the space for new cabinets.",
+  "url": "frasheskiconstruction.com/faq/do-you-handle-cabinet-removal-as-part-of-the-installation-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you handle cabinet removal as part of the installation service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer cabinet removal services as part of our comprehensive installation package. Before installing your new cabinets, our team can carefully dismantle and remove your existing cabinetry. This ensures proper preparation of the space for the new installation and streamlines the entire renovation process for you. We will discuss removal as part of your initial project consultation.",
+        "description": "Yes, we include cabinet removal as part of our installation service to prepare the space for new cabinets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

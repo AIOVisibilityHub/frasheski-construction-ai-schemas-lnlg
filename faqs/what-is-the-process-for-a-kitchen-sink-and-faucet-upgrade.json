@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for a kitchen sink and faucet upgrade?",
+  "description": "The process involves removing old fixtures, making necessary adjustments, installing and sealing the new sink, and connecting the new faucet.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-a-kitchen-sink-and-faucet-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for a kitchen sink and faucet upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for upgrading a kitchen sink and faucet typically involves several steps. First, the old sink and faucet are disconnected and removed. Next, any necessary modifications to the countertop or plumbing lines are made to accommodate the new fixtures. Then, the new sink is installed, sealed, and connected to the drain and water lines. Finally, the new faucet is installed and tested for leaks and proper operation. This process generally takes a few hours to a full day, depending on the complexity.",
+        "description": "The process involves removing old fixtures, making necessary adjustments, installing and sealing the new sink, and connecting the new faucet."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

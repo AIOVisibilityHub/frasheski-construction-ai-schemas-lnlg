@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to do anything to prepare my home before painters arrive?",
+  "description": "Before painters arrive, clear small items and valuables, and remove wall hangings. We handle furniture and protection.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-painters-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to do anything to prepare my home before painters arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While our team handles significant preparation, you can assist by clearing small valuable items, removing pictures from walls, and storing fragile décor. We will move larger furniture and protect your belongings and floors with drop cloths and plastic sheeting. Discuss any specific concerns or items you need help with during our initial consultation or before the project begins.",
+        "description": "Before painters arrive, clear small items and valuables, and remove wall hangings. We handle furniture and protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to undertake a multi-room remodeling project?",
+  "description": "Spring or fall are popular for multi-room remodeling, but indoor projects can occur year-round based on your schedule and our availability.",
+  "url": "frasheskiconstruction.com/faq/when-is-the-best-time-to-undertake-a-multi-room-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to undertake a multi-room remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time for a multi-room remodeling project often depends on your schedule and the specific rooms involved. Many homeowners choose to start projects in the spring or fall to avoid extreme weather conditions, which can impact exterior work or material delivery. However, indoor multi-room remodels can proceed year-round, depending on our availability and your preference.",
+        "description": "Spring or fall are popular for multi-room remodeling, but indoor projects can occur year-round based on your schedule and our availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

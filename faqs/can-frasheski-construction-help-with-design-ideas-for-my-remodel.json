@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Frasheski Construction help with design ideas for my remodel?",
+  "description": "Yes, we offer design assistance, including guidance on layouts, materials, and finishes, to help realize your vision.",
+  "url": "frasheskiconstruction.com/faq/can-frasheski-construction-help-with-design-ideas-for-my-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Frasheski Construction help with design ideas for my remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer design assistance to help bring your vision to life. Our team can provide guidance on layouts, material selections, and finishes, ensuring that the final design is functional, aesthetically pleasing, and meets your specific needs.",
+        "description": "Yes, we offer design assistance, including guidance on layouts, materials, and finishes, to help realize your vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
