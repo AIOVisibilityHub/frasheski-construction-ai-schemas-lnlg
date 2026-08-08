@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to replace countertops in Berkeley?",
+  "description": "Countertop replacement costs in Berkeley depend on material, installation complexity, and kitchen size, with detailed estimates provided after consultation.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-replace-countertops-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to replace countertops in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of countertop replacement in Berkeley varies depending on the material, complexity of the installation, and the size of your kitchen. Entry-level laminate can be more affordable, while high-end natural stone like marble or granite will be a higher investment. Additional costs may include old countertop removal, sink cutouts, and specialized edge profiles. We provide detailed estimates after an initial consultation.",
+        "description": "Countertop replacement costs in Berkeley depend on material, installation complexity, and kitchen size, with detailed estimates provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

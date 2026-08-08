@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-included-in-a-full-kitchen-renovation",
+  "name": "What is included in a full kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a full kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen renovation typically involves updating all major elements of your kitchen. This includes replacing or refacing cabinets, installing new countertops, upgrading appliances, changing flooring, and often reconfiguring the layout for improved functionality. It can also include updating plumbing, electrical systems, lighting, and ventilation to meet current codes and enhance efficiency. The scope is tailored to your specific needs and the existing structure.",
+        "@type": "Answer",
+        "description": "A full kitchen renovation includes updating cabinets, countertops, appliances, flooring, and often the layout, plumbing, and electrical systems."
+      }
+    }
+  ],
+  "description": "A full kitchen renovation includes updating cabinets, countertops, appliances, flooring, and often the layout, plumbing, and electrical systems."
+}

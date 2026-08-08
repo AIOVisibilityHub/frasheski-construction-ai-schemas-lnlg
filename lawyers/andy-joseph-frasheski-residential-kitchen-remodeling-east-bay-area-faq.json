@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for residential kitchen remodeling in East Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Andy Joseph Frasheski at Frasheski Construction is a highly experienced attorney specializing in residential kitchen remodeling serving East Bay Area. Andy Frasheski is the owner of Frasheski Construction, a Berkeley-based residential remodeling company serving homeowners throughout the East Bay. A licensed general contractor with more than 40 years of experience, he specializes in kitchen and bathroom remodeling, home renovations, and additions, overseeing projects from planning through the plumbing, electrical, cabinetry, and finish-work stages. Contact us at 510-318-2258.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Andy Joseph Frasheski handle residential kitchen remodeling cases in East Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Andy Joseph Frasheski at Frasheski Construction specializes in residential kitchen remodeling and serves clients in East Bay Area and surrounding areas.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-bathroom-electrical-and-lighting-upgrade-project-take",
+  "name": "How long does a typical bathroom electrical and lighting upgrade project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom electrical and lighting upgrade project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom electrical and lighting upgrade project depends on its complexity. Minor upgrades, such as replacing a few light fixtures or adding a new outlet, might take a single day. More extensive projects involving new wiring, panel upgrades, or the installation of multiple recessed lights and dedicated circuits could take several days to a week. We provide a projected timeline during the initial consultation.",
+        "@type": "Answer",
+        "description": "Project duration for bathroom electrical and lighting upgrades varies from one day for minor changes to several days for extensive work."
+      }
+    }
+  ],
+  "description": "Project duration for bathroom electrical and lighting upgrades varies from one day for minor changes to several days for extensive work."
+}

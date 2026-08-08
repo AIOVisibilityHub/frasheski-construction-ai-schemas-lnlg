@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-accessibility-modifications-for-a-bathroom",
+  "name": "What are common accessibility modifications for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common accessibility modifications for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common accessibility modifications include installing grab bars near the toilet and in the shower, replacing a traditional tub with a curbless or roll-in shower, raising toilet seat heights, and widening doorways. Other modifications can involve installing lever-style faucet handles, ensuring adequate turning radius for wheelchairs, and selecting slip-resistant flooring materials to enhance safety and ease of use for individuals with mobility challenges.",
+        "@type": "Answer",
+        "description": "Common modifications include grab bars, curbless showers, raised toilets, and wider doorways."
+      }
+    }
+  ],
+  "description": "Common modifications include grab bars, curbless showers, raised toilets, and wider doorways."
+}

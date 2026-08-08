@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-cabinet-refacing-and-refinishing",
+  "name": "What is the difference between cabinet refacing and refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet refacing and refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refinishing involves restoring your existing cabinet doors and frames by cleaning, sanding, and applying new stain or paint. Refacing, on the other hand, means replacing the cabinet doors and drawer fronts entirely while keeping the existing cabinet boxes. Refinishing is a more economical option that maintains your current cabinet style, while refacing allows for a significant change in appearance without a full replacement.",
+        "@type": "Answer",
+        "description": "Refinishing updates existing cabinets with new stain or paint; refacing replaces doors and drawer fronts."
+      }
+    }
+  ],
+  "description": "Refinishing updates existing cabinets with new stain or paint; refacing replaces doors and drawer fronts."
+}

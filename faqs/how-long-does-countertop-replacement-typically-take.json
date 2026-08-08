@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-countertop-replacement-typically-take",
+  "name": "How long does countertop replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does countertop replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of countertop replacement varies. For custom fabrication, it can take several weeks for the material to be prepared after measurements are taken. Once materials are ready, the installation itself can often be completed within one to two days, depending on the complexity and size of your kitchen. We aim to minimize disruption to your home during the process.",
+        "@type": "Answer",
+        "description": "Countertop replacement can take several weeks for custom fabrication and typically one to two days for installation."
+      }
+    }
+  ],
+  "description": "Countertop replacement can take several weeks for custom fabrication and typically one to two days for installation."
+}

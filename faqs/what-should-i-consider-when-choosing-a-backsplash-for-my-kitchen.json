@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider when choosing a backsplash for my kitchen?",
+  "description": "Consider your kitchen's style, material durability, maintenance, and budget when choosing a backsplash.",
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-choosing-a-backsplash-for-my-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider when choosing a backsplash for my kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a backsplash, consider your kitchen's existing color scheme and style, the durability and maintenance requirements of different materials, and your budget. Think about how the backsplash will complement your countertops and cabinets. Also, factor in practicality: will it be easy to clean? Do you prefer a subtle look or a bold statement? Our team at Frasheski Construction can help guide your decision.",
+        "description": "Consider your kitchen's style, material durability, maintenance, and budget when choosing a backsplash."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

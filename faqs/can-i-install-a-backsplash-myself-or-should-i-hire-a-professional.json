@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install a backsplash myself, or should I hire a professional?",
+  "description": "While DIY is possible, professionals ensure a durable and aesthetically pleasing result, especially for complex designs.",
+  "url": "frasheskiconstruction.com/faq/can-i-install-a-backsplash-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install a backsplash myself, or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While DIY backsplash installation is possible for those with home improvement experience, hiring a professional is often recommended, especially for materials like natural stone or complex patterns. Professionals ensure proper surface preparation, precise cuts, correct adhesive application, and seamless grouting, leading to a durable and aesthetically pleasing result. Frasheski Construction offers professional installation services for residents in Berkeley, Oakland, and surrounding areas.",
+        "description": "While DIY is possible, professionals ensure a durable and aesthetically pleasing result, especially for complex designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

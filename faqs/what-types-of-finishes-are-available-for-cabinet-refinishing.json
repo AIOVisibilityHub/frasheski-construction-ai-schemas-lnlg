@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-finishes-are-available-for-cabinet-refinishing",
+  "name": "What types of finishes are available for cabinet refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of finishes are available for cabinet refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a range of finishes for cabinet refinishing, including various paint colors (matte, satin, semi-gloss, high-gloss), stains that enhance wood grain, and glazes for added depth and character. We use durable, high-quality products designed to withstand daily use in a kitchen environment. Our team can help you choose the best finish to match your aesthetic and functional needs.",
+        "@type": "Answer",
+        "description": "Available finishes include various paint colors, stains, and glazes, using durable, high-quality products."
+      }
+    }
+  ],
+  "description": "Available finishes include various paint colors, stains, and glazes, using durable, high-quality products."
+}
