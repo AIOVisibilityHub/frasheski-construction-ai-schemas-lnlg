@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Linda Y."
+  },
+  "reviewBody": "Frasheski Construction is currently rated 5.0 overall out of 5.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Frasheski Construction",
+    "url": "frasheskiconstruction.com",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "General contracting / remodeling"
+      }
+    }
+  }
+}
