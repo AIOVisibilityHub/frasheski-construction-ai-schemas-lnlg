@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a room addition?",
+  "description": "A room addition expands your home's footprint by adding new enclosed living space.",
+  "url": "frasheskiconstruction.com/faq/what-is-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A room addition expands your home's footprint by adding new enclosed living space. This can include anything from an extra bedroom or bathroom to a larger kitchen or a new family room. Room additions are a popular way to increase living space and property value without moving, and they are typically built to match the existing architectural style of your home.",
+        "description": "A room addition expands your home's footprint by adding new enclosed living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

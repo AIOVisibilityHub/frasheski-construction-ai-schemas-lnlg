@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of home additions does Frasheski Construction build?",
+  "description": "Frasheski Construction builds various home additions, such as second-story additions, family room expansions, master suites, and in-law units.",
+  "url": "frasheskiconstruction.com/faq/what-types-of-home-additions-does-frasheski-construction-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of home additions does Frasheski Construction build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction specializes in various home additions, including second-story additions, family room expansions, master suite additions, and in-law units. We also build sunrooms, expanded kitchens, and additional bedrooms. Our goal is to seamlessly integrate the new space with your existing home's architecture and functionality, enhancing your living area and property value.",
+        "description": "Frasheski Construction builds various home additions, such as second-story additions, family room expansions, master suites, and in-law units."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

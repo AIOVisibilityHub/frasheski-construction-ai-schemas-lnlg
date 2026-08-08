@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for adding an extension to my home with Frasheski Construction?",
+  "description": "Our process involves consultation, design and planning, permit acquisition, and construction, with continuous communication.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-adding-an-extension-to-my-home-with-frasheski-constructi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for adding an extension to my home with Frasheski Construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our home addition process begins with an initial consultation to discuss your vision and needs. This is followed by design and architectural planning, where we develop detailed blueprints. Once designs are approved and permits are secured, construction commences. We maintain open communication throughout, ensuring the project stays on track and meets your expectations.",
+        "description": "Our process involves consultation, design and planning, permit acquisition, and construction, with continuous communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

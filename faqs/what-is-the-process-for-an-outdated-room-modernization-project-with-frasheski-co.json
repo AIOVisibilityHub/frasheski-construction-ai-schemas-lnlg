@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-an-outdated-room-modernization-project-with-frasheski-co",
+  "name": "What is the process for an outdated-room modernization project with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an outdated-room modernization project with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. We then provide a detailed proposal and design concepts. Once approved, we move to the construction phase, managing all aspects from demolition to final finishes, ensuring quality and adherence to the timeline. We maintain open communication throughout, keeping you updated on progress.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, proposal, design concepts, and managed construction with continuous communication."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, proposal, design concepts, and managed construction with continuous communication."
+}

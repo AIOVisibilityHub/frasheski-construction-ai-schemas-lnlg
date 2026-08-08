@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-cabinet-repair-take",
+  "name": "How long does a typical cabinet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical cabinet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cabinet repair varies significantly based on the type and extent of the damage. Minor repairs, such as tightening hinges or replacing a drawer slide, might take an hour or two. More complex issues, like extensive water damage repair or refinishing multiple cabinet doors, could require several days, including drying and curing times. We provide an estimated timeline after assessing the specific damage.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor repairs take hours, complex repairs can take several days."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor repairs take hours, complex repairs can take several days."
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to modernize a room in Berkeley?",
+  "description": "Costs vary widely based on room size, renovation extent, and material choices. We provide estimates after consultation.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-modernize-a-room-in-berkeley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to modernize a room in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of modernizing a room in Berkeley varies significantly based on the room's size, the extent of the renovations, and the materials chosen. Minor updates like paint and new fixtures will be less expensive than major overhauls involving structural changes or extensive electrical and plumbing work. We provide detailed estimates after an initial consultation to understand your project's scope and preferences.",
+        "description": "Costs vary widely based on room size, renovation extent, and material choices. We provide estimates after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
