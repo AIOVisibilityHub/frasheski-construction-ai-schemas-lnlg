@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-gate-repair-take",
+  "name": "How long does a typical gate repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gate repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of gate repair depends on the complexity of the problem. Simple fixes, such as adjusting alignment or replacing a small component, might take a few hours. More extensive repairs, like welding a broken frame or troubleshooting complex automatic opener issues, could take a full day or require multiple visits. We'll provide an estimated timeline after assessing the damage.",
+        "@type": "Answer",
+        "description": "Typical gate repair time varies; simple fixes take hours, while complex repairs may take a day or more."
+      }
+    }
+  ],
+  "description": "Typical gate repair time varies; simple fixes take hours, while complex repairs may take a day or more."
+}

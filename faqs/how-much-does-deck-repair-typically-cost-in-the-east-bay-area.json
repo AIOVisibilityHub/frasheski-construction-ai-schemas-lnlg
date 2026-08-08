@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does deck repair typically cost in the East Bay area?",
+  "description": "Deck repair costs vary based on damage and materials, ranging from a few hundred to several thousand dollars.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-deck-repair-typically-cost-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does deck repair typically cost in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of deck repair in the East Bay area varies significantly depending on the extent of the damage, the materials needed, and the complexity of the job. Minor repairs, such as replacing a few boards or fixing loose railings, might range from a few hundred to over a thousand dollars. More extensive repairs, like structural reinforcement or widespread wood replacement, could cost several thousands. Getting a detailed estimate from a local contractor like Frasheski Construction is the best way to understand the specific costs for your deck's needs.",
+        "description": "Deck repair costs vary based on damage and materials, ranging from a few hundred to several thousand dollars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I repair a wood fence panel myself or should I hire a professional?",
+  "description": "Minor wood fence panel repairs can be DIY, but professionals are recommended for significant damage to ensure proper and durable results.",
+  "url": "frasheskiconstruction.com/faq/can-i-repair-a-wood-fence-panel-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I repair a wood fence panel myself or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While minor repairs like replacing a single picket can be a DIY project, it's generally recommended to hire a professional for more significant wood fence panel repairs. Professionals have the right tools, expertise, and experience to ensure the repair is done correctly, safely, and durably, maintaining the overall integrity and appearance of your fence.",
+        "description": "Minor wood fence panel repairs can be DIY, but professionals are recommended for significant damage to ensure proper and durable results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

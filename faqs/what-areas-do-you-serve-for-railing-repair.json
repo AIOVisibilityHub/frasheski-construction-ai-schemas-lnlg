@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for railing repair?",
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito.",
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-railing-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for railing repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction provides railing repair services in Berkeley, the East Bay area, Oakland, Albany, and El Cerrito. If you are located in these areas and need professional railing repair, please contact us for an assessment and estimate.",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

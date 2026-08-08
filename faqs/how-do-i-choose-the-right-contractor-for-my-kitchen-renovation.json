@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my kitchen renovation?",
+  "description": "Choose a contractor based on experience, references, licensing, clear communication, and a detailed proposal.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my kitchen renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor, look for experience in kitchen renovations, especially in your local area. Check references, reviews, and ensure they are licensed and insured. Discuss their communication style and project management approach. A good contractor will provide a clear, detailed proposal and be transparent about costs and timelines. Consider their portfolio to see if their style aligns with your vision.",
+        "description": "Choose a contractor based on experience, references, licensing, clear communication, and a detailed proposal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

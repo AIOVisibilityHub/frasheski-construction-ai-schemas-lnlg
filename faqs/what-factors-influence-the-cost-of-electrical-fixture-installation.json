@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-factors-influence-the-cost-of-electrical-fixture-installation",
+  "name": "What factors influence the cost of electrical fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of electrical fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of electrical fixture installation is influenced by several factors. These include the type and number of fixtures, the complexity of the wiring involved, whether new circuits are needed, and the accessibility of the installation area. We provide detailed estimates after reviewing your project to ensure transparency.",
+        "@type": "Answer",
+        "description": "Cost is influenced by fixture type and quantity, wiring complexity, new circuit needs, and installation accessibility."
+      }
+    }
+  ],
+  "description": "Cost is influenced by fixture type and quantity, wiring complexity, new circuit needs, and installation accessibility."
+}

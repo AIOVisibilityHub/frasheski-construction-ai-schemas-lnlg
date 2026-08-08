@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-repair-all-types-of-gates-including-automatic-and-manual",
+  "name": "Do you repair all types of gates, including automatic and manual?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair all types of gates, including automatic and manual?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction repairs both automatic and manual gates. Our technicians are experienced with various gate materials and operating mechanisms. We can address issues with swing gates, sliding gates, and automatic gate opener systems, including electrical and mechanical components.",
+        "@type": "Answer",
+        "description": "Yes, we repair all types of gates, including automatic and manual, addressing various materials and operating mechanisms."
+      }
+    }
+  ],
+  "description": "Yes, we repair all types of gates, including automatic and manual, addressing various materials and operating mechanisms."
+}

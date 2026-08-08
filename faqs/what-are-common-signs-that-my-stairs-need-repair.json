@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my stairs need repair?",
+  "description": "Loose treads, creaking, splintered wood, or damaged handrails are common signs your stairs need repair.",
+  "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-stairs-need-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my stairs need repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs include loose or wobbly treads, creaking noises, splintered wood, damaged risers, or a deteriorating handrail. If you notice any of these issues, it's best to address them promptly to prevent further damage and ensure safety. Small problems can often escalate into larger, more costly repairs if neglected.",
+        "description": "Loose treads, creaking, splintered wood, or damaged handrails are common signs your stairs need repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

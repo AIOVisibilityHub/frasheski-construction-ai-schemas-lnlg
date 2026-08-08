@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does fence stability restoration take?",
+  "description": "Restoration time varies by project scope; minor repairs can be completed in less than a day, while extensive work may take several days.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-fence-stability-restoration-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does fence stability restoration take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of fence stability restoration depends on the project's scope. Minor repairs involving a few posts might take less than a day, while more extensive projects, such as replacing several sections or addressing significant foundational issues, could take a few days. We provide an estimated timeline with your project proposal after our initial assessment.",
+        "description": "Restoration time varies by project scope; minor repairs can be completed in less than a day, while extensive work may take several days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

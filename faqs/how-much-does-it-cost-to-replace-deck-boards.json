@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to replace deck boards?",
+  "description": "Cost varies based on material, deck size, and labor. Pressure-treated lumber is typically less expensive than composite. Get a detailed estimate.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-replace-deck-boards",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to replace deck boards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to replace deck boards varies widely depending on the material chosen, the size of the deck, and the complexity of the job. For example, replacing with pressure-treated lumber will generally be less expensive than using composite materials. Labor costs also contribute significantly. It's best to get a detailed estimate from a professional contractor to understand the specific costs for your project in the Berkeley or East Bay area.",
+        "description": "Cost varies based on material, deck size, and labor. Pressure-treated lumber is typically less expensive than composite. Get a detailed estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

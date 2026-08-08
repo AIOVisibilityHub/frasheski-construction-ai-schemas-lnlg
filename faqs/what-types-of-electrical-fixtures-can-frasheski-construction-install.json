@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-electrical-fixtures-can-frasheski-construction-install",
+  "name": "What types of electrical fixtures can Frasheski Construction install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of electrical fixtures can Frasheski Construction install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction installs a wide range of electrical fixtures for homes and businesses. This includes ceiling fans, chandeliers, pendant lights, recessed lighting, track lighting, outdoor security lights, landscape lighting, and smart home lighting systems. We handle both new installations and replacements of existing fixtures, ensuring proper wiring and functionality for your specific needs.",
+        "@type": "Answer",
+        "description": "Frasheski Construction installs various electrical fixtures, including ceiling fans, chandeliers, recessed lighting, and outdoor lighting."
+      }
+    }
+  ],
+  "description": "Frasheski Construction installs various electrical fixtures, including ceiling fans, chandeliers, recessed lighting, and outdoor lighting."
+}

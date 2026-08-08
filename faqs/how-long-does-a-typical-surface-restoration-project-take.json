@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-surface-restoration-project-take",
+  "name": "How long does a typical surface restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical surface restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a surface restoration project varies depending on the type of surface, the extent of the damage, and the size of the area. Minor repairs might take a day or two, while larger or more complex projects, such as extensive concrete resurfacing, could take several days to a week. We provide a detailed timeline during the initial assessment and consultation, keeping you informed throughout the process.",
+        "@type": "Answer",
+        "description": "Project duration varies based on surface type, damage, and area size; minor repairs take days, larger projects up to a week."
+      }
+    }
+  ],
+  "description": "Project duration varies based on surface type, damage, and area size; minor repairs take days, larger projects up to a week."
+}

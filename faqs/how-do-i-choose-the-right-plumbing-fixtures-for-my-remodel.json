@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-plumbing-fixtures-for-my-remodel",
+  "name": "How do I choose the right plumbing fixtures for my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right plumbing fixtures for my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing plumbing fixtures involves balancing aesthetics, functionality, and your budget. Consider the style of your remodel, the quality and durability of materials, water efficiency ratings, and ease of maintenance. We can advise on suitable fixture options that meet your needs and complement your design vision.",
+        "@type": "Answer",
+        "description": "Choose plumbing fixtures based on style, functionality, material quality, water efficiency, and budget."
+      }
+    }
+  ],
+  "description": "Choose plumbing fixtures based on style, functionality, material quality, water efficiency, and budget."
+}
