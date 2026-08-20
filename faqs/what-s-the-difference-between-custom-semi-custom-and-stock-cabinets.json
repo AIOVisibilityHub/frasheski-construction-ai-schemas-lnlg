@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between custom, semi-custom, and stock cabinets?",
-  "description": "Custom cabinets are fully tailored, semi-custom offer more options within a range, and stock cabinets are standard sizes.",
   "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-custom-semi-custom-and-stock-cabinets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between custom, semi-custom, and stock cabinets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom cabinets are built to your exact specifications, offering unlimited design flexibility, materials, and finishes to perfectly fit your space and style. Semi-custom cabinets offer more options than stock cabinets in terms of sizes, finishes, and accessories, but within a predefined range. Stock cabinets are mass-produced in standard sizes and limited finishes, providing the most economical option. Your choice depends on your budget, design preferences, and the unique requirements of your space.",
-        "description": "Custom cabinets are fully tailored, semi-custom offer more options within a range, and stock cabinets are standard sizes."
-      }
-    }
-  ],
+  "name": "What's the difference between custom, semi-custom, and stock cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between custom, semi-custom, and stock cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinets are built to your exact specifications, offering unlimited design flexibility, materials, and finishes to perfectly fit your space and style. Semi-custom cabinets offer more options than stock cabinets in terms of sizes, finishes, and accessories, but within a predefined range. Stock cabinets are mass-produced in standard sizes and limited finishes, providing the most economical option. Your choice depends on your budget, design preferences, and the unique requirements of your space.",
+        "@type": "Answer",
+        "description": "Custom cabinets are fully tailored, semi-custom offer more options within a range, and stock cabinets are standard sizes."
+      }
+    }
+  ],
+  "description": "Custom cabinets are fully tailored, semi-custom offer more options within a range, and stock cabinets are standard sizes."
 }

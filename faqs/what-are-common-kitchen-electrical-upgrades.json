@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common kitchen electrical upgrades?",
-  "description": "Common upgrades include new outlets, dedicated circuits, improved lighting, and electrical panel upgrades.",
   "url": "frasheskiconstruction.com/faq/what-are-common-kitchen-electrical-upgrades",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common kitchen electrical upgrades?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common kitchen electrical upgrades include adding new outlets, dedicated circuits for high-power appliances (like ovens and microwaves), improving lighting with LED fixtures, installing under-cabinet lighting, and upgrading the electrical panel to handle increased demand. These upgrades enhance safety, functionality, and energy efficiency in your kitchen.",
-        "description": "Common upgrades include new outlets, dedicated circuits, improved lighting, and electrical panel upgrades."
-      }
-    }
-  ],
+  "name": "What are common kitchen electrical upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common kitchen electrical upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen electrical upgrades include adding new outlets, dedicated circuits for high-power appliances (like ovens and microwaves), improving lighting with LED fixtures, installing under-cabinet lighting, and upgrading the electrical panel to handle increased demand. These upgrades enhance safety, functionality, and energy efficiency in your kitchen.",
+        "@type": "Answer",
+        "description": "Common upgrades include new outlets, dedicated circuits, improved lighting, and electrical panel upgrades."
+      }
+    }
+  ],
+  "description": "Common upgrades include new outlets, dedicated circuits, improved lighting, and electrical panel upgrades."
 }

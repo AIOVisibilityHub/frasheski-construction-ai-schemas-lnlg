@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between a shower upgrade and a tub-to-shower conversion?",
-  "description": "A shower upgrade refreshes existing elements; a tub-to-shower conversion replaces a tub with a new shower.",
   "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-shower-upgrade-and-a-tub-to-shower-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between a shower upgrade and a tub-to-shower conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A shower upgrade typically involves replacing existing fixtures, tiling, or the shower enclosure within the current footprint. A tub-to-shower conversion involves removing an existing bathtub and replacing it with a standalone shower. This conversion often requires more extensive plumbing and structural changes, as well as new flooring and wall finishes.",
-        "description": "A shower upgrade refreshes existing elements; a tub-to-shower conversion replaces a tub with a new shower."
-      }
-    }
-  ],
+  "name": "What's the difference between a shower upgrade and a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a shower upgrade and a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower upgrade typically involves replacing existing fixtures, tiling, or the shower enclosure within the current footprint. A tub-to-shower conversion involves removing an existing bathtub and replacing it with a standalone shower. This conversion often requires more extensive plumbing and structural changes, as well as new flooring and wall finishes.",
+        "@type": "Answer",
+        "description": "A shower upgrade refreshes existing elements; a tub-to-shower conversion replaces a tub with a new shower."
+      }
+    }
+  ],
+  "description": "A shower upgrade refreshes existing elements; a tub-to-shower conversion replaces a tub with a new shower."
 }

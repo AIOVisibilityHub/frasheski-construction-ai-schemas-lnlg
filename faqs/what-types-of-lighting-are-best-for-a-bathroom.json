@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of lighting are best for a bathroom?",
-  "description": "Layered lighting, including ambient, task, and accent lighting, is best for bathrooms, with fixtures rated for damp or wet locations.",
   "url": "frasheskiconstruction.com/faq/what-types-of-lighting-are-best-for-a-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of lighting are best for a bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For bathrooms, a layered lighting approach is ideal. This typically includes ambient lighting, such as ceiling-mounted fixtures or recessed lights, for overall illumination. Task lighting, often sconces or vanity bar lights around the mirror, is crucial for grooming activities. Accent lighting, like a decorative pendant or toe-kick lighting, can add style and highlight architectural features. Look for fixtures rated for damp or wet locations, depending on their proximity to water.",
-        "description": "Layered lighting, including ambient, task, and accent lighting, is best for bathrooms, with fixtures rated for damp or wet locations."
-      }
-    }
-  ],
+  "name": "What types of lighting are best for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting are best for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathrooms, a layered lighting approach is ideal. This typically includes ambient lighting, such as ceiling-mounted fixtures or recessed lights, for overall illumination. Task lighting, often sconces or vanity bar lights around the mirror, is crucial for grooming activities. Accent lighting, like a decorative pendant or toe-kick lighting, can add style and highlight architectural features. Look for fixtures rated for damp or wet locations, depending on their proximity to water.",
+        "@type": "Answer",
+        "description": "Layered lighting, including ambient, task, and accent lighting, is best for bathrooms, with fixtures rated for damp or wet locations."
+      }
+    }
+  ],
+  "description": "Layered lighting, including ambient, task, and accent lighting, is best for bathrooms, with fixtures rated for damp or wet locations."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost of an interior build-out in the East Bay area?",
-  "description": "Costs vary widely based on size, materials, design complexity, and specific requirements of the build-out.",
   "url": "frasheskiconstruction.com/faq/what-is-the-average-cost-of-an-interior-build-out-in-the-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost of an interior build-out in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of an interior build-out in the East Bay area can vary significantly. It depends on factors such as the size of the space, the quality of materials selected, the complexity of the design, and the specific trades involved. Basic finishes will be less expensive than high-end custom work. We provide detailed estimates after understanding your project requirements during an initial consultation.",
-        "description": "Costs vary widely based on size, materials, design complexity, and specific requirements of the build-out."
-      }
-    }
-  ],
+  "name": "What is the average cost of an interior build-out in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of an interior build-out in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an interior build-out in the East Bay area can vary significantly. It depends on factors such as the size of the space, the quality of materials selected, the complexity of the design, and the specific trades involved. Basic finishes will be less expensive than high-end custom work. We provide detailed estimates after understanding your project requirements during an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on size, materials, design complexity, and specific requirements of the build-out."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on size, materials, design complexity, and specific requirements of the build-out."
 }

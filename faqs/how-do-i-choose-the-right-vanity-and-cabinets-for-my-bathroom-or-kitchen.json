@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right vanity and cabinets for my bathroom or kitchen?",
-  "description": "Consider budget, space, style, and functionality. Look at inspirations and consult with our team for guidance.",
   "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-vanity-and-cabinets-for-my-bathroom-or-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right vanity and cabinets for my bathroom or kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right vanity and cabinets involves considering several factors: your budget, the available space, your aesthetic preferences, and the desired functionality. Think about storage needs, countertop materials, and the overall style of your home. It's helpful to look at design inspirations and visit showrooms to see options in person. Our team can also guide you through the selection process, providing expert advice to match your needs and vision.",
-        "description": "Consider budget, space, style, and functionality. Look at inspirations and consult with our team for guidance."
-      }
-    }
-  ],
+  "name": "How do I choose the right vanity and cabinets for my bathroom or kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right vanity and cabinets for my bathroom or kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right vanity and cabinets involves considering several factors: your budget, the available space, your aesthetic preferences, and the desired functionality. Think about storage needs, countertop materials, and the overall style of your home. It's helpful to look at design inspirations and visit showrooms to see options in person. Our team can also guide you through the selection process, providing expert advice to match your needs and vision.",
+        "@type": "Answer",
+        "description": "Consider budget, space, style, and functionality. Look at inspirations and consult with our team for guidance."
+      }
+    }
+  ],
+  "description": "Consider budget, space, style, and functionality. Look at inspirations and consult with our team for guidance."
 }

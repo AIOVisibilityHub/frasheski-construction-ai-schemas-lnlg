@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for in a remodeling contract?",
-  "description": "A remodeling contract should detail scope of work, timeline, payment, materials, change orders, warranty, and dispute resolution.",
   "url": "frasheskiconstruction.com/faq/what-should-i-look-for-in-a-remodeling-contract",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for in a remodeling contract?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A remodeling contract should clearly outline the scope of work, project timeline, payment schedule, and material specifications. It should also include provisions for change orders, warranty information, and dispute resolution. Ensure all agreements are in writing and that you understand all terms before signing.",
-        "description": "A remodeling contract should detail scope of work, timeline, payment, materials, change orders, warranty, and dispute resolution."
-      }
-    }
-  ],
+  "name": "What should I look for in a remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodeling contract should clearly outline the scope of work, project timeline, payment schedule, and material specifications. It should also include provisions for change orders, warranty information, and dispute resolution. Ensure all agreements are in writing and that you understand all terms before signing.",
+        "@type": "Answer",
+        "description": "A remodeling contract should detail scope of work, timeline, payment, materials, change orders, warranty, and dispute resolution."
+      }
+    }
+  ],
+  "description": "A remodeling contract should detail scope of work, timeline, payment, materials, change orders, warranty, and dispute resolution."
 }

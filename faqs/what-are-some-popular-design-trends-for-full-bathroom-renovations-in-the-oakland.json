@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some popular design trends for full bathroom renovations in the Oakland area?",
-  "description": "Popular Oakland bathroom trends include clean lines, natural materials, smart technology, walk-in showers, floating vanities, and spa-like elements.",
   "url": "frasheskiconstruction.com/faq/what-are-some-popular-design-trends-for-full-bathroom-renovations-in-the-oakland",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some popular design trends for full bathroom renovations in the Oakland area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Current bathroom design trends in the Oakland area often feature clean lines, natural materials, and smart technology. Popular choices include large format tiles, walk-in showers with frameless glass, floating vanities, and efficient LED lighting. Homeowners are also gravitating towards spa-like elements, such as rain showers and freestanding tubs, to create a relaxing retreat.",
-        "description": "Popular Oakland bathroom trends include clean lines, natural materials, smart technology, walk-in showers, floating vanities, and spa-like elements."
-      }
-    }
-  ],
+  "name": "What are some popular design trends for full bathroom renovations in the Oakland area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some popular design trends for full bathroom renovations in the Oakland area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current bathroom design trends in the Oakland area often feature clean lines, natural materials, and smart technology. Popular choices include large format tiles, walk-in showers with frameless glass, floating vanities, and efficient LED lighting. Homeowners are also gravitating towards spa-like elements, such as rain showers and freestanding tubs, to create a relaxing retreat.",
+        "@type": "Answer",
+        "description": "Popular Oakland bathroom trends include clean lines, natural materials, smart technology, walk-in showers, floating vanities, and spa-like elements."
+      }
+    }
+  ],
+  "description": "Popular Oakland bathroom trends include clean lines, natural materials, smart technology, walk-in showers, floating vanities, and spa-like elements."
 }

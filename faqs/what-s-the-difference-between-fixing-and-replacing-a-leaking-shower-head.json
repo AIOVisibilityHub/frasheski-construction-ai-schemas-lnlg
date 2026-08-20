@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between fixing and replacing a leaking shower head?",
-  "description": "Fixing a shower head involves replacing internal parts, while replacing means installing a new fixture for damage or upgrades.",
   "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-fixing-and-replacing-a-leaking-shower-head",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between fixing and replacing a leaking shower head?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fixing a leaking shower head typically involves replacing worn-out internal components like O-rings, gaskets, or cartridges, which is often a straightforward and cost-effective solution. Replacing a shower head means installing an entirely new fixture. This is usually done when the existing shower head is old, severely damaged, or when you want to upgrade to a different style, function, or water-saving model. The choice depends on the extent of the damage and your budget.",
-        "description": "Fixing a shower head involves replacing internal parts, while replacing means installing a new fixture for damage or upgrades."
-      }
-    }
-  ],
+  "name": "What's the difference between fixing and replacing a leaking shower head?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between fixing and replacing a leaking shower head?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fixing a leaking shower head typically involves replacing worn-out internal components like O-rings, gaskets, or cartridges, which is often a straightforward and cost-effective solution. Replacing a shower head means installing an entirely new fixture. This is usually done when the existing shower head is old, severely damaged, or when you want to upgrade to a different style, function, or water-saving model. The choice depends on the extent of the damage and your budget.",
+        "@type": "Answer",
+        "description": "Fixing a shower head involves replacing internal parts, while replacing means installing a new fixture for damage or upgrades."
+      }
+    }
+  ],
+  "description": "Fixing a shower head involves replacing internal parts, while replacing means installing a new fixture for damage or upgrades."
 }

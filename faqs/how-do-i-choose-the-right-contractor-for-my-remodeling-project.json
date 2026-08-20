@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for my remodeling project?",
-  "description": "Choose a contractor based on experience, communication, references, portfolio, and proper licensing and insurance.",
   "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-contractor-for-my-remodeling-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for my remodeling project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a contractor for your remodel, look for experience, strong communication skills, and a clear understanding of your vision. Check references, review their portfolio, and ensure they are licensed and insured. It's also important to feel comfortable with their team and their proposed process.",
-        "description": "Choose a contractor based on experience, communication, references, portfolio, and proper licensing and insurance."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for my remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your remodel, look for experience, strong communication skills, and a clear understanding of your vision. Check references, review their portfolio, and ensure they are licensed and insured. It's also important to feel comfortable with their team and their proposed process.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, communication, references, portfolio, and proper licensing and insurance."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, communication, references, portfolio, and proper licensing and insurance."
 }

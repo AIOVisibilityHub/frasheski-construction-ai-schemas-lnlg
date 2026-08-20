@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are popular interior finish upgrades in the East Bay area?",
-  "description": "Popular East Bay upgrades include hardwood flooring, energy-efficient windows, updated kitchen/bath fixtures, fresh paint, and custom cabinetry.",
   "url": "frasheskiconstruction.com/faq/what-are-popular-interior-finish-upgrades-in-the-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are popular interior finish upgrades in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In the East Bay area, popular interior finish upgrades often include sustainable and durable materials. Homeowners frequently opt for hardwood flooring, energy-efficient windows, updated kitchen and bathroom fixtures, fresh paint in contemporary colors, and custom cabinetry. These choices often reflect a blend of modern aesthetics and practicality for local lifestyles.",
-        "description": "Popular East Bay upgrades include hardwood flooring, energy-efficient windows, updated kitchen/bath fixtures, fresh paint, and custom cabinetry."
-      }
-    }
-  ],
+  "name": "What are popular interior finish upgrades in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are popular interior finish upgrades in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the East Bay area, popular interior finish upgrades often include sustainable and durable materials. Homeowners frequently opt for hardwood flooring, energy-efficient windows, updated kitchen and bathroom fixtures, fresh paint in contemporary colors, and custom cabinetry. These choices often reflect a blend of modern aesthetics and practicality for local lifestyles.",
+        "@type": "Answer",
+        "description": "Popular East Bay upgrades include hardwood flooring, energy-efficient windows, updated kitchen/bath fixtures, fresh paint, and custom cabinetry."
+      }
+    }
+  ],
+  "description": "Popular East Bay upgrades include hardwood flooring, energy-efficient windows, updated kitchen/bath fixtures, fresh paint, and custom cabinetry."
 }

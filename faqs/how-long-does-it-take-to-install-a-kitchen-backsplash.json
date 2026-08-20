@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install a kitchen backsplash?",
-  "description": "Installation time varies by kitchen size, material, and design complexity, typically 1-2 days for a standard job.",
   "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-install-a-kitchen-backsplash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install a kitchen backsplash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of backsplash installation depends on the size of your kitchen, the type of material, and the intricacy of the design. A simple tile backsplash in an average-sized kitchen might take one to two days to complete, including preparation, tile setting, and grouting. More complex designs or larger areas could extend the project timeline. Frasheski Construction will provide an estimated timeline during the quoting process.",
-        "description": "Installation time varies by kitchen size, material, and design complexity, typically 1-2 days for a standard job."
-      }
-    }
-  ],
+  "name": "How long does it take to install a kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of backsplash installation depends on the size of your kitchen, the type of material, and the intricacy of the design. A simple tile backsplash in an average-sized kitchen might take one to two days to complete, including preparation, tile setting, and grouting. More complex designs or larger areas could extend the project timeline. Frasheski Construction will provide an estimated timeline during the quoting process.",
+        "@type": "Answer",
+        "description": "Installation time varies by kitchen size, material, and design complexity, typically 1-2 days for a standard job."
+      }
+    }
+  ],
+  "description": "Installation time varies by kitchen size, material, and design complexity, typically 1-2 days for a standard job."
 }

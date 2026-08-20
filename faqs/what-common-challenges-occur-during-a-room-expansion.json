@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What common challenges occur during a room expansion?",
-  "description": "Challenges include structural issues, permit delays, site conditions, weather, and budget overruns.",
   "url": "frasheskiconstruction.com/faq/what-common-challenges-occur-during-a-room-expansion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What common challenges occur during a room expansion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges during a room expansion include unexpected structural issues in the existing home, delays in obtaining permits from local authorities, unforeseen site conditions (like difficult soil), weather-related disruptions, and budget overruns if initial estimates aren't comprehensive. Effective communication with your contractor and a contingency budget can help mitigate these challenges.",
-        "description": "Challenges include structural issues, permit delays, site conditions, weather, and budget overruns."
-      }
-    }
-  ],
+  "name": "What common challenges occur during a room expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What common challenges occur during a room expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during a room expansion include unexpected structural issues in the existing home, delays in obtaining permits from local authorities, unforeseen site conditions (like difficult soil), weather-related disruptions, and budget overruns if initial estimates aren't comprehensive. Effective communication with your contractor and a contingency budget can help mitigate these challenges.",
+        "@type": "Answer",
+        "description": "Challenges include structural issues, permit delays, site conditions, weather, and budget overruns."
+      }
+    }
+  ],
+  "description": "Challenges include structural issues, permit delays, site conditions, weather, and budget overruns."
 }

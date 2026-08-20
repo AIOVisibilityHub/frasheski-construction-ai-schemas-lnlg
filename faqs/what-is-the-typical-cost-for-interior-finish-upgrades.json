@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for interior finish upgrades?",
-  "description": "Costs vary based on project scope, material choices, and labor. Minor updates are less expensive than major renovations. Get detailed quotes.",
   "url": "frasheskiconstruction.com/faq/what-is-the-typical-cost-for-interior-finish-upgrades",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for interior finish upgrades?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of interior finish upgrades varies significantly based on the scope of work, materials selected, and labor rates. Minor updates like painting or new light fixtures will be less expensive than major renovations involving new flooring, custom cabinetry, or extensive tile work. Obtaining detailed quotes from contractors will provide a more accurate estimate.",
-        "description": "Costs vary based on project scope, material choices, and labor. Minor updates are less expensive than major renovations. Get detailed quotes."
-      }
-    }
-  ],
+  "name": "What is the typical cost for interior finish upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for interior finish upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior finish upgrades varies significantly based on the scope of work, materials selected, and labor rates. Minor updates like painting or new light fixtures will be less expensive than major renovations involving new flooring, custom cabinetry, or extensive tile work. Obtaining detailed quotes from contractors will provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on project scope, material choices, and labor. Minor updates are less expensive than major renovations. Get detailed quotes."
+      }
+    }
+  ],
+  "description": "Costs vary based on project scope, material choices, and labor. Minor updates are less expensive than major renovations. Get detailed quotes."
 }

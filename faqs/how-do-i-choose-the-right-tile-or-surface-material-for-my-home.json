@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right tile or surface material for my home?",
-  "description": "Choose materials based on aesthetics, budget, installation area, maintenance, and durability needs; we'll guide your decision.",
   "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-tile-or-surface-material-for-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right tile or surface material for my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right material involves considering several factors: your aesthetic preferences, budget, the area of installation (e.g., high-traffic kitchen vs. low-traffic guest bathroom), maintenance requirements, and durability needs. We'll guide you through the options, explaining the pros and cons of each material, to help you make an informed decision that suits your lifestyle and home in Albany, El Cerrito, or Kensington.",
-        "description": "Choose materials based on aesthetics, budget, installation area, maintenance, and durability needs; we'll guide your decision."
-      }
-    }
-  ],
+  "name": "How do I choose the right tile or surface material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right tile or surface material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right material involves considering several factors: your aesthetic preferences, budget, the area of installation (e.g., high-traffic kitchen vs. low-traffic guest bathroom), maintenance requirements, and durability needs. We'll guide you through the options, explaining the pros and cons of each material, to help you make an informed decision that suits your lifestyle and home in Albany, El Cerrito, or Kensington.",
+        "@type": "Answer",
+        "description": "Choose materials based on aesthetics, budget, installation area, maintenance, and durability needs; we'll guide your decision."
+      }
+    }
+  ],
+  "description": "Choose materials based on aesthetics, budget, installation area, maintenance, and durability needs; we'll guide your decision."
 }

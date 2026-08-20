@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What areas do you serve for remodeling projects?",
-  "description": "We serve the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito; contact us to confirm your location.",
   "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-remodeling-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What areas do you serve for remodeling projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We primarily serve the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito. We also extend our services to other nearby communities. Please contact us to confirm if your specific location is within our service area for remodeling projects.",
-        "description": "We serve the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito; contact us to confirm your location."
-      }
-    }
-  ],
+  "name": "What areas do you serve for remodeling projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for remodeling projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily serve the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito. We also extend our services to other nearby communities. Please contact us to confirm if your specific location is within our service area for remodeling projects.",
+        "@type": "Answer",
+        "description": "We serve the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito; contact us to confirm your location."
+      }
+    }
+  ],
+  "description": "We serve the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito; contact us to confirm your location."
 }

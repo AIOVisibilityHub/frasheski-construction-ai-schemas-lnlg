@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you help with design ideas for my multi-room remodel?",
-  "description": "Yes, we help with design ideas, layouts, materials, and finishes to create a cohesive and functional multi-room remodel tailored to your vision.",
   "url": "frasheskiconstruction.com/faq/can-you-help-with-design-ideas-for-my-multi-room-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you help with design ideas for my multi-room remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we work closely with clients to develop design ideas that align with their vision, lifestyle, and budget. Our team can offer suggestions for layouts, material selections, color schemes, and finishes to create a cohesive and functional multi-room space. We aim to transform your ideas into a beautiful and practical reality, enhancing the overall flow and aesthetic of your home.",
-        "description": "Yes, we help with design ideas, layouts, materials, and finishes to create a cohesive and functional multi-room remodel tailored to your vision."
-      }
-    }
-  ],
+  "name": "Can you help with design ideas for my multi-room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with design ideas for my multi-room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we work closely with clients to develop design ideas that align with their vision, lifestyle, and budget. Our team can offer suggestions for layouts, material selections, color schemes, and finishes to create a cohesive and functional multi-room space. We aim to transform your ideas into a beautiful and practical reality, enhancing the overall flow and aesthetic of your home.",
+        "@type": "Answer",
+        "description": "Yes, we help with design ideas, layouts, materials, and finishes to create a cohesive and functional multi-room remodel tailored to your vision."
+      }
+    }
+  ],
+  "description": "Yes, we help with design ideas, layouts, materials, and finishes to create a cohesive and functional multi-room remodel tailored to your vision."
 }

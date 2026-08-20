@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of home remodeling projects does Frasheski Construction specialize in?",
-  "description": "Frasheski Construction specializes in kitchen and bathroom remodels, whole-house transformations, additions, and outdoor living spaces.",
   "url": "frasheskiconstruction.com/faq/what-types-of-home-remodeling-projects-does-frasheski-construction-specialize-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of home remodeling projects does Frasheski Construction specialize in?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Frasheski Construction specializes in a wide range of home remodeling projects, including kitchen remodels, bathroom renovations, whole-house transformations, additions, and outdoor living spaces. We handle both small updates and extensive overhauls.",
-        "description": "Frasheski Construction specializes in kitchen and bathroom remodels, whole-house transformations, additions, and outdoor living spaces."
-      }
-    }
-  ],
+  "name": "What types of home remodeling projects does Frasheski Construction specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home remodeling projects does Frasheski Construction specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction specializes in a wide range of home remodeling projects, including kitchen remodels, bathroom renovations, whole-house transformations, additions, and outdoor living spaces. We handle both small updates and extensive overhauls.",
+        "@type": "Answer",
+        "description": "Frasheski Construction specializes in kitchen and bathroom remodels, whole-house transformations, additions, and outdoor living spaces."
+      }
+    }
+  ],
+  "description": "Frasheski Construction specializes in kitchen and bathroom remodels, whole-house transformations, additions, and outdoor living spaces."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you handle custom appliance installations?",
-  "description": "Yes, we handle custom appliance installations, including cabinetry modifications, electrical work, and plumbing adjustments for built-in or specialized units.",
   "url": "frasheskiconstruction.com/faq/can-you-handle-custom-appliance-installations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you handle custom appliance installations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we specialize in custom appliance installations, which often require unique area preparation. This can include modifying cabinetry for built-in units, extending electrical circuits for high-power appliances, or rerouting plumbing for specialized sinks. Our team is experienced in working with designers and homeowners to integrate custom appliances seamlessly into your space.",
-        "description": "Yes, we handle custom appliance installations, including cabinetry modifications, electrical work, and plumbing adjustments for built-in or specialized units."
-      }
-    }
-  ],
+  "name": "Can you handle custom appliance installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle custom appliance installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we specialize in custom appliance installations, which often require unique area preparation. This can include modifying cabinetry for built-in units, extending electrical circuits for high-power appliances, or rerouting plumbing for specialized sinks. Our team is experienced in working with designers and homeowners to integrate custom appliances seamlessly into your space.",
+        "@type": "Answer",
+        "description": "Yes, we handle custom appliance installations, including cabinetry modifications, electrical work, and plumbing adjustments for built-in or specialized units."
+      }
+    }
+  ],
+  "description": "Yes, we handle custom appliance installations, including cabinetry modifications, electrical work, and plumbing adjustments for built-in or specialized units."
 }
