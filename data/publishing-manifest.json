@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-20T20:51:25.346Z",
+  "generatedAt": "2026-08-20T22:23:48.098Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "frasheskiconstruction.com",
@@ -128,7 +128,7 @@
   },
   "package": {
     "totalFiles": 1799,
-    "totalBytes": 6399291,
+    "totalBytes": 6399140,
     "stats": {
       "qna": 0,
       "faqs": 1466,
@@ -305,35 +305,35 @@
         "purpose": "schema"
       }
     ],
-    "lawyers": [
+    "team": [
       {
-        "path": "lawyers/andy-joseph-frasheski-profile.json",
-        "bytes": 900,
+        "path": "team/andy-joseph-frasheski-profile.json",
+        "bytes": 898,
         "purpose": "schema"
       },
       {
-        "path": "lawyers/andy-joseph-frasheski-berkeley.json",
-        "bytes": 858,
+        "path": "team/andy-joseph-frasheski-berkeley.json",
+        "bytes": 856,
         "purpose": "schema"
       },
       {
-        "path": "lawyers/andy-joseph-frasheski-east-bay-area.json",
-        "bytes": 863,
+        "path": "team/andy-joseph-frasheski-east-bay-area.json",
+        "bytes": 861,
         "purpose": "schema"
       },
       {
-        "path": "lawyers/marco-frasheski-profile.json",
-        "bytes": 840,
+        "path": "team/marco-frasheski-profile.json",
+        "bytes": 838,
         "purpose": "schema"
       },
       {
-        "path": "lawyers/marco-frasheski-berkeley.json",
-        "bytes": 798,
+        "path": "team/marco-frasheski-berkeley.json",
+        "bytes": 796,
         "purpose": "schema"
       },
       {
-        "path": "lawyers/marco-frasheski-east-bay-area.json",
-        "bytes": 803,
+        "path": "team/marco-frasheski-east-bay-area.json",
+        "bytes": 801,
         "purpose": "schema"
       }
     ],
@@ -352,7 +352,7 @@
     "organization": [
       {
         "path": "organization/frasheski-construction-organization.json",
-        "bytes": 2012,
+        "bytes": 2008,
         "purpose": "schema"
       }
     ],
@@ -9132,17 +9132,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 875986,
+        "bytes": 875932,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 283743,
+        "bytes": 283728,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 283743,
+        "bytes": 283728,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -9152,12 +9152,12 @@
       },
       {
         "path": "README.md",
-        "bytes": 284323,
+        "bytes": 284290,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 351805,
+        "bytes": 351787,
         "purpose": "AI sitemap"
       },
       {

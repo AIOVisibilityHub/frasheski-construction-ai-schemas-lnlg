@@ -77,13 +77,13 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`locations/berkeley-office.json`](./locations/berkeley-office.json) — schema
 - [`locations/frasheski-construction-office.json`](./locations/frasheski-construction-office.json) — schema
 
-### Attorneys (6)
-- [`lawyers/andy-joseph-frasheski-berkeley.json`](./lawyers/andy-joseph-frasheski-berkeley.json) — schema
-- [`lawyers/andy-joseph-frasheski-east-bay-area.json`](./lawyers/andy-joseph-frasheski-east-bay-area.json) — schema
-- [`lawyers/andy-joseph-frasheski-profile.json`](./lawyers/andy-joseph-frasheski-profile.json) — schema
-- [`lawyers/marco-frasheski-berkeley.json`](./lawyers/marco-frasheski-berkeley.json) — schema
-- [`lawyers/marco-frasheski-east-bay-area.json`](./lawyers/marco-frasheski-east-bay-area.json) — schema
-- [`lawyers/marco-frasheski-profile.json`](./lawyers/marco-frasheski-profile.json) — schema
+### Team Members (6)
+- [`team/andy-joseph-frasheski-berkeley.json`](./team/andy-joseph-frasheski-berkeley.json) — schema
+- [`team/andy-joseph-frasheski-east-bay-area.json`](./team/andy-joseph-frasheski-east-bay-area.json) — schema
+- [`team/andy-joseph-frasheski-profile.json`](./team/andy-joseph-frasheski-profile.json) — schema
+- [`team/marco-frasheski-berkeley.json`](./team/marco-frasheski-berkeley.json) — schema
+- [`team/marco-frasheski-east-bay-area.json`](./team/marco-frasheski-east-bay-area.json) — schema
+- [`team/marco-frasheski-profile.json`](./team/marco-frasheski-profile.json) — schema
 
 ### FAQs (1466)
 - [`faqs/are-custom-cabinets-a-good-investment-for-my-home.json`](./faqs/are-custom-cabinets-a-good-investment-for-my-home.json) — schema
