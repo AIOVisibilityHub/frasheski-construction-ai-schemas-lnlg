@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What common issues require wood fence repair?",
-  "description": "Common wood fence issues include rotting posts, loose pickets, sagging gates, and foundational damage from weather, pests, and wear.",
   "url": "frasheskiconstruction.com/faq/what-common-issues-require-wood-fence-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What common issues require wood fence repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wood fences can experience various issues over time due to weather exposure, pests, and general wear. Common problems include rotting posts, loose or broken pickets, sagging gates, and foundational damage. Rot often occurs at the base of posts due to moisture accumulation, while strong winds or impacts can damage pickets. Gates may sag if hinges become loose or the frame weakens. Addressing these issues promptly can extend the life of your fence and maintain its appearance and security.",
-        "description": "Common wood fence issues include rotting posts, loose pickets, sagging gates, and foundational damage from weather, pests, and wear."
-      }
-    }
-  ],
+  "name": "What common issues require wood fence repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues require wood fence repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood fences can experience various issues over time due to weather exposure, pests, and general wear. Common problems include rotting posts, loose or broken pickets, sagging gates, and foundational damage. Rot often occurs at the base of posts due to moisture accumulation, while strong winds or impacts can damage pickets. Gates may sag if hinges become loose or the frame weakens. Addressing these issues promptly can extend the life of your fence and maintain its appearance and security.",
+        "@type": "Answer",
+        "description": "Common wood fence issues include rotting posts, loose pickets, sagging gates, and foundational damage from weather, pests, and wear."
+      }
+    }
+  ],
+  "description": "Common wood fence issues include rotting posts, loose pickets, sagging gates, and foundational damage from weather, pests, and wear."
 }

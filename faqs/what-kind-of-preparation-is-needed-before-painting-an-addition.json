@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of preparation is needed before painting an addition?",
-  "description": "Preparation for painting an addition includes cleaning, repairing imperfections, sanding, priming, and protecting surrounding areas.",
   "url": "frasheskiconstruction.com/faq/what-kind-of-preparation-is-needed-before-painting-an-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of preparation is needed before painting an addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Thorough preparation is crucial for a successful and lasting paint job on an addition. This typically includes cleaning all surfaces to remove dirt, dust, and grease. Any imperfections such as cracks or holes need to be repaired and sanded smooth. Applying a primer is often necessary, especially on new drywall or patched areas, to ensure proper paint adhesion and a uniform finish. Protecting adjacent surfaces and flooring with drop cloths and painter's tape is also an important preparatory step.",
-        "description": "Preparation for painting an addition includes cleaning, repairing imperfections, sanding, priming, and protecting surrounding areas."
-      }
-    }
-  ],
+  "name": "What kind of preparation is needed before painting an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before painting an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough preparation is crucial for a successful and lasting paint job on an addition. This typically includes cleaning all surfaces to remove dirt, dust, and grease. Any imperfections such as cracks or holes need to be repaired and sanded smooth. Applying a primer is often necessary, especially on new drywall or patched areas, to ensure proper paint adhesion and a uniform finish. Protecting adjacent surfaces and flooring with drop cloths and painter's tape is also an important preparatory step.",
+        "@type": "Answer",
+        "description": "Preparation for painting an addition includes cleaning, repairing imperfections, sanding, priming, and protecting surrounding areas."
+      }
+    }
+  ],
+  "description": "Preparation for painting an addition includes cleaning, repairing imperfections, sanding, priming, and protecting surrounding areas."
 }

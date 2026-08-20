@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my wood fence needs repair or replacement?",
-  "description": "If only a few components are damaged, repair is suitable. If damage is widespread or structural, replacement may be more economical.",
   "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-wood-fence-needs-repair-or-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my wood fence needs repair or replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Deciding between repair and replacement depends on the extent of the damage. If only a few posts or pickets are affected, repair is typically a cost-effective solution. However, if more than 20-30% of your fence components are damaged, or if there's widespread rot, severe structural instability, or significant pest infestation, replacement might be more economical in the long run. A professional inspection can help determine the best course of action for your specific situation.",
-        "description": "If only a few components are damaged, repair is suitable. If damage is widespread or structural, replacement may be more economical."
-      }
-    }
-  ],
+  "name": "How do I know if my wood fence needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my wood fence needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage. If only a few posts or pickets are affected, repair is typically a cost-effective solution. However, if more than 20-30% of your fence components are damaged, or if there's widespread rot, severe structural instability, or significant pest infestation, replacement might be more economical in the long run. A professional inspection can help determine the best course of action for your specific situation.",
+        "@type": "Answer",
+        "description": "If only a few components are damaged, repair is suitable. If damage is widespread or structural, replacement may be more economical."
+      }
+    }
+  ],
+  "description": "If only a few components are damaged, repair is suitable. If damage is widespread or structural, replacement may be more economical."
 }

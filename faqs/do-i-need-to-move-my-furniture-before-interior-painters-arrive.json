@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to move my furniture before interior painters arrive?",
-  "description": "It's helpful to move smaller, fragile items yourself before painters arrive; we will assist with larger furniture and protect everything else.",
   "url": "frasheskiconstruction.com/faq/do-i-need-to-move-my-furniture-before-interior-painters-arrive",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to move my furniture before interior painters arrive?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While our team will help with moving larger items, it's generally helpful if you move smaller, fragile, or valuable items yourself. This ensures their safety and allows our painters to work more efficiently. We will cover and protect all remaining furniture and flooring.",
-        "description": "It's helpful to move smaller, fragile items yourself before painters arrive; we will assist with larger furniture and protect everything else."
-      }
-    }
-  ],
+  "name": "Do I need to move my furniture before interior painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move my furniture before interior painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our team will help with moving larger items, it's generally helpful if you move smaller, fragile, or valuable items yourself. This ensures their safety and allows our painters to work more efficiently. We will cover and protect all remaining furniture and flooring.",
+        "@type": "Answer",
+        "description": "It's helpful to move smaller, fragile items yourself before painters arrive; we will assist with larger furniture and protect everything else."
+      }
+    }
+  ],
+  "description": "It's helpful to move smaller, fragile items yourself before painters arrive; we will assist with larger furniture and protect everything else."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of functional adjustments can extend the life of my home's fixtures?",
-  "description": "Regular lubrication, tightening, and alignment of fixtures can extend their lifespan.",
   "url": "frasheskiconstruction.com/faq/what-types-of-functional-adjustments-can-extend-the-life-of-my-home-s-fixtures",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of functional adjustments can extend the life of my home's fixtures?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regular functional adjustments can significantly extend the life of your home's fixtures. This includes routine lubrication of moving parts in windows and doors, tightening loose connections to prevent wear, and ensuring proper alignment of components to reduce stress. Addressing minor issues promptly through adjustment can prevent premature failure and the need for costly replacements.",
-        "description": "Regular lubrication, tightening, and alignment of fixtures can extend their lifespan."
-      }
-    }
-  ],
+  "name": "What types of functional adjustments can extend the life of my home's fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of functional adjustments can extend the life of my home's fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular functional adjustments can significantly extend the life of your home's fixtures. This includes routine lubrication of moving parts in windows and doors, tightening loose connections to prevent wear, and ensuring proper alignment of components to reduce stress. Addressing minor issues promptly through adjustment can prevent premature failure and the need for costly replacements.",
+        "@type": "Answer",
+        "description": "Regular lubrication, tightening, and alignment of fixtures can extend their lifespan."
+      }
+    }
+  ],
+  "description": "Regular lubrication, tightening, and alignment of fixtures can extend their lifespan."
 }

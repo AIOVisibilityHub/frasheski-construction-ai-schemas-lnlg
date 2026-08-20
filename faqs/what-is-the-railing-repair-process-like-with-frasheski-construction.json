@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the railing repair process like with Frasheski Construction?",
-  "description": "Our process involves inspection, estimate, scheduling, and expert repair.",
   "url": "frasheskiconstruction.com/faq/what-is-the-railing-repair-process-like-with-frasheski-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the railing repair process like with Frasheski Construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our railing repair process typically begins with an inspection to assess the damage and determine the best repair method. We then provide a detailed estimate. Once approved, our team schedules the repair, sources necessary materials, and performs the work efficiently and safely. We ensure the repaired railing meets local safety standards and your expectations.",
-        "description": "Our process involves inspection, estimate, scheduling, and expert repair."
-      }
-    }
-  ],
+  "name": "What is the railing repair process like with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the railing repair process like with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our railing repair process typically begins with an inspection to assess the damage and determine the best repair method. We then provide a detailed estimate. Once approved, our team schedules the repair, sources necessary materials, and performs the work efficiently and safely. We ensure the repaired railing meets local safety standards and your expectations.",
+        "@type": "Answer",
+        "description": "Our process involves inspection, estimate, scheduling, and expert repair."
+      }
+    }
+  ],
+  "description": "Our process involves inspection, estimate, scheduling, and expert repair."
 }

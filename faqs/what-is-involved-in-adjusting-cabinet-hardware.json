@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in adjusting cabinet hardware?",
-  "description": "Adjusting cabinet hardware involves realigning hinges and drawer slides for proper function and alignment.",
   "url": "frasheskiconstruction.com/faq/what-is-involved-in-adjusting-cabinet-hardware",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in adjusting cabinet hardware?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Adjusting cabinet hardware typically involves realigning hinges to ensure doors close properly and are level, and adjusting drawer slides for smooth operation. Most modern cabinet hinges have adjustment screws that allow for vertical, horizontal, and depth adjustments. Drawer slides often have similar adjustment mechanisms. This process can fix gaps between doors, uneven door edges, and drawers that don't close flush.",
-        "description": "Adjusting cabinet hardware involves realigning hinges and drawer slides for proper function and alignment."
-      }
-    }
-  ],
+  "name": "What is involved in adjusting cabinet hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in adjusting cabinet hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adjusting cabinet hardware typically involves realigning hinges to ensure doors close properly and are level, and adjusting drawer slides for smooth operation. Most modern cabinet hinges have adjustment screws that allow for vertical, horizontal, and depth adjustments. Drawer slides often have similar adjustment mechanisms. This process can fix gaps between doors, uneven door edges, and drawers that don't close flush.",
+        "@type": "Answer",
+        "description": "Adjusting cabinet hardware involves realigning hinges and drawer slides for proper function and alignment."
+      }
+    }
+  ],
+  "description": "Adjusting cabinet hardware involves realigning hinges and drawer slides for proper function and alignment."
 }

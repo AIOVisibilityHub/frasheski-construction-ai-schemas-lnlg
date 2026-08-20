@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to do anything to prepare my home for trim and detail painting?",
-  "description": "Clear the areas around the trim by moving furniture and removing wall hangings to help our team work efficiently.",
   "url": "frasheskiconstruction.com/faq/do-i-need-to-do-anything-to-prepare-my-home-for-trim-and-detail-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to do anything to prepare my home for trim and detail painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prepare for trim and detail painting, we recommend clearing the immediate area around the trim, such as moving furniture away from walls and removing any wall hangings. While we take precautions to protect your belongings and flooring, a clear workspace helps our team work more efficiently and safely.",
-        "description": "Clear the areas around the trim by moving furniture and removing wall hangings to help our team work efficiently."
-      }
-    }
-  ],
+  "name": "Do I need to do anything to prepare my home for trim and detail painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home for trim and detail painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for trim and detail painting, we recommend clearing the immediate area around the trim, such as moving furniture away from walls and removing any wall hangings. While we take precautions to protect your belongings and flooring, a clear workspace helps our team work more efficiently and safely.",
+        "@type": "Answer",
+        "description": "Clear the areas around the trim by moving furniture and removing wall hangings to help our team work efficiently."
+      }
+    }
+  ],
+  "description": "Clear the areas around the trim by moving furniture and removing wall hangings to help our team work efficiently."
 }

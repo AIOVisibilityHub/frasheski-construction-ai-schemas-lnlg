@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between fence-post repair and replacement?",
-  "description": "Repair fixes minor post damage, while replacement is for posts that are extensively damaged, rotted, or broken beyond repair.",
   "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-fence-post-repair-and-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between fence-post repair and replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fence-post repair involves fixing an existing post that has minor damage, such as reinforcing a slightly wobbly post or addressing early signs of rot at the base. This often means adding support or treating a localized issue to extend the post's life. Fence-post replacement, on the other hand, is necessary when a post is extensively damaged, severely rotted, or broken beyond repair, requiring the removal of the old post and installation of a new one. Replacement is a more involved process but ensures the fence's long-term stability.",
-        "description": "Repair fixes minor post damage, while replacement is for posts that are extensively damaged, rotted, or broken beyond repair."
-      }
-    }
-  ],
+  "name": "What is the difference between fence-post repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between fence-post repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fence-post repair involves fixing an existing post that has minor damage, such as reinforcing a slightly wobbly post or addressing early signs of rot at the base. This often means adding support or treating a localized issue to extend the post's life. Fence-post replacement, on the other hand, is necessary when a post is extensively damaged, severely rotted, or broken beyond repair, requiring the removal of the old post and installation of a new one. Replacement is a more involved process but ensures the fence's long-term stability.",
+        "@type": "Answer",
+        "description": "Repair fixes minor post damage, while replacement is for posts that are extensively damaged, rotted, or broken beyond repair."
+      }
+    }
+  ],
+  "description": "Repair fixes minor post damage, while replacement is for posts that are extensively damaged, rotted, or broken beyond repair."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a deck structural repair take?",
-  "description": "Repair time depends on project scope; small repairs take a few days, extensive work can take a week. Weather and material availability also affect the timeline.",
   "url": "frasheskiconstruction.com/faq/how-long-does-a-deck-structural-repair-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a deck structural repair take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a deck structural repair depends on the scope of the project. Smaller repairs might be completed within a day or two, while more extensive work involving multiple components or complex issues could take several days to a week. Weather conditions and material availability can also influence the timeline. Your contractor will provide an estimated completion time.",
-        "description": "Repair time depends on project scope; small repairs take a few days, extensive work can take a week. Weather and material availability also affect the timeline."
-      }
-    }
-  ],
+  "name": "How long does a deck structural repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a deck structural repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a deck structural repair depends on the scope of the project. Smaller repairs might be completed within a day or two, while more extensive work involving multiple components or complex issues could take several days to a week. Weather conditions and material availability can also influence the timeline. Your contractor will provide an estimated completion time.",
+        "@type": "Answer",
+        "description": "Repair time depends on project scope; small repairs take a few days, extensive work can take a week. Weather and material availability also affect the timeline."
+      }
+    }
+  ],
+  "description": "Repair time depends on project scope; small repairs take a few days, extensive work can take a week. Weather and material availability also affect the timeline."
 }

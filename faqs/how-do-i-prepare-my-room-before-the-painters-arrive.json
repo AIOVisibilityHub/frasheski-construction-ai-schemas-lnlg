@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I prepare my room before the painters arrive?",
-  "description": "Remove wall hangings, outlet covers, switch plates, and small items; we will protect large furniture and floors.",
   "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-room-before-the-painters-arrive",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I prepare my room before the painters arrive?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before the painters arrive, we recommend removing all wall hangings, outlet covers, and switch plates. It's also helpful to move small or valuable items out of the room. We will handle the protection of larger furniture and flooring, but clearing the space as much as possible helps expedite the preparation process.",
-        "description": "Remove wall hangings, outlet covers, switch plates, and small items; we will protect large furniture and floors."
-      }
-    }
-  ],
+  "name": "How do I prepare my room before the painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my room before the painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the painters arrive, we recommend removing all wall hangings, outlet covers, and switch plates. It's also helpful to move small or valuable items out of the room. We will handle the protection of larger furniture and flooring, but clearing the space as much as possible helps expedite the preparation process.",
+        "@type": "Answer",
+        "description": "Remove wall hangings, outlet covers, switch plates, and small items; we will protect large furniture and floors."
+      }
+    }
+  ],
+  "description": "Remove wall hangings, outlet covers, switch plates, and small items; we will protect large furniture and floors."
 }

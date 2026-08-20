@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is fence stability restoration?",
-  "description": "Fence stability restoration repairs and reinforces compromised fences, such as wobbly or leaning structures, to ensure safety, security, and aesthetics.",
   "url": "frasheskiconstruction.com/faq/what-is-fence-stability-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is fence stability restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fence stability restoration involves repairing or reinforcing fences that have become wobbly, leaning, or otherwise compromised. This can include replacing damaged posts, reinforcing existing ones, repairing panels, or addressing issues with the fence's foundation. The goal is to return the fence to a safe, secure, and upright condition, extending its lifespan and maintaining property aesthetics and security.",
-        "description": "Fence stability restoration repairs and reinforces compromised fences, such as wobbly or leaning structures, to ensure safety, security, and aesthetics."
-      }
-    }
-  ],
+  "name": "What is fence stability restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is fence stability restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fence stability restoration involves repairing or reinforcing fences that have become wobbly, leaning, or otherwise compromised. This can include replacing damaged posts, reinforcing existing ones, repairing panels, or addressing issues with the fence's foundation. The goal is to return the fence to a safe, secure, and upright condition, extending its lifespan and maintaining property aesthetics and security.",
+        "@type": "Answer",
+        "description": "Fence stability restoration repairs and reinforces compromised fences, such as wobbly or leaning structures, to ensure safety, security, and aesthetics."
+      }
+    }
+  ],
+  "description": "Fence stability restoration repairs and reinforces compromised fences, such as wobbly or leaning structures, to ensure safety, security, and aesthetics."
 }

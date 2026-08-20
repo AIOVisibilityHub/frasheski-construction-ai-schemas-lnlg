@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do hardware adjustments typically take?",
-  "description": "Time varies based on complexity; a single hinge takes minutes, while a kitchen full of cabinets takes hours.",
   "url": "frasheskiconstruction.com/faq/how-long-do-hardware-adjustments-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do hardware adjustments typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The time required for hardware adjustments depends on the complexity and number of items needing attention. Simple tasks like adjusting a single door hinge might take a few minutes, while a comprehensive adjustment of all cabinet hardware in a kitchen could take a few hours. A professional can provide a time estimate based on the scope of work.",
-        "description": "Time varies based on complexity; a single hinge takes minutes, while a kitchen full of cabinets takes hours."
-      }
-    }
-  ],
+  "name": "How long do hardware adjustments typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do hardware adjustments typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for hardware adjustments depends on the complexity and number of items needing attention. Simple tasks like adjusting a single door hinge might take a few minutes, while a comprehensive adjustment of all cabinet hardware in a kitchen could take a few hours. A professional can provide a time estimate based on the scope of work.",
+        "@type": "Answer",
+        "description": "Time varies based on complexity; a single hinge takes minutes, while a kitchen full of cabinets takes hours."
+      }
+    }
+  ],
+  "description": "Time varies based on complexity; a single hinge takes minutes, while a kitchen full of cabinets takes hours."
 }

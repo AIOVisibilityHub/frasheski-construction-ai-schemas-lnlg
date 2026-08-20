@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common signs that my deck needs structural repair?",
-  "description": "Wobbling, sagging, cracked or rotting wood, loose fasteners, and damaged supports are common signs your deck needs structural repair.",
   "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-deck-needs-structural-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common signs that my deck needs structural repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common signs indicating your deck may need structural repair include noticeable wobbling or instability when walked on, sagging or uneven deck surfaces, cracked or rotting wood, loose or corroded fasteners, and damaged or deteriorated support posts and beams. Inspecting your deck annually for these issues can help identify problems early.",
-        "description": "Wobbling, sagging, cracked or rotting wood, loose fasteners, and damaged supports are common signs your deck needs structural repair."
-      }
-    }
-  ],
+  "name": "What are common signs that my deck needs structural repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my deck needs structural repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your deck may need structural repair include noticeable wobbling or instability when walked on, sagging or uneven deck surfaces, cracked or rotting wood, loose or corroded fasteners, and damaged or deteriorated support posts and beams. Inspecting your deck annually for these issues can help identify problems early.",
+        "@type": "Answer",
+        "description": "Wobbling, sagging, cracked or rotting wood, loose fasteners, and damaged supports are common signs your deck needs structural repair."
+      }
+    }
+  ],
+  "description": "Wobbling, sagging, cracked or rotting wood, loose fasteners, and damaged supports are common signs your deck needs structural repair."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of maintenance is required after surface restoration?",
-  "description": "Post-restoration maintenance usually includes regular cleaning, avoiding harsh chemicals, and potential re-sealing every few years.",
   "url": "frasheskiconstruction.com/faq/what-kind-of-maintenance-is-required-after-surface-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of maintenance is required after surface restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After surface restoration, regular maintenance helps prolong the life of the renewed surface. This typically involves routine cleaning to remove dirt and debris, avoiding harsh chemicals, and prompt attention to any new damage or spills. For some surfaces, re-sealing every few years may be recommended. We will provide specific maintenance guidelines tailored to your restored surfaces.",
-        "description": "Post-restoration maintenance usually includes regular cleaning, avoiding harsh chemicals, and potential re-sealing every few years."
-      }
-    }
-  ],
+  "name": "What kind of maintenance is required after surface restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required after surface restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After surface restoration, regular maintenance helps prolong the life of the renewed surface. This typically involves routine cleaning to remove dirt and debris, avoiding harsh chemicals, and prompt attention to any new damage or spills. For some surfaces, re-sealing every few years may be recommended. We will provide specific maintenance guidelines tailored to your restored surfaces.",
+        "@type": "Answer",
+        "description": "Post-restoration maintenance usually includes regular cleaning, avoiding harsh chemicals, and potential re-sealing every few years."
+      }
+    }
+  ],
+  "description": "Post-restoration maintenance usually includes regular cleaning, avoiding harsh chemicals, and potential re-sealing every few years."
 }

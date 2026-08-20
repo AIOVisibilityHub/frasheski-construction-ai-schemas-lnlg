@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of restoring my surfaces instead of replacing them?",
-  "description": "Benefits include cost savings, environmental friendliness, improved aesthetics, extended surface life, and less disruption.",
   "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-restoring-my-surfaces-instead-of-replacing-them",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of restoring my surfaces instead of replacing them?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Restoring your surfaces offers several benefits, including significant cost savings compared to replacement. It's also a more environmentally friendly option, as it reduces waste. Restoration improves the aesthetics and functionality of your property, extends the lifespan of your existing surfaces, and can enhance property value. It often causes less disruption than a full demolition and rebuild.",
-        "description": "Benefits include cost savings, environmental friendliness, improved aesthetics, extended surface life, and less disruption."
-      }
-    }
-  ],
+  "name": "What are the benefits of restoring my surfaces instead of replacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of restoring my surfaces instead of replacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoring your surfaces offers several benefits, including significant cost savings compared to replacement. It's also a more environmentally friendly option, as it reduces waste. Restoration improves the aesthetics and functionality of your property, extends the lifespan of your existing surfaces, and can enhance property value. It often causes less disruption than a full demolition and rebuild.",
+        "@type": "Answer",
+        "description": "Benefits include cost savings, environmental friendliness, improved aesthetics, extended surface life, and less disruption."
+      }
+    }
+  ],
+  "description": "Benefits include cost savings, environmental friendliness, improved aesthetics, extended surface life, and less disruption."
 }

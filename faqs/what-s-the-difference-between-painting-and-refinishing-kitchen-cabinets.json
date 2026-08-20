@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between painting and refinishing kitchen cabinets?",
-  "description": "Painting applies a new paint coat; refinishing strips and restains or clear coats to restore wood.",
   "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-painting-and-refinishing-kitchen-cabinets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between painting and refinishing kitchen cabinets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Painting kitchen cabinets involves applying a new coat of paint over the existing finish, often after proper cleaning and priming. This can dramatically change the look of your kitchen at a more affordable cost. Refinishing, on the other hand, typically involves stripping down the cabinets to their bare wood, repairing any damage, and then applying a new stain or clear coat. Refinishing restores the original wood look or changes the stain color. Painting is generally quicker and less expensive, while refinishing offers a more natural wood aesthetic.",
-        "description": "Painting applies a new paint coat; refinishing strips and restains or clear coats to restore wood."
-      }
-    }
-  ],
+  "name": "What's the difference between painting and refinishing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between painting and refinishing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting kitchen cabinets involves applying a new coat of paint over the existing finish, often after proper cleaning and priming. This can dramatically change the look of your kitchen at a more affordable cost. Refinishing, on the other hand, typically involves stripping down the cabinets to their bare wood, repairing any damage, and then applying a new stain or clear coat. Refinishing restores the original wood look or changes the stain color. Painting is generally quicker and less expensive, while refinishing offers a more natural wood aesthetic.",
+        "@type": "Answer",
+        "description": "Painting applies a new paint coat; refinishing strips and restains or clear coats to restore wood."
+      }
+    }
+  ],
+  "description": "Painting applies a new paint coat; refinishing strips and restains or clear coats to restore wood."
 }

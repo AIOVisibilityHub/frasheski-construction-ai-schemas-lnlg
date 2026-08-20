@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost of custom cabinets compared to pre-manufactured options?",
-  "description": "Custom cabinets cost more initially due to personalized design and materials, but offer better fit and durability than pre-manufactured options.",
   "url": "frasheskiconstruction.com/faq/what-is-the-cost-of-custom-cabinets-compared-to-pre-manufactured-options",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost of custom cabinets compared to pre-manufactured options?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom cabinets typically have a higher initial cost than pre-manufactured options due to the personalized design, specialized craftsmanship, and high-quality materials. However, custom cabinets offer superior fit, unique aesthetic options, and often better durability, potentially saving money on future replacements. Pre-manufactured cabinets are generally more budget-friendly and quicker to install, but with limited customization.",
-        "description": "Custom cabinets cost more initially due to personalized design and materials, but offer better fit and durability than pre-manufactured options."
-      }
-    }
-  ],
+  "name": "What is the cost of custom cabinets compared to pre-manufactured options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of custom cabinets compared to pre-manufactured options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinets typically have a higher initial cost than pre-manufactured options due to the personalized design, specialized craftsmanship, and high-quality materials. However, custom cabinets offer superior fit, unique aesthetic options, and often better durability, potentially saving money on future replacements. Pre-manufactured cabinets are generally more budget-friendly and quicker to install, but with limited customization.",
+        "@type": "Answer",
+        "description": "Custom cabinets cost more initially due to personalized design and materials, but offer better fit and durability than pre-manufactured options."
+      }
+    }
+  ],
+  "description": "Custom cabinets cost more initially due to personalized design and materials, but offer better fit and durability than pre-manufactured options."
 }

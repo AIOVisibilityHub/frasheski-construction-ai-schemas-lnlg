@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of upgrading my bathroom vanity and cabinets?",
-  "description": "Upgrading your bathroom vanity and cabinets improves aesthetics, functionality, storage, and can increase home value.",
   "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-upgrading-my-bathroom-vanity-and-cabinets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of upgrading my bathroom vanity and cabinets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Upgrading your bathroom vanity and cabinets can significantly enhance the bathroom's aesthetic appeal and functionality. New vanities often provide more storage solutions, improving organization. Modern designs can also increase your home's resale value and update the overall look and feel of your bathroom, making it a more pleasant and efficient space. Additionally, you can choose materials that are more durable and easier to maintain.",
-        "description": "Upgrading your bathroom vanity and cabinets improves aesthetics, functionality, storage, and can increase home value."
-      }
-    }
-  ],
+  "name": "What are the benefits of upgrading my bathroom vanity and cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading my bathroom vanity and cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading your bathroom vanity and cabinets can significantly enhance the bathroom's aesthetic appeal and functionality. New vanities often provide more storage solutions, improving organization. Modern designs can also increase your home's resale value and update the overall look and feel of your bathroom, making it a more pleasant and efficient space. Additionally, you can choose materials that are more durable and easier to maintain.",
+        "@type": "Answer",
+        "description": "Upgrading your bathroom vanity and cabinets improves aesthetics, functionality, storage, and can increase home value."
+      }
+    }
+  ],
+  "description": "Upgrading your bathroom vanity and cabinets improves aesthetics, functionality, storage, and can increase home value."
 }

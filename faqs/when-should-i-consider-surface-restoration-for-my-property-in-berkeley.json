@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider surface restoration for my property in Berkeley?",
-  "description": "Consider surface restoration if your surfaces show signs of wear, damage, or degradation, and the underlying structure is sound.",
   "url": "frasheskiconstruction.com/faq/when-should-i-consider-surface-restoration-for-my-property-in-berkeley",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider surface restoration for my property in Berkeley?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider surface restoration if your surfaces show signs of wear, damage, or degradation. This includes cracks in concrete, faded or stained patios, worn-out wooden decks, or discolored tile grout. Restoration is a good option when the underlying structure is sound but the surface appearance or integrity is compromised. It can prevent further damage and enhance curb appeal.",
-        "description": "Consider surface restoration if your surfaces show signs of wear, damage, or degradation, and the underlying structure is sound."
-      }
-    }
-  ],
+  "name": "When should I consider surface restoration for my property in Berkeley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider surface restoration for my property in Berkeley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider surface restoration if your surfaces show signs of wear, damage, or degradation. This includes cracks in concrete, faded or stained patios, worn-out wooden decks, or discolored tile grout. Restoration is a good option when the underlying structure is sound but the surface appearance or integrity is compromised. It can prevent further damage and enhance curb appeal.",
+        "@type": "Answer",
+        "description": "Consider surface restoration if your surfaces show signs of wear, damage, or degradation, and the underlying structure is sound."
+      }
+    }
+  ],
+  "description": "Consider surface restoration if your surfaces show signs of wear, damage, or degradation, and the underlying structure is sound."
 }

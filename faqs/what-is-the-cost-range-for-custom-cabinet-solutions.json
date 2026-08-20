@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost range for custom cabinet solutions?",
-  "description": "The cost of custom cabinets varies widely based on materials, features, and project scope; we provide detailed quotes after consultation.",
   "url": "frasheskiconstruction.com/faq/what-is-the-cost-range-for-custom-cabinet-solutions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost range for custom cabinet solutions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of custom cabinet solutions varies significantly based on factors such as materials, wood species, finishes, hardware, internal features, and the overall size and complexity of the project. Due to the bespoke nature, custom cabinets are an investment. We provide detailed, transparent quotes after understanding your specific requirements and design choices during the initial consultation. This ensures you know exactly what to expect for your project in the East Bay.",
-        "description": "The cost of custom cabinets varies widely based on materials, features, and project scope; we provide detailed quotes after consultation."
-      }
-    }
-  ],
+  "name": "What is the cost range for custom cabinet solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for custom cabinet solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom cabinet solutions varies significantly based on factors such as materials, wood species, finishes, hardware, internal features, and the overall size and complexity of the project. Due to the bespoke nature, custom cabinets are an investment. We provide detailed, transparent quotes after understanding your specific requirements and design choices during the initial consultation. This ensures you know exactly what to expect for your project in the East Bay.",
+        "@type": "Answer",
+        "description": "The cost of custom cabinets varies widely based on materials, features, and project scope; we provide detailed quotes after consultation."
+      }
+    }
+  ],
+  "description": "The cost of custom cabinets varies widely based on materials, features, and project scope; we provide detailed quotes after consultation."
 }
