@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-08T23:27:24.900Z",
+  "generatedAt": "2026-08-20T20:51:25.346Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "frasheskiconstruction.com",
-    "pagesUrl": "https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg",
+    "pagesUrl": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg",
     "phone": "510-318-2258",
     "email": "afrasheski@frasheski.com",
     "locations": [
@@ -127,24 +127,24 @@
     ]
   },
   "package": {
-    "totalFiles": 1817,
-    "totalBytes": 6238223,
+    "totalFiles": 1799,
+    "totalBytes": 6399291,
     "stats": {
+      "qna": 0,
       "faqs": 1466,
-      "helpArticles": 257,
+      "press": 0,
+      "total": 1777,
+      "awards": 0,
+      "reviews": 15,
+      "products": 0,
+      "research": 0,
       "services": 29,
       "webpages": 0,
-      "personnel": 24,
-      "products": 0,
       "locations": 2,
-      "awards": 0,
+      "personnel": 6,
       "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 15,
-      "qna": 0,
-      "research": 0,
-      "total": 1795
+      "helpArticles": 257,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -153,7 +153,7 @@
     "llms": "llms.txt",
     "aiSitemap": "ai-sitemap.xml",
     "sitemap": "sitemap.xml",
-    "manifest": "publishing-manifest.json",
+    "manifest": "data/publishing-manifest.json",
     "canonicalManifest": "data/publishing-manifest.json",
     "readme": "README.md"
   },
@@ -322,46 +322,6 @@
         "purpose": "schema"
       },
       {
-        "path": "lawyers/andy-joseph-frasheski-residential-kitchen-remodeling-berkeley-faq.json",
-        "bytes": 1103,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/andy-joseph-frasheski-residential-kitchen-remodeling-east-bay-area-faq.json",
-        "bytes": 1123,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/andy-joseph-frasheski-residential-bathroom-remodeling-berkeley-faq.json",
-        "bytes": 1107,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/andy-joseph-frasheski-residential-bathroom-remodeling-east-bay-area-faq.json",
-        "bytes": 1127,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/andy-joseph-frasheski-home-additions-berkeley-faq.json",
-        "bytes": 1039,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/andy-joseph-frasheski-home-additions-east-bay-area-faq.json",
-        "bytes": 1059,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/andy-joseph-frasheski-full-scope-custom-renovation-work-berkeley-faq.json",
-        "bytes": 1115,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/andy-joseph-frasheski-full-scope-custom-renovation-work-east-bay-area-faq.json",
-        "bytes": 1135,
-        "purpose": "schema"
-      },
-      {
         "path": "lawyers/marco-frasheski-profile.json",
         "bytes": 840,
         "purpose": "schema"
@@ -374,56 +334,6 @@
       {
         "path": "lawyers/marco-frasheski-east-bay-area.json",
         "bytes": 803,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-kitchen-remodeling-support-berkeley-faq.json",
-        "bytes": 981,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-kitchen-remodeling-support-east-bay-area-faq.json",
-        "bytes": 1001,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-bathroom-remodeling-support-berkeley-faq.json",
-        "bytes": 985,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-bathroom-remodeling-support-east-bay-area-faq.json",
-        "bytes": 1005,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-residential-renovation-assistance-berkeley-faq.json",
-        "bytes": 1009,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-residential-renovation-assistance-east-bay-area-faq.json",
-        "bytes": 1029,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-cabinetry-and-finish-work-berkeley-faq.json",
-        "bytes": 977,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-cabinetry-and-finish-work-east-bay-area-faq.json",
-        "bytes": 997,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-on-site-remodeling-crew-work-berkeley-faq.json",
-        "bytes": 989,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/marco-frasheski-on-site-remodeling-crew-work-east-bay-area-faq.json",
-        "bytes": 1009,
         "purpose": "schema"
       }
     ],
@@ -9150,42 +9060,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 2232,
+        "bytes": 6904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 34077,
+        "bytes": 16615,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 277162,
+        "bytes": 282487,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 18415,
+        "bytes": 23127,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 3067,
+        "bytes": 7858,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 802966,
+        "bytes": 930667,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 409976,
+        "bytes": 499499,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 31294,
+        "bytes": 13812,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -9197,7 +9107,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4241,
+        "bytes": 4246,
         "purpose": "LLM hint"
       },
       {
@@ -9222,32 +9132,32 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 885257,
+        "bytes": 875986,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 286672,
+        "bytes": 283743,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 286672,
+        "bytes": 283743,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4069,
+        "bytes": 4078,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 287483,
+        "bytes": 284323,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 355452,
+        "bytes": 351805,
         "purpose": "AI sitemap"
       },
       {
@@ -9260,7 +9170,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/",
+      "pagesUrl": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/",
       "repo": "AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg"
     }
   }

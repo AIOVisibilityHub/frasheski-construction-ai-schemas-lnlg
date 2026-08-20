@@ -6,17 +6,17 @@ Frasheski Construction publishes structured AI-readable data for discovery and r
 - frasheskiconstruction.com
 
 ## Core AI Resources
-- https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
-- https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/publishing-manifest.json
-- https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/llms-full.txt
-- https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/full-context.md
-- https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/ai-sitemap.xml
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/data/publishing-manifest.json
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/llms-full.txt
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/full-context.md
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-sitemap.xml
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Frasheski Construction — canonical website — frasheskiconstruction.com
-- [ai-data-hub] Frasheski Construction — AI Data Hub — https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
+- [ai-data-hub] Frasheski Construction — AI Data Hub — https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
