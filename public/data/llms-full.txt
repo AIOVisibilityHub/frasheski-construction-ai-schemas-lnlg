@@ -179,13 +179,13 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/locations/berkeley-office.json — schema
 - https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/locations/frasheski-construction-office.json — schema
 
-### Attorneys (6)
-- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/lawyers/andy-joseph-frasheski-berkeley.json — schema
-- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/lawyers/andy-joseph-frasheski-east-bay-area.json — schema
-- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/lawyers/andy-joseph-frasheski-profile.json — schema
-- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/lawyers/marco-frasheski-berkeley.json — schema
-- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/lawyers/marco-frasheski-east-bay-area.json — schema
-- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/lawyers/marco-frasheski-profile.json — schema
+### Team Members (6)
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/team/andy-joseph-frasheski-berkeley.json — schema
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/team/andy-joseph-frasheski-east-bay-area.json — schema
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/team/andy-joseph-frasheski-profile.json — schema
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/team/marco-frasheski-berkeley.json — schema
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/team/marco-frasheski-east-bay-area.json — schema
+- https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/team/marco-frasheski-profile.json — schema
 
 ### FAQs (1466)
 - https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/faqs/are-custom-cabinets-a-good-investment-for-my-home.json — schema
