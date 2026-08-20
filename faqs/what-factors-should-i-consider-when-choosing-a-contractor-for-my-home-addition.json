@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a contractor for my home addition?",
-  "description": "Choose a contractor based on experience, references, licensing, insurance, transparent communication, and quality craftsmanship.",
   "url": "frasheskiconstruction.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-my-home-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a contractor for my home addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a contractor, consider their experience with home additions, especially in your local area. Look for a company with strong references, proper licensing, and insurance. Transparent communication, a clear project proposal, and a commitment to quality craftsmanship are also key factors. Frasheski Construction offers these assurances for your project.",
-        "description": "Choose a contractor based on experience, references, licensing, insurance, transparent communication, and quality craftsmanship."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a contractor for my home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for my home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, consider their experience with home additions, especially in your local area. Look for a company with strong references, proper licensing, and insurance. Transparent communication, a clear project proposal, and a commitment to quality craftsmanship are also key factors. Frasheski Construction offers these assurances for your project.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, references, licensing, insurance, transparent communication, and quality craftsmanship."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, references, licensing, insurance, transparent communication, and quality craftsmanship."
 }

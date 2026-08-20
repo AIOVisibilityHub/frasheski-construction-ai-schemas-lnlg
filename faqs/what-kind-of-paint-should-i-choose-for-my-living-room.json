@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of paint should I choose for my living room?",
-  "description": "Consider finish (matte, eggshell, satin), durability, and washability when choosing paint for your living room.",
   "url": "frasheskiconstruction.com/faq/what-kind-of-paint-should-i-choose-for-my-living-room",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of paint should I choose for my living room?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right paint for your living room depends on desired finish, durability, and light exposure. Matte or flat finishes hide imperfections well, while eggshell or satin offer a subtle sheen and are more washable. For high-traffic areas, durable paints with a slight sheen are often recommended. We can discuss options like low-VOC paints for better air quality and help you select the best type and finish during our consultation.",
-        "description": "Consider finish (matte, eggshell, satin), durability, and washability when choosing paint for your living room."
-      }
-    }
-  ],
+  "name": "What kind of paint should I choose for my living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint should I choose for my living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right paint for your living room depends on desired finish, durability, and light exposure. Matte or flat finishes hide imperfections well, while eggshell or satin offer a subtle sheen and are more washable. For high-traffic areas, durable paints with a slight sheen are often recommended. We can discuss options like low-VOC paints for better air quality and help you select the best type and finish during our consultation.",
+        "@type": "Answer",
+        "description": "Consider finish (matte, eggshell, satin), durability, and washability when choosing paint for your living room."
+      }
+    }
+  ],
+  "description": "Consider finish (matte, eggshell, satin), durability, and washability when choosing paint for your living room."
 }

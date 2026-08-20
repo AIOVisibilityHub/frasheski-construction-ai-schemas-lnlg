@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are functional layout improvements?",
-  "description": "Functional layout improvements optimize space arrangement to enhance usability and efficiency within a building.",
   "url": "frasheskiconstruction.com/faq/what-are-functional-layout-improvements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are functional layout improvements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Functional layout improvements involve optimizing the arrangement of spaces within a building to enhance usability, efficiency, and comfort. This can include reconfiguring room sizes, changing traffic flow, or relocating essential fixtures to better suit the occupants' needs and daily activities. For businesses, it might mean redesigning workstations or customer areas for improved productivity or service. For homes, it could involve creating more open-plan living spaces or improving kitchen functionality.",
-        "description": "Functional layout improvements optimize space arrangement to enhance usability and efficiency within a building."
-      }
-    }
-  ],
+  "name": "What are functional layout improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are functional layout improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Functional layout improvements involve optimizing the arrangement of spaces within a building to enhance usability, efficiency, and comfort. This can include reconfiguring room sizes, changing traffic flow, or relocating essential fixtures to better suit the occupants' needs and daily activities. For businesses, it might mean redesigning workstations or customer areas for improved productivity or service. For homes, it could involve creating more open-plan living spaces or improving kitchen functionality.",
+        "@type": "Answer",
+        "description": "Functional layout improvements optimize space arrangement to enhance usability and efficiency within a building."
+      }
+    }
+  ],
+  "description": "Functional layout improvements optimize space arrangement to enhance usability and efficiency within a building."
 }
