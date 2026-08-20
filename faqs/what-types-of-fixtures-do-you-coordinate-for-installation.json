@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of fixtures do you coordinate for installation?",
-  "description": "We coordinate the installation of various fixtures, including plumbing, electrical, cabinetry, countertops, doors, windows, and trim for both residential and co",
   "url": "frasheskiconstruction.com/faq/what-types-of-fixtures-do-you-coordinate-for-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of fixtures do you coordinate for installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We coordinate the installation of a wide range of fixtures for both residential and commercial projects. This includes all plumbing fixtures such as sinks, faucets, toilets, showers, and bathtubs. For electrical systems, we manage the installation of lighting fixtures, ceiling fans, outlets, switches, and major appliances. We also coordinate the installation of cabinetry, countertops, shelving, doors, windows, and various trim elements. Essentially, if it's a permanent or semi-permanent item being installed into your property, we can coordinate its proper placement and integration into your overall design and functional needs.",
-        "description": "We coordinate the installation of various fixtures, including plumbing, electrical, cabinetry, countertops, doors, windows, and trim for both residential and commercial projects."
-      }
-    }
-  ],
+  "name": "What types of fixtures do you coordinate for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of fixtures do you coordinate for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We coordinate the installation of a wide range of fixtures for both residential and commercial projects. This includes all plumbing fixtures such as sinks, faucets, toilets, showers, and bathtubs. For electrical systems, we manage the installation of lighting fixtures, ceiling fans, outlets, switches, and major appliances. We also coordinate the installation of cabinetry, countertops, shelving, doors, windows, and various trim elements. Essentially, if it's a permanent or semi-permanent item being installed into your property, we can coordinate its proper placement and integration into your overall design and functional needs.",
+        "@type": "Answer",
+        "description": "We coordinate the installation of various fixtures, including plumbing, electrical, cabinetry, countertops, doors, windows, and trim for both residential and commercial projects."
+      }
+    }
+  ],
+  "description": "We coordinate the installation of various fixtures, including plumbing, electrical, cabinetry, countertops, doors, windows, and trim for both residential and co"
 }

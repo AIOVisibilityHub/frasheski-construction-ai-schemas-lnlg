@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common challenges in plumbing coordination for construction?",
-  "description": "Common challenges include resolving clashes with other systems, managing materials, and complying with building codes.",
   "url": "frasheskiconstruction.com/faq/what-are-common-challenges-in-plumbing-coordination-for-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common challenges in plumbing coordination for construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges in plumbing coordination include resolving clashes with other building systems like HVAC and electrical, managing material deliveries and storage on site, and ensuring compliance with evolving local building codes. Communication breakdowns between different trades and changes in design during construction can also pose significant challenges.",
-        "description": "Common challenges include resolving clashes with other systems, managing materials, and complying with building codes."
-      }
-    }
-  ],
+  "name": "What are common challenges in plumbing coordination for construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in plumbing coordination for construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in plumbing coordination include resolving clashes with other building systems like HVAC and electrical, managing material deliveries and storage on site, and ensuring compliance with evolving local building codes. Communication breakdowns between different trades and changes in design during construction can also pose significant challenges.",
+        "@type": "Answer",
+        "description": "Common challenges include resolving clashes with other systems, managing materials, and complying with building codes."
+      }
+    }
+  ],
+  "description": "Common challenges include resolving clashes with other systems, managing materials, and complying with building codes."
 }

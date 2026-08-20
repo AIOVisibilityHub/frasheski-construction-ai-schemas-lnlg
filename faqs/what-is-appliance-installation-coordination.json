@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is appliance installation coordination?",
-  "description": "Appliance installation coordination manages the delivery and setup of new appliances within a construction project.",
   "url": "frasheskiconstruction.com/faq/what-is-appliance-installation-coordination",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is appliance installation coordination?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Appliance installation coordination is a service that manages the delivery and setup of new appliances as part of a construction or renovation project. This ensures that appliances arrive and are installed at the correct stage of the project, avoiding delays and ensuring proper functionality. It includes scheduling deliveries, arranging for professional installation, and confirming compatibility with existing utilities.",
-        "description": "Appliance installation coordination manages the delivery and setup of new appliances within a construction project."
-      }
-    }
-  ],
+  "name": "What is appliance installation coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is appliance installation coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance installation coordination is a service that manages the delivery and setup of new appliances as part of a construction or renovation project. This ensures that appliances arrive and are installed at the correct stage of the project, avoiding delays and ensuring proper functionality. It includes scheduling deliveries, arranging for professional installation, and confirming compatibility with existing utilities.",
+        "@type": "Answer",
+        "description": "Appliance installation coordination manages the delivery and setup of new appliances within a construction project."
+      }
+    }
+  ],
+  "description": "Appliance installation coordination manages the delivery and setup of new appliances within a construction project."
 }

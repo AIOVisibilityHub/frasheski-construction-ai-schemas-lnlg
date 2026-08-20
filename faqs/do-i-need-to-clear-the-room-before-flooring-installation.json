@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to clear the room before flooring installation?",
-  "description": "Yes, clear the room of furniture and personal items before installation; we'll discuss specific preparation during consultation.",
   "url": "frasheskiconstruction.com/faq/do-i-need-to-clear-the-room-before-flooring-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to clear the room before flooring installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we recommend clearing the room of all furniture, personal items, and any existing flooring (if you are removing it yourself) before the scheduled installation date. This helps our team work efficiently and minimizes potential delays. We can discuss specific preparation requirements during our initial consultation.",
-        "description": "Yes, clear the room of furniture and personal items before installation; we'll discuss specific preparation during consultation."
-      }
-    }
-  ],
+  "name": "Do I need to clear the room before flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clear the room before flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we recommend clearing the room of all furniture, personal items, and any existing flooring (if you are removing it yourself) before the scheduled installation date. This helps our team work efficiently and minimizes potential delays. We can discuss specific preparation requirements during our initial consultation.",
+        "@type": "Answer",
+        "description": "Yes, clear the room of furniture and personal items before installation; we'll discuss specific preparation during consultation."
+      }
+    }
+  ],
+  "description": "Yes, clear the room of furniture and personal items before installation; we'll discuss specific preparation during consultation."
 }

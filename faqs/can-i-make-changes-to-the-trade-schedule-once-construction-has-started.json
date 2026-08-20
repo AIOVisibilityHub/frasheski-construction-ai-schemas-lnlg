@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I make changes to the trade schedule once construction has started?",
-  "description": "Yes, changes to the trade schedule are possible during construction due to unforeseen issues, but should be communicated promptly.",
   "url": "frasheskiconstruction.com/faq/can-i-make-changes-to-the-trade-schedule-once-construction-has-started",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I make changes to the trade schedule once construction has started?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, changes to the trade schedule are often necessary and can be made even after construction has started. Unexpected issues like material delays, unforeseen site conditions, or changes in design can necessitate adjustments. While flexibility is important, significant changes can impact project costs and timelines. Any modifications should be communicated promptly to all affected trades to minimize disruption.",
-        "description": "Yes, changes to the trade schedule are possible during construction due to unforeseen issues, but should be communicated promptly."
-      }
-    }
-  ],
+  "name": "Can I make changes to the trade schedule once construction has started?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to the trade schedule once construction has started?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, changes to the trade schedule are often necessary and can be made even after construction has started. Unexpected issues like material delays, unforeseen site conditions, or changes in design can necessitate adjustments. While flexibility is important, significant changes can impact project costs and timelines. Any modifications should be communicated promptly to all affected trades to minimize disruption.",
+        "@type": "Answer",
+        "description": "Yes, changes to the trade schedule are possible during construction due to unforeseen issues, but should be communicated promptly."
+      }
+    }
+  ],
+  "description": "Yes, changes to the trade schedule are possible during construction due to unforeseen issues, but should be communicated promptly."
 }

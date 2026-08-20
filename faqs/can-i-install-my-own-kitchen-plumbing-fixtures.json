@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I install my own kitchen plumbing fixtures?",
-  "description": "Basic fixture installation can be DIY, but complex kitchen plumbing involving water lines or appliances is best handled by a professional to avoid issues.",
   "url": "frasheskiconstruction.com/faq/can-i-install-my-own-kitchen-plumbing-fixtures",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I install my own kitchen plumbing fixtures?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While it's possible for a DIY enthusiast to install some basic kitchen plumbing fixtures like a new faucet, complex installations involving altering water lines, connecting appliances like dishwashers and garbage disposals, or working with drain lines are best left to a professional. Improper installation can lead to leaks, water damage, and code violations. A professional ensures proper functionality, adherence to local codes, and warranty compliance for new fixtures.",
-        "description": "Basic fixture installation can be DIY, but complex kitchen plumbing involving water lines or appliances is best handled by a professional to avoid issues."
-      }
-    }
-  ],
+  "name": "Can I install my own kitchen plumbing fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install my own kitchen plumbing fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible for a DIY enthusiast to install some basic kitchen plumbing fixtures like a new faucet, complex installations involving altering water lines, connecting appliances like dishwashers and garbage disposals, or working with drain lines are best left to a professional. Improper installation can lead to leaks, water damage, and code violations. A professional ensures proper functionality, adherence to local codes, and warranty compliance for new fixtures.",
+        "@type": "Answer",
+        "description": "Basic fixture installation can be DIY, but complex kitchen plumbing involving water lines or appliances is best handled by a professional to avoid issues."
+      }
+    }
+  ],
+  "description": "Basic fixture installation can be DIY, but complex kitchen plumbing involving water lines or appliances is best handled by a professional to avoid issues."
 }

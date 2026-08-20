@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider electrical coordination for my construction project?",
-  "description": "Consider electrical coordination early in the design phase for new construction or major renovations, especially with complex electrical systems.",
   "url": "frasheskiconstruction.com/faq/when-should-i-consider-electrical-coordination-for-my-construction-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider electrical coordination for my construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider electrical coordination early in the design phase of any new construction or significant renovation project. This allows for proper planning and integration of protective devices. It's particularly important for projects with complex electrical systems, such as those found in commercial buildings or industrial facilities.",
-        "description": "Consider electrical coordination early in the design phase for new construction or major renovations, especially with complex electrical systems."
-      }
-    }
-  ],
+  "name": "When should I consider electrical coordination for my construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider electrical coordination for my construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider electrical coordination early in the design phase of any new construction or significant renovation project. This allows for proper planning and integration of protective devices. It's particularly important for projects with complex electrical systems, such as those found in commercial buildings or industrial facilities.",
+        "@type": "Answer",
+        "description": "Consider electrical coordination early in the design phase for new construction or major renovations, especially with complex electrical systems."
+      }
+    }
+  ],
+  "description": "Consider electrical coordination early in the design phase for new construction or major renovations, especially with complex electrical systems."
 }

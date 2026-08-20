@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for trim and molding installation?",
-  "description": "The process involves measuring, cutting, fitting, securing, caulking, and preparing the trim for finishing.",
   "url": "frasheskiconstruction.com/faq/what-is-the-process-for-trim-and-molding-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for trim and molding installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process typically begins with accurate measurements and material selection. Next, the trim pieces are cut to size and angle, often using miter saws. They are then fitted, secured to the walls with nails or adhesive, and gaps are filled with caulk. Finally, the trim is sanded and prepared for painting or staining.",
-        "description": "The process involves measuring, cutting, fitting, securing, caulking, and preparing the trim for finishing."
-      }
-    }
-  ],
+  "name": "What is the process for trim and molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for trim and molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with accurate measurements and material selection. Next, the trim pieces are cut to size and angle, often using miter saws. They are then fitted, secured to the walls with nails or adhesive, and gaps are filled with caulk. Finally, the trim is sanded and prepared for painting or staining.",
+        "@type": "Answer",
+        "description": "The process involves measuring, cutting, fitting, securing, caulking, and preparing the trim for finishing."
+      }
+    }
+  ],
+  "description": "The process involves measuring, cutting, fitting, securing, caulking, and preparing the trim for finishing."
 }

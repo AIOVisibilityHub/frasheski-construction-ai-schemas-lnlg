@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between warm white and cool white lighting for a bathroom?",
-  "description": "Warm white (2700K-3000K) is cozy and yellowish; cool white (4000K-5000K) is brighter, bluish, and good for tasks.",
   "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-warm-white-and-cool-white-lighting-for-a-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between warm white and cool white lighting for a bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Warm white lighting (around 2700K-3000K) has a yellowish hue, similar to incandescent bulbs, creating a cozy and relaxing atmosphere. Cool white lighting (around 4000K-5000K) has a bluer, brighter appearance, often preferred for task-oriented areas as it mimics natural daylight and can make colors appear truer. The choice depends on desired ambiance and function.",
-        "description": "Warm white (2700K-3000K) is cozy and yellowish; cool white (4000K-5000K) is brighter, bluish, and good for tasks."
-      }
-    }
-  ],
+  "name": "What is the difference between warm white and cool white lighting for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between warm white and cool white lighting for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warm white lighting (around 2700K-3000K) has a yellowish hue, similar to incandescent bulbs, creating a cozy and relaxing atmosphere. Cool white lighting (around 4000K-5000K) has a bluer, brighter appearance, often preferred for task-oriented areas as it mimics natural daylight and can make colors appear truer. The choice depends on desired ambiance and function.",
+        "@type": "Answer",
+        "description": "Warm white (2700K-3000K) is cozy and yellowish; cool white (4000K-5000K) is brighter, bluish, and good for tasks."
+      }
+    }
+  ],
+  "description": "Warm white (2700K-3000K) is cozy and yellowish; cool white (4000K-5000K) is brighter, bluish, and good for tasks."
 }

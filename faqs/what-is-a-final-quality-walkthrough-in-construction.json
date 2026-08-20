@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a final quality walkthrough in construction?",
-  "description": "A final quality walkthrough is an inspection with the client before project completion to ensure all work meets standards and expectations.",
   "url": "frasheskiconstruction.com/faq/what-is-a-final-quality-walkthrough-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a final quality walkthrough in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A final quality walkthrough is a comprehensive inspection of a construction project conducted with the client before project completion. Its purpose is to ensure all work meets the agreed-upon standards, specifications, and client expectations. This includes checking for proper installation, functionality of systems, aesthetic finishes, and addressing any last-minute concerns or deficiencies. It's a critical step to guarantee client satisfaction and project readiness.",
-        "description": "A final quality walkthrough is an inspection with the client before project completion to ensure all work meets standards and expectations."
-      }
-    }
-  ],
+  "name": "What is a final quality walkthrough in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a final quality walkthrough in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A final quality walkthrough is a comprehensive inspection of a construction project conducted with the client before project completion. Its purpose is to ensure all work meets the agreed-upon standards, specifications, and client expectations. This includes checking for proper installation, functionality of systems, aesthetic finishes, and addressing any last-minute concerns or deficiencies. It's a critical step to guarantee client satisfaction and project readiness.",
+        "@type": "Answer",
+        "description": "A final quality walkthrough is an inspection with the client before project completion to ensure all work meets standards and expectations."
+      }
+    }
+  ],
+  "description": "A final quality walkthrough is an inspection with the client before project completion to ensure all work meets standards and expectations."
 }

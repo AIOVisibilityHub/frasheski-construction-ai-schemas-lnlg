@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in interior painting coordination?",
-  "description": "Interior painting coordination manages your project from color selection to final walkthrough, ensuring a smooth process.",
   "url": "frasheskiconstruction.com/faq/what-is-involved-in-interior-painting-coordination",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in interior painting coordination?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Interior painting coordination involves managing all aspects of your painting project from start to finish. This includes helping you choose colors and finishes, scheduling the work, protecting your furniture and floors, supervising the painting crew, and conducting a final walkthrough to ensure satisfaction. The goal is to make the process seamless and stress-free, ensuring the project is completed efficiently and to your specifications.",
-        "description": "Interior painting coordination manages your project from color selection to final walkthrough, ensuring a smooth process."
-      }
-    }
-  ],
+  "name": "What is involved in interior painting coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in interior painting coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior painting coordination involves managing all aspects of your painting project from start to finish. This includes helping you choose colors and finishes, scheduling the work, protecting your furniture and floors, supervising the painting crew, and conducting a final walkthrough to ensure satisfaction. The goal is to make the process seamless and stress-free, ensuring the project is completed efficiently and to your specifications.",
+        "@type": "Answer",
+        "description": "Interior painting coordination manages your project from color selection to final walkthrough, ensuring a smooth process."
+      }
+    }
+  ],
+  "description": "Interior painting coordination manages your project from color selection to final walkthrough, ensuring a smooth process."
 }

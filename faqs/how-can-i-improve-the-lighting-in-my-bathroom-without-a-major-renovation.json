@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I improve the lighting in my bathroom without a major renovation?",
-  "description": "Upgrade bulbs, add task lighting around mirrors, use dimmer switches, and consider a decorative lamp for improved bathroom lighting.",
   "url": "frasheskiconstruction.com/faq/how-can-i-improve-the-lighting-in-my-bathroom-without-a-major-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I improve the lighting in my bathroom without a major renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can significantly improve bathroom lighting without a full renovation. Start by upgrading existing fixtures with brighter, more energy-efficient bulbs. Add task lighting around the mirror, such as sconces or an LED strip. Consider a dimmer switch for overhead lights to create different ambiances. A well-placed floor lamp or small table lamp can also add warmth and indirect light.",
-        "description": "Upgrade bulbs, add task lighting around mirrors, use dimmer switches, and consider a decorative lamp for improved bathroom lighting."
-      }
-    }
-  ],
+  "name": "How can I improve the lighting in my bathroom without a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I improve the lighting in my bathroom without a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can significantly improve bathroom lighting without a full renovation. Start by upgrading existing fixtures with brighter, more energy-efficient bulbs. Add task lighting around the mirror, such as sconces or an LED strip. Consider a dimmer switch for overhead lights to create different ambiances. A well-placed floor lamp or small table lamp can also add warmth and indirect light.",
+        "@type": "Answer",
+        "description": "Upgrade bulbs, add task lighting around mirrors, use dimmer switches, and consider a decorative lamp for improved bathroom lighting."
+      }
+    }
+  ],
+  "description": "Upgrade bulbs, add task lighting around mirrors, use dimmer switches, and consider a decorative lamp for improved bathroom lighting."
 }

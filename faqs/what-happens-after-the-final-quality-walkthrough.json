@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens after the final quality walkthrough?",
-  "description": "After the walkthrough, punch list items are addressed, verified, and then the project is officially handed over.",
   "url": "frasheskiconstruction.com/faq/what-happens-after-the-final-quality-walkthrough",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens after the final quality walkthrough?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After the final quality walkthrough, the construction team will work to address all items identified on the punch list. Once these corrections are made, a follow-up inspection might occur to verify their completion. Upon your satisfaction and final approval, the project will be officially handed over, final documentation will be provided, and any remaining payments will be processed.",
-        "description": "After the walkthrough, punch list items are addressed, verified, and then the project is officially handed over."
-      }
-    }
-  ],
+  "name": "What happens after the final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the final quality walkthrough, the construction team will work to address all items identified on the punch list. Once these corrections are made, a follow-up inspection might occur to verify their completion. Upon your satisfaction and final approval, the project will be officially handed over, final documentation will be provided, and any remaining payments will be processed.",
+        "@type": "Answer",
+        "description": "After the walkthrough, punch list items are addressed, verified, and then the project is officially handed over."
+      }
+    }
+  ],
+  "description": "After the walkthrough, punch list items are addressed, verified, and then the project is officially handed over."
 }

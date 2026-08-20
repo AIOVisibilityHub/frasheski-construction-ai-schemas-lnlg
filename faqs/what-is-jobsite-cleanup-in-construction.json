@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is jobsite cleanup in construction?",
-  "description": "Jobsite cleanup removes debris and waste from a construction site to improve safety and efficiency.",
   "url": "frasheskiconstruction.com/faq/what-is-jobsite-cleanup-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is jobsite cleanup in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Jobsite cleanup involves removing debris, waste materials, and hazards from a construction site during and after a project. This includes everything from leftover building materials, packaging, and discarded tools to general trash. Maintaining a clean jobsite improves safety, increases efficiency, and presents a professional image. It's a continuous process that culminates in a thorough final cleaning before project closeout.",
-        "description": "Jobsite cleanup removes debris and waste from a construction site to improve safety and efficiency."
-      }
-    }
-  ],
+  "name": "What is jobsite cleanup in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is jobsite cleanup in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Jobsite cleanup involves removing debris, waste materials, and hazards from a construction site during and after a project. This includes everything from leftover building materials, packaging, and discarded tools to general trash. Maintaining a clean jobsite improves safety, increases efficiency, and presents a professional image. It's a continuous process that culminates in a thorough final cleaning before project closeout.",
+        "@type": "Answer",
+        "description": "Jobsite cleanup removes debris and waste from a construction site to improve safety and efficiency."
+      }
+    }
+  ],
+  "description": "Jobsite cleanup removes debris and waste from a construction site to improve safety and efficiency."
 }

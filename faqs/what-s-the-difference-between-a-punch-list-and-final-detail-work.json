@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between a punch list and final detail work?",
-  "description": "A punch list is a list of items to be completed or corrected, while final detail work is the phase of addressing those items and other finishing tasks.",
   "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-punch-list-and-final-detail-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between a punch list and final detail work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A punch list is a document generated during the final stages of a construction project, itemizing tasks that need to be completed or corrected before final handover. Final detail work is the broader phase that encompasses addressing all items on the punch list, along with other general finishing tasks. Essentially, the punch list guides a significant portion of the final detail work.",
-        "description": "A punch list is a list of items to be completed or corrected, while final detail work is the phase of addressing those items and other finishing tasks."
-      }
-    }
-  ],
+  "name": "What's the difference between a punch list and final detail work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a punch list and final detail work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list is a document generated during the final stages of a construction project, itemizing tasks that need to be completed or corrected before final handover. Final detail work is the broader phase that encompasses addressing all items on the punch list, along with other general finishing tasks. Essentially, the punch list guides a significant portion of the final detail work.",
+        "@type": "Answer",
+        "description": "A punch list is a list of items to be completed or corrected, while final detail work is the phase of addressing those items and other finishing tasks."
+      }
+    }
+  ],
+  "description": "A punch list is a list of items to be completed or corrected, while final detail work is the phase of addressing those items and other finishing tasks."
 }

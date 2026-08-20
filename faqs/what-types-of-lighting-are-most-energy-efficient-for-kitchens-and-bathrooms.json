@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of lighting are most energy-efficient for kitchens and bathrooms?",
-  "description": "LED lighting is the most energy-efficient choice for kitchens and bathrooms due to low electricity consumption and long lifespan.",
   "url": "frasheskiconstruction.com/faq/what-types-of-lighting-are-most-energy-efficient-for-kitchens-and-bathrooms",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of lighting are most energy-efficient for kitchens and bathrooms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LED lighting is the most energy-efficient option for both kitchens and bathrooms. LEDs consume significantly less electricity than incandescent or fluorescent bulbs, last much longer, and generate less heat. Look for \"Energy Star\" certified LED fixtures and bulbs for optimal efficiency. They come in various color temperatures to suit different preferences.",
-        "description": "LED lighting is the most energy-efficient choice for kitchens and bathrooms due to low electricity consumption and long lifespan."
-      }
-    }
-  ],
+  "name": "What types of lighting are most energy-efficient for kitchens and bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting are most energy-efficient for kitchens and bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED lighting is the most energy-efficient option for both kitchens and bathrooms. LEDs consume significantly less electricity than incandescent or fluorescent bulbs, last much longer, and generate less heat. Look for \"Energy Star\" certified LED fixtures and bulbs for optimal efficiency. They come in various color temperatures to suit different preferences.",
+        "@type": "Answer",
+        "description": "LED lighting is the most energy-efficient choice for kitchens and bathrooms due to low electricity consumption and long lifespan."
+      }
+    }
+  ],
+  "description": "LED lighting is the most energy-efficient choice for kitchens and bathrooms due to low electricity consumption and long lifespan."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in an electrical coordination study?",
-  "description": "An electrical coordination study analyzes fault currents and protective device characteristics to determine optimal settings for selective coordination.",
   "url": "frasheskiconstruction.com/faq/what-is-involved-in-an-electrical-coordination-study",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in an electrical coordination study?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An electrical coordination study typically involves analyzing the electrical system's fault currents and protective device characteristics. Engineers use specialized software to model the system and determine the optimal settings for circuit breakers, fuses, and relays. The goal is to ensure selective coordination, where only the nearest protective device operates during a fault.",
-        "description": "An electrical coordination study analyzes fault currents and protective device characteristics to determine optimal settings for selective coordination."
-      }
-    }
-  ],
+  "name": "What is involved in an electrical coordination study?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in an electrical coordination study?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An electrical coordination study typically involves analyzing the electrical system's fault currents and protective device characteristics. Engineers use specialized software to model the system and determine the optimal settings for circuit breakers, fuses, and relays. The goal is to ensure selective coordination, where only the nearest protective device operates during a fault.",
+        "@type": "Answer",
+        "description": "An electrical coordination study analyzes fault currents and protective device characteristics to determine optimal settings for selective coordination."
+      }
+    }
+  ],
+  "description": "An electrical coordination study analyzes fault currents and protective device characteristics to determine optimal settings for selective coordination."
 }

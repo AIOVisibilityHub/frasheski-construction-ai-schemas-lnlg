@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does final detail work add to the overall cost of the project?",
-  "description": "Final detail work costs are usually included in the project budget; significant new client requests may incur additional charges.",
   "url": "frasheskiconstruction.com/faq/does-final-detail-work-add-to-the-overall-cost-of-the-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does final detail work add to the overall cost of the project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of final detail work is generally included in the overall project budget agreed upon in the contract. It's considered an integral part of completing the construction. However, if significant new requests or changes are made by the client during this phase that fall outside the original scope, these may incur additional costs. Any such additions would be discussed and approved beforehand.",
-        "description": "Final detail work costs are usually included in the project budget; significant new client requests may incur additional charges."
-      }
-    }
-  ],
+  "name": "Does final detail work add to the overall cost of the project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does final detail work add to the overall cost of the project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of final detail work is generally included in the overall project budget agreed upon in the contract. It's considered an integral part of completing the construction. However, if significant new requests or changes are made by the client during this phase that fall outside the original scope, these may incur additional costs. Any such additions would be discussed and approved beforehand.",
+        "@type": "Answer",
+        "description": "Final detail work costs are usually included in the project budget; significant new client requests may incur additional charges."
+      }
+    }
+  ],
+  "description": "Final detail work costs are usually included in the project budget; significant new client requests may incur additional charges."
 }

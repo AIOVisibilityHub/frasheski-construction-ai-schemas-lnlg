@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in kitchen plumbing installation?",
-  "description": "Kitchen plumbing installation involves setting up water supply, drain lines, and fixtures like sinks, faucets, and dishwashers.",
   "url": "frasheskiconstruction.com/faq/what-is-involved-in-kitchen-plumbing-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in kitchen plumbing installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Kitchen plumbing installation typically involves setting up the water supply lines, drain lines, and fixtures like sinks, faucets, dishwashers, and garbage disposals. This includes connecting to the main water supply, ensuring proper drainage and venting to prevent clogs and odors, and securely installing all appliances and fixtures according to local plumbing codes. It may also involve modifying existing pipes or installing new ones to accommodate a new kitchen layout or appliance.",
-        "description": "Kitchen plumbing installation involves setting up water supply, drain lines, and fixtures like sinks, faucets, and dishwashers."
-      }
-    }
-  ],
+  "name": "What is involved in kitchen plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in kitchen plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen plumbing installation typically involves setting up the water supply lines, drain lines, and fixtures like sinks, faucets, dishwashers, and garbage disposals. This includes connecting to the main water supply, ensuring proper drainage and venting to prevent clogs and odors, and securely installing all appliances and fixtures according to local plumbing codes. It may also involve modifying existing pipes or installing new ones to accommodate a new kitchen layout or appliance.",
+        "@type": "Answer",
+        "description": "Kitchen plumbing installation involves setting up water supply, drain lines, and fixtures like sinks, faucets, and dishwashers."
+      }
+    }
+  ],
+  "description": "Kitchen plumbing installation involves setting up water supply, drain lines, and fixtures like sinks, faucets, and dishwashers."
 }

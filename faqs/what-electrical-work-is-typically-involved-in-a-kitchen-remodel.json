@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What electrical work is typically involved in a kitchen remodel?",
-  "description": "Kitchen remodels involve relocating/adding outlets, dedicated circuits for appliances, and new lighting installations.",
   "url": "frasheskiconstruction.com/faq/what-electrical-work-is-typically-involved-in-a-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What electrical work is typically involved in a kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A kitchen remodel often requires significant electrical updates to accommodate new appliances and lighting. This can include relocating or adding outlets for things like refrigerators, dishwashers, and microwaves. Dedicated circuits may be needed for high-power appliances to prevent overloading. Additionally, new lighting fixtures, under-cabinet lighting, and dimmer switches are common electrical installations that improve functionality and ambiance.",
-        "description": "Kitchen remodels involve relocating/adding outlets, dedicated circuits for appliances, and new lighting installations."
-      }
-    }
-  ],
+  "name": "What electrical work is typically involved in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What electrical work is typically involved in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel often requires significant electrical updates to accommodate new appliances and lighting. This can include relocating or adding outlets for things like refrigerators, dishwashers, and microwaves. Dedicated circuits may be needed for high-power appliances to prevent overloading. Additionally, new lighting fixtures, under-cabinet lighting, and dimmer switches are common electrical installations that improve functionality and ambiance.",
+        "@type": "Answer",
+        "description": "Kitchen remodels involve relocating/adding outlets, dedicated circuits for appliances, and new lighting installations."
+      }
+    }
+  ],
+  "description": "Kitchen remodels involve relocating/adding outlets, dedicated circuits for appliances, and new lighting installations."
 }

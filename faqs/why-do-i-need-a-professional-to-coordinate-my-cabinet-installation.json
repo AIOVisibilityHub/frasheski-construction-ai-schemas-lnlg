@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why do I need a professional to coordinate my cabinet installation?",
-  "description": "Professional coordination saves time, reduces stress, prevents delays, and resolves issues during cabinet installation.",
   "url": "frasheskiconstruction.com/faq/why-do-i-need-a-professional-to-coordinate-my-cabinet-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why do I need a professional to coordinate my cabinet installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional coordination for cabinet installation saves you time and reduces stress by handling the complexities involved. It ensures that all necessary steps are completed in the correct order, prevents delays due to scheduling conflicts, and addresses any issues that arise during installation promptly. For projects in the East Bay, this expertise ensures your renovation stays on track and within budget, delivering a high-quality finish.",
-        "description": "Professional coordination saves time, reduces stress, prevents delays, and resolves issues during cabinet installation."
-      }
-    }
-  ],
+  "name": "Why do I need a professional to coordinate my cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need a professional to coordinate my cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional coordination for cabinet installation saves you time and reduces stress by handling the complexities involved. It ensures that all necessary steps are completed in the correct order, prevents delays due to scheduling conflicts, and addresses any issues that arise during installation promptly. For projects in the East Bay, this expertise ensures your renovation stays on track and within budget, delivering a high-quality finish.",
+        "@type": "Answer",
+        "description": "Professional coordination saves time, reduces stress, prevents delays, and resolves issues during cabinet installation."
+      }
+    }
+  ],
+  "description": "Professional coordination saves time, reduces stress, prevents delays, and resolves issues during cabinet installation."
 }

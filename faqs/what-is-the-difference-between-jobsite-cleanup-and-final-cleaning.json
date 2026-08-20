@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between jobsite cleanup and final cleaning?",
-  "description": "Jobsite cleanup is ongoing debris removal, while final cleaning is a detailed, thorough cleaning at project completion.",
   "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-jobsite-cleanup-and-final-cleaning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between jobsite cleanup and final cleaning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Jobsite cleanup refers to the ongoing process of maintaining a tidy and safe construction site throughout the project duration, removing debris as work progresses. Final cleaning, a component of jobsite cleanup and project closeout, is a thorough, detailed cleaning conducted at the very end of the project. This final cleaning prepares the space for client occupancy, ensuring it is spotless and ready for use, often including tasks like window washing, floor cleaning, and dusting.",
-        "description": "Jobsite cleanup is ongoing debris removal, while final cleaning is a detailed, thorough cleaning at project completion."
-      }
-    }
-  ],
+  "name": "What is the difference between jobsite cleanup and final cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between jobsite cleanup and final cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Jobsite cleanup refers to the ongoing process of maintaining a tidy and safe construction site throughout the project duration, removing debris as work progresses. Final cleaning, a component of jobsite cleanup and project closeout, is a thorough, detailed cleaning conducted at the very end of the project. This final cleaning prepares the space for client occupancy, ensuring it is spotless and ready for use, often including tasks like window washing, floor cleaning, and dusting.",
+        "@type": "Answer",
+        "description": "Jobsite cleanup is ongoing debris removal, while final cleaning is a detailed, thorough cleaning at project completion."
+      }
+    }
+  ],
+  "description": "Jobsite cleanup is ongoing debris removal, while final cleaning is a detailed, thorough cleaning at project completion."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between an architect and a designer in remodel planning?",
-  "description": "Architects handle structural design and permits, while designers focus on aesthetics and interior functionality.",
   "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-an-architect-and-a-designer-in-remodel-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between an architect and a designer in remodel planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An architect is typically responsible for the structural integrity and overall design of a building, often dealing with permits and complex structural changes. A designer, on the other hand, focuses more on aesthetics, functionality, and interior finishes. For many remodels, particularly those without major structural changes, a skilled designer may be sufficient. Some projects benefit from both.",
-        "description": "Architects handle structural design and permits, while designers focus on aesthetics and interior functionality."
-      }
-    }
-  ],
+  "name": "What is the difference between an architect and a designer in remodel planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an architect and a designer in remodel planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An architect is typically responsible for the structural integrity and overall design of a building, often dealing with permits and complex structural changes. A designer, on the other hand, focuses more on aesthetics, functionality, and interior finishes. For many remodels, particularly those without major structural changes, a skilled designer may be sufficient. Some projects benefit from both.",
+        "@type": "Answer",
+        "description": "Architects handle structural design and permits, while designers focus on aesthetics and interior functionality."
+      }
+    }
+  ],
+  "description": "Architects handle structural design and permits, while designers focus on aesthetics and interior functionality."
 }

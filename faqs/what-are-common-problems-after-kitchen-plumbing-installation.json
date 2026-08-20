@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common problems after kitchen plumbing installation?",
-  "description": "Common post-installation problems include leaks, low water pressure, slow drainage, or appliance issues, often due to improper connections or blockages.",
   "url": "frasheskiconstruction.com/faq/what-are-common-problems-after-kitchen-plumbing-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common problems after kitchen plumbing installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common problems after kitchen plumbing installation can include leaks around new fixtures or connections, low water pressure, slow drainage, or issues with appliance functionality. Occasionally, gurgling sounds from drains can indicate improper venting. These issues are often due to improper sealing, incorrect pipe connections, or blockages. It's important to test all new plumbing thoroughly after installation to identify and resolve any problems promptly.",
-        "description": "Common post-installation problems include leaks, low water pressure, slow drainage, or appliance issues, often due to improper connections or blockages."
-      }
-    }
-  ],
+  "name": "What are common problems after kitchen plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common problems after kitchen plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common problems after kitchen plumbing installation can include leaks around new fixtures or connections, low water pressure, slow drainage, or issues with appliance functionality. Occasionally, gurgling sounds from drains can indicate improper venting. These issues are often due to improper sealing, incorrect pipe connections, or blockages. It's important to test all new plumbing thoroughly after installation to identify and resolve any problems promptly.",
+        "@type": "Answer",
+        "description": "Common post-installation problems include leaks, low water pressure, slow drainage, or appliance issues, often due to improper connections or blockages."
+      }
+    }
+  ],
+  "description": "Common post-installation problems include leaks, low water pressure, slow drainage, or appliance issues, often due to improper connections or blockages."
 }

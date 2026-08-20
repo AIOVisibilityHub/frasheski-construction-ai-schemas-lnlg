@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeframe for coordinating appliance installations?",
-  "description": "Coordination starts early in project planning, with installation occurring towards the end of a project, after rough-ins are complete.",
   "url": "frasheskiconstruction.com/faq/what-is-the-typical-timeframe-for-coordinating-appliance-installations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeframe for coordinating appliance installations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeframe for coordinating appliance installations varies depending on appliance availability, project complexity, and the overall construction schedule. Generally, coordination begins early in the project planning phase to secure delivery dates. The actual installation usually occurs towards the end of a project, after rough-ins are complete but before final finishes, to prevent damage to new appliances.",
-        "description": "Coordination starts early in project planning, with installation occurring towards the end of a project, after rough-ins are complete."
-      }
-    }
-  ],
+  "name": "What is the typical timeframe for coordinating appliance installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for coordinating appliance installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for coordinating appliance installations varies depending on appliance availability, project complexity, and the overall construction schedule. Generally, coordination begins early in the project planning phase to secure delivery dates. The actual installation usually occurs towards the end of a project, after rough-ins are complete but before final finishes, to prevent damage to new appliances.",
+        "@type": "Answer",
+        "description": "Coordination starts early in project planning, with installation occurring towards the end of a project, after rough-ins are complete."
+      }
+    }
+  ],
+  "description": "Coordination starts early in project planning, with installation occurring towards the end of a project, after rough-ins are complete."
 }

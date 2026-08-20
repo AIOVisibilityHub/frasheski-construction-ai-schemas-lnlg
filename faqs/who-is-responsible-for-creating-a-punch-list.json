@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who is responsible for creating a punch list?",
-  "description": "Both the client and the contractor typically contribute to creating the punch list.",
   "url": "frasheskiconstruction.com/faq/who-is-responsible-for-creating-a-punch-list",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who is responsible for creating a punch list?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both the client and the contractor can contribute to creating the punch list. The client, often with an architect or project manager, inspects the property to identify deficiencies. The contractor then reviews the list and addresses the items. A collaborative approach ensures all concerns are documented and resolved efficiently.",
-        "description": "Both the client and the contractor typically contribute to creating the punch list."
-      }
-    }
-  ],
+  "name": "Who is responsible for creating a punch list?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for creating a punch list?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both the client and the contractor can contribute to creating the punch list. The client, often with an architect or project manager, inspects the property to identify deficiencies. The contractor then reviews the list and addresses the items. A collaborative approach ensures all concerns are documented and resolved efficiently.",
+        "@type": "Answer",
+        "description": "Both the client and the contractor typically contribute to creating the punch list."
+      }
+    }
+  ],
+  "description": "Both the client and the contractor typically contribute to creating the punch list."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When does jobsite cleanup typically occur during a construction project?",
-  "description": "Jobsite cleanup is an ongoing process throughout the construction project, with more intensive cleanups at key milestones and before closeout.",
   "url": "frasheskiconstruction.com/faq/when-does-jobsite-cleanup-typically-occur-during-a-construction-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When does jobsite cleanup typically occur during a construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Jobsite cleanup is an ongoing process throughout the entire construction project, from initial groundbreaking to final completion. Daily cleanup ensures safety and efficiency as work progresses. More intensive cleanups occur at major milestones, such as after framing is complete or before finishes are installed. The most comprehensive cleanup takes place just before project closeout and client handover.",
-        "description": "Jobsite cleanup is an ongoing process throughout the construction project, with more intensive cleanups at key milestones and before closeout."
-      }
-    }
-  ],
+  "name": "When does jobsite cleanup typically occur during a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When does jobsite cleanup typically occur during a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Jobsite cleanup is an ongoing process throughout the entire construction project, from initial groundbreaking to final completion. Daily cleanup ensures safety and efficiency as work progresses. More intensive cleanups occur at major milestones, such as after framing is complete or before finishes are installed. The most comprehensive cleanup takes place just before project closeout and client handover.",
+        "@type": "Answer",
+        "description": "Jobsite cleanup is an ongoing process throughout the construction project, with more intensive cleanups at key milestones and before closeout."
+      }
+    }
+  ],
+  "description": "Jobsite cleanup is an ongoing process throughout the construction project, with more intensive cleanups at key milestones and before closeout."
 }

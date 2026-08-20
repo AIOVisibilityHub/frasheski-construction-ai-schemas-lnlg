@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a punch list in construction?",
-  "description": "A punch list is a document detailing incomplete or incorrect work that needs to be fixed before a construction project is officially finished.",
   "url": "frasheskiconstruction.com/faq/what-is-a-punch-list-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a punch list in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A punch list is a document prepared near the end of a construction project listing work that is not conforming to the contract documents and needs to be completed by the contractor. It typically includes minor repairs, adjustments, or unfinished tasks. The purpose is to ensure all agreed-upon work is finalized to the client's satisfaction before the project is considered truly complete and final payment is released.",
-        "description": "A punch list is a document detailing incomplete or incorrect work that needs to be fixed before a construction project is officially finished."
-      }
-    }
-  ],
+  "name": "What is a punch list in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a punch list in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list is a document prepared near the end of a construction project listing work that is not conforming to the contract documents and needs to be completed by the contractor. It typically includes minor repairs, adjustments, or unfinished tasks. The purpose is to ensure all agreed-upon work is finalized to the client's satisfaction before the project is considered truly complete and final payment is released.",
+        "@type": "Answer",
+        "description": "A punch list is a document detailing incomplete or incorrect work that needs to be fixed before a construction project is officially finished."
+      }
+    }
+  ],
+  "description": "A punch list is a document detailing incomplete or incorrect work that needs to be fixed before a construction project is officially finished."
 }

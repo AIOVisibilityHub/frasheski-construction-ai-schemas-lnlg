@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is electrical coordination in construction?",
-  "description": "Electrical coordination ensures electrical protection devices operate in sequence during a fault, isolating the problem to a small area and preventing outages.",
   "url": "frasheskiconstruction.com/faq/what-is-electrical-coordination-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is electrical coordination in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Electrical coordination in construction involves ensuring that all electrical protection devices, like circuit breakers and fuses, operate in sequence during an electrical fault. This systematic approach isolates the fault to the smallest possible area, preventing unnecessary power outages and protecting equipment from damage. It is crucial for maintaining continuous power supply and safety on a construction site.",
-        "description": "Electrical coordination ensures electrical protection devices operate in sequence during a fault, isolating the problem to a small area and preventing outages."
-      }
-    }
-  ],
+  "name": "What is electrical coordination in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is electrical coordination in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electrical coordination in construction involves ensuring that all electrical protection devices, like circuit breakers and fuses, operate in sequence during an electrical fault. This systematic approach isolates the fault to the smallest possible area, preventing unnecessary power outages and protecting equipment from damage. It is crucial for maintaining continuous power supply and safety on a construction site.",
+        "@type": "Answer",
+        "description": "Electrical coordination ensures electrical protection devices operate in sequence during a fault, isolating the problem to a small area and preventing outages."
+      }
+    }
+  ],
+  "description": "Electrical coordination ensures electrical protection devices operate in sequence during a fault, isolating the problem to a small area and preventing outages."
 }

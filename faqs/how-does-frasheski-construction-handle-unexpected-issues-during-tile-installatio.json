@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Frasheski Construction handle unexpected issues during tile installation coordination?",
-  "description": "We handle unexpected issues by immediate communication, assessing the situation, and proposing solutions to minimize project impact.",
   "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-handle-unexpected-issues-during-tile-installatio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Frasheski Construction handle unexpected issues during tile installation coordination?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Unexpected issues, though rare with proper planning, can arise. Our coordination service includes proactive problem-solving. If an issue occurs, such as unexpected substrate conditions or material delays, we communicate immediately, assess the situation, and propose solutions. We aim to minimize impact on the timeline and budget, ensuring transparent communication and swift resolution.",
-        "description": "We handle unexpected issues by immediate communication, assessing the situation, and proposing solutions to minimize project impact."
-      }
-    }
-  ],
+  "name": "How does Frasheski Construction handle unexpected issues during tile installation coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Frasheski Construction handle unexpected issues during tile installation coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unexpected issues, though rare with proper planning, can arise. Our coordination service includes proactive problem-solving. If an issue occurs, such as unexpected substrate conditions or material delays, we communicate immediately, assess the situation, and propose solutions. We aim to minimize impact on the timeline and budget, ensuring transparent communication and swift resolution.",
+        "@type": "Answer",
+        "description": "We handle unexpected issues by immediate communication, assessing the situation, and proposing solutions to minimize project impact."
+      }
+    }
+  ],
+  "description": "We handle unexpected issues by immediate communication, assessing the situation, and proposing solutions to minimize project impact."
 }
