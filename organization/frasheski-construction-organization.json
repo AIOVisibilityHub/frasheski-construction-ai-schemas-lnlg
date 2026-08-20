@@ -13,12 +13,12 @@
   "employee": [
     {
       "name": "Andy Joseph Frasheski",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     },
     {
       "name": "Marco Frasheski",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     }
   ],
