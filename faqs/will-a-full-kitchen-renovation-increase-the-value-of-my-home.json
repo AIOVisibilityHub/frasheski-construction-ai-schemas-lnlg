@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a full kitchen renovation increase the value of my home?",
-  "description": "Yes, a full kitchen renovation can significantly increase your home's value, especially in the East Bay.",
   "url": "frasheskiconstruction.com/faq/will-a-full-kitchen-renovation-increase-the-value-of-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a full kitchen renovation increase the value of my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A full kitchen renovation can significantly increase the value of your home, especially in competitive markets like the East Bay. Kitchens are often considered a key selling point for potential buyers. The return on investment varies based on the scope and quality of the renovation, but a well-designed and executed kitchen update is generally a strong asset.",
-        "description": "Yes, a full kitchen renovation can significantly increase your home's value, especially in the East Bay."
-      }
-    }
-  ],
+  "name": "Will a full kitchen renovation increase the value of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a full kitchen renovation increase the value of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen renovation can significantly increase the value of your home, especially in competitive markets like the East Bay. Kitchens are often considered a key selling point for potential buyers. The return on investment varies based on the scope and quality of the renovation, but a well-designed and executed kitchen update is generally a strong asset.",
+        "@type": "Answer",
+        "description": "Yes, a full kitchen renovation can significantly increase your home's value, especially in the East Bay."
+      }
+    }
+  ],
+  "description": "Yes, a full kitchen renovation can significantly increase your home's value, especially in the East Bay."
 }

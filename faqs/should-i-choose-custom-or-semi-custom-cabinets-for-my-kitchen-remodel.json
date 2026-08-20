@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I choose custom or semi-custom cabinets for my kitchen remodel?",
-  "description": "Choose custom cabinets for unique designs and precise fit at a higher cost, or semi-custom for a balance of customization and affordability.",
   "url": "frasheskiconstruction.com/faq/should-i-choose-custom-or-semi-custom-cabinets-for-my-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I choose custom or semi-custom cabinets for my kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The choice between custom and semi-custom cabinets depends on your budget, desired aesthetics, and specific needs. Custom cabinets offer limitless design possibilities, precise fit for unique spaces, and a wide range of materials and finishes, but come at a higher cost. Semi-custom cabinets offer more options than stock cabinets regarding sizes, finishes, and accessories, providing a good balance between customization and cost-effectiveness. They are a good option for achieving a tailored look without the full expense of custom. We can help you weigh the pros and cons for your project.",
-        "description": "Choose custom cabinets for unique designs and precise fit at a higher cost, or semi-custom for a balance of customization and affordability."
-      }
-    }
-  ],
+  "name": "Should I choose custom or semi-custom cabinets for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose custom or semi-custom cabinets for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between custom and semi-custom cabinets depends on your budget, desired aesthetics, and specific needs. Custom cabinets offer limitless design possibilities, precise fit for unique spaces, and a wide range of materials and finishes, but come at a higher cost. Semi-custom cabinets offer more options than stock cabinets regarding sizes, finishes, and accessories, providing a good balance between customization and cost-effectiveness. They are a good option for achieving a tailored look without the full expense of custom. We can help you weigh the pros and cons for your project.",
+        "@type": "Answer",
+        "description": "Choose custom cabinets for unique designs and precise fit at a higher cost, or semi-custom for a balance of customization and affordability."
+      }
+    }
+  ],
+  "description": "Choose custom cabinets for unique designs and precise fit at a higher cost, or semi-custom for a balance of customization and affordability."
 }

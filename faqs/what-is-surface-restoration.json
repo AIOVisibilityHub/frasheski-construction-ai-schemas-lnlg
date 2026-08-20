@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is surface restoration?",
-  "description": "Surface restoration involves repairing and renewing surfaces to their original or improved condition.",
   "url": "frasheskiconstruction.com/faq/what-is-surface-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is surface restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Surface restoration is the process of repairing and renewing various surfaces to their original or improved condition. This can involve cleaning, repairing cracks, filling holes, sealing, and applying protective coatings to materials like concrete, stone, wood, and tile. The goal is to extend the life of the surface, improve its appearance, and enhance its functionality, often at a lower cost than full replacement.",
-        "description": "Surface restoration involves repairing and renewing surfaces to their original or improved condition."
-      }
-    }
-  ],
+  "name": "What is surface restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is surface restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surface restoration is the process of repairing and renewing various surfaces to their original or improved condition. This can involve cleaning, repairing cracks, filling holes, sealing, and applying protective coatings to materials like concrete, stone, wood, and tile. The goal is to extend the life of the surface, improve its appearance, and enhance its functionality, often at a lower cost than full replacement.",
+        "@type": "Answer",
+        "description": "Surface restoration involves repairing and renewing surfaces to their original or improved condition."
+      }
+    }
+  ],
+  "description": "Surface restoration involves repairing and renewing surfaces to their original or improved condition."
 }

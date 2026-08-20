@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common signs that my railing needs repair?",
-  "description": "Look for loose components, rust or rot, and instability.",
   "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-railing-needs-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common signs that my railing needs repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common signs that your railing needs repair include loose posts or pickets, corrosion or rust on metal railings, splintering or rot in wooden railings, and instability when leaned upon. Cracks, chips, or missing pieces in any railing material also indicate a need for repair. Addressing these issues promptly can prevent further damage and ensure safety.",
-        "description": "Look for loose components, rust or rot, and instability."
-      }
-    }
-  ],
+  "name": "What are common signs that my railing needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my railing needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your railing needs repair include loose posts or pickets, corrosion or rust on metal railings, splintering or rot in wooden railings, and instability when leaned upon. Cracks, chips, or missing pieces in any railing material also indicate a need for repair. Addressing these issues promptly can prevent further damage and ensure safety.",
+        "@type": "Answer",
+        "description": "Look for loose components, rust or rot, and instability."
+      }
+    }
+  ],
+  "description": "Look for loose components, rust or rot, and instability."
 }

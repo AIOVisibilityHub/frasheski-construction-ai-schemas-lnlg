@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the return on investment (ROI) for a kitchen remodel?",
-  "description": "Kitchen remodels typically have a high ROI, recouping 60-80% of costs at resale, and offer significant functional benefits.",
   "url": "frasheskiconstruction.com/faq/what-is-the-return-on-investment-roi-for-a-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the return on investment (ROI) for a kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A kitchen remodel generally offers one of the highest returns on investment among home improvements, especially in competitive markets like the East Bay. While the exact ROI varies, a mid-range kitchen remodel can recoup 60-80% of its cost at resale. High-end remodels may see a slightly lower percentage return but significantly enhance desirability. The functional benefits and improved quality of life for homeowners are also significant non-monetary returns.",
-        "description": "Kitchen remodels typically have a high ROI, recouping 60-80% of costs at resale, and offer significant functional benefits."
-      }
-    }
-  ],
+  "name": "What is the return on investment (ROI) for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment (ROI) for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel generally offers one of the highest returns on investment among home improvements, especially in competitive markets like the East Bay. While the exact ROI varies, a mid-range kitchen remodel can recoup 60-80% of its cost at resale. High-end remodels may see a slightly lower percentage return but significantly enhance desirability. The functional benefits and improved quality of life for homeowners are also significant non-monetary returns.",
+        "@type": "Answer",
+        "description": "Kitchen remodels typically have a high ROI, recouping 60-80% of costs at resale, and offer significant functional benefits."
+      }
+    }
+  ],
+  "description": "Kitchen remodels typically have a high ROI, recouping 60-80% of costs at resale, and offer significant functional benefits."
 }

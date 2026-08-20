@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is damaged board replacement?",
-  "description": "Damaged board replacement involves removing and replacing sections of damaged wood to restore structural integrity and aesthetic appeal.",
   "url": "frasheskiconstruction.com/faq/what-is-damaged-board-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is damaged board replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Damaged board replacement involves removing and replacing sections of damaged wood, often due to rot, pests, or water damage, on various parts of a building's exterior or interior. This process restores structural integrity and aesthetic appeal. It's crucial to address damaged boards promptly to prevent further deterioration and more extensive repairs.",
-        "description": "Damaged board replacement involves removing and replacing sections of damaged wood to restore structural integrity and aesthetic appeal."
-      }
-    }
-  ],
+  "name": "What is damaged board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is damaged board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Damaged board replacement involves removing and replacing sections of damaged wood, often due to rot, pests, or water damage, on various parts of a building's exterior or interior. This process restores structural integrity and aesthetic appeal. It's crucial to address damaged boards promptly to prevent further deterioration and more extensive repairs.",
+        "@type": "Answer",
+        "description": "Damaged board replacement involves removing and replacing sections of damaged wood to restore structural integrity and aesthetic appeal."
+      }
+    }
+  ],
+  "description": "Damaged board replacement involves removing and replacing sections of damaged wood to restore structural integrity and aesthetic appeal."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is trim and detail painting?",
-  "description": "Trim and detail painting focuses on meticulously painting architectural elements like baseboards, moldings, and window casings.",
   "url": "frasheskiconstruction.com/faq/what-is-trim-and-detail-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is trim and detail painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Trim and detail painting involves meticulously painting the architectural elements of a home that are not the main wall surfaces. This includes baseboards, crown molding, door and window casings, mantels, and other decorative accents. It requires precision to create clean lines and enhance the aesthetic appeal of a room.",
-        "description": "Trim and detail painting focuses on meticulously painting architectural elements like baseboards, moldings, and window casings."
-      }
-    }
-  ],
+  "name": "What is trim and detail painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is trim and detail painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim and detail painting involves meticulously painting the architectural elements of a home that are not the main wall surfaces. This includes baseboards, crown molding, door and window casings, mantels, and other decorative accents. It requires precision to create clean lines and enhance the aesthetic appeal of a room.",
+        "@type": "Answer",
+        "description": "Trim and detail painting focuses on meticulously painting architectural elements like baseboards, moldings, and window casings."
+      }
+    }
+  ],
+  "description": "Trim and detail painting focuses on meticulously painting architectural elements like baseboards, moldings, and window casings."
 }

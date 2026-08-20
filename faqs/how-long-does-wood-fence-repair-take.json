@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does wood fence repair take?",
-  "description": "Wood fence repair time varies; minor fixes take hours, while larger repairs might take one to two days, depending on scope and factors like weather.",
   "url": "frasheskiconstruction.com/faq/how-long-does-wood-fence-repair-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does wood fence repair take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of wood fence repair depends on the scope of the project. Minor repairs, like replacing a few pickets or adjusting a gate, might be completed in a few hours. More significant repairs involving multiple sections or structural components could take one to two days. Factors such as weather conditions and the availability of specific materials can also influence the timeline. A detailed assessment will provide a more accurate time estimate.",
-        "description": "Wood fence repair time varies; minor fixes take hours, while larger repairs might take one to two days, depending on scope and factors like weather."
-      }
-    }
-  ],
+  "name": "How long does wood fence repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wood fence repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wood fence repair depends on the scope of the project. Minor repairs, like replacing a few pickets or adjusting a gate, might be completed in a few hours. More significant repairs involving multiple sections or structural components could take one to two days. Factors such as weather conditions and the availability of specific materials can also influence the timeline. A detailed assessment will provide a more accurate time estimate.",
+        "@type": "Answer",
+        "description": "Wood fence repair time varies; minor fixes take hours, while larger repairs might take one to two days, depending on scope and factors like weather."
+      }
+    }
+  ],
+  "description": "Wood fence repair time varies; minor fixes take hours, while larger repairs might take one to two days, depending on scope and factors like weather."
 }
