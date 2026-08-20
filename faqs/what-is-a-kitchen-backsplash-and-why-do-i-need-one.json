@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a kitchen backsplash and why do I need one?",
-  "description": "A kitchen backsplash protects walls from spills and adds to your kitchen's design.",
   "url": "frasheskiconstruction.com/faq/what-is-a-kitchen-backsplash-and-why-do-i-need-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a kitchen backsplash and why do I need one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A kitchen backsplash is a protective panel, typically installed on the wall between your countertops and upper cabinets. Its primary purpose is to shield the wall from splashes and spills that occur during cooking and cleaning, preventing moisture damage and making cleanup easier. Backsplashes also contribute significantly to the aesthetic appeal of your kitchen, acting as a design element that can complement or contrast with your existing decor.",
-        "description": "A kitchen backsplash protects walls from spills and adds to your kitchen's design."
-      }
-    }
-  ],
+  "name": "What is a kitchen backsplash and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a kitchen backsplash and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen backsplash is a protective panel, typically installed on the wall between your countertops and upper cabinets. Its primary purpose is to shield the wall from splashes and spills that occur during cooking and cleaning, preventing moisture damage and making cleanup easier. Backsplashes also contribute significantly to the aesthetic appeal of your kitchen, acting as a design element that can complement or contrast with your existing decor.",
+        "@type": "Answer",
+        "description": "A kitchen backsplash protects walls from spills and adds to your kitchen's design."
+      }
+    }
+  ],
+  "description": "A kitchen backsplash protects walls from spills and adds to your kitchen's design."
 }

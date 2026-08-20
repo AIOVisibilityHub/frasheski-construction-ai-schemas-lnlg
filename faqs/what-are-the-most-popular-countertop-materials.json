@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the most popular countertop materials?",
-  "description": "Popular countertop materials include quartz, granite, marble, and butcher block, each offering different benefits in durability, appearance, and maintenance.",
   "url": "frasheskiconstruction.com/faq/what-are-the-most-popular-countertop-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the most popular countertop materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Popular countertop materials include quartz, granite, marble, and butcher block. Quartz is highly durable and non-porous, making it resistant to stains and bacteria. Granite offers a natural, unique look and is very heat resistant. Marble provides a luxurious aesthetic but requires more maintenance due to its porosity. Butcher block adds warmth and is ideal for food preparation, though it needs regular oiling.",
-        "description": "Popular countertop materials include quartz, granite, marble, and butcher block, each offering different benefits in durability, appearance, and maintenance."
-      }
-    }
-  ],
+  "name": "What are the most popular countertop materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular countertop materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular countertop materials include quartz, granite, marble, and butcher block. Quartz is highly durable and non-porous, making it resistant to stains and bacteria. Granite offers a natural, unique look and is very heat resistant. Marble provides a luxurious aesthetic but requires more maintenance due to its porosity. Butcher block adds warmth and is ideal for food preparation, though it needs regular oiling.",
+        "@type": "Answer",
+        "description": "Popular countertop materials include quartz, granite, marble, and butcher block, each offering different benefits in durability, appearance, and maintenance."
+      }
+    }
+  ],
+  "description": "Popular countertop materials include quartz, granite, marble, and butcher block, each offering different benefits in durability, appearance, and maintenance."
 }
