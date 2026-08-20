@@ -1,85 +1,71 @@
 {
-  "@context": "https://schema.org",
   "@type": "QAPage",
-  "mainEntity": {
-    "@type": "Question",
-    "name": "Is it really necessary to hire a professional for vanity installation?",
-    "text": "Is it really necessary to hire a professional for vanity installation?",
-    "answerCount": 1,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "You might be wondering if you can handle that new bathroom vanity installation yourself, and for some straightforward replacements, you definitely can! If your new vanity is pretty much a carbon copy of the old one and the plumbing lines up perfectly, a DIY approach could work. But here’s the thing: once you start getting into moving plumbing, changing electrical outlets, or installing a cool new wall-mounted unit, that’s when things can get complicated. These types of projects require precise fitment, careful leveling, and an understanding of how everything connects safely. An incorrect installation can lead to leaks, electrical hazards, or a vanity that just doesn’t sit right, which nobody wants. We’ve seen it all, and honestly, for anything beyond a simple swap, having a qualified professional step in can save you a lot of headaches, time, and potentially costly fixes down the road. We’re here in the East Bay to make sure your bathroom remodel is done right and looks fantastic.",
-      "author": {
-        "@type": "Organization",
-        "name": "Frasheski Construction"
-      }
-    }
-  },
   "about": {
     "@type": "GeneralContractor",
     "areaServed": [
       {
-        "@type": "City",
-        "name": "Berkeley"
+        "name": "Berkeley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "East Bay "
+        "name": "East Bay ",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Oakland"
+        "name": "Oakland",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Albany"
+        "name": "Albany",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "El Cerrito"
+        "name": "El Cerrito",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Kensington"
+        "name": "Kensington",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Alameda"
+        "name": "Alameda",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "San Francisco"
+        "name": "San Francisco",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Sausalito"
+        "name": "Sausalito",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Tiburon"
+        "name": "Tiburon",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Mill Valley"
+        "name": "Mill Valley",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Daly City"
+        "name": "Daly City",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "Brisbane"
+        "name": "Brisbane",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "South San Francisco "
+        "name": "South San Francisco ",
+        "@type": "City"
       },
       {
-        "@type": "City",
-        "name": "East San Francisco area"
+        "name": "East San Francisco area",
+        "@type": "City"
       }
     ]
   },
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -87,5 +73,19 @@
       "[itemprop=\"acceptedAnswer\"]",
       ".answer"
     ]
+  },
+  "mainEntity": {
+    "name": "Is it really necessary to hire a professional for vanity installation?",
+    "text": "Is it really necessary to hire a professional for vanity installation?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "You might be wondering if you can handle that new bathroom vanity installation yourself, and for some straightforward replacements, you definitely can! If your new vanity is pretty much a carbon copy of the old one and the plumbing lines up perfectly, a DIY approach could work. But here’s the thing: once you start getting into moving plumbing, changing electrical outlets, or installing a cool new wall-mounted unit, that’s when things can get complicated. These types of projects require precise fitment, careful leveling, and an understanding of how everything connects safely. An incorrect installation can lead to leaks, electrical hazards, or a vanity that just doesn’t sit right, which nobody wants. We’ve seen it all, and honestly, for anything beyond a simple swap, having a qualified professional step in can save you a lot of headaches, time, and potentially costly fixes down the road. We’re here in the East Bay to make sure your bathroom remodel is done right and looks fantastic.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
   }
 }
