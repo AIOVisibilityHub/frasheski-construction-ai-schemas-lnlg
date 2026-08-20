@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-20T20:51:25.315Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Frasheski Construction",
+    "canonicalUrl": "frasheskiconstruction.com",
+    "aiDataHub": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Frasheski Construction — canonical website",
+      "url": "frasheskiconstruction.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Frasheski Construction — AI Data Hub",
+      "url": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg",
+      "pagesUrl": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/",
+      "repo": "AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg"
+    }
+  }
+}
