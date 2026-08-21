@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T22:12:34.877Z",
+  "generatedAt": "2026-08-21T23:20:00.798Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
-    "pagesUrl": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg",
+    "pagesUrl": "https://frasheski-construction.aiovisibility.net",
     "phone": "510-318-2258",
     "email": "afrasheski@frasheski.com",
     "locations": [
@@ -128,7 +128,7 @@
   },
   "package": {
     "totalFiles": 1799,
-    "totalBytes": 6401187,
+    "totalBytes": 6207225,
     "stats": {
       "qna": 0,
       "faqs": 1466,
@@ -9060,54 +9060,54 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7088,
+        "bytes": 11858,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 16822,
+        "bytes": 21595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 282694,
+        "bytes": 288016,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 23334,
+        "bytes": 28041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 8111,
+        "bytes": 12893,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 930874,
+        "bytes": 935686,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 499706,
+        "bytes": 504440,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 14019,
+        "bytes": 18789,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 387,
+        "bytes": 337,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 4292,
+        "bytes": 4117,
         "purpose": "LLM hint"
       },
       {
@@ -9117,7 +9117,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 396,
+        "bytes": 371,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -9127,42 +9127,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1746,
+        "bytes": 1646,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 876024,
+        "bytes": 831124,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 283774,
+        "bytes": 238949,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 283774,
+        "bytes": 238949,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4124,
+        "bytes": 4074,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 284336,
+        "bytes": 284286,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 351787,
+        "bytes": 254749,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1659,
+        "bytes": 1065,
         "purpose": "Standard sitemap"
       }
     ]
@@ -9170,7 +9170,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg",
-      "pagesUrl": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/",
+      "pagesUrl": "https://frasheski-construction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg"
     }
   }

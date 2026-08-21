@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/sitemap.xml
-Sitemap: https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-sitemap.xml
+Sitemap: https://frasheski-construction.aiovisibility.net/sitemap.xml
+Sitemap: https://frasheski-construction.aiovisibility.net/ai-sitemap.xml
