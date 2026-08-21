@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-20T22:23:48.098Z",
+  "generatedAt": "2026-08-21T22:12:34.877Z",
   "client": {
     "name": "Frasheski Construction",
-    "canonicalUrl": "frasheskiconstruction.com",
+    "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
     "pagesUrl": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg",
     "phone": "510-318-2258",
     "email": "afrasheski@frasheski.com",
@@ -128,7 +128,7 @@
   },
   "package": {
     "totalFiles": 1799,
-    "totalBytes": 6399140,
+    "totalBytes": 6401187,
     "stats": {
       "qna": 0,
       "faqs": 1466,
@@ -9060,42 +9060,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 6904,
+        "bytes": 7088,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 16615,
+        "bytes": 16822,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 282487,
+        "bytes": 282694,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 23127,
+        "bytes": 23334,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 7858,
+        "bytes": 8111,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 930667,
+        "bytes": 930874,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 499499,
+        "bytes": 499706,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 13812,
+        "bytes": 14019,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -9107,7 +9107,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4246,
+        "bytes": 4292,
         "purpose": "LLM hint"
       },
       {
@@ -9127,32 +9127,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1700,
+        "bytes": 1746,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 875932,
+        "bytes": 876024,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 283728,
+        "bytes": 283774,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 283728,
+        "bytes": 283774,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4078,
+        "bytes": 4124,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 284290,
+        "bytes": 284336,
         "purpose": "Repository README"
       },
       {

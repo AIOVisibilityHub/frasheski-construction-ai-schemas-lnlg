@@ -2,7 +2,7 @@
 
 Canonical AI Data Package for Frasheski Construction.
 
-- Canonical: frasheskiconstruction.com
+- Canonical: https://frasheski-construction.aiovisibility.net
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
 
@@ -19,7 +19,7 @@ Canonical AI Data Package for Frasheski Construction.
 - **1777** total
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Frasheski Construction — canonical website — frasheskiconstruction.com
+- [canonical] Frasheski Construction — canonical website — https://frasheski-construction.aiovisibility.net
 - [ai-data-hub] Frasheski Construction — AI Data Hub — https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
