@@ -20,9 +20,9 @@ Canonical AI Data Package for Frasheski Construction.
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Frasheski Construction — canonical website — https://frasheski-construction.aiovisibility.net
-- [ai-data-hub] Frasheski Construction — AI Data Hub — https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
+- [ai-data-hub] Frasheski Construction — AI Data Hub — https://frasheski-construction.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://frasheski-construction.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
