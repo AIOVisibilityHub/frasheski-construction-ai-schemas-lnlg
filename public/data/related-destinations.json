@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-20T22:23:48.079Z",
+  "generatedAt": "2026-08-21T22:12:34.852Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,14 +11,14 @@
   "notALinkWheel": true,
   "entity": {
     "name": "Frasheski Construction",
-    "canonicalUrl": "frasheskiconstruction.com",
+    "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
     "aiDataHub": "https://aiovisibilityhub.github.io/frasheski-construction-ai-schemas-lnlg/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "Frasheski Construction — canonical website",
-      "url": "frasheskiconstruction.com"
+      "url": "https://frasheski-construction.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
