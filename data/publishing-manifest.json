@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T23:20:00.798Z",
+  "generatedAt": "2026-08-23T17:25:26.801Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
@@ -128,7 +128,7 @@
   },
   "package": {
     "totalFiles": 1799,
-    "totalBytes": 6207225,
+    "totalBytes": 6213282,
     "stats": {
       "qna": 0,
       "faqs": 1466,
@@ -8978,124 +8978,124 @@
     "reviews": [
       {
         "path": "reviews/lb-1-review.json",
-        "bytes": 751,
+        "bytes": 774,
         "purpose": "schema"
       },
       {
         "path": "reviews/linda-y-2-review.json",
-        "bytes": 453,
+        "bytes": 476,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-3-review.json",
-        "bytes": 593,
+        "bytes": 616,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-4-review.json",
-        "bytes": 609,
+        "bytes": 632,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-5-review.json",
-        "bytes": 578,
+        "bytes": 601,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-6-review.json",
-        "bytes": 563,
+        "bytes": 586,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-7-review.json",
-        "bytes": 531,
+        "bytes": 554,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-8-review.json",
-        "bytes": 560,
+        "bytes": 583,
         "purpose": "schema"
       },
       {
         "path": "reviews/larry-m-9-review.json",
-        "bytes": 608,
+        "bytes": 631,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-10-review.json",
-        "bytes": 566,
+        "bytes": 589,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-11-review.json",
-        "bytes": 633,
+        "bytes": 656,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-12-review.json",
-        "bytes": 546,
+        "bytes": 569,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-13-review.json",
-        "bytes": 657,
+        "bytes": 680,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-14-review.json",
-        "bytes": 587,
+        "bytes": 610,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-15-review.json",
-        "bytes": 606,
+        "bytes": 629,
         "purpose": "schema"
       },
       {
         "path": "reviews/aggregate-rating.json",
-        "bytes": 216,
+        "bytes": 239,
         "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 11858,
+        "bytes": 11976,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 21595,
+        "bytes": 26136,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 288016,
+        "bytes": 288134,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 28041,
+        "bytes": 28527,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12893,
+        "bytes": 12965,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 935686,
+        "bytes": 935804,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 504440,
+        "bytes": 504558,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 18789,
+        "bytes": 18907,
         "purpose": "LLM-optimized public page"
       }
     ],
