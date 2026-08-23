@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T17:25:26.801Z",
+  "generatedAt": "2026-08-23T17:25:39.689Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
@@ -128,7 +128,7 @@
   },
   "package": {
     "totalFiles": 1799,
-    "totalBytes": 6213282,
+    "totalBytes": 6174480,
     "stats": {
       "qna": 0,
       "faqs": 1466,
@@ -9060,42 +9060,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11976,
+        "bytes": 7206,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 26136,
+        "bytes": 21231,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 288134,
+        "bytes": 282812,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 28527,
+        "bytes": 23820,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12965,
+        "bytes": 8183,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 935804,
+        "bytes": 930992,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 504558,
+        "bytes": 499824,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 18907,
+        "bytes": 14137,
         "purpose": "LLM-optimized public page"
       }
     ],
