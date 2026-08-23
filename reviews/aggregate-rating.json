@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Frasheski Construction",
-  "url": "frasheskiconstruction.com",
+  "url": "https://frasheski-construction.aiovisibility.net",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 5,
