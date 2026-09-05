@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T19:11:27.764Z",
+  "generatedAt": "2026-09-05T21:55:14.476Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
@@ -128,8 +128,8 @@
     ]
   },
   "package": {
-    "totalFiles": 1799,
-    "totalBytes": 6179118,
+    "totalFiles": 2056,
+    "totalBytes": 10271199,
     "stats": {
       "qna": 0,
       "faqs": 1466,
@@ -9061,42 +9061,1327 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11601,
+        "bytes": 16622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 21258,
+        "bytes": 26151,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 282839,
+        "bytes": 288149,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 23847,
+        "bytes": 28542,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 8210,
+        "bytes": 12996,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 931019,
+        "bytes": 935819,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 499851,
+        "bytes": 207648,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 14164,
+        "bytes": 18922,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-during-your-kitchen-remodel.html",
+        "bytes": 16475,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/key-steps-for-a-smooth-kitchen-remodel.html",
+        "bytes": 14671,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-in-a-pro-for-your-kitchen-remodel.html",
+        "bytes": 16207,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-long-does-a-full-kitchen-renovation-really-take.html",
+        "bytes": 16968,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-it-s-time-for-a-full-kitchen-renovation.html",
+        "bytes": 16538,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-full-kitchen-renovation-without-losing-your-mind.html",
+        "bytes": 15270,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/struggling-to-make-your-kitchen-flow-better.html",
+        "bytes": 13622,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-layout-feels-all-wrong.html",
+        "bytes": 12694,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-kitchen-design-blunders.html",
+        "bytes": 16767,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-aren-t-my-cabinets-functioning-for-me-anymore.html",
+        "bytes": 14033,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/smooth-cabinet-installation-a-timeline.html",
+        "bytes": 15799,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/don-t-make-these-cabinet-installation-mistakes.html",
+        "bytes": 16563,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-my-cabinets-looking-so-worn-out.html",
+        "bytes": 16464,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-happens-during-cabinet-refinishing.html",
+        "bytes": 15055,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/top-mistakes-to-avoid-when-refinishing-cabinets.html",
+        "bytes": 17854,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-your-countertops-need-an-upgrade.html",
+        "bytes": 16621,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-long-does-countertop-replacement-really-take.html",
+        "bytes": 15820,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-pitfalls-in-your-countertop-project.html",
+        "bytes": 17876,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-kitchen-backsplash.html",
+        "bytes": 15999,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-mistakes-to-avoid-when-installing-a-backsplash.html",
+        "bytes": 16093,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-backsplash-installation-timeline.html",
+        "bytes": 16223,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-your-kitchen-plumbing-ready-for-an-upgrade.html",
+        "bytes": 16192,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-key-steps-in-a-kitchen-plumbing-upgrade.html",
+        "bytes": 16320,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-homeowners-make-with-kitchen-plumbing.html",
+        "bytes": 16507,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-isn-t-my-new-kitchen-appliance-working-right.html",
+        "bytes": 16100,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-your-kitchen-ready-for-new-appliances-a-step-by-step-guide.html",
+        "bytes": 14979,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-when-planning-kitchen-electrical.html",
+        "bytes": 16262,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-electrical-isn-t-up-to-snuff.html",
+        "bytes": 16276,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/making-sure-your-new-appliances-fit-a-pre-installation-checklist.html",
+        "bytes": 16462,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-kitchen-electrical-headaches-during-a-remodel.html",
+        "bytes": 14959,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-walls-look-dull-is-it-time-for-a-paint-job.html",
+        "bytes": 15501,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/help-my-paint-project-is-taking-forever-what-gives.html",
+        "bytes": 16056,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-painting-project-headaches.html",
+        "bytes": 13462,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-bathroom-is-tiny-can-i-still-remodel-it.html",
+        "bytes": 15516,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/worried-about-hidden-problems-in-my-bathroom-remodel.html",
+        "bytes": 15801,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/bathroom-remodel-costs-what-am-i-really-paying-for.html",
+        "bytes": 16118,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-bathroom-layout-just-doesn-t-work-anymore.html",
+        "bytes": 16242,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-full-bathroom-renovation-without-major-headaches.html",
+        "bytes": 15148,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-steer-clear-of-when-upgrading-your-shower-or-tub.html",
+        "bytes": 16117,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-pro-for-shower-or-tub-upgrades.html",
+        "bytes": 16665,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-your-bathroom-remodel-project.html",
+        "bytes": 16097,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-ensure-your-new-shower-or-tub-installation-goes-smoothly.html",
+        "bytes": 16085,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-new-vanity-not-fit-right.html",
+        "bytes": 15804,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-a-new-bathroom-vanity.html",
+        "bytes": 15855,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-vanity-dreams-don-t-quite-match-reality.html",
+        "bytes": 15852,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-bathroom-sink-plumbing-doesn-t-line-up.html",
+        "bytes": 16027,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-hidden-costs-of-diy-bathroom-plumbing.html",
+        "bytes": 15554,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-ensure-your-new-vanity-plumbing-is-leak-free.html",
+        "bytes": 14641,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dealing-with-outdated-bathroom-wiring-what-to-know.html",
+        "bytes": 15830,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-bathroom-electrical-upgrades.html",
+        "bytes": 16048,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-bathroom-outlets-aren-t-cutting-it-anymore.html",
+        "bytes": 15975,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/tired-of-your-bathroom-tile-here-s-how-to-upgrade.html",
+        "bytes": 16029,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-steer-clear-of-during-your-tile-project.html",
+        "bytes": 16267,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/preparing-for-a-flawless-tile-installation-a-checklist.html",
+        "bytes": 14921,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-paint-job-goes-wrong-mistakes-to-avoid.html",
+        "bytes": 15884,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-your-interior-painting-project.html",
+        "bytes": 14398,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/beyond-the-brush-when-to-hire-a-pro-for-paint-finish-work.html",
+        "bytes": 16077,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/making-your-bathroom-safe-and-comfortable-a-guide.html",
+        "bytes": 16152,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-in-bathroom-accessibility-modifications.html",
+        "bytes": 16047,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-your-bathroom-needs-accessibility-upgrades.html",
+        "bytes": 16960,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-remodeling-headaches.html",
+        "bytes": 14199,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-your-home-renovation.html",
+        "bytes": 15770,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-interior-renovation-budget-gets-tricky.html",
+        "bytes": 14747,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/navigating-the-timeline-of-your-home-remodeling-project.html",
+        "bytes": 14653,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-full-home-remodel-right-for-your-berkeley-home.html",
+        "bytes": 16389,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/choosing-the-right-contractor-for-your-interior-update.html",
+        "bytes": 16063,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-room-feels-outdated.html",
+        "bytes": 15610,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-modernize-an-old-room-without-a-full-remodel.html",
+        "bytes": 14423,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-updating-an-outdated-room.html",
+        "bytes": 16332,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-room-layout-just-isn-t-working.html",
+        "bytes": 15800,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-improve-your-home-s-layout-for-better-flow.html",
+        "bytes": 14266,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-when-redesigning-room-layouts.html",
+        "bytes": 16413,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-a-multi-room-remodel.html",
+        "bytes": 16031,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-multi-room-remodel.html",
+        "bytes": 14281,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-multi-room-remodeling.html",
+        "bytes": 16347,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-interior-finishes-feel-outdated.html",
+        "bytes": 15831,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/choosing-the-right-interior-finishes-for-your-home.html",
+        "bytes": 14728,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-sidestep-when-upgrading-your-interior-finishes.html",
+        "bytes": 16168,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-remodel-budget-feels-out-of-control.html",
+        "bytes": 16369,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-berkeley-home-remodel.html",
+        "bytes": 14649,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-your-home-remodel.html",
+        "bytes": 16391,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-room-addition-right-for-my-east-bay-home.html",
+        "bytes": 16573,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/navigating-room-addition-permits-in-the-east-bay.html",
+        "bytes": 14788,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-hidden-costs-of-room-additions.html",
+        "bytes": 16406,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-home-addition-project-feel-like-it-s-taking-forever.html",
+        "bytes": 15760,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-a-seamless-home-addition-without-the-headaches.html",
+        "bytes": 14136,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-watch-out-for-when-budgeting-for-a-home-addition.html",
+        "bytes": 15798,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-make-your-room-expansion-feel-like-it-s-always-been-there.html",
+        "bytes": 14521,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-room-expansion-keep-running-into-roadblocks.html",
+        "bytes": 15890,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-hidden-costs-of-expanding-a-room.html",
+        "bytes": 15738,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-new-room-construction-project-always-seem-to-go-over-budget.html",
+        "bytes": 16941,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-when-adding-a-new-room-to-your-berkeley-home.html",
+        "bytes": 15645,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-home-addition-the-right-move-for-my-property.html",
+        "bytes": 17049,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-consider-before-starting-an-interior-build-out.html",
+        "bytes": 17027,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-during-your-interior-build-out-project.html",
+        "bytes": 17666,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-phases-of-an-interior-build-out.html",
+        "bytes": 18434,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-aren-t-my-new-addition-s-lights-working.html",
+        "bytes": 16603,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-coordinate-plumbing-and-electrical-in-your-home-addition.html",
+        "bytes": 16272,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-coordinating-plumbing-and-electrical-for-your-addition.html",
+        "bytes": 17387,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-hire-a-professional-for-addition-painting.html",
+        "bytes": 17099,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-a-flawless-paint-finish-in-your-home-addition.html",
+        "bytes": 13171,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/5-common-painting-mistakes-in-new-additions-and-how-to-avoid-them.html",
+        "bytes": 18123,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-my-cabinets-falling-apart.html",
+        "bytes": 15708,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-ask-before-you-hire-a-cabinet-pro.html",
+        "bytes": 14055,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-repair-your-cabinets-vs-replace-them.html",
+        "bytes": 15756,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-cabinet-installation-headaches.html",
+        "bytes": 15339,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-ensure-your-cabinet-quote-is-complete.html",
+        "bytes": 15587,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-spot-a-bad-cabinet-repair.html",
+        "bytes": 14127,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-bring-in-the-pros-for-cabinet-installation.html",
+        "bytes": 16369,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-cabinet-installation.html",
+        "bytes": 14717,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/choosing-between-cabinet-refacing-and-replacement.html",
+        "bytes": 16647,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-pitfalls-in-kitchen-cabinet-upgrades.html",
+        "bytes": 16513,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-custom-kitchen-cabinet-project.html",
+        "bytes": 15148,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-mistakes-when-upgrading-your-bathroom-vanity.html",
+        "bytes": 14652,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-steps-for-a-smooth-bathroom-vanity-upgrade.html",
+        "bytes": 15869,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-really-necessary-to-hire-a-professional-for-vanity-installation.html",
+        "bytes": 16384,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-vanity-hardware-feels-loose.html",
+        "bytes": 14711,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-call-a-pro-for-cabinet-hardware-issues.html",
+        "bytes": 16648,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-cabinet-doors-are-crooked-can-i-fix-them-myself.html",
+        "bytes": 16226,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-aren-t-my-cabinets-working-for-my-space.html",
+        "bytes": 18275,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-regrets-with-custom-cabinetry.html",
+        "bytes": 18328,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-the-right-fit-for-your-custom-cabinets.html",
+        "bytes": 18042,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-your-home-needs-a-professional-interior-paint-job.html",
+        "bytes": 18270,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-diy-paint-job-goes-wrong.html",
+        "bytes": 18105,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-prep-your-walls-for-a-flawless-paint-finish.html",
+        "bytes": 18981,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-ask-before-hiring-for-whole-home-painting.html",
+        "bytes": 15732,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-new-paint-job-peeling-so-soon.html",
+        "bytes": 15701,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/preparing-your-home-for-an-interior-paint-project.html",
+        "bytes": 15979,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-diy-room-painting-worth-the-trouble.html",
+        "bytes": 15660,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-room-painting-blunders.html",
+        "bytes": 15668,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-included-in-a-professional-room-painting-quote.html",
+        "bytes": 15744,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-when-painting-your-kitchen-cabinets.html",
+        "bytes": 15614,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-long-does-professional-kitchen-cabinet-painting-really-take.html",
+        "bytes": 14357,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-painting-your-kitchen-cabinets-yourself.html",
+        "bytes": 16032,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-bathroom-paint-isn-t-holding-up-and-what-to-do.html",
+        "bytes": 15889,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-involved-in-a-professional-bathroom-painting-project.html",
+        "bytes": 15972,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-hire-a-pro-for-your-bathroom-painting-needs.html",
+        "bytes": 15743,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-paint-after-a-remodel.html",
+        "bytes": 15368,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/making-sense-of-post-remodel-painting-timelines.html",
+        "bytes": 14249,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-painting-mistakes-in-your-remodel.html",
+        "bytes": 15567,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-the-right-time-for-trim-painting.html",
+        "bytes": 15259,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/prepping-for-perfect-trim-paint.html",
+        "bytes": 15665,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-trim-paint-isn-t-looking-great.html",
+        "bytes": 15522,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-deck-boards-are-soft-what-s-going-on.html",
+        "bytes": 15883,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-repair-my-deck-versus-replacing-it-entirely.html",
+        "bytes": 16113,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-mistakes-in-deck-repair.html",
+        "bytes": 16046,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-signs-my-deck-s-structure-is-compromised.html",
+        "bytes": 16156,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-i-repair-my-deck-s-support-system-safely.html",
+        "bytes": 16276,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-right-contractor-for-deck-structural-repairs.html",
+        "bytes": 14954,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-deck-boards-feel-spongy-what-should-i-do.html",
+        "bytes": 16116,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-tell-if-your-deck-needs-new-boards-or-a-full-replacement.html",
+        "bytes": 16540,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-deck-board-replacement.html",
+        "bytes": 16582,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-deck-railing-wiggles-is-it-still-safe.html",
+        "bytes": 16168,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-fix-a-loose-deck-railing-post.html",
+        "bytes": 15784,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-your-deck-railing-needs-professional-repair.html",
+        "bytes": 17251,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-my-stairs-creaking-and-what-should-i-do.html",
+        "bytes": 15972,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-stair-repair-projects.html",
+        "bytes": 14855,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-repair-or-replace-your-damaged-stairs.html",
+        "bytes": 16178,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-surfaces-look-worn-and-tired.html",
+        "bytes": 16081,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-restoring-surfaces.html",
+        "bytes": 14505,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-involved-in-a-professional-surface-restoration.html",
+        "bytes": 16341,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-deck-needs-more-than-just-a-cleaning.html",
+        "bytes": 15774,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/top-mistakes-to-avoid-with-deck-maintenance.html",
+        "bytes": 16124,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-keep-your-deck-looking-great-year-round.html",
+        "bytes": 14732,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-that-leaning-fence.html",
+        "bytes": 16111,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-people-make-repairing-wood-fences.html",
+        "bytes": 16236,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-tell-if-your-wood-fence-can-be-saved.html",
+        "bytes": 15008,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-fence-panel-is-loose.html",
+        "bytes": 14097,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-does-a-leaning-fence-post-need-professional-help.html",
+        "bytes": 15583,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-when-repairing-a-wooden-fence-panel.html",
+        "bytes": 15527,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-right-way-to-replace-a-rotted-fence-post.html",
+        "bytes": 14209,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/should-you-repair-or-replace-your-fence-panel.html",
+        "bytes": 15609,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-fence-post-wobbly.html",
+        "bytes": 15307,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-automatic-gate-isn-t-opening-what-s-happening.html",
+        "bytes": 15708,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-long-does-gate-repair-really-take.html",
+        "bytes": 13761,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-troubleshooting-gate-issues.html",
+        "bytes": 15762,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-your-gate-control-board-needs-replacing.html",
+        "bytes": 16014,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-identify-the-right-replacement-board-for-your-gate-operator.html",
+        "bytes": 15054,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/do-i-really-need-a-professional-for-a-damaged-control-board.html",
+        "bytes": 16714,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-fence-is-leaning-repair-or-replace.html",
+        "bytes": 15856,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/tackling-persistent-plumbing-problems.html",
+        "bytes": 15469,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-repairing-your-fence.html",
+        "bytes": 16028,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-it-s-time-for-a-plumbing-or-electrical-pro.html",
+        "bytes": 16167,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-stabilize-a-wobbly-fence-post.html",
+        "bytes": 15207,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-that-electrical-issue-just-a-blip-or-a-big-problem.html",
+        "bytes": 16313,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-plumbing-needs-an-upgrade.html",
+        "bytes": 14322,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-kitchen-plumbing-installation-mistakes.html",
+        "bytes": 15889,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-upgrade-your-kitchen-plumbing-during-a-remodel.html",
+        "bytes": 15968,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-your-current-plumbing-ready-for-a-remodel.html",
+        "bytes": 15610,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/don-t-make-these-remodel-plumbing-mistakes.html",
+        "bytes": 15660,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-remodel-plumbing.html",
+        "bytes": 15533,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-bathroom-plumbing-installation.html",
+        "bytes": 15782,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-you-need-to-know-before-your-bathroom-plumbing-installation.html",
+        "bytes": 14730,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-moving-my-bathroom-fixtures-a-diy-job.html",
+        "bytes": 16043,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-for-new-electrical-work-in-your-remodel.html",
+        "bytes": 14502,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-electrical-mistakes-to-avoid-during-a-home-remodel.html",
+        "bytes": 15993,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-remodel-electrical-work.html",
+        "bytes": 15580,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-isn-t-my-kitchen-lighting-working-for-me.html",
+        "bytes": 15548,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-right-bathroom-lighting.html",
+        "bytes": 14390,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-lighting-mistakes-in-your-remodel.html",
+        "bytes": 16044,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-your-new-light-fixture-too-heavy-for-the-box.html",
+        "bytes": 16370,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-consider-before-installing-new-electrical-fixtures.html",
+        "bytes": 16262,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-an-electrician-for-fixture-installation.html",
+        "bytes": 16001,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-remodel-always-go-over-budget.html",
+        "bytes": 15988,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-keep-your-remodel-schedule-from-spiraling-out-of-control.html",
+        "bytes": 14917,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-hire-a-pro-for-my-remodeling-project.html",
+        "bytes": 15926,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-do-i-need-to-decide-before-my-remodel-contractor-starts-bidding.html",
+        "bytes": 14221,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-remodel-scope-so-hard-to-pin-down.html",
+        "bytes": 15970,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-bring-in-a-professional-for-remodel-planning.html",
+        "bytes": 16002,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-remodel-schedule-keeps-slipping.html",
+        "bytes": 15713,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-remodel-project-s-sequence-effectively.html",
+        "bytes": 14781,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-costly-scheduling-mistakes-in-your-renovation.html",
+        "bytes": 16088,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-plumbing-rough-in-right-the-first-time.html",
+        "bytes": 15973,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-coordinate-plumbing-with-other-trades-seamlessly.html",
+        "bytes": 14832,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-to-sidestep-in-plumbing-installation.html",
+        "bytes": 16159,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-electrical-system-needs-a-coordination-check.html",
+        "bytes": 15556,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-electrical-coordination-headaches.html",
+        "bytes": 14237,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/electrical-coordination-your-top-questions-answered.html",
+        "bytes": 16461,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/5-mistakes-to-avoid-when-installing-cabinets.html",
+        "bytes": 15644,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-for-flawless-cabinet-installation.html",
+        "bytes": 14162,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-proper-cabinet-installation-coordination-matters.html",
+        "bytes": 15822,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-countertop-installation-mistakes.html",
+        "bytes": 16508,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-happens-during-my-countertop-installation-project.html",
+        "bytes": 15247,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-countertop-installation.html",
+        "bytes": 16266,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-tile-installation-mistakes.html",
+        "bytes": 16183,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-should-i-expect-during-my-tile-project.html",
+        "bytes": 14916,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-pro-for-tile-work.html",
+        "bytes": 16123,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-isn-t-my-new-flooring-looking-right.html",
+        "bytes": 15992,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-for-a-smooth-flooring-installation.html",
+        "bytes": 14466,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-flooring-installation-a-must.html",
+        "bytes": 16058,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-check-before-installing-a-new-appliance.html",
+        "bytes": 14464,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-with-new-appliance-hookups.html",
+        "bytes": 16099,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-get-a-pro-for-appliance-installation.html",
+        "bytes": 15913,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-fixture-installation-goes-wrong-common-mistakes-to-avoid.html",
+        "bytes": 16498,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/smooth-fixture-installation-your-step-by-step-guide.html",
+        "bytes": 14729,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-fixture-installation-needs-a-pro.html",
+        "bytes": 15970,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/painting-perfection-what-to-do-before-the-brushes-come-out.html",
+        "bytes": 14895,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/navigating-interior-painting-a-step-by-step-guide.html",
+        "bytes": 14884,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-hire-a-pro-for-your-interior-painting-project.html",
+        "bytes": 16296,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-mistakes-in-finish-carpentry-coordination.html",
+        "bytes": 15097,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-hire-a-pro-for-finish-carpentry-coordination.html",
+        "bytes": 16244,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-do-i-prepare-my-home-for-finish-carpentry-work.html",
+        "bytes": 14676,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-there-gaps-in-my-trim-and-molding.html",
+        "bytes": 16097,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-professional-for-trim-and-molding.html",
+        "bytes": 16896,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-the-details-right-what-to-look-for-in-trim-and-molding-installation.html",
+        "bytes": 17272,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-new-door-hardware-just-won-t-cooperate.html",
+        "bytes": 15871,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-happens-during-a-professional-door-hardware-install.html",
+        "bytes": 14374,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-door-and-hardware-installation.html",
+        "bytes": 16800,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-the-final-touches-on-my-remodel-so-important.html",
+        "bytes": 15680,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-the-project-closeout-phase.html",
+        "bytes": 14205,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/don-t-overlook-these-final-details-in-your-renovation.html",
+        "bytes": 16644,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-punch-list-feels-endless.html",
+        "bytes": 15880,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-master-your-punch-list-for-a-smooth-project-closeout.html",
+        "bytes": 14961,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-worry-about-my-punch-list-deadline.html",
+        "bytes": 16007,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-your-home-renovation-walkthrough.html",
+        "bytes": 16003,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-prepare-for-your-renovation-walkthrough.html",
+        "bytes": 14229,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-your-final-walkthrough.html",
+        "bytes": 15636,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -9133,17 +10418,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 831124,
+        "bytes": 944544,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 238949,
+        "bytes": 275272,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 238949,
+        "bytes": 275272,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -9153,17 +10438,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 284286,
+        "bytes": 325319,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 254749,
+        "bytes": 289014,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1065,
+        "bytes": 35330,
         "purpose": "Standard sitemap"
       }
     ]
