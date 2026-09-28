@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-28T23:57:51.478Z",
+  "generatedAt": "2026-09-28T23:58:27.231Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
@@ -129,7 +129,7 @@
   },
   "package": {
     "totalFiles": 2748,
-    "totalBytes": 10004878,
+    "totalBytes": 9936516,
     "stats": {
       "qna": 0,
       "faqs": 2265,
@@ -13776,72 +13776,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16622,
+        "bytes": 11576,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 27428,
+        "bytes": 22530,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 79159,
+        "bytes": 73920,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 29819,
+        "bytes": 25123,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 14273,
+        "bytes": 9486,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1468092,
+        "bytes": 1463285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 16065,
+        "bytes": 11269,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 20199,
+        "bytes": 15450,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 222327,
+        "bytes": 217476,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 118683,
+        "bytes": 113762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 405751,
+        "bytes": 400859,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 196022,
+        "bytes": 191094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 74324,
+        "bytes": 69502,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 102242,
+        "bytes": 97312,
         "purpose": "LLM-optimized public page"
       }
     ],
