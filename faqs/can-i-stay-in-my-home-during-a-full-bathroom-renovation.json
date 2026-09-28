@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/can-i-stay-in-my-home-during-a-full-bathroom-renovation",
-  "name": "Can I stay in my home during a full bathroom renovation?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay in my home during a full bathroom renovation?",
+  "description": "Staying home during a full bathroom renovation is possible but expect significant disruption, including loss of bathroom access, noise, and dust. Prepare for te",
+  "url": "frasheskiconstruction.com/faq/can-i-stay-in-my-home-during-a-full-bathroom-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay in my home during a full bathroom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it is possible to remain in your home during a full bathroom renovation, it often involves significant disruption. You will likely lose access to that specific bathroom for several weeks, necessitating alternative arrangements. Noise, dust, and contractor presence are also factors. We aim to minimize inconvenience, but clients should prepare for temporary loss of utilities in the renovation area and adjust their daily routines accordingly.",
+        "description": "Staying home during a full bathroom renovation is possible but expect significant disruption, including loss of bathroom access, noise, and dust. Prepare for temporary utility loss."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Can I stay in my home during a full bathroom renovation?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Whether you can stay in your home during a full bathroom renovation depends on the scope of work and if you have another functioning bathroom. If the renovated bathroom is your only one, or if the project involves significant dust, noise, and disruption, staying elsewhere may be more comfortable and practical. We will discuss these considerations with you before construction begins.",
-        "@type": "Answer",
-        "description": "Staying home during renovation depends on the scope of work and if you have another functional bathroom, or if disruption is significant."
-      }
-    }
-  ],
-  "description": "Staying home during renovation depends on the scope of work and if you have another functional bathroom, or if disruption is significant."
+  }
 }

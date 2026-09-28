@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-long-does-interior-painting-usually-take",
-  "name": "How long does interior painting usually take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does interior painting usually take?",
+  "description": "Interior painting duration depends on room size, wall condition, and paint type, typically ranging from 1-2 days for a single room to over a week for an entire",
+  "url": "frasheskiconstruction.com/faq/how-long-does-interior-painting-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does interior painting usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an interior painting project varies significantly based on factors like the size of the rooms, the condition of the walls, and the type of paint being applied. For instance, a single room might take 1-2 days, while an entire house could take a week or more. Extensive surface repairs or custom finishes will naturally extend the timeline. During our initial consultation, we provide a detailed timeline specific to your project, allowing you to plan accordingly for furniture movement or access needs.",
+        "description": "Interior painting duration depends on room size, wall condition, and paint type, typically ranging from 1-2 days for a single room to over a week for an entire house."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does interior painting usually take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of interior painting depends on several factors, including the size of the area, the condition of the walls, the type of paint used, and the complexity of the project. A single room might take 1-2 days, while an entire home could range from 3-7 days or more. We provide a projected timeline with our estimate after assessing your specific project needs.",
-        "@type": "Answer",
-        "description": "Painting duration varies by project size and complexity, from a few days for a room to over a week for an entire home."
-      }
-    }
-  ],
-  "description": "Painting duration varies by project size and complexity, from a few days for a room to over a week for an entire home."
+  }
 }

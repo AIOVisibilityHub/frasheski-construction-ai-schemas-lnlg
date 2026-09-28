@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-plumbing-fixtures-for-my-remodel",
-  "name": "How do I choose the right plumbing fixtures for my remodel?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right plumbing fixtures for my remodel?",
+  "description": "Choose plumbing fixtures based on budget, aesthetics, water efficiency, and functionality. Consider tradeoffs between initial cost and long-term performance.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-plumbing-fixtures-for-my-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right plumbing fixtures for my remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right plumbing fixtures for your remodel involves considering your budget, aesthetic preferences, water efficiency, and the functionality needed for your space. Practical tradeoffs exist between upfront cost and long-term performance. For example, while a high-end low-flow toilet may cost more initially, it can significantly reduce water consumption and utility bills over time. We help clients evaluate these factors, balancing design aspirations with practical considerations like maintenance and durability specific to their needs.",
+        "description": "Choose plumbing fixtures based on budget, aesthetics, water efficiency, and functionality. Consider tradeoffs between initial cost and long-term performance."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose the right plumbing fixtures for my remodel?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Choosing plumbing fixtures involves balancing aesthetics, functionality, and your budget. Consider the style of your remodel, the quality and durability of materials, water efficiency ratings, and ease of maintenance. We can advise on suitable fixture options that meet your needs and complement your design vision.",
-        "@type": "Answer",
-        "description": "Choose plumbing fixtures based on style, functionality, material quality, water efficiency, and budget."
-      }
-    }
-  ],
-  "description": "Choose plumbing fixtures based on style, functionality, material quality, water efficiency, and budget."
+  }
 }

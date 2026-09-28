@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-shower-or-tub-upgrade-project-take",
-  "name": "How long does a typical shower or tub upgrade project take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical shower or tub upgrade project take?",
+  "description": "Shower or tub upgrades usually take one to three weeks, but custom materials or unexpected repairs can extend the timeline. A project timeline is provided durin",
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-shower-or-tub-upgrade-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical shower or tub upgrade project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard shower or tub upgrade project typically takes between one to three weeks from demolition to completion, assuming no major structural or plumbing issues are uncovered. The timeline can be extended if custom materials are ordered, significant layout changes are made, or if unexpected repairs are needed. We provide a projected timeline during the planning phase, and regular communication keeps you informed of progress.",
+        "description": "Shower or tub upgrades usually take one to three weeks, but custom materials or unexpected repairs can extend the timeline. A project timeline is provided during planning."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a typical shower or tub upgrade project take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Most shower or tub upgrade projects take between 3 to 7 days, depending on the complexity and extent of the work. This includes demolition, plumbing adjustments, new fixture installation, tiling, and finishing. Larger projects involving significant layout changes or custom work may take longer. We'll provide a timeline during our project planning.",
-        "@type": "Answer",
-        "description": "Typical upgrades take 3-7 days, depending on complexity. Larger projects may take longer."
-      }
-    }
-  ],
-  "description": "Typical upgrades take 3-7 days, depending on complexity. Larger projects may take longer."
+  }
 }
