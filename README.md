@@ -9,14 +9,14 @@ Canonical AI Data Package for Frasheski Construction.
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
-- 1466 faqs
+- 2265 faqs
 - 15 reviews
 - 29 services
 - 2 locations
 - 6 personnel
-- 257 helpArticles
+- 400 helpArticles
 - 1 organization
-- **1777** total
+- **2719** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Frasheski Construction — canonical website — https://frasheski-construction.aiovisibility.net
@@ -85,16 +85,28 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`team/marco-frasheski-east-bay-area.json`](./team/marco-frasheski-east-bay-area.json) — schema
 - [`team/marco-frasheski-profile.json`](./team/marco-frasheski-profile.json) — schema
 
-### FAQs (1466)
+### FAQs (2265)
+- [`faqs/are-cabinet-repairs-a-good-option-for-older-homes-in-the-east-bay-area.json`](./faqs/are-cabinet-repairs-a-good-option-for-older-homes-in-the-east-bay-area.json) — schema
 - [`faqs/are-custom-cabinets-a-good-investment-for-my-home.json`](./faqs/are-custom-cabinets-a-good-investment-for-my-home.json) — schema
 - [`faqs/are-deck-structural-repairs-in-compliance-with-local-building-codes.json`](./faqs/are-deck-structural-repairs-in-compliance-with-local-building-codes.json) — schema
 - [`faqs/are-hardware-and-functional-adjustments-covered-under-a-warranty.json`](./faqs/are-hardware-and-functional-adjustments-covered-under-a-warranty.json) — schema
+- [`faqs/are-led-lights-a-good-investment-for-kitchen-and-bathroom-lighting.json`](./faqs/are-led-lights-a-good-investment-for-kitchen-and-bathroom-lighting.json) — schema
+- [`faqs/are-permits-required-for-cabinet-installation-in-the-berkeley-area.json`](./faqs/are-permits-required-for-cabinet-installation-in-the-berkeley-area.json) — schema
+- [`faqs/are-permits-required-for-deck-repairs-in-east-bay-cities-like-berkeley-or-oaklan.json`](./faqs/are-permits-required-for-deck-repairs-in-east-bay-cities-like-berkeley-or-oaklan.json) — schema
 - [`faqs/are-permits-required-for-deck-structural-repairs-in-berkeley-or-oakland.json`](./faqs/are-permits-required-for-deck-structural-repairs-in-berkeley-or-oakland.json) — schema
 - [`faqs/are-permits-required-for-electrical-work-during-a-remodel-in-the-east-bay-area.json`](./faqs/are-permits-required-for-electrical-work-during-a-remodel-in-the-east-bay-area.json) — schema
+- [`faqs/are-there-any-specific-considerations-for-tile-and-surface-updates-in-older-home.json`](./faqs/are-there-any-specific-considerations-for-tile-and-surface-updates-in-older-home.json) — schema
+- [`faqs/are-there-any-specific-electrical-regulations-for-bathrooms-in-the-east-bay-area.json`](./faqs/are-there-any-specific-electrical-regulations-for-bathrooms-in-the-east-bay-area.json) — schema
 - [`faqs/are-there-different-types-of-grab-bars-and-which-should-i-choose.json`](./faqs/are-there-different-types-of-grab-bars-and-which-should-i-choose.json) — schema
 - [`faqs/are-there-eco-friendly-options-for-deck-cleaning-and-sealing.json`](./faqs/are-there-eco-friendly-options-for-deck-cleaning-and-sealing.json) — schema
 - [`faqs/are-there-eco-friendly-or-low-voc-paint-options-available-for-home-additions-in.json`](./faqs/are-there-eco-friendly-or-low-voc-paint-options-available-for-home-additions-in.json) — schema
+- [`faqs/are-there-specific-building-codes-for-accessible-bathrooms-in-the-east-bay-area.json`](./faqs/are-there-specific-building-codes-for-accessible-bathrooms-in-the-east-bay-area.json) — schema
+- [`faqs/are-there-specific-challenges-for-wood-fence-repairs-in-the-berkeley-and-oakland.json`](./faqs/are-there-specific-challenges-for-wood-fence-repairs-in-the-berkeley-and-oakland.json) — schema
+- [`faqs/are-there-specific-considerations-for-custom-cabinets-in-high-humidity-areas-lik.json`](./faqs/are-there-specific-considerations-for-custom-cabinets-in-high-humidity-areas-lik.json) — schema
+- [`faqs/are-there-specific-considerations-for-remodeling-older-homes-in-albany-or-el-cer.json`](./faqs/are-there-specific-considerations-for-remodeling-older-homes-in-albany-or-el-cer.json) — schema
+- [`faqs/are-there-specific-maintenance-requirements-after-surface-restoration.json`](./faqs/are-there-specific-maintenance-requirements-after-surface-restoration.json) — schema
 - [`faqs/are-there-specific-materials-recommended-for-accessibility-minded-bathrooms-to-e.json`](./faqs/are-there-specific-materials-recommended-for-accessibility-minded-bathrooms-to-e.json) — schema
+- [`faqs/are-there-specific-plumbing-or-electrical-codes-i-need-to-be-aware-of-for-renova.json`](./faqs/are-there-specific-plumbing-or-electrical-codes-i-need-to-be-aware-of-for-renova.json) — schema
 - [`faqs/are-you-licensed-and-insured-for-interior-painting-in-berkeley-and-the-east-bay.json`](./faqs/are-you-licensed-and-insured-for-interior-painting-in-berkeley-and-the-east-bay.json) — schema
 - [`faqs/are-you-licensed-and-insured-for-paint-and-finish-work-in-the-east-bay-and-surro.json`](./faqs/are-you-licensed-and-insured-for-paint-and-finish-work-in-the-east-bay-and-surro.json) — schema
 - [`faqs/are-your-cabinet-installation-services-available-in-albany-and-el-cerrito.json`](./faqs/are-your-cabinet-installation-services-available-in-albany-and-el-cerrito.json) — schema
@@ -102,75 +114,126 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/are-your-painters-licensed-and-insured-in-oakland.json`](./faqs/are-your-painters-licensed-and-insured-in-oakland.json) — schema
 - [`faqs/are-your-stair-repair-services-available-in-oakland-and-albany.json`](./faqs/are-your-stair-repair-services-available-in-oakland-and-albany.json) — schema
 - [`faqs/can-a-home-addition-increase-my-property-value.json`](./faqs/can-a-home-addition-increase-my-property-value.json) — schema
+- [`faqs/can-a-project-manager-help-with-material-selection-and-procurement.json`](./faqs/can-a-project-manager-help-with-material-selection-and-procurement.json) — schema
 - [`faqs/can-a-room-addition-increase-my-home-s-value.json`](./faqs/can-a-room-addition-increase-my-home-s-value.json) — schema
+- [`faqs/can-a-room-expansion-increase-the-value-of-my-home.json`](./faqs/can-a-room-expansion-increase-the-value-of-my-home.json) — schema
+- [`faqs/can-accessible-bathroom-modifications-improve-the-resale-value-of-my-home.json`](./faqs/can-accessible-bathroom-modifications-improve-the-resale-value-of-my-home.json) — schema
+- [`faqs/can-all-types-of-fence-posts-be-repaired-or-do-some-always-require-replacement.json`](./faqs/can-all-types-of-fence-posts-be-repaired-or-do-some-always-require-replacement.json) — schema
 - [`faqs/can-all-types-of-fences-be-restored-for-stability.json`](./faqs/can-all-types-of-fences-be-restored-for-stability.json) — schema
+- [`faqs/can-clients-request-changes-or-additions-during-the-final-detail-work-phase.json`](./faqs/can-clients-request-changes-or-additions-during-the-final-detail-work-phase.json) — schema
+- [`faqs/can-custom-cabinets-be-designed-for-unusual-or-awkward-spaces.json`](./faqs/can-custom-cabinets-be-designed-for-unusual-or-awkward-spaces.json) — schema
 - [`faqs/can-deck-repair-improve-my-home-s-value.json`](./faqs/can-deck-repair-improve-my-home-s-value.json) — schema
 - [`faqs/can-electrical-coordination-improve-the-efficiency-of-my-building-s-electrical-s.json`](./faqs/can-electrical-coordination-improve-the-efficiency-of-my-building-s-electrical-s.json) — schema
+- [`faqs/can-electrical-coordination-improve-the-reliability-of-my-building-s-power-suppl.json`](./faqs/can-electrical-coordination-improve-the-reliability-of-my-building-s-power-suppl.json) — schema
+- [`faqs/can-existing-plumbing-and-electrical-systems-impact-the-design-and-coordination.json`](./faqs/can-existing-plumbing-and-electrical-systems-impact-the-design-and-coordination.json) — schema
+- [`faqs/can-finish-carpentry-coordination-help-integrate-custom-elements-into-my-project.json`](./faqs/can-finish-carpentry-coordination-help-integrate-custom-elements-into-my-project.json) — schema
+- [`faqs/can-frasheski-construction-coordinate-appliance-installation-for-unique-or-custo.json`](./faqs/can-frasheski-construction-coordinate-appliance-installation-for-unique-or-custo.json) — schema
 - [`faqs/can-frasheski-construction-coordinate-appliance-installations-if-i-purchase-appl.json`](./faqs/can-frasheski-construction-coordinate-appliance-installations-if-i-purchase-appl.json) — schema
+- [`faqs/can-frasheski-construction-handle-cabinet-refacing-or-only-new-installations.json`](./faqs/can-frasheski-construction-handle-cabinet-refacing-or-only-new-installations.json) — schema
 - [`faqs/can-frasheski-construction-help-with-accessibility-modifications-for-small-bathr.json`](./faqs/can-frasheski-construction-help-with-accessibility-modifications-for-small-bathr.json) — schema
 - [`faqs/can-frasheski-construction-help-with-accessibility-modifications-in-oakland-or-b.json`](./faqs/can-frasheski-construction-help-with-accessibility-modifications-in-oakland-or-b.json) — schema
 - [`faqs/can-frasheski-construction-help-with-cabinet-design-for-small-spaces.json`](./faqs/can-frasheski-construction-help-with-cabinet-design-for-small-spaces.json) — schema
 - [`faqs/can-frasheski-construction-help-with-custom-cabinets-for-rooms-other-than-kitche.json`](./faqs/can-frasheski-construction-help-with-custom-cabinets-for-rooms-other-than-kitche.json) — schema
+- [`faqs/can-frasheski-construction-help-with-custom-door-installations.json`](./faqs/can-frasheski-construction-help-with-custom-door-installations.json) — schema
+- [`faqs/can-frasheski-construction-help-with-design-ideas-for-my-interior-renovation.json`](./faqs/can-frasheski-construction-help-with-design-ideas-for-my-interior-renovation.json) — schema
 - [`faqs/can-frasheski-construction-help-with-design-ideas-for-my-remodel.json`](./faqs/can-frasheski-construction-help-with-design-ideas-for-my-remodel.json) — schema
 - [`faqs/can-frasheski-construction-help-with-design-ideas-for-my-tile-update.json`](./faqs/can-frasheski-construction-help-with-design-ideas-for-my-tile-update.json) — schema
 - [`faqs/can-frasheski-construction-help-with-material-selection-for-finish-carpentry.json`](./faqs/can-frasheski-construction-help-with-material-selection-for-finish-carpentry.json) — schema
 - [`faqs/can-frasheski-construction-help-with-outdoor-electrical-fixture-installation.json`](./faqs/can-frasheski-construction-help-with-outdoor-electrical-fixture-installation.json) — schema
 - [`faqs/can-frasheski-construction-help-with-punch-list-completion-in-the-east-bay.json`](./faqs/can-frasheski-construction-help-with-punch-list-completion-in-the-east-bay.json) — schema
 - [`faqs/can-frasheski-construction-help-with-the-design-phase-of-my-build-out.json`](./faqs/can-frasheski-construction-help-with-the-design-phase-of-my-build-out.json) — schema
+- [`faqs/can-frasheski-construction-install-customer-supplied-electrical-fixtures.json`](./faqs/can-frasheski-construction-install-customer-supplied-electrical-fixtures.json) — schema
 - [`faqs/can-frasheski-construction-install-smart-home-lighting-fixtures.json`](./faqs/can-frasheski-construction-install-smart-home-lighting-fixtures.json) — schema
+- [`faqs/can-frasheski-construction-match-existing-board-materials-and-finishes.json`](./faqs/can-frasheski-construction-match-existing-board-materials-and-finishes.json) — schema
 - [`faqs/can-frasheski-construction-match-the-style-of-my-existing-home-for-an-addition.json`](./faqs/can-frasheski-construction-match-the-style-of-my-existing-home-for-an-addition.json) — schema
+- [`faqs/can-frasheski-construction-repair-railings-that-have-structural-issues.json`](./faqs/can-frasheski-construction-repair-railings-that-have-structural-issues.json) — schema
+- [`faqs/can-frasheski-construction-replace-an-existing-light-fixture-with-a-ceiling-fan.json`](./faqs/can-frasheski-construction-replace-an-existing-light-fixture-with-a-ceiling-fan.json) — schema
 - [`faqs/can-functional-layout-improvements-increase-my-property-value.json`](./faqs/can-functional-layout-improvements-increase-my-property-value.json) — schema
+- [`faqs/can-hardware-and-functional-adjustments-improve-energy-efficiency.json`](./faqs/can-hardware-and-functional-adjustments-improve-energy-efficiency.json) — schema
+- [`faqs/can-i-add-items-to-the-punch-list-after-it-has-been-finalized.json`](./faqs/can-i-add-items-to-the-punch-list-after-it-has-been-finalized.json) — schema
 - [`faqs/can-i-add-more-outlets-to-my-kitchen-during-an-electrical-upgrade.json`](./faqs/can-i-add-more-outlets-to-my-kitchen-during-an-electrical-upgrade.json) — schema
 - [`faqs/can-i-choose-custom-paint-colors-and-finishes-for-my-addition.json`](./faqs/can-i-choose-custom-paint-colors-and-finishes-for-my-addition.json) — schema
+- [`faqs/can-i-choose-eco-friendly-or-low-voc-paints-for-my-home-addition.json`](./faqs/can-i-choose-eco-friendly-or-low-voc-paints-for-my-home-addition.json) — schema
 - [`faqs/can-i-choose-specific-materials-and-finishes-for-my-custom-cabinets.json`](./faqs/can-i-choose-specific-materials-and-finishes-for-my-custom-cabinets.json) — schema
+- [`faqs/can-i-choose-specific-tile-designs-or-do-you-have-a-limited-selection.json`](./faqs/can-i-choose-specific-tile-designs-or-do-you-have-a-limited-selection.json) — schema
+- [`faqs/can-i-convert-my-existing-tub-into-a-walk-in-shower.json`](./faqs/can-i-convert-my-existing-tub-into-a-walk-in-shower.json) — schema
 - [`faqs/can-i-do-some-interior-finish-upgrades-myself.json`](./faqs/can-i-do-some-interior-finish-upgrades-myself.json) — schema
 - [`faqs/can-i-do-some-plumbing-or-electrical-work-myself-to-save-on-coordination-costs.json`](./faqs/can-i-do-some-plumbing-or-electrical-work-myself-to-save-on-coordination-costs.json) — schema
 - [`faqs/can-i-get-custom-cut-countertops-in-oakland.json`](./faqs/can-i-get-custom-cut-countertops-in-oakland.json) — schema
 - [`faqs/can-i-install-a-backsplash-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-install-a-backsplash-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-install-a-garbage-disposal-with-any-kitchen-sink.json`](./faqs/can-i-install-a-garbage-disposal-with-any-kitchen-sink.json) — schema
+- [`faqs/can-i-install-a-new-shower-or-bathtub-in-a-different-location-during-a-bathroom.json`](./faqs/can-i-install-a-new-shower-or-bathtub-in-a-different-location-during-a-bathroom.json) — schema
 - [`faqs/can-i-install-an-electrical-fixture-myself-or-should-i-call-an-electrician.json`](./faqs/can-i-install-an-electrical-fixture-myself-or-should-i-call-an-electrician.json) — schema
 - [`faqs/can-i-install-bathroom-plumbing-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-install-bathroom-plumbing-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-install-dimmer-switches-with-all-types-of-kitchen-and-bathroom-lights.json`](./faqs/can-i-install-dimmer-switches-with-all-types-of-kitchen-and-bathroom-lights.json) — schema
 - [`faqs/can-i-install-my-own-bathroom-plumbing-fixtures.json`](./faqs/can-i-install-my-own-bathroom-plumbing-fixtures.json) — schema
 - [`faqs/can-i-install-my-own-kitchen-plumbing-fixtures.json`](./faqs/can-i-install-my-own-kitchen-plumbing-fixtures.json) — schema
 - [`faqs/can-i-install-smart-lighting-in-my-bathroom.json`](./faqs/can-i-install-smart-lighting-in-my-bathroom.json) — schema
+- [`faqs/can-i-install-some-of-the-cabinets-myself-to-save-money-and-have-you-install-the.json`](./faqs/can-i-install-some-of-the-cabinets-myself-to-save-money-and-have-you-install-the.json) — schema
 - [`faqs/can-i-install-trim-and-molding-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-install-trim-and-molding-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-keep-my-existing-sink-when-replacing-countertops.json`](./faqs/can-i-keep-my-existing-sink-when-replacing-countertops.json) — schema
+- [`faqs/can-i-live-in-my-home-during-a-full-kitchen-renovation.json`](./faqs/can-i-live-in-my-home-during-a-full-kitchen-renovation.json) — schema
 - [`faqs/can-i-live-in-my-home-during-a-kitchen-remodel.json`](./faqs/can-i-live-in-my-home-during-a-kitchen-remodel.json) — schema
+- [`faqs/can-i-live-in-my-home-during-a-major-remodeling-project.json`](./faqs/can-i-live-in-my-home-during-a-major-remodeling-project.json) — schema
 - [`faqs/can-i-live-in-my-home-during-a-major-renovation.json`](./faqs/can-i-live-in-my-home-during-a-major-renovation.json) — schema
 - [`faqs/can-i-live-in-my-home-during-a-multi-room-kitchen-and-bathroom-remodel.json`](./faqs/can-i-live-in-my-home-during-a-multi-room-kitchen-and-bathroom-remodel.json) — schema
+- [`faqs/can-i-live-in-my-home-during-a-new-room-addition-construction.json`](./faqs/can-i-live-in-my-home-during-a-new-room-addition-construction.json) — schema
+- [`faqs/can-i-live-in-my-home-during-a-remodel-or-should-i-plan-to-move-out.json`](./faqs/can-i-live-in-my-home-during-a-remodel-or-should-i-plan-to-move-out.json) — schema
 - [`faqs/can-i-live-in-my-home-during-a-remodel.json`](./faqs/can-i-live-in-my-home-during-a-remodel.json) — schema
 - [`faqs/can-i-live-in-my-home-during-an-interior-renovation.json`](./faqs/can-i-live-in-my-home-during-an-interior-renovation.json) — schema
 - [`faqs/can-i-live-in-my-home-during-new-room-construction.json`](./faqs/can-i-live-in-my-home-during-new-room-construction.json) — schema
+- [`faqs/can-i-live-in-my-home-during-post-remodel-painting.json`](./faqs/can-i-live-in-my-home-during-post-remodel-painting.json) — schema
 - [`faqs/can-i-make-changes-to-the-trade-schedule-once-construction-has-started.json`](./faqs/can-i-make-changes-to-the-trade-schedule-once-construction-has-started.json) — schema
+- [`faqs/can-i-paint-over-existing-cabinet-finishes-or-do-they-need-to-be-stripped.json`](./faqs/can-i-paint-over-existing-cabinet-finishes-or-do-they-need-to-be-stripped.json) — schema
+- [`faqs/can-i-paint-over-existing-wallpaper.json`](./faqs/can-i-paint-over-existing-wallpaper.json) — schema
+- [`faqs/can-i-perform-deck-maintenance-myself-or-should-i-hire-professionals.json`](./faqs/can-i-perform-deck-maintenance-myself-or-should-i-hire-professionals.json) — schema
 - [`faqs/can-i-perform-deck-structural-repairs-myself.json`](./faqs/can-i-perform-deck-structural-repairs-myself.json) — schema
+- [`faqs/can-i-perform-fence-stability-restoration-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-perform-fence-stability-restoration-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-perform-hardware-and-functional-adjustments-myself-or-do-i-need-a-professi.json`](./faqs/can-i-perform-hardware-and-functional-adjustments-myself-or-do-i-need-a-professi.json) — schema
+- [`faqs/can-i-perform-small-deck-structural-repairs-myself-or-should-i-always-hire-a-pro.json`](./faqs/can-i-perform-small-deck-structural-repairs-myself-or-should-i-always-hire-a-pro.json) — schema
 - [`faqs/can-i-provide-my-own-materials-or-subcontractors-for-the-remodeling-project.json`](./faqs/can-i-provide-my-own-materials-or-subcontractors-for-the-remodeling-project.json) — schema
 - [`faqs/can-i-repair-a-fence-post-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-repair-a-fence-post-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-repair-a-wood-fence-panel-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-repair-a-wood-fence-panel-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-repair-my-wood-fence-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-repair-my-wood-fence-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-replace-damaged-boards-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-replace-damaged-boards-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-replace-deck-boards-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-replace-deck-boards-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-replace-just-a-few-damaged-deck-boards-or-do-i-need-to-replace-the-entire.json`](./faqs/can-i-replace-just-a-few-damaged-deck-boards-or-do-i-need-to-replace-the-entire.json) — schema
 - [`faqs/can-i-replace-just-my-cabinet-doors-instead-of-the-entire-cabinets.json`](./faqs/can-i-replace-just-my-cabinet-doors-instead-of-the-entire-cabinets.json) — schema
 - [`faqs/can-i-replace-just-the-countertop-of-my-bathroom-vanity.json`](./faqs/can-i-replace-just-the-countertop-of-my-bathroom-vanity.json) — schema
+- [`faqs/can-i-replace-my-countertops-without-replacing-my-cabinets.json`](./faqs/can-i-replace-my-countertops-without-replacing-my-cabinets.json) — schema
 - [`faqs/can-i-replace-my-kitchen-faucet-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-replace-my-kitchen-faucet-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-request-changes-during-the-final-quality-walkthrough.json`](./faqs/can-i-request-changes-during-the-final-quality-walkthrough.json) — schema
 - [`faqs/can-i-request-specific-final-detail-work-during-my-project.json`](./faqs/can-i-request-specific-final-detail-work-during-my-project.json) — schema
 - [`faqs/can-i-save-money-by-hiring-separate-plumbing-and-electrical-contractors-and-coor.json`](./faqs/can-i-save-money-by-hiring-separate-plumbing-and-electrical-contractors-and-coor.json) — schema
 - [`faqs/can-i-stay-in-my-home-during-a-full-bathroom-renovation.json`](./faqs/can-i-stay-in-my-home-during-a-full-bathroom-renovation.json) — schema
+- [`faqs/can-i-stay-in-my-home-during-a-functional-layout-renovation.json`](./faqs/can-i-stay-in-my-home-during-a-functional-layout-renovation.json) — schema
 - [`faqs/can-i-stay-in-my-home-during-a-room-modernization-project.json`](./faqs/can-i-stay-in-my-home-during-a-room-modernization-project.json) — schema
 - [`faqs/can-i-stay-in-my-home-during-a-shower-or-tub-upgrade.json`](./faqs/can-i-stay-in-my-home-during-a-shower-or-tub-upgrade.json) — schema
+- [`faqs/can-i-supply-my-own-fixtures-for-installation.json`](./faqs/can-i-supply-my-own-fixtures-for-installation.json) — schema
+- [`faqs/can-i-upgrade-my-bathroom-fixtures-without-a-full-renovation.json`](./faqs/can-i-upgrade-my-bathroom-fixtures-without-a-full-renovation.json) — schema
 - [`faqs/can-i-upgrade-my-garbage-disposal-myself.json`](./faqs/can-i-upgrade-my-garbage-disposal-myself.json) — schema
 - [`faqs/can-i-upgrade-my-kitchen-cabinets-without-replacing-my-countertops.json`](./faqs/can-i-upgrade-my-kitchen-cabinets-without-replacing-my-countertops.json) — schema
 - [`faqs/can-i-upgrade-my-kitchen-sink-without-replacing-the-countertops.json`](./faqs/can-i-upgrade-my-kitchen-sink-without-replacing-the-countertops.json) — schema
+- [`faqs/can-i-use-my-stairs-during-the-repair-process.json`](./faqs/can-i-use-my-stairs-during-the-repair-process.json) — schema
 - [`faqs/can-i-withhold-payment-until-the-punch-list-is-finished.json`](./faqs/can-i-withhold-payment-until-the-punch-list-is-finished.json) — schema
+- [`faqs/can-individual-wood-fence-panels-be-repaired-or-do-they-always-need-full-replace.json`](./faqs/can-individual-wood-fence-panels-be-repaired-or-do-they-always-need-full-replace.json) — schema
 - [`faqs/can-low-water-pressure-in-my-shower-be-fixed-and-how.json`](./faqs/can-low-water-pressure-in-my-shower-be-fixed-and-how.json) — schema
 - [`faqs/can-modernization-improve-the-energy-efficiency-of-my-room.json`](./faqs/can-modernization-improve-the-energy-efficiency-of-my-room.json) — schema
+- [`faqs/can-outdated-room-modernization-improve-energy-efficiency-and-air-quality.json`](./faqs/can-outdated-room-modernization-improve-energy-efficiency-and-air-quality.json) — schema
+- [`faqs/can-plumbing-coordination-help-reduce-costs-on-my-construction-project.json`](./faqs/can-plumbing-coordination-help-reduce-costs-on-my-construction-project.json) — schema
 - [`faqs/can-plumbing-coordination-help-with-water-efficiency-in-a-new-building.json`](./faqs/can-plumbing-coordination-help-with-water-efficiency-in-a-new-building.json) — schema
 - [`faqs/can-repairing-my-stairs-improve-my-home-s-value.json`](./faqs/can-repairing-my-stairs-improve-my-home-s-value.json) — schema
+- [`faqs/can-surface-restoration-address-structural-issues-or-is-it-purely-cosmetic.json`](./faqs/can-surface-restoration-address-structural-issues-or-is-it-purely-cosmetic.json) — schema
+- [`faqs/can-you-assist-with-minor-repairs-or-surface-imperfections-before-painting.json`](./faqs/can-you-assist-with-minor-repairs-or-surface-imperfections-before-painting.json) — schema
 - [`faqs/can-you-coordinate-cabinet-installation-with-other-remodeling-services.json`](./faqs/can-you-coordinate-cabinet-installation-with-other-remodeling-services.json) — schema
+- [`faqs/can-you-coordinate-cabinet-installation-with-other-trades-like-plumbing-and-elec.json`](./faqs/can-you-coordinate-cabinet-installation-with-other-trades-like-plumbing-and-elec.json) — schema
+- [`faqs/can-you-coordinate-flooring-installation-with-other-renovations-happening-simult.json`](./faqs/can-you-coordinate-flooring-installation-with-other-renovations-happening-simult.json) — schema
 - [`faqs/can-you-coordinate-the-installation-of-client-supplied-fixtures.json`](./faqs/can-you-coordinate-the-installation-of-client-supplied-fixtures.json) — schema
+- [`faqs/can-you-coordinate-tile-installation-for-outdoor-spaces-or-unique-areas-in-berke.json`](./faqs/can-you-coordinate-tile-installation-for-outdoor-spaces-or-unique-areas-in-berke.json) — schema
 - [`faqs/can-you-coordinate-tile-installation-if-i-ve-already-purchased-my-tiles.json`](./faqs/can-you-coordinate-tile-installation-if-i-ve-already-purchased-my-tiles.json) — schema
 - [`faqs/can-you-handle-bathroom-electrical-and-lighting-upgrades-in-older-homes-in-areas.json`](./faqs/can-you-handle-bathroom-electrical-and-lighting-upgrades-in-older-homes-in-areas.json) — schema
 - [`faqs/can-you-handle-custom-appliance-installations.json`](./faqs/can-you-handle-custom-appliance-installations.json) — schema
+- [`faqs/can-you-handle-structural-changes-as-part-of-a-multi-room-remodel.json`](./faqs/can-you-handle-structural-changes-as-part-of-a-multi-room-remodel.json) — schema
 - [`faqs/can-you-help-me-choose-the-right-flooring-material.json`](./faqs/can-you-help-me-choose-the-right-flooring-material.json) — schema
 - [`faqs/can-you-help-me-choose-the-right-lighting-for-my-kitchen-and-bathroom-renovation.json`](./faqs/can-you-help-me-choose-the-right-lighting-for-my-kitchen-and-bathroom-renovation.json) — schema
 - [`faqs/can-you-help-with-color-selection-for-my-interior.json`](./faqs/can-you-help-with-color-selection-for-my-interior.json) — schema
@@ -183,27 +246,38 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/can-you-help-with-outdoor-electrical-wiring-for-a-deck-or-patio-remodel-in-alban.json`](./faqs/can-you-help-with-outdoor-electrical-wiring-for-a-deck-or-patio-remodel-in-alban.json) — schema
 - [`faqs/can-you-help-with-selecting-the-right-countertop-material-for-my-home.json`](./faqs/can-you-help-with-selecting-the-right-countertop-material-for-my-home.json) — schema
 - [`faqs/can-you-help-with-tile-and-surface-updates-for-both-kitchens-and-bathrooms.json`](./faqs/can-you-help-with-tile-and-surface-updates-for-both-kitchens-and-bathrooms.json) — schema
+- [`faqs/can-you-install-a-backsplash-over-existing-tile.json`](./faqs/can-you-install-a-backsplash-over-existing-tile.json) — schema
 - [`faqs/can-you-install-cabinets-in-kitchens-as-well-as-bathrooms.json`](./faqs/can-you-install-cabinets-in-kitchens-as-well-as-bathrooms.json) — schema
+- [`faqs/can-you-install-custom-built-cabinets-or-only-pre-fabricated-ones.json`](./faqs/can-you-install-custom-built-cabinets-or-only-pre-fabricated-ones.json) — schema
 - [`faqs/can-you-match-existing-cabinet-finishes-during-a-repair.json`](./faqs/can-you-match-existing-cabinet-finishes-during-a-repair.json) — schema
 - [`faqs/can-you-match-existing-paint-colors-during-a-remodel.json`](./faqs/can-you-match-existing-paint-colors-during-a-remodel.json) — schema
+- [`faqs/can-you-match-existing-paint-colors.json`](./faqs/can-you-match-existing-paint-colors.json) — schema
 - [`faqs/can-you-match-existing-railing-styles-during-a-repair.json`](./faqs/can-you-match-existing-railing-styles-during-a-repair.json) — schema
 - [`faqs/can-you-match-existing-trim-colors-or-do-i-need-to-choose-a-new-one.json`](./faqs/can-you-match-existing-trim-colors-or-do-i-need-to-choose-a-new-one.json) — schema
+- [`faqs/can-you-match-existing-trim-colors-or-recommend-new-ones.json`](./faqs/can-you-match-existing-trim-colors-or-recommend-new-ones.json) — schema
 - [`faqs/can-you-match-existing-trim-colors.json`](./faqs/can-you-match-existing-trim-colors.json) — schema
 - [`faqs/can-you-match-the-paint-or-stain-of-the-existing-boards.json`](./faqs/can-you-match-the-paint-or-stain-of-the-existing-boards.json) — schema
 - [`faqs/can-you-paint-kitchen-cabinets-that-are-laminated.json`](./faqs/can-you-paint-kitchen-cabinets-that-are-laminated.json) — schema
 - [`faqs/can-you-paint-over-any-type-of-kitchen-cabinet-material.json`](./faqs/can-you-paint-over-any-type-of-kitchen-cabinet-material.json) — schema
+- [`faqs/can-you-paint-over-bathroom-tiles.json`](./faqs/can-you-paint-over-bathroom-tiles.json) — schema
+- [`faqs/can-you-paint-over-existing-wallpaper.json`](./faqs/can-you-paint-over-existing-wallpaper.json) — schema
 - [`faqs/can-you-repair-a-deck-that-has-dry-rot.json`](./faqs/can-you-repair-a-deck-that-has-dry-rot.json) — schema
 - [`faqs/can-you-repair-a-gate-that-won-t-open-or-close-properly.json`](./faqs/can-you-repair-a-gate-that-won-t-open-or-close-properly.json) — schema
 - [`faqs/can-you-repair-all-types-of-gates.json`](./faqs/can-you-repair-all-types-of-gates.json) — schema
 - [`faqs/can-you-repair-both-wood-and-metal-railings.json`](./faqs/can-you-repair-both-wood-and-metal-railings.json) — schema
+- [`faqs/can-you-repair-damaged-cabinet-doors-and-drawers-during-refinishing.json`](./faqs/can-you-repair-damaged-cabinet-doors-and-drawers-during-refinishing.json) — schema
 - [`faqs/can-you-repair-metal-fence-posts-or-only-wood-posts.json`](./faqs/can-you-repair-metal-fence-posts-or-only-wood-posts.json) — schema
 - [`faqs/can-you-repair-outdoor-stairs.json`](./faqs/can-you-repair-outdoor-stairs.json) — schema
+- [`faqs/can-you-repair-specialized-wood-fence-types-like-redwood-or-custom-designs.json`](./faqs/can-you-repair-specialized-wood-fence-types-like-redwood-or-custom-designs.json) — schema
 - [`faqs/can-you-repair-water-damaged-cabinets.json`](./faqs/can-you-repair-water-damaged-cabinets.json) — schema
 - [`faqs/can-you-restore-stability-to-all-types-of-fences.json`](./faqs/can-you-restore-stability-to-all-types-of-fences.json) — schema
 - [`faqs/do-custom-cabinets-increase-home-value.json`](./faqs/do-custom-cabinets-increase-home-value.json) — schema
+- [`faqs/do-custom-cabinets-offer-better-organization-than-standard-options.json`](./faqs/do-custom-cabinets-offer-better-organization-than-standard-options.json) — schema
+- [`faqs/do-functional-layout-improvements-increase-home-value-in-the-east-bay-area.json`](./faqs/do-functional-layout-improvements-increase-home-value-in-the-east-bay-area.json) — schema
 - [`faqs/do-home-additions-increase-property-value-in-oakland.json`](./faqs/do-home-additions-increase-property-value-in-oakland.json) — schema
 - [`faqs/do-i-need-a-dedicated-circuit-for-my-bathroom-outlets.json`](./faqs/do-i-need-a-dedicated-circuit-for-my-bathroom-outlets.json) — schema
 - [`faqs/do-i-need-a-dedicated-circuit-for-my-kitchen-appliances.json`](./faqs/do-i-need-a-dedicated-circuit-for-my-kitchen-appliances.json) — schema
+- [`faqs/do-i-need-a-permit-for-a-bathroom-remodel-in-berkeley-or-the-east-bay.json`](./faqs/do-i-need-a-permit-for-a-bathroom-remodel-in-berkeley-or-the-east-bay.json) — schema
 - [`faqs/do-i-need-a-permit-for-a-bathroom-vanity-upgrade-in-berkeley-or-oakland.json`](./faqs/do-i-need-a-permit-for-a-bathroom-vanity-upgrade-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-a-permit-for-a-room-addition-in-berkeley.json`](./faqs/do-i-need-a-permit-for-a-room-addition-in-berkeley.json) — schema
 - [`faqs/do-i-need-a-permit-for-a-room-expansion-in-albany.json`](./faqs/do-i-need-a-permit-for-a-room-expansion-in-albany.json) — schema
@@ -215,77 +289,110 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-berkeley-or-oakland.json`](./faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-oakland-or-berkeley.json`](./faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-oakland-or-berkeley.json) — schema
 - [`faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-oakland.json`](./faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-oakland.json) — schema
+- [`faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-the-east-bay-area.json`](./faqs/do-i-need-a-permit-for-electrical-fixture-installation-in-the-east-bay-area.json) — schema
 - [`faqs/do-i-need-a-permit-for-electrical-work-during-a-remodel-in-berkeley.json`](./faqs/do-i-need-a-permit-for-electrical-work-during-a-remodel-in-berkeley.json) — schema
+- [`faqs/do-i-need-a-permit-for-fence-post-repair-in-berkeley-or-other-east-bay-cities.json`](./faqs/do-i-need-a-permit-for-fence-post-repair-in-berkeley-or-other-east-bay-cities.json) — schema
 - [`faqs/do-i-need-a-permit-for-kitchen-plumbing-installation-in-oakland.json`](./faqs/do-i-need-a-permit-for-kitchen-plumbing-installation-in-oakland.json) — schema
 - [`faqs/do-i-need-a-permit-for-kitchen-plumbing-upgrades-in-oakland.json`](./faqs/do-i-need-a-permit-for-kitchen-plumbing-upgrades-in-oakland.json) — schema
 - [`faqs/do-i-need-a-permit-for-kitchen-plumbing-work-in-the-east-bay.json`](./faqs/do-i-need-a-permit-for-kitchen-plumbing-work-in-the-east-bay.json) — schema
 - [`faqs/do-i-need-a-permit-for-major-plumbing-or-electrical-work-in-oakland.json`](./faqs/do-i-need-a-permit-for-major-plumbing-or-electrical-work-in-oakland.json) — schema
 - [`faqs/do-i-need-a-permit-for-my-interior-home-renovation-project.json`](./faqs/do-i-need-a-permit-for-my-interior-home-renovation-project.json) — schema
 - [`faqs/do-i-need-a-permit-for-new-room-construction-in-berkeley-or-oakland.json`](./faqs/do-i-need-a-permit-for-new-room-construction-in-berkeley-or-oakland.json) — schema
+- [`faqs/do-i-need-a-permit-for-railing-repair-in-berkeley-or-oakland.json`](./faqs/do-i-need-a-permit-for-railing-repair-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-a-professional-for-appliance-area-preparation.json`](./faqs/do-i-need-a-professional-for-appliance-area-preparation.json) — schema
 - [`faqs/do-i-need-a-punch-list-for-small-renovation-projects-in-berkeley-or-oakland.json`](./faqs/do-i-need-a-punch-list-for-small-renovation-projects-in-berkeley-or-oakland.json) — schema
+- [`faqs/do-i-need-an-architect-for-a-commercial-interior-build-out.json`](./faqs/do-i-need-an-architect-for-a-commercial-interior-build-out.json) — schema
+- [`faqs/do-i-need-an-architect-for-a-home-addition-or-can-frasheski-construction-handle.json`](./faqs/do-i-need-an-architect-for-a-home-addition-or-can-frasheski-construction-handle.json) — schema
 - [`faqs/do-i-need-an-architect-for-a-small-home-remodel-in-berkeley.json`](./faqs/do-i-need-an-architect-for-a-small-home-remodel-in-berkeley.json) — schema
 - [`faqs/do-i-need-an-architect-for-my-interior-build-out.json`](./faqs/do-i-need-an-architect-for-my-interior-build-out.json) — schema
 - [`faqs/do-i-need-an-interior-build-out-or-just-a-renovation.json`](./faqs/do-i-need-an-interior-build-out-or-just-a-renovation.json) — schema
 - [`faqs/do-i-need-architectural-plans-for-functional-layout-improvements.json`](./faqs/do-i-need-architectural-plans-for-functional-layout-improvements.json) — schema
+- [`faqs/do-i-need-architectural-plans-or-permits-for-a-multi-room-remodel-in-berkeley-or.json`](./faqs/do-i-need-architectural-plans-or-permits-for-a-multi-room-remodel-in-berkeley-or.json) — schema
 - [`faqs/do-i-need-new-cabinets-or-can-i-reface-my-existing-ones.json`](./faqs/do-i-need-new-cabinets-or-can-i-reface-my-existing-ones.json) — schema
 - [`faqs/do-i-need-new-cabinets-or-can-my-existing-ones-be-refaced.json`](./faqs/do-i-need-new-cabinets-or-can-my-existing-ones-be-refaced.json) — schema
 - [`faqs/do-i-need-new-countertops-if-i-upgrade-my-kitchen-cabinets.json`](./faqs/do-i-need-new-countertops-if-i-upgrade-my-kitchen-cabinets.json) — schema
+- [`faqs/do-i-need-new-plumbing-when-installing-a-new-bathroom-vanity.json`](./faqs/do-i-need-new-plumbing-when-installing-a-new-bathroom-vanity.json) — schema
 - [`faqs/do-i-need-new-plumbing-when-upgrading-my-bathroom-vanity.json`](./faqs/do-i-need-new-plumbing-when-upgrading-my-bathroom-vanity.json) — schema
 - [`faqs/do-i-need-permits-for-a-bathroom-remodel-in-berkeley-or-oakland.json`](./faqs/do-i-need-permits-for-a-bathroom-remodel-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-permits-for-a-bathroom-remodel-in-berkeley.json`](./faqs/do-i-need-permits-for-a-bathroom-remodel-in-berkeley.json) — schema
 - [`faqs/do-i-need-permits-for-a-full-bathroom-renovation-in-the-east-bay-area.json`](./faqs/do-i-need-permits-for-a-full-bathroom-renovation-in-the-east-bay-area.json) — schema
 - [`faqs/do-i-need-permits-for-a-full-bathroom-renovation.json`](./faqs/do-i-need-permits-for-a-full-bathroom-renovation.json) — schema
+- [`faqs/do-i-need-permits-for-a-full-kitchen-renovation-in-berkeley-or-oakland.json`](./faqs/do-i-need-permits-for-a-full-kitchen-renovation-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-permits-for-a-full-kitchen-renovation-in-berkeley.json`](./faqs/do-i-need-permits-for-a-full-kitchen-renovation-in-berkeley.json) — schema
 - [`faqs/do-i-need-permits-for-a-full-kitchen-renovation.json`](./faqs/do-i-need-permits-for-a-full-kitchen-renovation.json) — schema
 - [`faqs/do-i-need-permits-for-a-home-addition-in-berkeley-or-oakland.json`](./faqs/do-i-need-permits-for-a-home-addition-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-permits-for-a-kitchen-remodel-in-berkeley-or-oakland.json`](./faqs/do-i-need-permits-for-a-kitchen-remodel-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-permits-for-a-kitchen-remodel-in-berkeley.json`](./faqs/do-i-need-permits-for-a-kitchen-remodel-in-berkeley.json) — schema
+- [`faqs/do-i-need-permits-for-a-kitchen-remodel-in-the-east-bay-area.json`](./faqs/do-i-need-permits-for-a-kitchen-remodel-in-the-east-bay-area.json) — schema
 - [`faqs/do-i-need-permits-for-a-multi-room-remodel-in-berkeley.json`](./faqs/do-i-need-permits-for-a-multi-room-remodel-in-berkeley.json) — schema
 - [`faqs/do-i-need-permits-for-a-room-addition-in-berkeley-or-oakland.json`](./faqs/do-i-need-permits-for-a-room-addition-in-berkeley-or-oakland.json) — schema
 - [`faqs/do-i-need-permits-for-a-shower-or-tub-upgrade-in-berkeley-or-oakland.json`](./faqs/do-i-need-permits-for-a-shower-or-tub-upgrade-in-berkeley-or-oakland.json) — schema
+- [`faqs/do-i-need-permits-for-a-shower-or-tub-upgrade-in-the-east-bay-area.json`](./faqs/do-i-need-permits-for-a-shower-or-tub-upgrade-in-the-east-bay-area.json) — schema
+- [`faqs/do-i-need-permits-for-an-outdated-room-modernization-in-the-berkeley-area.json`](./faqs/do-i-need-permits-for-an-outdated-room-modernization-in-the-berkeley-area.json) — schema
 - [`faqs/do-i-need-permits-for-appliance-area-preparation-in-the-east-bay-area.json`](./faqs/do-i-need-permits-for-appliance-area-preparation-in-the-east-bay-area.json) — schema
 - [`faqs/do-i-need-permits-for-functional-layout-improvements-in-oakland.json`](./faqs/do-i-need-permits-for-functional-layout-improvements-in-oakland.json) — schema
 - [`faqs/do-i-need-permits-for-interior-finish-upgrades.json`](./faqs/do-i-need-permits-for-interior-finish-upgrades.json) — schema
+- [`faqs/do-i-need-permits-for-interior-home-renovations-in-berkeley-or-oakland.json`](./faqs/do-i-need-permits-for-interior-home-renovations-in-berkeley-or-oakland.json) — schema
+- [`faqs/do-i-need-permits-for-kitchen-electrical-and-lighting-upgrades-in-the-east-bay-a.json`](./faqs/do-i-need-permits-for-kitchen-electrical-and-lighting-upgrades-in-the-east-bay-a.json) — schema
 - [`faqs/do-i-need-permits-for-kitchen-electrical-or-lighting-upgrades-in-oakland.json`](./faqs/do-i-need-permits-for-kitchen-electrical-or-lighting-upgrades-in-oakland.json) — schema
 - [`faqs/do-i-need-permits-for-my-home-remodeling-project.json`](./faqs/do-i-need-permits-for-my-home-remodeling-project.json) — schema
 - [`faqs/do-i-need-permits-for-plumbing-work-during-a-remodel-in-berkeley-or-the-east-bay.json`](./faqs/do-i-need-permits-for-plumbing-work-during-a-remodel-in-berkeley-or-the-east-bay.json) — schema
 - [`faqs/do-i-need-permits-for-stair-repair-in-oakland.json`](./faqs/do-i-need-permits-for-stair-repair-in-oakland.json) — schema
+- [`faqs/do-i-need-permits-for-stair-repair-in-the-east-bay-area.json`](./faqs/do-i-need-permits-for-stair-repair-in-the-east-bay-area.json) — schema
 - [`faqs/do-i-need-separate-contractors-for-different-types-of-fixture-installations.json`](./faqs/do-i-need-separate-contractors-for-different-types-of-fixture-installations.json) — schema
 - [`faqs/do-i-need-special-lighting-for-a-kitchen-island.json`](./faqs/do-i-need-special-lighting-for-a-kitchen-island.json) — schema
+- [`faqs/do-i-need-special-lighting-for-a-shower-or-wet-area-in-a-bathroom.json`](./faqs/do-i-need-special-lighting-for-a-shower-or-wet-area-in-a-bathroom.json) — schema
 - [`faqs/do-i-need-special-primer-for-a-bathroom.json`](./faqs/do-i-need-special-primer-for-a-bathroom.json) — schema
+- [`faqs/do-i-need-to-be-present-during-appliance-installation-in-my-berkeley-home.json`](./faqs/do-i-need-to-be-present-during-appliance-installation-in-my-berkeley-home.json) — schema
 - [`faqs/do-i-need-to-be-present-during-countertop-installation.json`](./faqs/do-i-need-to-be-present-during-countertop-installation.json) — schema
 - [`faqs/do-i-need-to-be-present-during-the-appliance-installation-in-my-oakland-home.json`](./faqs/do-i-need-to-be-present-during-the-appliance-installation-in-my-oakland-home.json) — schema
+- [`faqs/do-i-need-to-be-present-during-the-cabinet-installation.json`](./faqs/do-i-need-to-be-present-during-the-cabinet-installation.json) — schema
+- [`faqs/do-i-need-to-be-present-for-the-final-jobsite-cleanup-and-closeout-inspection.json`](./faqs/do-i-need-to-be-present-for-the-final-jobsite-cleanup-and-closeout-inspection.json) — schema
+- [`faqs/do-i-need-to-clear-out-my-kitchen-before-cabinet-installers-arrive.json`](./faqs/do-i-need-to-clear-out-my-kitchen-before-cabinet-installers-arrive.json) — schema
 - [`faqs/do-i-need-to-clear-the-room-before-flooring-installation.json`](./faqs/do-i-need-to-clear-the-room-before-flooring-installation.json) — schema
+- [`faqs/do-i-need-to-do-any-preparation-before-the-paint-and-finish-crew-arrives.json`](./faqs/do-i-need-to-do-any-preparation-before-the-paint-and-finish-crew-arrives.json) — schema
 - [`faqs/do-i-need-to-do-any-preparation-before-your-team-arrives-for-trim-painting.json`](./faqs/do-i-need-to-do-any-preparation-before-your-team-arrives-for-trim-painting.json) — schema
 - [`faqs/do-i-need-to-do-anything-to-prepare-my-home-before-painters-arrive.json`](./faqs/do-i-need-to-do-anything-to-prepare-my-home-before-painters-arrive.json) — schema
 - [`faqs/do-i-need-to-do-anything-to-prepare-my-home-before-the-painters-arrive.json`](./faqs/do-i-need-to-do-anything-to-prepare-my-home-before-the-painters-arrive.json) — schema
 - [`faqs/do-i-need-to-do-anything-to-prepare-my-home-before-you-start-painting.json`](./faqs/do-i-need-to-do-anything-to-prepare-my-home-before-you-start-painting.json) — schema
 - [`faqs/do-i-need-to-do-anything-to-prepare-my-home-before-your-team-starts-painting.json`](./faqs/do-i-need-to-do-anything-to-prepare-my-home-before-your-team-starts-painting.json) — schema
 - [`faqs/do-i-need-to-do-anything-to-prepare-my-home-for-trim-and-detail-painting.json`](./faqs/do-i-need-to-do-anything-to-prepare-my-home-for-trim-and-detail-painting.json) — schema
+- [`faqs/do-i-need-to-do-anything-to-prepare-my-property-for-board-replacement-work.json`](./faqs/do-i-need-to-do-anything-to-prepare-my-property-for-board-replacement-work.json) — schema
+- [`faqs/do-i-need-to-empty-my-cabinets-before-a-repair-service.json`](./faqs/do-i-need-to-empty-my-cabinets-before-a-repair-service.json) — schema
 - [`faqs/do-i-need-to-empty-my-cabinets-before-installation.json`](./faqs/do-i-need-to-empty-my-cabinets-before-installation.json) — schema
 - [`faqs/do-i-need-to-empty-my-kitchen-cabinets-before-an-upgrade.json`](./faqs/do-i-need-to-empty-my-kitchen-cabinets-before-an-upgrade.json) — schema
 - [`faqs/do-i-need-to-empty-my-kitchen-cabinets-before-painting.json`](./faqs/do-i-need-to-empty-my-kitchen-cabinets-before-painting.json) — schema
 - [`faqs/do-i-need-to-get-permits-for-bathroom-plumbing-installation-in-berkeley.json`](./faqs/do-i-need-to-get-permits-for-bathroom-plumbing-installation-in-berkeley.json) — schema
+- [`faqs/do-i-need-to-get-permits-for-electrical-fixture-installation-in-berkeley.json`](./faqs/do-i-need-to-get-permits-for-electrical-fixture-installation-in-berkeley.json) — schema
 - [`faqs/do-i-need-to-hire-a-contractor-for-vanity-and-cabinet-installation-or-can-i-do-i.json`](./faqs/do-i-need-to-hire-a-contractor-for-vanity-and-cabinet-installation-or-can-i-do-i.json) — schema
+- [`faqs/do-i-need-to-hire-a-plumber-and-electrician-for-a-vanity-upgrade.json`](./faqs/do-i-need-to-hire-a-plumber-and-electrician-for-a-vanity-upgrade.json) — schema
+- [`faqs/do-i-need-to-hire-a-plumber-or-electrician-for-countertop-replacement.json`](./faqs/do-i-need-to-hire-a-plumber-or-electrician-for-countertop-replacement.json) — schema
 - [`faqs/do-i-need-to-hire-a-professional-for-damaged-board-replacement-or-can-i-do-it-my.json`](./faqs/do-i-need-to-hire-a-professional-for-damaged-board-replacement-or-can-i-do-it-my.json) — schema
 - [`faqs/do-i-need-to-hire-a-professional-for-post-remodel-finish-painting.json`](./faqs/do-i-need-to-hire-a-professional-for-post-remodel-finish-painting.json) — schema
+- [`faqs/do-i-need-to-hire-a-separate-contractor-for-countertop-installation-if-i-m-alrea.json`](./faqs/do-i-need-to-hire-a-separate-contractor-for-countertop-installation-if-i-m-alrea.json) — schema
 - [`faqs/do-i-need-to-hire-a-separate-painting-contractor-for-my-addition-or-does-frashes.json`](./faqs/do-i-need-to-hire-a-separate-painting-contractor-for-my-addition-or-does-frashes.json) — schema
 - [`faqs/do-i-need-to-hire-a-separate-plumber-or-electrician-for-the-installation.json`](./faqs/do-i-need-to-hire-a-separate-plumber-or-electrician-for-the-installation.json) — schema
+- [`faqs/do-i-need-to-hire-separate-contractors-for-electrical-plumbing-and-appliance-ins.json`](./faqs/do-i-need-to-hire-separate-contractors-for-electrical-plumbing-and-appliance-ins.json) — schema
+- [`faqs/do-i-need-to-leave-my-home-during-interior-painting.json`](./faqs/do-i-need-to-leave-my-home-during-interior-painting.json) — schema
+- [`faqs/do-i-need-to-leave-my-home-during-the-cabinet-refinishing-process.json`](./faqs/do-i-need-to-leave-my-home-during-the-cabinet-refinishing-process.json) — schema
 - [`faqs/do-i-need-to-move-furniture-before-interior-painters-arrive.json`](./faqs/do-i-need-to-move-furniture-before-interior-painters-arrive.json) — schema
 - [`faqs/do-i-need-to-move-furniture-before-painters-arrive.json`](./faqs/do-i-need-to-move-furniture-before-painters-arrive.json) — schema
 - [`faqs/do-i-need-to-move-furniture-before-you-start-painting.json`](./faqs/do-i-need-to-move-furniture-before-you-start-painting.json) — schema
+- [`faqs/do-i-need-to-move-furniture-out-of-the-room-before-painting.json`](./faqs/do-i-need-to-move-furniture-out-of-the-room-before-painting.json) — schema
 - [`faqs/do-i-need-to-move-my-furniture-before-interior-painters-arrive.json`](./faqs/do-i-need-to-move-my-furniture-before-interior-painters-arrive.json) — schema
 - [`faqs/do-i-need-to-move-my-furniture-before-you-start-painting.json`](./faqs/do-i-need-to-move-my-furniture-before-you-start-painting.json) — schema
 - [`faqs/do-i-need-to-move-out-during-a-tile-and-surface-update.json`](./faqs/do-i-need-to-move-out-during-a-tile-and-surface-update.json) — schema
 - [`faqs/do-i-need-to-move-out-of-my-home-during-a-multi-room-remodel.json`](./faqs/do-i-need-to-move-out-of-my-home-during-a-multi-room-remodel.json) — schema
 - [`faqs/do-i-need-to-paint-or-finish-my-new-door-after-installation.json`](./faqs/do-i-need-to-paint-or-finish-my-new-door-after-installation.json) — schema
 - [`faqs/do-i-need-to-paint-or-stain-my-new-trim-and-molding.json`](./faqs/do-i-need-to-paint-or-stain-my-new-trim-and-molding.json) — schema
+- [`faqs/do-i-need-to-prepare-my-walls-before-backsplash-installation.json`](./faqs/do-i-need-to-prepare-my-walls-before-backsplash-installation.json) — schema
 - [`faqs/do-i-need-to-prime-my-bathroom-walls-before-painting.json`](./faqs/do-i-need-to-prime-my-bathroom-walls-before-painting.json) — schema
+- [`faqs/do-i-need-to-purchase-the-door-and-hardware-before-frasheski-construction-starts.json`](./faqs/do-i-need-to-purchase-the-door-and-hardware-before-frasheski-construction-starts.json) — schema
 - [`faqs/do-i-need-to-purchase-the-electrical-fixtures-myself-or-can-frasheski-constructi.json`](./faqs/do-i-need-to-purchase-the-electrical-fixtures-myself-or-can-frasheski-constructi.json) — schema
 - [`faqs/do-i-need-to-remove-my-old-backsplash-before-a-new-installation.json`](./faqs/do-i-need-to-remove-my-old-backsplash-before-a-new-installation.json) — schema
 - [`faqs/do-i-need-to-remove-my-old-backsplash-before-installing-a-new-one.json`](./faqs/do-i-need-to-remove-my-old-backsplash-before-installing-a-new-one.json) — schema
 - [`faqs/do-i-need-to-remove-my-old-countertops-before-installation.json`](./faqs/do-i-need-to-remove-my-old-countertops-before-installation.json) — schema
+- [`faqs/do-i-need-to-remove-my-toilet-or-sink-before-painting.json`](./faqs/do-i-need-to-remove-my-toilet-or-sink-before-painting.json) — schema
 - [`faqs/do-i-need-to-remove-old-tiles-before-installing-new-ones.json`](./faqs/do-i-need-to-remove-old-tiles-before-installing-new-ones.json) — schema
 - [`faqs/do-i-need-to-replace-all-my-deck-boards-if-only-a-few-are-damaged.json`](./faqs/do-i-need-to-replace-all-my-deck-boards-if-only-a-few-are-damaged.json) — schema
 - [`faqs/do-i-need-to-replace-my-countertops-if-they-are-stained.json`](./faqs/do-i-need-to-replace-my-countertops-if-they-are-stained.json) — schema
@@ -296,9 +403,14 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/do-you-handle-both-residential-and-commercial-cabinet-projects.json`](./faqs/do-you-handle-both-residential-and-commercial-cabinet-projects.json) — schema
 - [`faqs/do-you-handle-cabinet-removal-as-part-of-the-installation-service.json`](./faqs/do-you-handle-cabinet-removal-as-part-of-the-installation-service.json) — schema
 - [`faqs/do-you-handle-cabinet-removal-before-installing-new-ones.json`](./faqs/do-you-handle-cabinet-removal-before-installing-new-ones.json) — schema
+- [`faqs/do-you-handle-custom-tile-work-such-as-mosaics-or-intricate-patterns.json`](./faqs/do-you-handle-custom-tile-work-such-as-mosaics-or-intricate-patterns.json) — schema
+- [`faqs/do-you-handle-the-removal-and-disposal-of-old-cabinets-and-vanities.json`](./faqs/do-you-handle-the-removal-and-disposal-of-old-cabinets-and-vanities.json) — schema
 - [`faqs/do-you-install-smart-home-electrical-fixtures-in-el-cerrito.json`](./faqs/do-you-install-smart-home-electrical-fixtures-in-el-cerrito.json) — schema
 - [`faqs/do-you-manage-all-types-of-remodeling-projects-including-kitchens-bathrooms-and.json`](./faqs/do-you-manage-all-types-of-remodeling-projects-including-kitchens-bathrooms-and.json) — schema
+- [`faqs/do-you-offer-any-guarantees-or-warranties-on-wood-fence-repairs.json`](./faqs/do-you-offer-any-guarantees-or-warranties-on-wood-fence-repairs.json) — schema
+- [`faqs/do-you-offer-backsplash-repair-services-in-the-east-bay-area.json`](./faqs/do-you-offer-backsplash-repair-services-in-the-east-bay-area.json) — schema
 - [`faqs/do-you-offer-cabinet-installation-services-in-oakland-and-albany.json`](./faqs/do-you-offer-cabinet-installation-services-in-oakland-and-albany.json) — schema
+- [`faqs/do-you-offer-cabinet-installation-services-in-the-east-bay-area-specifically-ber.json`](./faqs/do-you-offer-cabinet-installation-services-in-the-east-bay-area-specifically-ber.json) — schema
 - [`faqs/do-you-offer-cabinet-installation-services-outside-of-berkeley-in-other-east-bay.json`](./faqs/do-you-offer-cabinet-installation-services-outside-of-berkeley-in-other-east-bay.json) — schema
 - [`faqs/do-you-offer-cabinet-painting-services-in-berkeley-and-oakland.json`](./faqs/do-you-offer-cabinet-painting-services-in-berkeley-and-oakland.json) — schema
 - [`faqs/do-you-offer-cabinet-repair-and-refinishing-services-in-berkeley-and-oakland.json`](./faqs/do-you-offer-cabinet-repair-and-refinishing-services-in-berkeley-and-oakland.json) — schema
@@ -322,6 +434,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/do-you-offer-emergency-gate-repair-services.json`](./faqs/do-you-offer-emergency-gate-repair-services.json) — schema
 - [`faqs/do-you-offer-emergency-plumbing-and-electrical-services-in-san-francisco.json`](./faqs/do-you-offer-emergency-plumbing-and-electrical-services-in-san-francisco.json) — schema
 - [`faqs/do-you-offer-emergency-railing-repair-services.json`](./faqs/do-you-offer-emergency-railing-repair-services.json) — schema
+- [`faqs/do-you-offer-emergency-wood-fence-panel-repair-services.json`](./faqs/do-you-offer-emergency-wood-fence-panel-repair-services.json) — schema
 - [`faqs/do-you-offer-emergency-wood-fence-repair-services.json`](./faqs/do-you-offer-emergency-wood-fence-repair-services.json) — schema
 - [`faqs/do-you-offer-emergency-wood-fence-repair.json`](./faqs/do-you-offer-emergency-wood-fence-repair.json) — schema
 - [`faqs/do-you-offer-fence-post-repair-services-in-oakland-and-the-surrounding-east-bay.json`](./faqs/do-you-offer-fence-post-repair-services-in-oakland-and-the-surrounding-east-bay.json) — schema
@@ -333,6 +446,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/do-you-offer-painting-services-in-berkeley-and-oakland.json`](./faqs/do-you-offer-painting-services-in-berkeley-and-oakland.json) — schema
 - [`faqs/do-you-offer-painting-services-in-my-specific-east-bay-location-like-oakland-or.json`](./faqs/do-you-offer-painting-services-in-my-specific-east-bay-location-like-oakland-or.json) — schema
 - [`faqs/do-you-offer-removal-of-old-cabinets.json`](./faqs/do-you-offer-removal-of-old-cabinets.json) — schema
+- [`faqs/do-you-offer-solutions-for-small-or-unusually-shaped-kitchens-in-the-east-bay-ar.json`](./faqs/do-you-offer-solutions-for-small-or-unusually-shaped-kitchens-in-the-east-bay-ar.json) — schema
 - [`faqs/do-you-offer-tile-installation-coordination-for-commercial-projects-in-the-east.json`](./faqs/do-you-offer-tile-installation-coordination-for-commercial-projects-in-the-east.json) — schema
 - [`faqs/do-you-offer-trim-and-detail-painting-services-in-oakland-and-the-east-bay-area.json`](./faqs/do-you-offer-trim-and-detail-painting-services-in-oakland-and-the-east-bay-area.json) — schema
 - [`faqs/do-you-offer-warranties-on-your-interior-painting-services.json`](./faqs/do-you-offer-warranties-on-your-interior-painting-services.json) — schema
@@ -348,6 +462,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/do-you-serve-my-area-for-kitchen-electrical-and-lighting-upgrades.json`](./faqs/do-you-serve-my-area-for-kitchen-electrical-and-lighting-upgrades.json) — schema
 - [`faqs/do-you-serve-my-area-in-the-east-bay-for-room-expansions.json`](./faqs/do-you-serve-my-area-in-the-east-bay-for-room-expansions.json) — schema
 - [`faqs/do-you-service-commercial-bathrooms-in-berkeley.json`](./faqs/do-you-service-commercial-bathrooms-in-berkeley.json) — schema
+- [`faqs/do-you-use-any-specific-tools-or-software-for-trade-scheduling.json`](./faqs/do-you-use-any-specific-tools-or-software-for-trade-scheduling.json) — schema
 - [`faqs/does-appliance-installation-coordination-include-removal-of-old-appliances.json`](./faqs/does-appliance-installation-coordination-include-removal-of-old-appliances.json) — schema
 - [`faqs/does-final-detail-work-add-to-the-overall-cost-of-the-project.json`](./faqs/does-final-detail-work-add-to-the-overall-cost-of-the-project.json) — schema
 - [`faqs/does-frasheski-construction-handle-all-aspects-of-the-home-addition-project-incl.json`](./faqs/does-frasheski-construction-handle-all-aspects-of-the-home-addition-project-incl.json) — schema
@@ -357,41 +472,70 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/does-frasheski-construction-offer-final-quality-walkthroughs-for-projects-in-ber.json`](./faqs/does-frasheski-construction-offer-final-quality-walkthroughs-for-projects-in-ber.json) — schema
 - [`faqs/does-frasheski-construction-offer-free-estimates-for-surface-restoration-in-alba.json`](./faqs/does-frasheski-construction-offer-free-estimates-for-surface-restoration-in-alba.json) — schema
 - [`faqs/does-frasheski-construction-offer-services-beyond-painting-such-as-repairs-or-dr.json`](./faqs/does-frasheski-construction-offer-services-beyond-painting-such-as-repairs-or-dr.json) — schema
+- [`faqs/does-frasheski-construction-provide-damaged-board-replacement-services-in-oaklan.json`](./faqs/does-frasheski-construction-provide-damaged-board-replacement-services-in-oaklan.json) — schema
 - [`faqs/does-frasheski-construction-serve-my-area-for-bathroom-vanity-and-cabinet-upgrad.json`](./faqs/does-frasheski-construction-serve-my-area-for-bathroom-vanity-and-cabinet-upgrad.json) — schema
 - [`faqs/does-frasheski-construction-serve-my-area-for-custom-cabinet-projects.json`](./faqs/does-frasheski-construction-serve-my-area-for-custom-cabinet-projects.json) — schema
 - [`faqs/does-frasheski-construction-serve-my-area-for-trim-and-molding-installation.json`](./faqs/does-frasheski-construction-serve-my-area-for-trim-and-molding-installation.json) — schema
 - [`faqs/does-frasheski-construction-serve-oakland-for-kitchen-cabinet-upgrades.json`](./faqs/does-frasheski-construction-serve-oakland-for-kitchen-cabinet-upgrades.json) — schema
+- [`faqs/does-surface-restoration-improve-the-aesthetic-appeal-of-a-property.json`](./faqs/does-surface-restoration-improve-the-aesthetic-appeal-of-a-property.json) — schema
 - [`faqs/how-can-a-multi-room-remodel-increase-my-home-s-value-in-albany-or-el-cerrito.json`](./faqs/how-can-a-multi-room-remodel-increase-my-home-s-value-in-albany-or-el-cerrito.json) — schema
+- [`faqs/how-can-frasheski-construction-ensure-a-smooth-final-quality-walkthrough.json`](./faqs/how-can-frasheski-construction-ensure-a-smooth-final-quality-walkthrough.json) — schema
 - [`faqs/how-can-i-assess-a-contractor-s-ability-to-coordinate-plumbing-and-electrical-wo.json`](./faqs/how-can-i-assess-a-contractor-s-ability-to-coordinate-plumbing-and-electrical-wo.json) — schema
+- [`faqs/how-can-i-choose-between-repairing-my-existing-fence-or-installing-a-new-one.json`](./faqs/how-can-i-choose-between-repairing-my-existing-fence-or-installing-a-new-one.json) — schema
+- [`faqs/how-can-i-choose-the-right-color-for-my-bathroom.json`](./faqs/how-can-i-choose-the-right-color-for-my-bathroom.json) — schema
+- [`faqs/how-can-i-choose-the-right-color-for-my-kitchen-cabinets.json`](./faqs/how-can-i-choose-the-right-color-for-my-kitchen-cabinets.json) — schema
 - [`faqs/how-can-i-choose-the-right-contractor-for-my-kitchen-remodel-in-the-east-bay.json`](./faqs/how-can-i-choose-the-right-contractor-for-my-kitchen-remodel-in-the-east-bay.json) — schema
 - [`faqs/how-can-i-choose-the-right-materials-for-my-bathroom-renovation.json`](./faqs/how-can-i-choose-the-right-materials-for-my-bathroom-renovation.json) — schema
 - [`faqs/how-can-i-choose-the-right-plumber-for-bathroom-work-in-oakland.json`](./faqs/how-can-i-choose-the-right-plumber-for-bathroom-work-in-oakland.json) — schema
 - [`faqs/how-can-i-choose-the-right-plumber-for-my-bathroom-renovation.json`](./faqs/how-can-i-choose-the-right-plumber-for-my-bathroom-renovation.json) — schema
+- [`faqs/how-can-i-ensure-my-plumbing-system-is-designed-for-future-maintenance-access.json`](./faqs/how-can-i-ensure-my-plumbing-system-is-designed-for-future-maintenance-access.json) — schema
 - [`faqs/how-can-i-evaluate-a-contractor-s-expertise-in-plumbing-and-electrical-coordinat.json`](./faqs/how-can-i-evaluate-a-contractor-s-expertise-in-plumbing-and-electrical-coordinat.json) — schema
+- [`faqs/how-can-i-extend-the-lifespan-of-my-repaired-railing.json`](./faqs/how-can-i-extend-the-lifespan-of-my-repaired-railing.json) — schema
+- [`faqs/how-can-i-get-an-accurate-cost-estimate-for-interior-painting-in-the-oakland-are.json`](./faqs/how-can-i-get-an-accurate-cost-estimate-for-interior-painting-in-the-oakland-are.json) — schema
+- [`faqs/how-can-i-get-an-estimate-for-bathroom-plumbing-work.json`](./faqs/how-can-i-get-an-estimate-for-bathroom-plumbing-work.json) — schema
 - [`faqs/how-can-i-get-an-estimate-for-cabinet-repair.json`](./faqs/how-can-i-get-an-estimate-for-cabinet-repair.json) — schema
 - [`faqs/how-can-i-improve-bathroom-lighting-for-better-functionality-and-aesthetics.json`](./faqs/how-can-i-improve-bathroom-lighting-for-better-functionality-and-aesthetics.json) — schema
 - [`faqs/how-can-i-improve-the-lighting-in-my-bathroom-without-a-major-renovation.json`](./faqs/how-can-i-improve-the-lighting-in-my-bathroom-without-a-major-renovation.json) — schema
 - [`faqs/how-can-i-improve-water-pressure-in-my-el-cerrito-home.json`](./faqs/how-can-i-improve-water-pressure-in-my-el-cerrito-home.json) — schema
+- [`faqs/how-can-i-maintain-my-gate-to-prevent-future-repairs.json`](./faqs/how-can-i-maintain-my-gate-to-prevent-future-repairs.json) — schema
+- [`faqs/how-can-i-make-my-bathroom-more-accessible-or-aging-in-place-friendly.json`](./faqs/how-can-i-make-my-bathroom-more-accessible-or-aging-in-place-friendly.json) — schema
+- [`faqs/how-can-i-make-my-remodel-related-electrical-work-more-energy-efficient.json`](./faqs/how-can-i-make-my-remodel-related-electrical-work-more-energy-efficient.json) — schema
 - [`faqs/how-can-i-make-my-small-bathroom-feel-larger-during-a-remodel.json`](./faqs/how-can-i-make-my-small-bathroom-feel-larger-during-a-remodel.json) — schema
 - [`faqs/how-can-i-make-my-small-bathroom-feel-larger.json`](./faqs/how-can-i-make-my-small-bathroom-feel-larger.json) — schema
 - [`faqs/how-can-i-maximize-space-in-a-small-bathroom-renovation.json`](./faqs/how-can-i-maximize-space-in-a-small-bathroom-renovation.json) — schema
+- [`faqs/how-can-i-maximize-storage-in-a-small-kitchen-layout.json`](./faqs/how-can-i-maximize-storage-in-a-small-kitchen-layout.json) — schema
 - [`faqs/how-can-i-maximize-storage-in-a-small-kitchen.json`](./faqs/how-can-i-maximize-storage-in-a-small-kitchen.json) — schema
+- [`faqs/how-can-i-prepare-for-a-wood-fence-repair-appointment.json`](./faqs/how-can-i-prepare-for-a-wood-fence-repair-appointment.json) — schema
+- [`faqs/how-can-i-prepare-my-deck-for-a-repair-service.json`](./faqs/how-can-i-prepare-my-deck-for-a-repair-service.json) — schema
+- [`faqs/how-can-i-prepare-my-deck-for-professional-maintenance-services.json`](./faqs/how-can-i-prepare-my-deck-for-professional-maintenance-services.json) — schema
 - [`faqs/how-can-i-prepare-my-home-for-a-full-kitchen-renovation.json`](./faqs/how-can-i-prepare-my-home-for-a-full-kitchen-renovation.json) — schema
+- [`faqs/how-can-i-prepare-my-home-for-a-kitchen-renovation-project.json`](./faqs/how-can-i-prepare-my-home-for-a-kitchen-renovation-project.json) — schema
 - [`faqs/how-can-i-prepare-my-home-for-a-remodel.json`](./faqs/how-can-i-prepare-my-home-for-a-remodel.json) — schema
 - [`faqs/how-can-i-prepare-my-home-for-a-remodeling-project.json`](./faqs/how-can-i-prepare-my-home-for-a-remodeling-project.json) — schema
+- [`faqs/how-can-i-prepare-my-home-for-finish-carpentry-work.json`](./faqs/how-can-i-prepare-my-home-for-finish-carpentry-work.json) — schema
 - [`faqs/how-can-i-prepare-my-home-for-new-room-construction.json`](./faqs/how-can-i-prepare-my-home-for-new-room-construction.json) — schema
+- [`faqs/how-can-i-prepare-my-home-for-stair-repair-work.json`](./faqs/how-can-i-prepare-my-home-for-stair-repair-work.json) — schema
+- [`faqs/how-can-i-prepare-my-kitchen-for-plumbing-installation-day.json`](./faqs/how-can-i-prepare-my-kitchen-for-plumbing-installation-day.json) — schema
+- [`faqs/how-can-i-prepare-my-property-for-final-jobsite-cleanup-and-closeout.json`](./faqs/how-can-i-prepare-my-property-for-final-jobsite-cleanup-and-closeout.json) — schema
 - [`faqs/how-can-i-prevent-clogs-in-my-newly-installed-kitchen-sink.json`](./faqs/how-can-i-prevent-clogs-in-my-newly-installed-kitchen-sink.json) — schema
 - [`faqs/how-can-i-prevent-common-plumbing-blockages.json`](./faqs/how-can-i-prevent-common-plumbing-blockages.json) — schema
 - [`faqs/how-can-i-prevent-future-fence-instability-after-restoration.json`](./faqs/how-can-i-prevent-future-fence-instability-after-restoration.json) — schema
+- [`faqs/how-can-i-prevent-future-structural-damage-to-my-deck-after-repairs.json`](./faqs/how-can-i-prevent-future-structural-damage-to-my-deck-after-repairs.json) — schema
 - [`faqs/how-can-i-prevent-my-gate-from-needing-frequent-repairs.json`](./faqs/how-can-i-prevent-my-gate-from-needing-frequent-repairs.json) — schema
 - [`faqs/how-can-i-prolong-the-life-of-my-new-deck-boards.json`](./faqs/how-can-i-prolong-the-life-of-my-new-deck-boards.json) — schema
 - [`faqs/how-can-i-prolong-the-life-of-my-wood-fence-after-repair.json`](./faqs/how-can-i-prolong-the-life-of-my-wood-fence-after-repair.json) — schema
 - [`faqs/how-can-i-protect-my-deck-from-sun-damage-and-rot.json`](./faqs/how-can-i-protect-my-deck-from-sun-damage-and-rot.json) — schema
+- [`faqs/how-can-i-set-a-realistic-budget-for-my-home-renovation-in-the-oakland-area.json`](./faqs/how-can-i-set-a-realistic-budget-for-my-home-renovation-in-the-oakland-area.json) — schema
+- [`faqs/how-can-i-set-a-realistic-budget-for-my-interior-renovation.json`](./faqs/how-can-i-set-a-realistic-budget-for-my-interior-renovation.json) — schema
 - [`faqs/how-can-i-stay-on-budget-during-an-interior-home-renovation.json`](./faqs/how-can-i-stay-on-budget-during-an-interior-home-renovation.json) — schema
+- [`faqs/how-can-i-update-my-kitchen-lighting-without-a-full-remodel.json`](./faqs/how-can-i-update-my-kitchen-lighting-without-a-full-remodel.json) — schema
+- [`faqs/how-can-interior-finish-upgrades-affect-my-home-s-value.json`](./faqs/how-can-interior-finish-upgrades-affect-my-home-s-value.json) — schema
 - [`faqs/how-can-interior-home-renovations-increase-property-value.json`](./faqs/how-can-interior-home-renovations-increase-property-value.json) — schema
 - [`faqs/how-disruptive-is-a-bathroom-remodel-to-my-daily-routine.json`](./faqs/how-disruptive-is-a-bathroom-remodel-to-my-daily-routine.json) — schema
 - [`faqs/how-do-custom-cabinets-compare-to-pre-made-cabinets.json`](./faqs/how-do-custom-cabinets-compare-to-pre-made-cabinets.json) — schema
 - [`faqs/how-do-custom-cabinets-differ-from-stock-or-semi-custom-options.json`](./faqs/how-do-custom-cabinets-differ-from-stock-or-semi-custom-options.json) — schema
+- [`faqs/how-do-design-changes-during-construction-impact-project-cost-and-timeline.json`](./faqs/how-do-design-changes-during-construction-impact-project-cost-and-timeline.json) — schema
+- [`faqs/how-do-different-appliance-types-impact-the-preparation-requirements-for-my-kitc.json`](./faqs/how-do-different-appliance-types-impact-the-preparation-requirements-for-my-kitc.json) — schema
 - [`faqs/how-do-frasheski-construction-s-plumbing-coordination-services-benefit-my-projec.json`](./faqs/how-do-frasheski-construction-s-plumbing-coordination-services-benefit-my-projec.json) — schema
 - [`faqs/how-do-functional-layout-improvements-differ-from-a-renovation.json`](./faqs/how-do-functional-layout-improvements-differ-from-a-renovation.json) — schema
 - [`faqs/how-do-functional-layout-improvements-differ-from-cosmetic-renovations.json`](./faqs/how-do-functional-layout-improvements-differ-from-cosmetic-renovations.json) — schema
@@ -424,27 +568,42 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-do-i-choose-a-reliable-plumbing-installer-for-my-kitchen-in-the-east-bay.json`](./faqs/how-do-i-choose-a-reliable-plumbing-installer-for-my-kitchen-in-the-east-bay.json) — schema
 - [`faqs/how-do-i-choose-an-electrical-contractor-for-coordination-studies-in-the-east-ba.json`](./faqs/how-do-i-choose-an-electrical-contractor-for-coordination-studies-in-the-east-ba.json) — schema
 - [`faqs/how-do-i-choose-an-electrician-for-a-remodeling-project-in-oakland.json`](./faqs/how-do-i-choose-an-electrician-for-a-remodeling-project-in-oakland.json) — schema
+- [`faqs/how-do-i-choose-between-a-full-home-remodel-and-a-partial-renovation.json`](./faqs/how-do-i-choose-between-a-full-home-remodel-and-a-partial-renovation.json) — schema
 - [`faqs/how-do-i-choose-between-a-walk-in-shower-and-a-traditional-tub-shower-combo.json`](./faqs/how-do-i-choose-between-a-walk-in-shower-and-a-traditional-tub-shower-combo.json) — schema
+- [`faqs/how-do-i-choose-between-custom-and-semi-custom-cabinets-for-my-home.json`](./faqs/how-do-i-choose-between-custom-and-semi-custom-cabinets-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-between-custom-and-semi-custom-cabinets.json`](./faqs/how-do-i-choose-between-custom-and-semi-custom-cabinets.json) — schema
+- [`faqs/how-do-i-choose-between-custom-and-stock-cabinets-for-my-home.json`](./faqs/how-do-i-choose-between-custom-and-stock-cabinets-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-between-different-fence-repair-companies-for-stability-restorati.json`](./faqs/how-do-i-choose-between-different-fence-repair-companies-for-stability-restorati.json) — schema
+- [`faqs/how-do-i-choose-between-different-types-of-bathroom-lighting-such-as-recessed-va.json`](./faqs/how-do-i-choose-between-different-types-of-bathroom-lighting-such-as-recessed-va.json) — schema
 - [`faqs/how-do-i-choose-colors-for-my-addition-s-interior-and-exterior.json`](./faqs/how-do-i-choose-colors-for-my-addition-s-interior-and-exterior.json) — schema
+- [`faqs/how-do-i-choose-materials-and-finishes-for-a-cohesive-multi-room-design.json`](./faqs/how-do-i-choose-materials-and-finishes-for-a-cohesive-multi-room-design.json) — schema
 - [`faqs/how-do-i-choose-the-best-countertop-material-for-my-kitchen.json`](./faqs/how-do-i-choose-the-best-countertop-material-for-my-kitchen.json) — schema
 - [`faqs/how-do-i-choose-the-best-material-for-my-new-deck-boards.json`](./faqs/how-do-i-choose-the-best-material-for-my-new-deck-boards.json) — schema
 - [`faqs/how-do-i-choose-the-right-accessibility-features-for-my-specific-needs.json`](./faqs/how-do-i-choose-the-right-accessibility-features-for-my-specific-needs.json) — schema
 - [`faqs/how-do-i-choose-the-right-bathroom-lighting.json`](./faqs/how-do-i-choose-the-right-bathroom-lighting.json) — schema
+- [`faqs/how-do-i-choose-the-right-brightness-lumens-for-kitchen-and-bathroom-lighting.json`](./faqs/how-do-i-choose-the-right-brightness-lumens-for-kitchen-and-bathroom-lighting.json) — schema
 - [`faqs/how-do-i-choose-the-right-cabinet-material-for-my-home.json`](./faqs/how-do-i-choose-the-right-cabinet-material-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-the-right-cabinet-style-and-finish-for-my-kitchen.json`](./faqs/how-do-i-choose-the-right-cabinet-style-and-finish-for-my-kitchen.json) — schema
+- [`faqs/how-do-i-choose-the-right-cabinet-style-for-my-home.json`](./faqs/how-do-i-choose-the-right-cabinet-style-for-my-home.json) — schema
 - [`faqs/how-do-i-choose-the-right-cabinets-for-my-home.json`](./faqs/how-do-i-choose-the-right-cabinets-for-my-home.json) — schema
 - [`faqs/how-do-i-choose-the-right-cabinets-for-my-kitchen-or-bathroom.json`](./faqs/how-do-i-choose-the-right-cabinets-for-my-kitchen-or-bathroom.json) — schema
+- [`faqs/how-do-i-choose-the-right-color-and-pattern-for-my-kitchen-backsplash.json`](./faqs/how-do-i-choose-the-right-color-and-pattern-for-my-kitchen-backsplash.json) — schema
 - [`faqs/how-do-i-choose-the-right-color-for-my-bathroom.json`](./faqs/how-do-i-choose-the-right-color-for-my-bathroom.json) — schema
 - [`faqs/how-do-i-choose-the-right-color-for-my-home-s-interior.json`](./faqs/how-do-i-choose-the-right-color-for-my-home-s-interior.json) — schema
 - [`faqs/how-do-i-choose-the-right-color-for-my-kitchen-cabinets-and-walls.json`](./faqs/how-do-i-choose-the-right-color-for-my-kitchen-cabinets-and-walls.json) — schema
 - [`faqs/how-do-i-choose-the-right-color-for-my-kitchen-cabinets.json`](./faqs/how-do-i-choose-the-right-color-for-my-kitchen-cabinets.json) — schema
+- [`faqs/how-do-i-choose-the-right-color-or-finish-for-my-cabinets.json`](./faqs/how-do-i-choose-the-right-color-or-finish-for-my-cabinets.json) — schema
 - [`faqs/how-do-i-choose-the-right-colors-for-my-interior-space.json`](./faqs/how-do-i-choose-the-right-colors-for-my-interior-space.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-a-multi-room-remodel-in-berkeley.json`](./faqs/how-do-i-choose-the-right-contractor-for-a-multi-room-remodel-in-berkeley.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-cabinet-installation-coordination.json`](./faqs/how-do-i-choose-the-right-contractor-for-cabinet-installation-coordination.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-cabinet-refinishing.json`](./faqs/how-do-i-choose-the-right-contractor-for-cabinet-refinishing.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-deck-maintenance-in-the-east-bay.json`](./faqs/how-do-i-choose-the-right-contractor-for-deck-maintenance-in-the-east-bay.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-finish-carpentry-coordination.json`](./faqs/how-do-i-choose-the-right-contractor-for-finish-carpentry-coordination.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-my-bathroom-plumbing-installation.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-bathroom-plumbing-installation.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-my-bathroom-remodel.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-bathroom-remodel.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-my-bathroom-renovation.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-bathroom-renovation.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-my-home-remodel.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-home-remodel.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-my-interior-build-out-in-the-east-bay.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-interior-build-out-in-the-east-bay.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-my-interior-build-out.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-interior-build-out.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-my-interior-renovation.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-interior-renovation.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-my-kitchen-remodel-in-east-bay.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-kitchen-remodel-in-east-bay.json) — schema
@@ -460,17 +619,30 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-do-i-choose-the-right-contractor-for-railing-repair.json`](./faqs/how-do-i-choose-the-right-contractor-for-railing-repair.json) — schema
 - [`faqs/how-do-i-choose-the-right-contractor-for-surface-restoration-in-oakland.json`](./faqs/how-do-i-choose-the-right-contractor-for-surface-restoration-in-oakland.json) — schema
 - [`faqs/how-do-i-choose-the-right-countertop-material-for-my-kitchen.json`](./faqs/how-do-i-choose-the-right-countertop-material-for-my-kitchen.json) — schema
+- [`faqs/how-do-i-choose-the-right-countertop-material-for-my-lifestyle.json`](./faqs/how-do-i-choose-the-right-countertop-material-for-my-lifestyle.json) — schema
 - [`faqs/how-do-i-choose-the-right-electrical-fixture-for-my-home-or-business.json`](./faqs/how-do-i-choose-the-right-electrical-fixture-for-my-home-or-business.json) — schema
+- [`faqs/how-do-i-choose-the-right-electrician-for-my-home-renovation-project-in-the-east.json`](./faqs/how-do-i-choose-the-right-electrician-for-my-home-renovation-project-in-the-east.json) — schema
 - [`faqs/how-do-i-choose-the-right-electrician-for-my-kitchen-upgrade-in-the-east-bay.json`](./faqs/how-do-i-choose-the-right-electrician-for-my-kitchen-upgrade-in-the-east-bay.json) — schema
 - [`faqs/how-do-i-choose-the-right-faucet-for-my-kitchen-upgrade.json`](./faqs/how-do-i-choose-the-right-faucet-for-my-kitchen-upgrade.json) — schema
+- [`faqs/how-do-i-choose-the-right-flooring-for-an-interior-finish-upgrade.json`](./faqs/how-do-i-choose-the-right-flooring-for-an-interior-finish-upgrade.json) — schema
 - [`faqs/how-do-i-choose-the-right-interior-finishes-for-my-home.json`](./faqs/how-do-i-choose-the-right-interior-finishes-for-my-home.json) — schema
 - [`faqs/how-do-i-choose-the-right-kitchen-faucet-for-an-upgrade.json`](./faqs/how-do-i-choose-the-right-kitchen-faucet-for-an-upgrade.json) — schema
+- [`faqs/how-do-i-choose-the-right-kitchen-sink-for-my-new-plumbing-installation.json`](./faqs/how-do-i-choose-the-right-kitchen-sink-for-my-new-plumbing-installation.json) — schema
 - [`faqs/how-do-i-choose-the-right-lighting-for-my-kitchen-remodel.json`](./faqs/how-do-i-choose-the-right-lighting-for-my-kitchen-remodel.json) — schema
+- [`faqs/how-do-i-choose-the-right-materials-and-finishes-for-my-modernized-room.json`](./faqs/how-do-i-choose-the-right-materials-and-finishes-for-my-modernized-room.json) — schema
+- [`faqs/how-do-i-choose-the-right-materials-for-my-bathroom-remodel.json`](./faqs/how-do-i-choose-the-right-materials-for-my-bathroom-remodel.json) — schema
 - [`faqs/how-do-i-choose-the-right-paint-color-and-finish-for-my-home.json`](./faqs/how-do-i-choose-the-right-paint-color-and-finish-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-the-right-paint-color-for-my-home.json`](./faqs/how-do-i-choose-the-right-paint-color-for-my-home.json) — schema
 - [`faqs/how-do-i-choose-the-right-paint-color-for-my-newly-remodeled-space.json`](./faqs/how-do-i-choose-the-right-paint-color-for-my-newly-remodeled-space.json) — schema
+- [`faqs/how-do-i-choose-the-right-paint-color-for-my-room.json`](./faqs/how-do-i-choose-the-right-paint-color-for-my-room.json) — schema
+- [`faqs/how-do-i-choose-the-right-paint-colors-and-finishes-for-my-home.json`](./faqs/how-do-i-choose-the-right-paint-colors-and-finishes-for-my-home.json) — schema
 - [`faqs/how-do-i-choose-the-right-paint-colors-for-my-home-s-interior.json`](./faqs/how-do-i-choose-the-right-paint-colors-for-my-home-s-interior.json) — schema
 - [`faqs/how-do-i-choose-the-right-paint-colors-for-my-home.json`](./faqs/how-do-i-choose-the-right-paint-colors-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-the-right-paint-finish-e-g-matte-eggshell-semi-gloss-for-differe.json`](./faqs/how-do-i-choose-the-right-paint-finish-e-g-matte-eggshell-semi-gloss-for-differe.json) — schema
+- [`faqs/how-do-i-choose-the-right-paint-finish-for-my-interior-trim.json`](./faqs/how-do-i-choose-the-right-paint-finish-for-my-interior-trim.json) — schema
+- [`faqs/how-do-i-choose-the-right-plumbing-contractor-for-my-bathroom-project.json`](./faqs/how-do-i-choose-the-right-plumbing-contractor-for-my-bathroom-project.json) — schema
 - [`faqs/how-do-i-choose-the-right-plumbing-fixtures-for-my-remodel.json`](./faqs/how-do-i-choose-the-right-plumbing-fixtures-for-my-remodel.json) — schema
+- [`faqs/how-do-i-choose-the-right-size-and-style-of-bathroom-vanity-for-my-space.json`](./faqs/how-do-i-choose-the-right-size-and-style-of-bathroom-vanity-for-my-space.json) — schema
 - [`faqs/how-do-i-choose-the-right-size-bathroom-vanity-for-my-space.json`](./faqs/how-do-i-choose-the-right-size-bathroom-vanity-for-my-space.json) — schema
 - [`faqs/how-do-i-choose-the-right-style-and-finish-for-my-new-kitchen-cabinets.json`](./faqs/how-do-i-choose-the-right-style-and-finish-for-my-new-kitchen-cabinets.json) — schema
 - [`faqs/how-do-i-choose-the-right-style-and-size-for-my-new-bathroom-vanity-and-cabinets.json`](./faqs/how-do-i-choose-the-right-style-and-size-for-my-new-bathroom-vanity-and-cabinets.json) — schema
@@ -483,102 +655,208 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-do-i-choose-the-right-type-of-tile-for-my-home.json`](./faqs/how-do-i-choose-the-right-type-of-tile-for-my-home.json) — schema
 - [`faqs/how-do-i-choose-the-right-vanity-and-cabinets-for-my-bathroom-or-kitchen.json`](./faqs/how-do-i-choose-the-right-vanity-and-cabinets-for-my-bathroom-or-kitchen.json) — schema
 - [`faqs/how-do-i-choose-the-right-ventilation-fan-for-my-bathroom.json`](./faqs/how-do-i-choose-the-right-ventilation-fan-for-my-bathroom.json) — schema
+- [`faqs/how-do-i-communicate-with-my-project-manager-throughout-the-remodeling-process.json`](./faqs/how-do-i-communicate-with-my-project-manager-throughout-the-remodeling-process.json) — schema
 - [`faqs/how-do-i-communicate-with-the-project-manager-during-my-remodel.json`](./faqs/how-do-i-communicate-with-the-project-manager-during-my-remodel.json) — schema
 - [`faqs/how-do-i-create-a-realistic-budget-for-my-remodel.json`](./faqs/how-do-i-create-a-realistic-budget-for-my-remodel.json) — schema
 - [`faqs/how-do-i-create-a-realistic-budget-for-my-remodeling-project.json`](./faqs/how-do-i-create-a-realistic-budget-for-my-remodeling-project.json) — schema
+- [`faqs/how-do-i-determine-the-scope-of-my-remodel-project.json`](./faqs/how-do-i-determine-the-scope-of-my-remodel-project.json) — schema
+- [`faqs/how-do-i-ensure-a-room-expansion-integrates-seamlessly-with-my-existing-home-s-s.json`](./faqs/how-do-i-ensure-a-room-expansion-integrates-seamlessly-with-my-existing-home-s-s.json) — schema
+- [`faqs/how-do-i-ensure-my-kitchen-remodel-adds-value-to-my-home.json`](./faqs/how-do-i-ensure-my-kitchen-remodel-adds-value-to-my-home.json) — schema
+- [`faqs/how-do-i-ensure-my-new-cabinets-complement-my-home-s-existing-style.json`](./faqs/how-do-i-ensure-my-new-cabinets-complement-my-home-s-existing-style.json) — schema
 - [`faqs/how-do-i-ensure-quality-in-the-final-detail-work.json`](./faqs/how-do-i-ensure-quality-in-the-final-detail-work.json) — schema
+- [`faqs/how-do-i-ensure-the-new-cabinets-will-fit-my-existing-kitchen-layout-and-applian.json`](./faqs/how-do-i-ensure-the-new-cabinets-will-fit-my-existing-kitchen-layout-and-applian.json) — schema
+- [`faqs/how-do-i-ensure-the-new-countertops-will-match-my-existing-kitchen-design.json`](./faqs/how-do-i-ensure-the-new-countertops-will-match-my-existing-kitchen-design.json) — schema
+- [`faqs/how-do-i-ensure-the-painters-protect-my-furniture-and-floors.json`](./faqs/how-do-i-ensure-the-painters-protect-my-furniture-and-floors.json) — schema
+- [`faqs/how-do-i-ensure-the-quality-and-durability-of-my-new-cabinet-installation.json`](./faqs/how-do-i-ensure-the-quality-and-durability-of-my-new-cabinet-installation.json) — schema
 - [`faqs/how-do-i-get-a-painting-estimate-for-my-home-in-berkeley-or-oakland.json`](./faqs/how-do-i-get-a-painting-estimate-for-my-home-in-berkeley-or-oakland.json) — schema
 - [`faqs/how-do-i-get-a-quote-for-railing-repair.json`](./faqs/how-do-i-get-a-quote-for-railing-repair.json) — schema
 - [`faqs/how-do-i-get-an-estimate-for-interior-painting-services.json`](./faqs/how-do-i-get-an-estimate-for-interior-painting-services.json) — schema
 - [`faqs/how-do-i-get-an-estimate-for-room-painting-in-the-east-bay.json`](./faqs/how-do-i-get-an-estimate-for-room-painting-in-the-east-bay.json) — schema
 - [`faqs/how-do-i-get-an-estimate-for-room-painting-services-in-berkeley-or-oakland.json`](./faqs/how-do-i-get-an-estimate-for-room-painting-services-in-berkeley-or-oakland.json) — schema
 - [`faqs/how-do-i-know-if-i-need-damaged-board-replacement.json`](./faqs/how-do-i-know-if-i-need-damaged-board-replacement.json) — schema
+- [`faqs/how-do-i-know-if-i-need-to-upgrade-my-electrical-panel-when-installing-new-fixtu.json`](./faqs/how-do-i-know-if-i-need-to-upgrade-my-electrical-panel-when-installing-new-fixtu.json) — schema
+- [`faqs/how-do-i-know-if-my-cabinets-need-repair-or-full-replacement.json`](./faqs/how-do-i-know-if-my-cabinets-need-repair-or-full-replacement.json) — schema
+- [`faqs/how-do-i-know-if-my-damaged-board-needs-replacement-or-just-repair.json`](./faqs/how-do-i-know-if-my-damaged-board-needs-replacement-or-just-repair.json) — schema
 - [`faqs/how-do-i-know-if-my-deck-s-support-posts-are-failing.json`](./faqs/how-do-i-know-if-my-deck-s-support-posts-are-failing.json) — schema
 - [`faqs/how-do-i-know-if-my-deck-s-support-structure-also-needs-repair.json`](./faqs/how-do-i-know-if-my-deck-s-support-structure-also-needs-repair.json) — schema
 - [`faqs/how-do-i-know-if-my-door-hardware-needs-adjustment-or-replacement.json`](./faqs/how-do-i-know-if-my-door-hardware-needs-adjustment-or-replacement.json) — schema
+- [`faqs/how-do-i-know-if-my-electrical-panel-needs-an-upgrade.json`](./faqs/how-do-i-know-if-my-electrical-panel-needs-an-upgrade.json) — schema
+- [`faqs/how-do-i-know-if-my-existing-plumbing-can-support-a-new-bathroom-addition.json`](./faqs/how-do-i-know-if-my-existing-plumbing-can-support-a-new-bathroom-addition.json) — schema
+- [`faqs/how-do-i-know-if-my-existing-tile-or-surface-needs-an-update-or-full-replacement.json`](./faqs/how-do-i-know-if-my-existing-tile-or-surface-needs-an-update-or-full-replacement.json) — schema
 - [`faqs/how-do-i-know-if-my-fence-needs-stability-restoration.json`](./faqs/how-do-i-know-if-my-fence-needs-stability-restoration.json) — schema
 - [`faqs/how-do-i-know-if-my-home-s-plumbing-needs-to-be-updated-during-a-bathroom-remode.json`](./faqs/how-do-i-know-if-my-home-s-plumbing-needs-to-be-updated-during-a-bathroom-remode.json) — schema
+- [`faqs/how-do-i-know-if-my-kitchen-s-electrical-panel-needs-an-upgrade-before-a-renovat.json`](./faqs/how-do-i-know-if-my-kitchen-s-electrical-panel-needs-an-upgrade-before-a-renovat.json) — schema
 - [`faqs/how-do-i-know-if-my-newly-constructed-home-needs-hardware-or-functional-adjustme.json`](./faqs/how-do-i-know-if-my-newly-constructed-home-needs-hardware-or-functional-adjustme.json) — schema
+- [`faqs/how-do-i-know-if-my-railing-needs-repair-or-full-replacement.json`](./faqs/how-do-i-know-if-my-railing-needs-repair-or-full-replacement.json) — schema
+- [`faqs/how-do-i-know-if-my-stair-needs-repair-or-a-full-replacement.json`](./faqs/how-do-i-know-if-my-stair-needs-repair-or-a-full-replacement.json) — schema
+- [`faqs/how-do-i-know-if-my-surface-needs-restoration-or-full-replacement.json`](./faqs/how-do-i-know-if-my-surface-needs-restoration-or-full-replacement.json) — schema
 - [`faqs/how-do-i-know-if-my-wood-fence-needs-repair-or-replacement.json`](./faqs/how-do-i-know-if-my-wood-fence-needs-repair-or-replacement.json) — schema
 - [`faqs/how-do-i-maintain-and-clean-my-kitchen-backsplash.json`](./faqs/how-do-i-maintain-and-clean-my-kitchen-backsplash.json) — schema
 - [`faqs/how-do-i-maintain-my-new-custom-cabinets.json`](./faqs/how-do-i-maintain-my-new-custom-cabinets.json) — schema
 - [`faqs/how-do-i-maintain-my-new-kitchen-backsplash.json`](./faqs/how-do-i-maintain-my-new-kitchen-backsplash.json) — schema
 - [`faqs/how-do-i-maintain-my-newly-painted-interior-walls.json`](./faqs/how-do-i-maintain-my-newly-painted-interior-walls.json) — schema
+- [`faqs/how-do-i-maintain-my-newly-updated-tile-and-surfaces.json`](./faqs/how-do-i-maintain-my-newly-updated-tile-and-surfaces.json) — schema
 - [`faqs/how-do-i-maintain-my-refinished-cabinets.json`](./faqs/how-do-i-maintain-my-refinished-cabinets.json) — schema
 - [`faqs/how-do-i-maintain-my-wood-fence-panels-after-repair.json`](./faqs/how-do-i-maintain-my-wood-fence-panels-after-repair.json) — schema
+- [`faqs/how-do-i-manage-my-budget-during-a-kitchen-renovation.json`](./faqs/how-do-i-manage-my-budget-during-a-kitchen-renovation.json) — schema
+- [`faqs/how-do-i-prepare-my-bathroom-for-a-shower-or-tub-upgrade.json`](./faqs/how-do-i-prepare-my-bathroom-for-a-shower-or-tub-upgrade.json) — schema
 - [`faqs/how-do-i-prepare-my-home-for-a-kitchen-remodel.json`](./faqs/how-do-i-prepare-my-home-for-a-kitchen-remodel.json) — schema
+- [`faqs/how-do-i-prepare-my-home-for-a-new-addition-project.json`](./faqs/how-do-i-prepare-my-home-for-a-new-addition-project.json) — schema
 - [`faqs/how-do-i-prepare-my-home-for-a-remodeling-project.json`](./faqs/how-do-i-prepare-my-home-for-a-remodeling-project.json) — schema
+- [`faqs/how-do-i-prepare-my-home-for-an-interior-renovation.json`](./faqs/how-do-i-prepare-my-home-for-an-interior-renovation.json) — schema
+- [`faqs/how-do-i-prepare-my-home-for-electrical-fixture-installation.json`](./faqs/how-do-i-prepare-my-home-for-electrical-fixture-installation.json) — schema
 - [`faqs/how-do-i-prepare-my-home-for-interior-painting.json`](./faqs/how-do-i-prepare-my-home-for-interior-painting.json) — schema
 - [`faqs/how-do-i-prepare-my-home-for-new-appliance-installation.json`](./faqs/how-do-i-prepare-my-home-for-new-appliance-installation.json) — schema
 - [`faqs/how-do-i-prepare-my-kitchen-for-countertop-installation.json`](./faqs/how-do-i-prepare-my-kitchen-for-countertop-installation.json) — schema
 - [`faqs/how-do-i-prepare-my-room-before-the-painters-arrive.json`](./faqs/how-do-i-prepare-my-room-before-the-painters-arrive.json) — schema
 - [`faqs/how-do-i-prepare-my-space-for-cabinet-installation.json`](./faqs/how-do-i-prepare-my-space-for-cabinet-installation.json) — schema
+- [`faqs/how-do-i-set-a-realistic-budget-for-interior-finish-upgrades.json`](./faqs/how-do-i-set-a-realistic-budget-for-interior-finish-upgrades.json) — schema
+- [`faqs/how-do-i-start-a-custom-cabinet-project-with-frasheski-construction.json`](./faqs/how-do-i-start-a-custom-cabinet-project-with-frasheski-construction.json) — schema
+- [`faqs/how-do-i-start-planning-my-home-remodeling-project-with-a-contractor.json`](./faqs/how-do-i-start-planning-my-home-remodeling-project-with-a-contractor.json) — schema
 - [`faqs/how-do-interior-finish-upgrades-increase-my-home-s-value.json`](./faqs/how-do-interior-finish-upgrades-increase-my-home-s-value.json) — schema
+- [`faqs/how-do-local-building-codes-in-berkeley-or-oakland-impact-hardware-installations.json`](./faqs/how-do-local-building-codes-in-berkeley-or-oakland-impact-hardware-installations.json) — schema
+- [`faqs/how-do-you-assess-the-extent-of-damage-for-a-deck-structural-repair.json`](./faqs/how-do-you-assess-the-extent-of-damage-for-a-deck-structural-repair.json) — schema
+- [`faqs/how-do-you-assess-the-extent-of-damage-to-a-wood-fence-panel.json`](./faqs/how-do-you-assess-the-extent-of-damage-to-a-wood-fence-panel.json) — schema
+- [`faqs/how-do-you-choose-the-right-paint-colors-and-finishes-for-my-home-during-a-renov.json`](./faqs/how-do-you-choose-the-right-paint-colors-and-finishes-for-my-home-during-a-renov.json) — schema
 - [`faqs/how-do-you-coordinate-with-other-contractors-during-a-renovation.json`](./faqs/how-do-you-coordinate-with-other-contractors-during-a-renovation.json) — schema
 - [`faqs/how-do-you-create-a-trade-schedule-for-a-construction-project.json`](./faqs/how-do-you-create-a-trade-schedule-for-a-construction-project.json) — schema
+- [`faqs/how-do-you-determine-the-sequence-of-trades-on-a-project.json`](./faqs/how-do-you-determine-the-sequence-of-trades-on-a-project.json) — schema
+- [`faqs/how-do-you-ensure-paint-and-finish-quality-in-an-addition-to-my-home-in-berkeley.json`](./faqs/how-do-you-ensure-paint-and-finish-quality-in-an-addition-to-my-home-in-berkeley.json) — schema
 - [`faqs/how-do-you-ensure-plumbing-coordination-meets-local-codes-in-the-east-bay-area.json`](./faqs/how-do-you-ensure-plumbing-coordination-meets-local-codes-in-the-east-bay-area.json) — schema
 - [`faqs/how-do-you-ensure-proper-coordination-between-plumbing-and-electrical-teams.json`](./faqs/how-do-you-ensure-proper-coordination-between-plumbing-and-electrical-teams.json) — schema
+- [`faqs/how-do-you-ensure-quality-control-during-the-final-detail-work-phase.json`](./faqs/how-do-you-ensure-quality-control-during-the-final-detail-work-phase.json) — schema
 - [`faqs/how-do-you-ensure-quality-control-during-tile-installation-coordination.json`](./faqs/how-do-you-ensure-quality-control-during-tile-installation-coordination.json) — schema
+- [`faqs/how-do-you-ensure-quality-control-in-finish-carpentry-coordination.json`](./faqs/how-do-you-ensure-quality-control-in-finish-carpentry-coordination.json) — schema
+- [`faqs/how-do-you-ensure-the-longevity-of-hardware-and-functional-adjustments.json`](./faqs/how-do-you-ensure-the-longevity-of-hardware-and-functional-adjustments.json) — schema
 - [`faqs/how-do-you-ensure-the-new-paint-matches-the-existing-paint-in-my-home.json`](./faqs/how-do-you-ensure-the-new-paint-matches-the-existing-paint-in-my-home.json) — schema
+- [`faqs/how-do-you-handle-changes-to-the-project-scope-that-might-impact-trade-schedulin.json`](./faqs/how-do-you-handle-changes-to-the-project-scope-that-might-impact-trade-schedulin.json) — schema
 - [`faqs/how-do-you-handle-unexpected-issues-during-a-kitchen-renovation.json`](./faqs/how-do-you-handle-unexpected-issues-during-a-kitchen-renovation.json) — schema
 - [`faqs/how-do-you-handle-unexpected-issues-during-fixture-installation.json`](./faqs/how-do-you-handle-unexpected-issues-during-fixture-installation.json) — schema
+- [`faqs/how-do-you-handle-unexpected-issues-or-changes-during-a-coordinated-tile-install.json`](./faqs/how-do-you-handle-unexpected-issues-or-changes-during-a-coordinated-tile-install.json) — schema
 - [`faqs/how-do-you-handle-unexpected-issues-or-changes-during-a-remodeling-project.json`](./faqs/how-do-you-handle-unexpected-issues-or-changes-during-a-remodeling-project.json) — schema
 - [`faqs/how-do-you-handle-waste-disposal-during-jobsite-cleanup-in-the-berkeley-area.json`](./faqs/how-do-you-handle-waste-disposal-during-jobsite-cleanup-in-the-berkeley-area.json) — schema
+- [`faqs/how-do-you-protect-existing-elements-during-post-remodel-painting.json`](./faqs/how-do-you-protect-existing-elements-during-post-remodel-painting.json) — schema
+- [`faqs/how-do-you-protect-my-belongings-and-flooring-during-interior-painting.json`](./faqs/how-do-you-protect-my-belongings-and-flooring-during-interior-painting.json) — schema
+- [`faqs/how-do-you-protect-my-furniture-and-belongings-during-painting.json`](./faqs/how-do-you-protect-my-furniture-and-belongings-during-painting.json) — schema
 - [`faqs/how-do-your-fence-stability-restoration-services-compare-to-diy-repairs.json`](./faqs/how-do-your-fence-stability-restoration-services-compare-to-diy-repairs.json) — schema
 - [`faqs/how-do-your-flooring-installation-coordination-services-compare-to-diy.json`](./faqs/how-do-your-flooring-installation-coordination-services-compare-to-diy.json) — schema
+- [`faqs/how-does-a-new-room-addition-impact-my-property-value.json`](./faqs/how-does-a-new-room-addition-impact-my-property-value.json) — schema
+- [`faqs/how-does-a-project-manager-help-with-budgeting-and-cost-control.json`](./faqs/how-does-a-project-manager-help-with-budgeting-and-cost-control.json) — schema
 - [`faqs/how-does-a-tankless-water-heater-compare-to-a-traditional-water-heater-for-a-rem.json`](./faqs/how-does-a-tankless-water-heater-compare-to-a-traditional-water-heater-for-a-rem.json) — schema
+- [`faqs/how-does-appliance-installation-coordination-affect-my-project-timeline-and-budg.json`](./faqs/how-does-appliance-installation-coordination-affect-my-project-timeline-and-budg.json) — schema
+- [`faqs/how-does-appliance-installation-coordination-differ-from-just-having-appliances.json`](./faqs/how-does-appliance-installation-coordination-differ-from-just-having-appliances.json) — schema
 - [`faqs/how-does-appliance-installation-coordination-work-with-frasheski-construction.json`](./faqs/how-does-appliance-installation-coordination-work-with-frasheski-construction.json) — schema
+- [`faqs/how-does-cabinet-installation-coordination-affect-my-overall-renovation-budget.json`](./faqs/how-does-cabinet-installation-coordination-affect-my-overall-renovation-budget.json) — schema
+- [`faqs/how-does-coordinating-plumbing-and-electrical-affect-the-overall-timeline-and-co.json`](./faqs/how-does-coordinating-plumbing-and-electrical-affect-the-overall-timeline-and-co.json) — schema
+- [`faqs/how-does-electrical-coordination-differ-from-an-arc-flash-study.json`](./faqs/how-does-electrical-coordination-differ-from-an-arc-flash-study.json) — schema
 - [`faqs/how-does-electrical-coordination-impact-project-costs.json`](./faqs/how-does-electrical-coordination-impact-project-costs.json) — schema
+- [`faqs/how-does-electrical-work-for-an-addition-differ-from-a-simple-room-remodel.json`](./faqs/how-does-electrical-work-for-an-addition-differ-from-a-simple-room-remodel.json) — schema
+- [`faqs/how-does-finish-carpentry-coordination-affect-my-project-timeline-and-budget.json`](./faqs/how-does-finish-carpentry-coordination-affect-my-project-timeline-and-budget.json) — schema
 - [`faqs/how-does-finish-carpentry-coordination-differ-from-general-construction-manageme.json`](./faqs/how-does-finish-carpentry-coordination-differ-from-general-construction-manageme.json) — schema
 - [`faqs/how-does-fixture-installation-coordination-fit-into-the-overall-construction-tim.json`](./faqs/how-does-fixture-installation-coordination-fit-into-the-overall-construction-tim.json) — schema
+- [`faqs/how-does-fixture-installation-coordination-impact-my-project-timeline-and-budget.json`](./faqs/how-does-fixture-installation-coordination-impact-my-project-timeline-and-budget.json) — schema
+- [`faqs/how-does-frasheski-construction-coordinate-countertop-installation-with-other-re.json`](./faqs/how-does-frasheski-construction-coordinate-countertop-installation-with-other-re.json) — schema
+- [`faqs/how-does-frasheski-construction-coordinate-plumbing-with-other-trades-like-hvac.json`](./faqs/how-does-frasheski-construction-coordinate-plumbing-with-other-trades-like-hvac.json) — schema
 - [`faqs/how-does-frasheski-construction-ensure-clear-communication-during-remodel-planni.json`](./faqs/how-does-frasheski-construction-ensure-clear-communication-during-remodel-planni.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-compliance-with-local-building-codes-for.json`](./faqs/how-does-frasheski-construction-ensure-compliance-with-local-building-codes-for.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-effective-coordination-of-plumbing-and-el.json`](./faqs/how-does-frasheski-construction-ensure-effective-coordination-of-plumbing-and-el.json) — schema
 - [`faqs/how-does-frasheski-construction-ensure-efficient-trade-sequencing-in-berkeley-an.json`](./faqs/how-does-frasheski-construction-ensure-efficient-trade-sequencing-in-berkeley-an.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-fixture-compatibility-with-my-home-s-exis.json`](./faqs/how-does-frasheski-construction-ensure-fixture-compatibility-with-my-home-s-exis.json) — schema
 - [`faqs/how-does-frasheski-construction-ensure-proper-plumbing-and-electrical-coordinati.json`](./faqs/how-does-frasheski-construction-ensure-proper-plumbing-and-electrical-coordinati.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-quality-and-craftsmanship-in-home-additio.json`](./faqs/how-does-frasheski-construction-ensure-quality-and-craftsmanship-in-home-additio.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-quality-control-during-flooring-installat.json`](./faqs/how-does-frasheski-construction-ensure-quality-control-during-flooring-installat.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-quality-in-deck-board-replacement-project.json`](./faqs/how-does-frasheski-construction-ensure-quality-in-deck-board-replacement-project.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-quality-in-tile-installation-through-coor.json`](./faqs/how-does-frasheski-construction-ensure-quality-in-tile-installation-through-coor.json) — schema
+- [`faqs/how-does-frasheski-construction-ensure-the-quality-of-their-door-installations-i.json`](./faqs/how-does-frasheski-construction-ensure-the-quality-of-their-door-installations-i.json) — schema
+- [`faqs/how-does-frasheski-construction-handle-permits-for-bathroom-vanity-upgrades-in-b.json`](./faqs/how-does-frasheski-construction-handle-permits-for-bathroom-vanity-upgrades-in-b.json) — schema
+- [`faqs/how-does-frasheski-construction-handle-punch-list-communication-with-clients.json`](./faqs/how-does-frasheski-construction-handle-punch-list-communication-with-clients.json) — schema
+- [`faqs/how-does-frasheski-construction-handle-unexpected-issues-during-a-remodel.json`](./faqs/how-does-frasheski-construction-handle-unexpected-issues-during-a-remodel.json) — schema
 - [`faqs/how-does-frasheski-construction-handle-unexpected-issues-during-tile-installatio.json`](./faqs/how-does-frasheski-construction-handle-unexpected-issues-during-tile-installatio.json) — schema
+- [`faqs/how-does-frasheski-construction-handle-utility-requirements-for-new-appliance-in.json`](./faqs/how-does-frasheski-construction-handle-utility-requirements-for-new-appliance-in.json) — schema
+- [`faqs/how-does-frasheski-construction-help-coordinate-the-remodel-scope-with-various-t.json`](./faqs/how-does-frasheski-construction-help-coordinate-the-remodel-scope-with-various-t.json) — schema
+- [`faqs/how-does-frasheski-construction-manage-cleanup-and-debris-removal-after-final-de.json`](./faqs/how-does-frasheski-construction-manage-cleanup-and-debris-removal-after-final-de.json) — schema
+- [`faqs/how-does-frasheski-construction-manage-communication-during-a-multi-room-remodel.json`](./faqs/how-does-frasheski-construction-manage-communication-during-a-multi-room-remodel.json) — schema
+- [`faqs/how-does-frasheski-construction-manage-potential-conflicts-or-delays-between-dif.json`](./faqs/how-does-frasheski-construction-manage-potential-conflicts-or-delays-between-dif.json) — schema
+- [`faqs/how-does-frasheski-construction-manage-potential-delays-during-flooring-installa.json`](./faqs/how-does-frasheski-construction-manage-potential-delays-during-flooring-installa.json) — schema
 - [`faqs/how-does-plumbing-coordination-affect-project-timelines-and-budgets.json`](./faqs/how-does-plumbing-coordination-affect-project-timelines-and-budgets.json) — schema
 - [`faqs/how-does-technology-aid-in-plumbing-and-electrical-coordination.json`](./faqs/how-does-technology-aid-in-plumbing-and-electrical-coordination.json) — schema
+- [`faqs/how-does-the-complexity-of-a-project-affect-plumbing-coordination-efforts.json`](./faqs/how-does-the-complexity-of-a-project-affect-plumbing-coordination-efforts.json) — schema
+- [`faqs/how-does-trade-sequencing-impact-the-overall-cost-of-my-construction-project.json`](./faqs/how-does-trade-sequencing-impact-the-overall-cost-of-my-construction-project.json) — schema
+- [`faqs/how-does-weather-in-the-east-bay-affect-deck-board-replacement-scheduling.json`](./faqs/how-does-weather-in-the-east-bay-affect-deck-board-replacement-scheduling.json) — schema
 - [`faqs/how-far-in-advance-should-i-plan-for-fixture-installation-coordination.json`](./faqs/how-far-in-advance-should-i-plan-for-fixture-installation-coordination.json) — schema
 - [`faqs/how-long-do-deck-structural-repairs-usually-take.json`](./faqs/how-long-do-deck-structural-repairs-usually-take.json) — schema
 - [`faqs/how-long-do-functional-layout-improvement-projects-typically-take.json`](./faqs/how-long-do-functional-layout-improvement-projects-typically-take.json) — schema
 - [`faqs/how-long-do-hardware-adjustments-typically-take.json`](./faqs/how-long-do-hardware-adjustments-typically-take.json) — schema
 - [`faqs/how-long-do-hardware-and-functional-adjustments-typically-take.json`](./faqs/how-long-do-hardware-and-functional-adjustments-typically-take.json) — schema
+- [`faqs/how-long-do-interior-finish-upgrade-projects-typically-take.json`](./faqs/how-long-do-interior-finish-upgrade-projects-typically-take.json) — schema
 - [`faqs/how-long-do-interior-finish-upgrades-take.json`](./faqs/how-long-do-interior-finish-upgrades-take.json) — schema
 - [`faqs/how-long-do-kitchen-plumbing-upgrades-take.json`](./faqs/how-long-do-kitchen-plumbing-upgrades-take.json) — schema
 - [`faqs/how-long-do-restored-surfaces-typically-last.json`](./faqs/how-long-do-restored-surfaces-typically-last.json) — schema
+- [`faqs/how-long-does-a-bathroom-plumbing-installation-usually-take.json`](./faqs/how-long-does-a-bathroom-plumbing-installation-usually-take.json) — schema
 - [`faqs/how-long-does-a-bathroom-remodel-usually-take-in-the-east-bay-area.json`](./faqs/how-long-does-a-bathroom-remodel-usually-take-in-the-east-bay-area.json) — schema
 - [`faqs/how-long-does-a-bathroom-remodel-usually-take.json`](./faqs/how-long-does-a-bathroom-remodel-usually-take.json) — schema
 - [`faqs/how-long-does-a-bathroom-vanity-upgrade-project-usually-take.json`](./faqs/how-long-does-a-bathroom-vanity-upgrade-project-usually-take.json) — schema
 - [`faqs/how-long-does-a-deck-structural-repair-take.json`](./faqs/how-long-does-a-deck-structural-repair-take.json) — schema
+- [`faqs/how-long-does-a-final-quality-walkthrough-usually-take.json`](./faqs/how-long-does-a-final-quality-walkthrough-usually-take.json) — schema
 - [`faqs/how-long-does-a-full-bathroom-renovation-take.json`](./faqs/how-long-does-a-full-bathroom-renovation-take.json) — schema
+- [`faqs/how-long-does-a-full-bathroom-renovation-usually-take.json`](./faqs/how-long-does-a-full-bathroom-renovation-usually-take.json) — schema
 - [`faqs/how-long-does-a-full-kitchen-renovation-typically-take.json`](./faqs/how-long-does-a-full-kitchen-renovation-typically-take.json) — schema
+- [`faqs/how-long-does-a-full-kitchen-renovation-usually-take.json`](./faqs/how-long-does-a-full-kitchen-renovation-usually-take.json) — schema
 - [`faqs/how-long-does-a-home-remodel-usually-take-in-the-east-bay-area.json`](./faqs/how-long-does-a-home-remodel-usually-take-in-the-east-bay-area.json) — schema
 - [`faqs/how-long-does-a-kitchen-cabinet-upgrade-project-take.json`](./faqs/how-long-does-a-kitchen-cabinet-upgrade-project-take.json) — schema
+- [`faqs/how-long-does-a-kitchen-cabinet-upgrade-typically-take.json`](./faqs/how-long-does-a-kitchen-cabinet-upgrade-typically-take.json) — schema
 - [`faqs/how-long-does-a-kitchen-lighting-installation-take.json`](./faqs/how-long-does-a-kitchen-lighting-installation-take.json) — schema
+- [`faqs/how-long-does-a-kitchen-plumbing-installation-take.json`](./faqs/how-long-does-a-kitchen-plumbing-installation-take.json) — schema
 - [`faqs/how-long-does-a-kitchen-plumbing-upgrade-take.json`](./faqs/how-long-does-a-kitchen-plumbing-upgrade-take.json) — schema
 - [`faqs/how-long-does-a-kitchen-remodel-typically-take.json`](./faqs/how-long-does-a-kitchen-remodel-typically-take.json) — schema
 - [`faqs/how-long-does-a-kitchen-remodel-usually-take-in-the-oakland-area.json`](./faqs/how-long-does-a-kitchen-remodel-usually-take-in-the-oakland-area.json) — schema
 - [`faqs/how-long-does-a-paint-job-last-and-what-affects-its-longevity.json`](./faqs/how-long-does-a-paint-job-last-and-what-affects-its-longevity.json) — schema
+- [`faqs/how-long-does-a-railing-repair-typically-take.json`](./faqs/how-long-does-a-railing-repair-typically-take.json) — schema
+- [`faqs/how-long-does-a-repaired-wood-fence-typically-last.json`](./faqs/how-long-does-a-repaired-wood-fence-typically-last.json) — schema
 - [`faqs/how-long-does-a-room-addition-take-to-complete.json`](./faqs/how-long-does-a-room-addition-take-to-complete.json) — schema
 - [`faqs/how-long-does-a-room-expansion-project-take.json`](./faqs/how-long-does-a-room-expansion-project-take.json) — schema
 - [`faqs/how-long-does-a-shower-or-tub-upgrade-take-to-complete.json`](./faqs/how-long-does-a-shower-or-tub-upgrade-take-to-complete.json) — schema
 - [`faqs/how-long-does-a-typical-bathroom-electrical-and-lighting-upgrade-project-take.json`](./faqs/how-long-does-a-typical-bathroom-electrical-and-lighting-upgrade-project-take.json) — schema
 - [`faqs/how-long-does-a-typical-bathroom-electrical-and-lighting-upgrade-take.json`](./faqs/how-long-does-a-typical-bathroom-electrical-and-lighting-upgrade-take.json) — schema
+- [`faqs/how-long-does-a-typical-bathroom-plumbing-installation-or-upgrade-take.json`](./faqs/how-long-does-a-typical-bathroom-plumbing-installation-or-upgrade-take.json) — schema
 - [`faqs/how-long-does-a-typical-bathroom-remodel-take.json`](./faqs/how-long-does-a-typical-bathroom-remodel-take.json) — schema
 - [`faqs/how-long-does-a-typical-bathroom-tile-update-take.json`](./faqs/how-long-does-a-typical-bathroom-tile-update-take.json) — schema
 - [`faqs/how-long-does-a-typical-bathroom-vanity-and-cabinet-upgrade-project-take.json`](./faqs/how-long-does-a-typical-bathroom-vanity-and-cabinet-upgrade-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-bathroom-vanity-installation-take.json`](./faqs/how-long-does-a-typical-bathroom-vanity-installation-take.json) — schema
 - [`faqs/how-long-does-a-typical-cabinet-installation-project-take.json`](./faqs/how-long-does-a-typical-cabinet-installation-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-cabinet-refinishing-project-take.json`](./faqs/how-long-does-a-typical-cabinet-refinishing-project-take.json) — schema
 - [`faqs/how-long-does-a-typical-cabinet-repair-take.json`](./faqs/how-long-does-a-typical-cabinet-repair-take.json) — schema
+- [`faqs/how-long-does-a-typical-commercial-interior-build-out-take.json`](./faqs/how-long-does-a-typical-commercial-interior-build-out-take.json) — schema
+- [`faqs/how-long-does-a-typical-damaged-board-replacement-project-take.json`](./faqs/how-long-does-a-typical-damaged-board-replacement-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-deck-board-replacement-project-take.json`](./faqs/how-long-does-a-typical-deck-board-replacement-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-deck-repair-project-take.json`](./faqs/how-long-does-a-typical-deck-repair-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-door-installation-take.json`](./faqs/how-long-does-a-typical-door-installation-take.json) — schema
+- [`faqs/how-long-does-a-typical-electrical-fixture-installation-take.json`](./faqs/how-long-does-a-typical-electrical-fixture-installation-take.json) — schema
+- [`faqs/how-long-does-a-typical-fence-stability-restoration-project-take.json`](./faqs/how-long-does-a-typical-fence-stability-restoration-project-take.json) — schema
 - [`faqs/how-long-does-a-typical-final-quality-walkthrough-take.json`](./faqs/how-long-does-a-typical-final-quality-walkthrough-take.json) — schema
 - [`faqs/how-long-does-a-typical-gate-repair-take.json`](./faqs/how-long-does-a-typical-gate-repair-take.json) — schema
+- [`faqs/how-long-does-a-typical-home-addition-project-take-with-frasheski-construction.json`](./faqs/how-long-does-a-typical-home-addition-project-take-with-frasheski-construction.json) — schema
 - [`faqs/how-long-does-a-typical-home-remodel-project-take.json`](./faqs/how-long-does-a-typical-home-remodel-project-take.json) — schema
 - [`faqs/how-long-does-a-typical-home-remodeling-project-take-with-project-management.json`](./faqs/how-long-does-a-typical-home-remodeling-project-take-with-project-management.json) — schema
 - [`faqs/how-long-does-a-typical-interior-home-renovation-project-take.json`](./faqs/how-long-does-a-typical-interior-home-renovation-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-kitchen-cabinet-replacement-project-take-from-start-to-f.json`](./faqs/how-long-does-a-typical-kitchen-cabinet-replacement-project-take-from-start-to-f.json) — schema
+- [`faqs/how-long-does-a-typical-kitchen-layout-improvement-project-take.json`](./faqs/how-long-does-a-typical-kitchen-layout-improvement-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-kitchen-painting-project-take.json`](./faqs/how-long-does-a-typical-kitchen-painting-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-kitchen-plumbing-upgrade-project-take.json`](./faqs/how-long-does-a-typical-kitchen-plumbing-upgrade-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-kitchen-remodel-take.json`](./faqs/how-long-does-a-typical-kitchen-remodel-take.json) — schema
+- [`faqs/how-long-does-a-typical-multi-room-remodeling-project-take.json`](./faqs/how-long-does-a-typical-multi-room-remodeling-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-outdated-room-modernization-project-take.json`](./faqs/how-long-does-a-typical-outdated-room-modernization-project-take.json) — schema
 - [`faqs/how-long-does-a-typical-paint-and-finish-project-take-in-the-east-bay-area.json`](./faqs/how-long-does-a-typical-paint-and-finish-project-take-in-the-east-bay-area.json) — schema
 - [`faqs/how-long-does-a-typical-painting-project-take.json`](./faqs/how-long-does-a-typical-painting-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-room-addition-project-take.json`](./faqs/how-long-does-a-typical-room-addition-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-room-expansion-project-take-from-start-to-finish.json`](./faqs/how-long-does-a-typical-room-expansion-project-take-from-start-to-finish.json) — schema
 - [`faqs/how-long-does-a-typical-room-expansion-take.json`](./faqs/how-long-does-a-typical-room-expansion-take.json) — schema
 - [`faqs/how-long-does-a-typical-shower-or-tub-upgrade-project-take.json`](./faqs/how-long-does-a-typical-shower-or-tub-upgrade-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-stair-repair-project-take.json`](./faqs/how-long-does-a-typical-stair-repair-project-take.json) — schema
 - [`faqs/how-long-does-a-typical-surface-restoration-project-take.json`](./faqs/how-long-does-a-typical-surface-restoration-project-take.json) — schema
 - [`faqs/how-long-does-a-typical-tile-or-surface-update-project-take.json`](./faqs/how-long-does-a-typical-tile-or-surface-update-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-wood-fence-repair-take.json`](./faqs/how-long-does-a-typical-wood-fence-repair-take.json) — schema
+- [`faqs/how-long-does-an-electrical-coordination-study-typically-take-to-complete.json`](./faqs/how-long-does-an-electrical-coordination-study-typically-take-to-complete.json) — schema
 - [`faqs/how-long-does-an-interior-build-out-typically-take.json`](./faqs/how-long-does-an-interior-build-out-typically-take.json) — schema
 - [`faqs/how-long-does-an-interior-painting-project-typically-take.json`](./faqs/how-long-does-an-interior-painting-project-typically-take.json) — schema
 - [`faqs/how-long-does-appliance-area-preparation-take.json`](./faqs/how-long-does-appliance-area-preparation-take.json) — schema
@@ -586,6 +864,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-long-does-backsplash-installation-typically-take.json`](./faqs/how-long-does-backsplash-installation-typically-take.json) — schema
 - [`faqs/how-long-does-bathroom-plumbing-installation-take.json`](./faqs/how-long-does-bathroom-plumbing-installation-take.json) — schema
 - [`faqs/how-long-does-bathroom-plumbing-installation-usually-take.json`](./faqs/how-long-does-bathroom-plumbing-installation-usually-take.json) — schema
+- [`faqs/how-long-does-cabinet-installation-typically-take.json`](./faqs/how-long-does-cabinet-installation-typically-take.json) — schema
 - [`faqs/how-long-does-cabinet-refinishing-take.json`](./faqs/how-long-does-cabinet-refinishing-take.json) — schema
 - [`faqs/how-long-does-cabinet-refinishing-typically-take.json`](./faqs/how-long-does-cabinet-refinishing-typically-take.json) — schema
 - [`faqs/how-long-does-cabinet-repair-take.json`](./faqs/how-long-does-cabinet-repair-take.json) — schema
@@ -595,6 +874,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-long-does-damaged-board-replacement-take.json`](./faqs/how-long-does-damaged-board-replacement-take.json) — schema
 - [`faqs/how-long-does-deck-board-replacement-take.json`](./faqs/how-long-does-deck-board-replacement-take.json) — schema
 - [`faqs/how-long-does-deck-board-replacement-typically-take.json`](./faqs/how-long-does-deck-board-replacement-typically-take.json) — schema
+- [`faqs/how-long-does-deck-maintenance-typically-take.json`](./faqs/how-long-does-deck-maintenance-typically-take.json) — schema
 - [`faqs/how-long-does-deck-repair-take.json`](./faqs/how-long-does-deck-repair-take.json) — schema
 - [`faqs/how-long-does-electrical-fixture-installation-typically-take.json`](./faqs/how-long-does-electrical-fixture-installation-typically-take.json) — schema
 - [`faqs/how-long-does-fence-post-repair-take.json`](./faqs/how-long-does-fence-post-repair-take.json) — schema
@@ -602,17 +882,22 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-long-does-fence-stability-restoration-take.json`](./faqs/how-long-does-fence-stability-restoration-take.json) — schema
 - [`faqs/how-long-does-final-detail-work-typically-take.json`](./faqs/how-long-does-final-detail-work-typically-take.json) — schema
 - [`faqs/how-long-does-finish-carpentry-coordination-typically-add-to-a-project-timeline.json`](./faqs/how-long-does-finish-carpentry-coordination-typically-add-to-a-project-timeline.json) — schema
+- [`faqs/how-long-does-flooring-installation-coordination-typically-take-from-start-to-fi.json`](./faqs/how-long-does-flooring-installation-coordination-typically-take-from-start-to-fi.json) — schema
 - [`faqs/how-long-does-gate-repair-take.json`](./faqs/how-long-does-gate-repair-take.json) — schema
+- [`faqs/how-long-does-interior-painting-coordination-typically-add-to-a-renovation-timel.json`](./faqs/how-long-does-interior-painting-coordination-typically-add-to-a-renovation-timel.json) — schema
 - [`faqs/how-long-does-interior-painting-take.json`](./faqs/how-long-does-interior-painting-take.json) — schema
+- [`faqs/how-long-does-interior-painting-typically-take-for-a-multi-room-project.json`](./faqs/how-long-does-interior-painting-typically-take-for-a-multi-room-project.json) — schema
 - [`faqs/how-long-does-interior-painting-typically-take-for-a-standard-room.json`](./faqs/how-long-does-interior-painting-typically-take-for-a-standard-room.json) — schema
 - [`faqs/how-long-does-interior-painting-typically-take.json`](./faqs/how-long-does-interior-painting-typically-take.json) — schema
 - [`faqs/how-long-does-interior-painting-usually-take.json`](./faqs/how-long-does-interior-painting-usually-take.json) — schema
+- [`faqs/how-long-does-it-take-to-build-a-new-room-addition.json`](./faqs/how-long-does-it-take-to-build-a-new-room-addition.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-a-home-addition-project.json`](./faqs/how-long-does-it-take-to-complete-a-home-addition-project.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-a-home-addition.json`](./faqs/how-long-does-it-take-to-complete-a-home-addition.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-a-room-addition.json`](./faqs/how-long-does-it-take-to-complete-a-room-addition.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-a-typical-deck-maintenance-project.json`](./faqs/how-long-does-it-take-to-complete-a-typical-deck-maintenance-project.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-accessibility-minded-bathroom-modifications.json`](./faqs/how-long-does-it-take-to-complete-accessibility-minded-bathroom-modifications.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-an-accessibility-bathroom-modification.json`](./faqs/how-long-does-it-take-to-complete-an-accessibility-bathroom-modification.json) — schema
+- [`faqs/how-long-does-it-take-to-complete-an-accessible-bathroom-renovation.json`](./faqs/how-long-does-it-take-to-complete-an-accessible-bathroom-renovation.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-interior-finish-upgrades.json`](./faqs/how-long-does-it-take-to-complete-interior-finish-upgrades.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-kitchen-electrical-and-lighting-upgrades.json`](./faqs/how-long-does-it-take-to-complete-kitchen-electrical-and-lighting-upgrades.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-punch-list-items.json`](./faqs/how-long-does-it-take-to-complete-punch-list-items.json) — schema
@@ -621,46 +906,61 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-long-does-it-take-to-coordinate-a-flooring-installation-project.json`](./faqs/how-long-does-it-take-to-coordinate-a-flooring-installation-project.json) — schema
 - [`faqs/how-long-does-it-take-to-develop-a-trade-schedule.json`](./faqs/how-long-does-it-take-to-develop-a-trade-schedule.json) — schema
 - [`faqs/how-long-does-it-take-to-get-custom-cabinets-installed.json`](./faqs/how-long-does-it-take-to-get-custom-cabinets-installed.json) — schema
+- [`faqs/how-long-does-it-take-to-get-new-cabinets-after-ordering.json`](./faqs/how-long-does-it-take-to-get-new-cabinets-after-ordering.json) — schema
 - [`faqs/how-long-does-it-take-to-install-a-kitchen-backsplash.json`](./faqs/how-long-does-it-take-to-install-a-kitchen-backsplash.json) — schema
 - [`faqs/how-long-does-it-take-to-install-a-new-door.json`](./faqs/how-long-does-it-take-to-install-a-new-door.json) — schema
 - [`faqs/how-long-does-it-take-to-install-an-electrical-fixture.json`](./faqs/how-long-does-it-take-to-install-an-electrical-fixture.json) — schema
 - [`faqs/how-long-does-it-take-to-install-new-bathroom-vanities-and-kitchen-cabinets.json`](./faqs/how-long-does-it-take-to-install-new-bathroom-vanities-and-kitchen-cabinets.json) — schema
 - [`faqs/how-long-does-it-take-to-install-new-kitchen-or-bathroom-lighting.json`](./faqs/how-long-does-it-take-to-install-new-kitchen-or-bathroom-lighting.json) — schema
 - [`faqs/how-long-does-it-take-to-install-recessed-lighting-in-a-kitchen-in-berkeley.json`](./faqs/how-long-does-it-take-to-install-recessed-lighting-in-a-kitchen-in-berkeley.json) — schema
+- [`faqs/how-long-does-it-take-to-install-trim-and-molding-in-an-average-room.json`](./faqs/how-long-does-it-take-to-install-trim-and-molding-in-an-average-room.json) — schema
 - [`faqs/how-long-does-it-take-to-paint-a-bathroom.json`](./faqs/how-long-does-it-take-to-paint-a-bathroom.json) — schema
 - [`faqs/how-long-does-it-take-to-paint-a-single-room.json`](./faqs/how-long-does-it-take-to-paint-a-single-room.json) — schema
 - [`faqs/how-long-does-it-take-to-paint-a-standard-sized-room.json`](./faqs/how-long-does-it-take-to-paint-a-standard-sized-room.json) — schema
+- [`faqs/how-long-does-it-take-to-paint-an-entire-home-s-interior.json`](./faqs/how-long-does-it-take-to-paint-an-entire-home-s-interior.json) — schema
+- [`faqs/how-long-does-it-take-to-paint-and-finish-a-typical-room-addition.json`](./faqs/how-long-does-it-take-to-paint-and-finish-a-typical-room-addition.json) — schema
 - [`faqs/how-long-does-it-take-to-paint-the-interior-of-an-entire-house.json`](./faqs/how-long-does-it-take-to-paint-the-interior-of-an-entire-house.json) — schema
 - [`faqs/how-long-does-it-take-to-repair-a-damaged-deck.json`](./faqs/how-long-does-it-take-to-repair-a-damaged-deck.json) — schema
+- [`faqs/how-long-does-it-take-to-repair-a-fence-post.json`](./faqs/how-long-does-it-take-to-repair-a-fence-post.json) — schema
 - [`faqs/how-long-does-it-take-to-repair-a-wood-fence-panel.json`](./faqs/how-long-does-it-take-to-repair-a-wood-fence-panel.json) — schema
 - [`faqs/how-long-does-it-take-to-repair-wood-fence-panels.json`](./faqs/how-long-does-it-take-to-repair-wood-fence-panels.json) — schema
 - [`faqs/how-long-does-it-take-to-replace-a-toilet-in-albany.json`](./faqs/how-long-does-it-take-to-replace-a-toilet-in-albany.json) — schema
 - [`faqs/how-long-does-it-take-to-replace-a-toilet.json`](./faqs/how-long-does-it-take-to-replace-a-toilet.json) — schema
 - [`faqs/how-long-does-it-take-to-replace-damaged-boards.json`](./faqs/how-long-does-it-take-to-replace-damaged-boards.json) — schema
+- [`faqs/how-long-does-it-typically-take-to-complete-a-trim-and-detail-painting-project.json`](./faqs/how-long-does-it-typically-take-to-complete-a-trim-and-detail-painting-project.json) — schema
+- [`faqs/how-long-does-it-typically-take-to-complete-punch-list-items.json`](./faqs/how-long-does-it-typically-take-to-complete-punch-list-items.json) — schema
+- [`faqs/how-long-does-it-typically-take-to-paint-a-bathroom.json`](./faqs/how-long-does-it-typically-take-to-paint-a-bathroom.json) — schema
+- [`faqs/how-long-does-it-typically-take-to-paint-a-room.json`](./faqs/how-long-does-it-typically-take-to-paint-a-room.json) — schema
 - [`faqs/how-long-does-it-usually-take-to-install-new-bathroom-vanity-and-cabinets.json`](./faqs/how-long-does-it-usually-take-to-install-new-bathroom-vanity-and-cabinets.json) — schema
 - [`faqs/how-long-does-kitchen-cabinet-painting-typically-take.json`](./faqs/how-long-does-kitchen-cabinet-painting-typically-take.json) — schema
 - [`faqs/how-long-does-kitchen-painting-typically-take.json`](./faqs/how-long-does-kitchen-painting-typically-take.json) — schema
 - [`faqs/how-long-does-kitchen-plumbing-installation-take.json`](./faqs/how-long-does-kitchen-plumbing-installation-take.json) — schema
 - [`faqs/how-long-does-new-room-construction-take.json`](./faqs/how-long-does-new-room-construction-take.json) — schema
 - [`faqs/how-long-does-new-room-construction-usually-take-in-the-east-bay-area.json`](./faqs/how-long-does-new-room-construction-usually-take-in-the-east-bay-area.json) — schema
+- [`faqs/how-long-does-paint-and-finish-work-usually-take.json`](./faqs/how-long-does-paint-and-finish-work-usually-take.json) — schema
 - [`faqs/how-long-does-painting-and-finishing-an-addition-typically-take.json`](./faqs/how-long-does-painting-and-finishing-an-addition-typically-take.json) — schema
 - [`faqs/how-long-does-plumbing-rough-in-typically-take-for-a-kitchen-or-bathroom-remodel.json`](./faqs/how-long-does-plumbing-rough-in-typically-take-for-a-kitchen-or-bathroom-remodel.json) — schema
 - [`faqs/how-long-does-post-remodel-finish-painting-take.json`](./faqs/how-long-does-post-remodel-finish-painting-take.json) — schema
+- [`faqs/how-long-does-post-remodel-finish-painting-usually-take.json`](./faqs/how-long-does-post-remodel-finish-painting-usually-take.json) — schema
 - [`faqs/how-long-does-railing-repair-take.json`](./faqs/how-long-does-railing-repair-take.json) — schema
 - [`faqs/how-long-does-stair-repair-take.json`](./faqs/how-long-does-stair-repair-take.json) — schema
 - [`faqs/how-long-does-stair-repair-usually-take.json`](./faqs/how-long-does-stair-repair-usually-take.json) — schema
 - [`faqs/how-long-does-surface-restoration-take.json`](./faqs/how-long-does-surface-restoration-take.json) — schema
 - [`faqs/how-long-does-the-painting-and-finishing-process-take-for-a-typical-room-additio.json`](./faqs/how-long-does-the-painting-and-finishing-process-take-for-a-typical-room-additio.json) — schema
+- [`faqs/how-long-does-the-process-take-for-custom-cabinet-installation.json`](./faqs/how-long-does-the-process-take-for-custom-cabinet-installation.json) — schema
 - [`faqs/how-long-does-the-remodel-planning-phase-usually-take.json`](./faqs/how-long-does-the-remodel-planning-phase-usually-take.json) — schema
 - [`faqs/how-long-does-trim-and-detail-painting-usually-take.json`](./faqs/how-long-does-trim-and-detail-painting-usually-take.json) — schema
 - [`faqs/how-long-does-trim-and-molding-installation-take.json`](./faqs/how-long-does-trim-and-molding-installation-take.json) — schema
+- [`faqs/how-long-does-typical-jobsite-cleanup-and-project-closeout-take-for-a-residentia.json`](./faqs/how-long-does-typical-jobsite-cleanup-and-project-closeout-take-for-a-residentia.json) — schema
 - [`faqs/how-long-does-whole-home-interior-painting-take.json`](./faqs/how-long-does-whole-home-interior-painting-take.json) — schema
 - [`faqs/how-long-does-wood-fence-repair-take.json`](./faqs/how-long-does-wood-fence-repair-take.json) — schema
+- [`faqs/how-long-should-i-wait-before-putting-furniture-back-and-resuming-normal-activit.json`](./faqs/how-long-should-i-wait-before-putting-furniture-back-and-resuming-normal-activit.json) — schema
 - [`faqs/how-much-do-accessibility-minded-bathroom-modifications-typically-cost-in-the-ea.json`](./faqs/how-much-do-accessibility-minded-bathroom-modifications-typically-cost-in-the-ea.json) — schema
 - [`faqs/how-much-do-functional-layout-improvements-cost-in-the-berkeley-area.json`](./faqs/how-much-do-functional-layout-improvements-cost-in-the-berkeley-area.json) — schema
 - [`faqs/how-much-do-functional-layout-improvements-cost.json`](./faqs/how-much-do-functional-layout-improvements-cost.json) — schema
 - [`faqs/how-much-do-interior-finish-upgrades-cost.json`](./faqs/how-much-do-interior-finish-upgrades-cost.json) — schema
 - [`faqs/how-much-do-kitchen-plumbing-upgrades-cost-in-berkeley.json`](./faqs/how-much-do-kitchen-plumbing-upgrades-cost-in-berkeley.json) — schema
+- [`faqs/how-much-does-a-bathroom-remodel-usually-cost.json`](./faqs/how-much-does-a-bathroom-remodel-usually-cost.json) — schema
 - [`faqs/how-much-does-a-full-bathroom-renovation-cost-in-berkeley-or-the-east-bay.json`](./faqs/how-much-does-a-full-bathroom-renovation-cost-in-berkeley-or-the-east-bay.json) — schema
 - [`faqs/how-much-does-a-full-bathroom-renovation-cost-in-berkeley.json`](./faqs/how-much-does-a-full-bathroom-renovation-cost-in-berkeley.json) — schema
 - [`faqs/how-much-does-a-full-kitchen-renovation-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-full-kitchen-renovation-cost-in-the-east-bay-area.json) — schema
@@ -669,12 +969,16 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-much-does-a-kitchen-remodel-cost-in-berkeley.json`](./faqs/how-much-does-a-kitchen-remodel-cost-in-berkeley.json) — schema
 - [`faqs/how-much-does-a-kitchen-remodel-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-kitchen-remodel-cost-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-a-multi-room-remodel-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-multi-room-remodel-cost-in-the-east-bay-area.json) — schema
+- [`faqs/how-much-does-a-new-room-addition-cost.json`](./faqs/how-much-does-a-new-room-addition-cost.json) — schema
+- [`faqs/how-much-does-a-professional-bathroom-plumbing-installation-cost-in-the-east-bay.json`](./faqs/how-much-does-a-professional-bathroom-plumbing-installation-cost-in-the-east-bay.json) — schema
 - [`faqs/how-much-does-a-remodel-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-remodel-cost-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-a-room-addition-cost-in-berkeley.json`](./faqs/how-much-does-a-room-addition-cost-in-berkeley.json) — schema
 - [`faqs/how-much-does-a-room-addition-typically-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-room-addition-typically-cost-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-a-room-expansion-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-room-expansion-cost-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-a-shower-or-tub-upgrade-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-shower-or-tub-upgrade-cost-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-a-shower-or-tub-upgrade-typically-cost-in-the-east-bay-area.json`](./faqs/how-much-does-a-shower-or-tub-upgrade-typically-cost-in-the-east-bay-area.json) — schema
+- [`faqs/how-much-does-a-typical-kitchen-faucet-replacement-cost.json`](./faqs/how-much-does-a-typical-kitchen-faucet-replacement-cost.json) — schema
+- [`faqs/how-much-does-an-accessibility-bathroom-renovation-typically-cost.json`](./faqs/how-much-does-an-accessibility-bathroom-renovation-typically-cost.json) — schema
 - [`faqs/how-much-does-appliance-area-preparation-cost.json`](./faqs/how-much-does-appliance-area-preparation-cost.json) — schema
 - [`faqs/how-much-does-backsplash-installation-cost-in-the-east-bay-area.json`](./faqs/how-much-does-backsplash-installation-cost-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-bathroom-plumbing-installation-cost-in-the-east-bay-area.json`](./faqs/how-much-does-bathroom-plumbing-installation-cost-in-the-east-bay-area.json) — schema
@@ -695,20 +999,26 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-much-does-electrical-work-for-a-bathroom-remodel-usually-cost-in-the-east-ba.json`](./faqs/how-much-does-electrical-work-for-a-bathroom-remodel-usually-cost-in-the-east-ba.json) — schema
 - [`faqs/how-much-does-fence-post-repair-cost-in-berkeley-or-oakland.json`](./faqs/how-much-does-fence-post-repair-cost-in-berkeley-or-oakland.json) — schema
 - [`faqs/how-much-does-fence-post-repair-cost-in-the-east-bay-area.json`](./faqs/how-much-does-fence-post-repair-cost-in-the-east-bay-area.json) — schema
+- [`faqs/how-much-does-fence-post-repair-typically-cost.json`](./faqs/how-much-does-fence-post-repair-typically-cost.json) — schema
 - [`faqs/how-much-does-fence-stability-restoration-cost-in-berkeley.json`](./faqs/how-much-does-fence-stability-restoration-cost-in-berkeley.json) — schema
 - [`faqs/how-much-does-fence-stability-restoration-cost.json`](./faqs/how-much-does-fence-stability-restoration-cost.json) — schema
+- [`faqs/how-much-does-fence-stability-restoration-typically-cost.json`](./faqs/how-much-does-fence-stability-restoration-typically-cost.json) — schema
 - [`faqs/how-much-does-flooring-installation-coordination-cost.json`](./faqs/how-much-does-flooring-installation-coordination-cost.json) — schema
 - [`faqs/how-much-does-gate-repair-cost.json`](./faqs/how-much-does-gate-repair-cost.json) — schema
 - [`faqs/how-much-does-gate-repair-typically-cost-in-the-east-bay.json`](./faqs/how-much-does-gate-repair-typically-cost-in-the-east-bay.json) — schema
+- [`faqs/how-much-does-gate-repair-typically-cost.json`](./faqs/how-much-does-gate-repair-typically-cost.json) — schema
 - [`faqs/how-much-does-interior-painting-cost-in-the-berkeley-area.json`](./faqs/how-much-does-interior-painting-cost-in-the-berkeley-area.json) — schema
 - [`faqs/how-much-does-interior-painting-cost-in-the-east-bay-area.json`](./faqs/how-much-does-interior-painting-cost-in-the-east-bay-area.json) — schema
+- [`faqs/how-much-does-it-cost-to-change-a-home-s-layout.json`](./faqs/how-much-does-it-cost-to-change-a-home-s-layout.json) — schema
 - [`faqs/how-much-does-it-cost-to-fix-a-leaking-bathroom-faucet.json`](./faqs/how-much-does-it-cost-to-fix-a-leaking-bathroom-faucet.json) — schema
 - [`faqs/how-much-does-it-cost-to-fix-a-leaky-faucet-in-berkeley.json`](./faqs/how-much-does-it-cost-to-fix-a-leaky-faucet-in-berkeley.json) — schema
 - [`faqs/how-much-does-it-cost-to-have-hardware-adjustments-done-by-a-professional.json`](./faqs/how-much-does-it-cost-to-have-hardware-adjustments-done-by-a-professional.json) — schema
 - [`faqs/how-much-does-it-cost-to-install-a-kitchen-backsplash-in-the-east-bay-area.json`](./faqs/how-much-does-it-cost-to-install-a-kitchen-backsplash-in-the-east-bay-area.json) — schema
+- [`faqs/how-much-does-it-cost-to-install-a-new-ceiling-fan.json`](./faqs/how-much-does-it-cost-to-install-a-new-ceiling-fan.json) — schema
 - [`faqs/how-much-does-it-cost-to-install-a-new-door-in-berkeley.json`](./faqs/how-much-does-it-cost-to-install-a-new-door-in-berkeley.json) — schema
 - [`faqs/how-much-does-it-cost-to-install-an-electrical-fixture-in-berkeley.json`](./faqs/how-much-does-it-cost-to-install-an-electrical-fixture-in-berkeley.json) — schema
 - [`faqs/how-much-does-it-cost-to-install-new-kitchen-plumbing-in-berkeley.json`](./faqs/how-much-does-it-cost-to-install-new-kitchen-plumbing-in-berkeley.json) — schema
+- [`faqs/how-much-does-it-cost-to-install-recessed-lighting-in-a-kitchen-in-the-east-bay.json`](./faqs/how-much-does-it-cost-to-install-recessed-lighting-in-a-kitchen-in-the-east-bay.json) — schema
 - [`faqs/how-much-does-it-cost-to-make-a-bathroom-accessible-in-the-east-bay-area.json`](./faqs/how-much-does-it-cost-to-make-a-bathroom-accessible-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-it-cost-to-modernize-a-room-in-berkeley.json`](./faqs/how-much-does-it-cost-to-modernize-a-room-in-berkeley.json) — schema
 - [`faqs/how-much-does-it-cost-to-move-a-toilet-during-a-kitchen-remodel-in-oakland.json`](./faqs/how-much-does-it-cost-to-move-a-toilet-during-a-kitchen-remodel-in-oakland.json) — schema
@@ -721,20 +1031,28 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-much-does-it-cost-to-paint-and-finish-a-home-addition-in-the-east-bay-area.json`](./faqs/how-much-does-it-cost-to-paint-and-finish-a-home-addition-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-it-cost-to-paint-kitchen-cabinets-in-the-east-bay-area.json`](./faqs/how-much-does-it-cost-to-paint-kitchen-cabinets-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-it-cost-to-paint-kitchen-cabinets-in-the-east-bay.json`](./faqs/how-much-does-it-cost-to-paint-kitchen-cabinets-in-the-east-bay.json) — schema
+- [`faqs/how-much-does-it-cost-to-relocate-a-toilet-during-a-bathroom-remodel.json`](./faqs/how-much-does-it-cost-to-relocate-a-toilet-during-a-bathroom-remodel.json) — schema
+- [`faqs/how-much-does-it-cost-to-remodel-a-home-in-the-east-bay-area.json`](./faqs/how-much-does-it-cost-to-remodel-a-home-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-it-cost-to-repair-a-deck-s-structural-components.json`](./faqs/how-much-does-it-cost-to-repair-a-deck-s-structural-components.json) — schema
 - [`faqs/how-much-does-it-cost-to-repair-a-deck-structurally.json`](./faqs/how-much-does-it-cost-to-repair-a-deck-structurally.json) — schema
 - [`faqs/how-much-does-it-cost-to-repair-a-wood-fence-panel-in-berkeley.json`](./faqs/how-much-does-it-cost-to-repair-a-wood-fence-panel-in-berkeley.json) — schema
+- [`faqs/how-much-does-it-cost-to-repair-a-wood-fence-panel.json`](./faqs/how-much-does-it-cost-to-repair-a-wood-fence-panel.json) — schema
 - [`faqs/how-much-does-it-cost-to-repair-a-wood-fence.json`](./faqs/how-much-does-it-cost-to-repair-a-wood-fence.json) — schema
+- [`faqs/how-much-does-it-cost-to-replace-a-main-electrical-panel-in-the-east-bay-area.json`](./faqs/how-much-does-it-cost-to-replace-a-main-electrical-panel-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-it-cost-to-replace-countertops-in-berkeley.json`](./faqs/how-much-does-it-cost-to-replace-countertops-in-berkeley.json) — schema
 - [`faqs/how-much-does-it-cost-to-replace-deck-boards.json`](./faqs/how-much-does-it-cost-to-replace-deck-boards.json) — schema
 - [`faqs/how-much-does-it-cost-to-update-tiles-and-surfaces-in-the-east-bay-area.json`](./faqs/how-much-does-it-cost-to-update-tiles-and-surfaces-in-the-east-bay-area.json) — schema
+- [`faqs/how-much-does-it-cost-to-upgrade-bathroom-lighting-and-electrical-outlets.json`](./faqs/how-much-does-it-cost-to-upgrade-bathroom-lighting-and-electrical-outlets.json) — schema
 - [`faqs/how-much-does-it-cost-to-upgrade-kitchen-cabinets-in-berkeley.json`](./faqs/how-much-does-it-cost-to-upgrade-kitchen-cabinets-in-berkeley.json) — schema
 - [`faqs/how-much-does-it-cost-to-upgrade-kitchen-cabinets.json`](./faqs/how-much-does-it-cost-to-upgrade-kitchen-cabinets.json) — schema
+- [`faqs/how-much-does-it-cost-to-upgrade-kitchen-electrical-outlets-and-switches.json`](./faqs/how-much-does-it-cost-to-upgrade-kitchen-electrical-outlets-and-switches.json) — schema
 - [`faqs/how-much-does-it-cost-to-upgrade-kitchen-electrical-wiring.json`](./faqs/how-much-does-it-cost-to-upgrade-kitchen-electrical-wiring.json) — schema
 - [`faqs/how-much-does-it-cost-to-upgrade-kitchen-lighting-in-berkeley.json`](./faqs/how-much-does-it-cost-to-upgrade-kitchen-lighting-in-berkeley.json) — schema
 - [`faqs/how-much-does-kitchen-plumbing-installation-cost-in-berkeley.json`](./faqs/how-much-does-kitchen-plumbing-installation-cost-in-berkeley.json) — schema
 - [`faqs/how-much-does-multi-room-remodeling-cost-in-the-east-bay.json`](./faqs/how-much-does-multi-room-remodeling-cost-in-the-east-bay.json) — schema
+- [`faqs/how-much-does-painting-and-finishing-an-addition-typically-cost.json`](./faqs/how-much-does-painting-and-finishing-an-addition-typically-cost.json) — schema
 - [`faqs/how-much-does-professional-jobsite-cleanup-and-project-closeout-typically-cost.json`](./faqs/how-much-does-professional-jobsite-cleanup-and-project-closeout-typically-cost.json) — schema
+- [`faqs/how-much-does-professional-tile-installation-coordination-typically-add-to-the-o.json`](./faqs/how-much-does-professional-tile-installation-coordination-typically-add-to-the-o.json) — schema
 - [`faqs/how-much-does-railing-repair-typically-cost-in-the-east-bay-area.json`](./faqs/how-much-does-railing-repair-typically-cost-in-the-east-bay-area.json) — schema
 - [`faqs/how-much-does-railing-repair-typically-cost.json`](./faqs/how-much-does-railing-repair-typically-cost.json) — schema
 - [`faqs/how-much-does-stair-repair-typically-cost-in-berkeley.json`](./faqs/how-much-does-stair-repair-typically-cost-in-berkeley.json) — schema
@@ -748,70 +1066,126 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-often-should-a-bathroom-be-repainted.json`](./faqs/how-often-should-a-bathroom-be-repainted.json) — schema
 - [`faqs/how-often-should-i-clean-and-seal-my-deck.json`](./faqs/how-often-should-i-clean-and-seal-my-deck.json) — schema
 - [`faqs/how-often-should-i-clean-my-deck.json`](./faqs/how-often-should-i-clean-my-deck.json) — schema
+- [`faqs/how-often-should-i-have-my-deck-inspected-or-maintained.json`](./faqs/how-often-should-i-have-my-deck-inspected-or-maintained.json) — schema
 - [`faqs/how-often-should-i-have-my-electrical-system-inspected-in-oakland.json`](./faqs/how-often-should-i-have-my-electrical-system-inspected-in-oakland.json) — schema
+- [`faqs/how-often-should-i-have-my-electrical-system-inspected.json`](./faqs/how-often-should-i-have-my-electrical-system-inspected.json) — schema
 - [`faqs/how-often-should-i-have-my-plumbing-system-inspected.json`](./faqs/how-often-should-i-have-my-plumbing-system-inspected.json) — schema
+- [`faqs/how-often-should-i-repaint-my-bathroom.json`](./faqs/how-often-should-i-repaint-my-bathroom.json) — schema
+- [`faqs/how-often-should-i-repaint-my-home-s-exterior.json`](./faqs/how-often-should-i-repaint-my-home-s-exterior.json) — schema
 - [`faqs/how-often-should-i-repaint-my-home-s-interior.json`](./faqs/how-often-should-i-repaint-my-home-s-interior.json) — schema
+- [`faqs/is-damaged-board-replacement-covered-by-home-insurance.json`](./faqs/is-damaged-board-replacement-covered-by-home-insurance.json) — schema
 - [`faqs/is-electrical-coordination-a-regulatory-requirement-for-commercial-buildings-in.json`](./faqs/is-electrical-coordination-a-regulatory-requirement-for-commercial-buildings-in.json) — schema
+- [`faqs/is-it-better-to-use-flat-eggshell-satin-or-semi-gloss-paint.json`](./faqs/is-it-better-to-use-flat-eggshell-satin-or-semi-gloss-paint.json) — schema
 - [`faqs/is-it-more-efficient-to-hire-a-company-that-offers-both-plumbing-and-electrical.json`](./faqs/is-it-more-efficient-to-hire-a-company-that-offers-both-plumbing-and-electrical.json) — schema
+- [`faqs/is-it-possible-to-adjust-existing-hardware-or-is-replacement-often-necessary.json`](./faqs/is-it-possible-to-adjust-existing-hardware-or-is-replacement-often-necessary.json) — schema
 - [`faqs/is-surface-restoration-more-cost-effective-than-replacing-surfaces.json`](./faqs/is-surface-restoration-more-cost-effective-than-replacing-surfaces.json) — schema
+- [`faqs/is-the-cost-of-final-detail-work-typically-included-in-the-overall-project-estim.json`](./faqs/is-the-cost-of-final-detail-work-typically-included-in-the-overall-project-estim.json) — schema
 - [`faqs/is-the-final-quality-walkthrough-the-same-as-a-final-inspection-by-the-city-or-c.json`](./faqs/is-the-final-quality-walkthrough-the-same-as-a-final-inspection-by-the-city-or-c.json) — schema
 - [`faqs/is-whole-home-interior-painting-disruptive.json`](./faqs/is-whole-home-interior-painting-disruptive.json) — schema
+- [`faqs/should-i-choose-a-garbage-disposal-or-a-compost-system-for-food-waste-in-my-kitc.json`](./faqs/should-i-choose-a-garbage-disposal-or-a-compost-system-for-food-waste-in-my-kitc.json) — schema
+- [`faqs/should-i-choose-a-matte-or-satin-finish-for-my-newly-painted-walls.json`](./faqs/should-i-choose-a-matte-or-satin-finish-for-my-newly-painted-walls.json) — schema
 - [`faqs/should-i-choose-a-shower-or-a-tub-for-my-bathroom-upgrade.json`](./faqs/should-i-choose-a-shower-or-a-tub-for-my-bathroom-upgrade.json) — schema
 - [`faqs/should-i-choose-custom-or-pre-fabricated-cabinets-for-my-home.json`](./faqs/should-i-choose-custom-or-pre-fabricated-cabinets-for-my-home.json) — schema
 - [`faqs/should-i-choose-custom-or-semi-custom-cabinets-for-my-kitchen-remodel.json`](./faqs/should-i-choose-custom-or-semi-custom-cabinets-for-my-kitchen-remodel.json) — schema
 - [`faqs/should-i-choose-quartz-or-granite-for-my-new-countertops.json`](./faqs/should-i-choose-quartz-or-granite-for-my-new-countertops.json) — schema
+- [`faqs/should-i-consider-dedicated-circuits-for-all-my-major-kitchen-appliances.json`](./faqs/should-i-consider-dedicated-circuits-for-all-my-major-kitchen-appliances.json) — schema
+- [`faqs/should-i-consider-professional-design-services-for-my-interior-finish-upgrade.json`](./faqs/should-i-consider-professional-design-services-for-my-interior-finish-upgrade.json) — schema
+- [`faqs/should-i-match-the-existing-paint-colors-or-choose-new-ones-for-an-addition.json`](./faqs/should-i-match-the-existing-paint-colors-or-choose-new-ones-for-an-addition.json) — schema
 - [`faqs/should-i-move-plumbing-or-electrical-during-my-kitchen-remodel.json`](./faqs/should-i-move-plumbing-or-electrical-during-my-kitchen-remodel.json) — schema
+- [`faqs/should-i-move-walls-to-improve-my-kitchen-layout-and-what-are-the-implications.json`](./faqs/should-i-move-walls-to-improve-my-kitchen-layout-and-what-are-the-implications.json) — schema
 - [`faqs/should-i-paint-my-bathroom-myself-or-hire-a-professional.json`](./faqs/should-i-paint-my-bathroom-myself-or-hire-a-professional.json) — schema
+- [`faqs/should-i-paint-my-bathroom-walls-or-hire-a-professional.json`](./faqs/should-i-paint-my-bathroom-walls-or-hire-a-professional.json) — schema
+- [`faqs/should-i-paint-my-walls-or-trim-first-when-undertaking-an-interior-painting-proj.json`](./faqs/should-i-paint-my-walls-or-trim-first-when-undertaking-an-interior-painting-proj.json) — schema
 - [`faqs/should-i-paint-the-ceiling-in-my-bathroom.json`](./faqs/should-i-paint-the-ceiling-in-my-bathroom.json) — schema
 - [`faqs/should-i-power-wash-my-deck-myself-or-hire-a-professional.json`](./faqs/should-i-power-wash-my-deck-myself-or-hire-a-professional.json) — schema
+- [`faqs/should-i-purchase-expensive-or-budget-friendly-fixtures-and-what-are-the-tradeof.json`](./faqs/should-i-purchase-expensive-or-budget-friendly-fixtures-and-what-are-the-tradeof.json) — schema
 - [`faqs/should-i-reface-or-replace-my-kitchen-cabinets.json`](./faqs/should-i-reface-or-replace-my-kitchen-cabinets.json) — schema
 - [`faqs/should-i-remodel-multiple-rooms-at-once-or-one-at-a-time.json`](./faqs/should-i-remodel-multiple-rooms-at-once-or-one-at-a-time.json) — schema
+- [`faqs/should-i-repair-my-old-deck-or-build-a-new-one.json`](./faqs/should-i-repair-my-old-deck-or-build-a-new-one.json) — schema
+- [`faqs/should-i-repair-or-replace-a-rotted-fence-post.json`](./faqs/should-i-repair-or-replace-a-rotted-fence-post.json) — schema
 - [`faqs/should-i-repair-or-replace-my-damaged-gate.json`](./faqs/should-i-repair-or-replace-my-damaged-gate.json) — schema
+- [`faqs/should-i-repair-or-replace-my-deck-if-it-s-heavily-damaged.json`](./faqs/should-i-repair-or-replace-my-deck-if-it-s-heavily-damaged.json) — schema
 - [`faqs/should-i-repair-or-replace-my-entire-wood-fence.json`](./faqs/should-i-repair-or-replace-my-entire-wood-fence.json) — schema
 - [`faqs/should-i-repair-or-replace-my-existing-bathroom-vanity-and-cabinets.json`](./faqs/should-i-repair-or-replace-my-existing-bathroom-vanity-and-cabinets.json) — schema
+- [`faqs/should-i-repair-or-replace-my-old-gate.json`](./faqs/should-i-repair-or-replace-my-old-gate.json) — schema
+- [`faqs/should-i-replace-galvanized-pipes-during-a-remodel-in-an-older-home.json`](./faqs/should-i-replace-galvanized-pipes-during-a-remodel-in-an-older-home.json) — schema
+- [`faqs/should-i-replace-or-repair-my-kitchen-plumbing-fixtures.json`](./faqs/should-i-replace-or-repair-my-kitchen-plumbing-fixtures.json) — schema
 - [`faqs/should-i-use-a-professional-painter-for-my-addition-or-do-it-myself.json`](./faqs/should-i-use-a-professional-painter-for-my-addition-or-do-it-myself.json) — schema
 - [`faqs/should-i-use-different-types-of-paint-for-different-rooms-after-a-remodel.json`](./faqs/should-i-use-different-types-of-paint-for-different-rooms-after-a-remodel.json) — schema
 - [`faqs/what-are-common-accessibility-minded-bathroom-modifications.json`](./faqs/what-are-common-accessibility-minded-bathroom-modifications.json) — schema
 - [`faqs/what-are-common-accessibility-modifications-for-a-bathroom.json`](./faqs/what-are-common-accessibility-modifications-for-a-bathroom.json) — schema
 - [`faqs/what-are-common-causes-of-fence-post-damage-in-the-east-bay-area.json`](./faqs/what-are-common-causes-of-fence-post-damage-in-the-east-bay-area.json) — schema
+- [`faqs/what-are-common-causes-of-low-water-pressure-in-homes.json`](./faqs/what-are-common-causes-of-low-water-pressure-in-homes.json) — schema
+- [`faqs/what-are-common-challenges-during-a-home-remodel-and-how-are-they-managed.json`](./faqs/what-are-common-challenges-during-a-home-remodel-and-how-are-they-managed.json) — schema
+- [`faqs/what-are-common-challenges-in-appliance-area-preparation-and-how-can-they-be-avo.json`](./faqs/what-are-common-challenges-in-appliance-area-preparation-and-how-can-they-be-avo.json) — schema
+- [`faqs/what-are-common-challenges-in-appliance-installation-coordination-and-how-are-th.json`](./faqs/what-are-common-challenges-in-appliance-installation-coordination-and-how-are-th.json) — schema
+- [`faqs/what-are-common-challenges-in-fixture-installation-coordination-and-how-are-they.json`](./faqs/what-are-common-challenges-in-fixture-installation-coordination-and-how-are-they.json) — schema
 - [`faqs/what-are-common-challenges-in-plumbing-coordination-for-construction.json`](./faqs/what-are-common-challenges-in-plumbing-coordination-for-construction.json) — schema
 - [`faqs/what-are-common-coordination-challenges-in-older-homes-in-the-east-bay.json`](./faqs/what-are-common-coordination-challenges-in-older-homes-in-the-east-bay.json) — schema
+- [`faqs/what-are-common-design-trends-for-kitchen-renovations-in-the-east-bay.json`](./faqs/what-are-common-design-trends-for-kitchen-renovations-in-the-east-bay.json) — schema
 - [`faqs/what-are-common-electrical-code-requirements-for-bathroom-remodels-in-the-east-b.json`](./faqs/what-are-common-electrical-code-requirements-for-bathroom-remodels-in-the-east-b.json) — schema
 - [`faqs/what-are-common-electrical-code-requirements-for-remodels-in-oakland.json`](./faqs/what-are-common-electrical-code-requirements-for-remodels-in-oakland.json) — schema
+- [`faqs/what-are-common-electrical-code-requirements-for-residential-remodels.json`](./faqs/what-are-common-electrical-code-requirements-for-residential-remodels.json) — schema
 - [`faqs/what-are-common-hardware-adjustments-needed-in-a-home.json`](./faqs/what-are-common-hardware-adjustments-needed-in-a-home.json) — schema
+- [`faqs/what-are-common-issues-that-can-arise-during-kitchen-cabinet-painting.json`](./faqs/what-are-common-issues-that-can-arise-during-kitchen-cabinet-painting.json) — schema
+- [`faqs/what-are-common-issues-that-delay-project-closeout.json`](./faqs/what-are-common-issues-that-delay-project-closeout.json) — schema
+- [`faqs/what-are-common-issues-to-watch-for-after-new-kitchen-plumbing-installation.json`](./faqs/what-are-common-issues-to-watch-for-after-new-kitchen-plumbing-installation.json) — schema
 - [`faqs/what-are-common-kitchen-design-styles.json`](./faqs/what-are-common-kitchen-design-styles.json) — schema
 - [`faqs/what-are-common-kitchen-electrical-upgrades.json`](./faqs/what-are-common-kitchen-electrical-upgrades.json) — schema
+- [`faqs/what-are-common-kitchen-plumbing-upgrades-that-improve-functionality.json`](./faqs/what-are-common-kitchen-plumbing-upgrades-that-improve-functionality.json) — schema
 - [`faqs/what-are-common-kitchen-plumbing-upgrades.json`](./faqs/what-are-common-kitchen-plumbing-upgrades.json) — schema
+- [`faqs/what-are-common-lighting-trends-for-modern-kitchen-designs.json`](./faqs/what-are-common-lighting-trends-for-modern-kitchen-designs.json) — schema
 - [`faqs/what-are-common-paint-problems-in-bathrooms.json`](./faqs/what-are-common-paint-problems-in-bathrooms.json) — schema
 - [`faqs/what-are-common-painting-challenges-in-bathrooms.json`](./faqs/what-are-common-painting-challenges-in-bathrooms.json) — schema
+- [`faqs/what-are-common-plumbing-code-requirements-for-bathroom-installations-in-berkele.json`](./faqs/what-are-common-plumbing-code-requirements-for-bathroom-installations-in-berkele.json) — schema
 - [`faqs/what-are-common-plumbing-issues-during-kitchen-remodels.json`](./faqs/what-are-common-plumbing-issues-during-kitchen-remodels.json) — schema
 - [`faqs/what-are-common-plumbing-issues-in-east-bay-homes.json`](./faqs/what-are-common-plumbing-issues-in-east-bay-homes.json) — schema
 - [`faqs/what-are-common-plumbing-problems-after-a-bathroom-installation.json`](./faqs/what-are-common-plumbing-problems-after-a-bathroom-installation.json) — schema
+- [`faqs/what-are-common-plumbing-problems-encountered-during-a-kitchen-remodel.json`](./faqs/what-are-common-plumbing-problems-encountered-during-a-kitchen-remodel.json) — schema
 - [`faqs/what-are-common-plumbing-problems-that-arise-during-an-old-house-remodel.json`](./faqs/what-are-common-plumbing-problems-that-arise-during-an-old-house-remodel.json) — schema
 - [`faqs/what-are-common-problems-after-kitchen-plumbing-installation.json`](./faqs/what-are-common-problems-after-kitchen-plumbing-installation.json) — schema
 - [`faqs/what-are-common-reasons-a-gate-needs-repair.json`](./faqs/what-are-common-reasons-a-gate-needs-repair.json) — schema
 - [`faqs/what-are-common-reasons-for-gate-repair.json`](./faqs/what-are-common-reasons-for-gate-repair.json) — schema
 - [`faqs/what-are-common-reasons-to-upgrade-a-shower-or-tub.json`](./faqs/what-are-common-reasons-to-upgrade-a-shower-or-tub.json) — schema
+- [`faqs/what-are-common-safety-considerations-for-electrical-fixture-installation.json`](./faqs/what-are-common-safety-considerations-for-electrical-fixture-installation.json) — schema
+- [`faqs/what-are-common-signs-my-wood-fence-panels-need-repair.json`](./faqs/what-are-common-signs-my-wood-fence-panels-need-repair.json) — schema
+- [`faqs/what-are-common-signs-of-a-hidden-plumbing-leak-in-a-bathroom.json`](./faqs/what-are-common-signs-of-a-hidden-plumbing-leak-in-a-bathroom.json) — schema
 - [`faqs/what-are-common-signs-of-plumbing-issues-in-a-home.json`](./faqs/what-are-common-signs-of-plumbing-issues-in-a-home.json) — schema
+- [`faqs/what-are-common-signs-that-a-fence-post-needs-repair-or-replacement.json`](./faqs/what-are-common-signs-that-a-fence-post-needs-repair-or-replacement.json) — schema
 - [`faqs/what-are-common-signs-that-a-room-needs-modernization.json`](./faqs/what-are-common-signs-that-a-room-needs-modernization.json) — schema
 - [`faqs/what-are-common-signs-that-my-deck-needs-immediate-attention.json`](./faqs/what-are-common-signs-that-my-deck-needs-immediate-attention.json) — schema
+- [`faqs/what-are-common-signs-that-my-deck-needs-maintenance-or-repair.json`](./faqs/what-are-common-signs-that-my-deck-needs-maintenance-or-repair.json) — schema
 - [`faqs/what-are-common-signs-that-my-deck-needs-repair.json`](./faqs/what-are-common-signs-that-my-deck-needs-repair.json) — schema
 - [`faqs/what-are-common-signs-that-my-deck-needs-structural-repair.json`](./faqs/what-are-common-signs-that-my-deck-needs-structural-repair.json) — schema
+- [`faqs/what-are-common-signs-that-my-fence-needs-stability-restoration-in-the-east-bay.json`](./faqs/what-are-common-signs-that-my-fence-needs-stability-restoration-in-the-east-bay.json) — schema
+- [`faqs/what-are-common-signs-that-my-gate-needs-repair.json`](./faqs/what-are-common-signs-that-my-gate-needs-repair.json) — schema
 - [`faqs/what-are-common-signs-that-my-railing-needs-repair.json`](./faqs/what-are-common-signs-that-my-railing-needs-repair.json) — schema
 - [`faqs/what-are-common-signs-that-my-stairs-need-repair.json`](./faqs/what-are-common-signs-that-my-stairs-need-repair.json) — schema
 - [`faqs/what-are-common-signs-that-my-wood-fence-needs-repair.json`](./faqs/what-are-common-signs-that-my-wood-fence-needs-repair.json) — schema
 - [`faqs/what-are-custom-fit-cabinet-solutions.json`](./faqs/what-are-custom-fit-cabinet-solutions.json) — schema
+- [`faqs/what-are-functional-layout-improvements-for-a-home.json`](./faqs/what-are-functional-layout-improvements-for-a-home.json) — schema
 - [`faqs/what-are-functional-layout-improvements.json`](./faqs/what-are-functional-layout-improvements.json) — schema
 - [`faqs/what-are-hardware-and-functional-adjustments-in-construction.json`](./faqs/what-are-hardware-and-functional-adjustments-in-construction.json) — schema
+- [`faqs/what-are-hardware-and-functional-adjustments-in-the-context-of-a-construction-pr.json`](./faqs/what-are-hardware-and-functional-adjustments-in-the-context-of-a-construction-pr.json) — schema
 - [`faqs/what-are-interior-finish-upgrades.json`](./faqs/what-are-interior-finish-upgrades.json) — schema
 - [`faqs/what-are-popular-interior-finish-upgrades-in-the-east-bay-area.json`](./faqs/what-are-popular-interior-finish-upgrades-in-the-east-bay-area.json) — schema
 - [`faqs/what-are-popular-kitchen-design-trends-for-east-bay-homes.json`](./faqs/what-are-popular-kitchen-design-trends-for-east-bay-homes.json) — schema
+- [`faqs/what-are-some-common-challenges-during-a-kitchen-remodel.json`](./faqs/what-are-some-common-challenges-during-a-kitchen-remodel.json) — schema
+- [`faqs/what-are-some-common-challenges-encountered-during-a-room-expansion-and-how-are.json`](./faqs/what-are-some-common-challenges-encountered-during-a-room-expansion-and-how-are.json) — schema
 - [`faqs/what-are-some-common-functional-layout-improvements-for-kitchens.json`](./faqs/what-are-some-common-functional-layout-improvements-for-kitchens.json) — schema
 - [`faqs/what-are-some-common-mistakes-to-avoid-when-planning-bathroom-lighting.json`](./faqs/what-are-some-common-mistakes-to-avoid-when-planning-bathroom-lighting.json) — schema
 - [`faqs/what-are-some-popular-design-trends-for-bathroom-remodels-right-now.json`](./faqs/what-are-some-popular-design-trends-for-bathroom-remodels-right-now.json) — schema
 - [`faqs/what-are-some-popular-design-trends-for-full-bathroom-renovations-in-the-oakland.json`](./faqs/what-are-some-popular-design-trends-for-full-bathroom-renovations-in-the-oakland.json) — schema
+- [`faqs/what-are-some-popular-kitchen-design-styles-right-now.json`](./faqs/what-are-some-popular-kitchen-design-styles-right-now.json) — schema
 - [`faqs/what-are-some-popular-kitchen-design-trends-for-east-bay-homes.json`](./faqs/what-are-some-popular-kitchen-design-trends-for-east-bay-homes.json) — schema
+- [`faqs/what-are-some-popular-material-choices-for-shower-and-tub-upgrades.json`](./faqs/what-are-some-popular-material-choices-for-shower-and-tub-upgrades.json) — schema
+- [`faqs/what-are-the-advantages-of-choosing-composite-deck-boards-over-wood-for-replacem.json`](./faqs/what-are-the-advantages-of-choosing-composite-deck-boards-over-wood-for-replacem.json) — schema
+- [`faqs/what-are-the-advantages-of-coordinating-interior-painting-with-a-general-contrac.json`](./faqs/what-are-the-advantages-of-coordinating-interior-painting-with-a-general-contrac.json) — schema
+- [`faqs/what-are-the-advantages-of-engineered-quartz-countertops-over-natural-stone.json`](./faqs/what-are-the-advantages-of-engineered-quartz-countertops-over-natural-stone.json) — schema
+- [`faqs/what-are-the-advantages-of-hiring-a-company-for-tile-installation-coordination-v.json`](./faqs/what-are-the-advantages-of-hiring-a-company-for-tile-installation-coordination-v.json) — schema
+- [`faqs/what-are-the-benefits-of-a-custom-bathroom-vanity-versus-a-pre-fabricated-one.json`](./faqs/what-are-the-benefits-of-a-custom-bathroom-vanity-versus-a-pre-fabricated-one.json) — schema
 - [`faqs/what-are-the-benefits-of-a-full-kitchen-renovation-compared-to-a-partial-update.json`](./faqs/what-are-the-benefits-of-a-full-kitchen-renovation-compared-to-a-partial-update.json) — schema
+- [`faqs/what-are-the-benefits-of-a-kitchen-remodel.json`](./faqs/what-are-the-benefits-of-a-kitchen-remodel.json) — schema
 - [`faqs/what-are-the-benefits-of-a-kitchen-water-filtration-system.json`](./faqs/what-are-the-benefits-of-a-kitchen-water-filtration-system.json) — schema
 - [`faqs/what-are-the-benefits-of-a-walk-in-shower-versus-a-traditional-tub-shower-combo.json`](./faqs/what-are-the-benefits-of-a-walk-in-shower-versus-a-traditional-tub-shower-combo.json) — schema
 - [`faqs/what-are-the-benefits-of-a-well-executed-project-closeout.json`](./faqs/what-are-the-benefits-of-a-well-executed-project-closeout.json) — schema
@@ -822,11 +1196,16 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-are-the-benefits-of-an-open-concept-kitchen-layout.json`](./faqs/what-are-the-benefits-of-an-open-concept-kitchen-layout.json) — schema
 - [`faqs/what-are-the-benefits-of-choosing-composite-deck-boards.json`](./faqs/what-are-the-benefits-of-choosing-composite-deck-boards.json) — schema
 - [`faqs/what-are-the-benefits-of-choosing-custom-cabinets-over-stock-cabinets.json`](./faqs/what-are-the-benefits-of-choosing-custom-cabinets-over-stock-cabinets.json) — schema
+- [`faqs/what-are-the-benefits-of-choosing-frasheski-construction-for-kitchen-plumbing-up.json`](./faqs/what-are-the-benefits-of-choosing-frasheski-construction-for-kitchen-plumbing-up.json) — schema
 - [`faqs/what-are-the-benefits-of-expanding-my-home-versus-moving.json`](./faqs/what-are-the-benefits-of-expanding-my-home-versus-moving.json) — schema
+- [`faqs/what-are-the-benefits-of-hiring-a-local-construction-company-like-frasheski-cons.json`](./faqs/what-are-the-benefits-of-hiring-a-local-construction-company-like-frasheski-cons.json) — schema
+- [`faqs/what-are-the-benefits-of-hiring-a-professional-for-kitchen-painting.json`](./faqs/what-are-the-benefits-of-hiring-a-professional-for-kitchen-painting.json) — schema
 - [`faqs/what-are-the-benefits-of-hiring-a-professional-interior-painter.json`](./faqs/what-are-the-benefits-of-hiring-a-professional-interior-painter.json) — schema
 - [`faqs/what-are-the-benefits-of-hiring-a-project-manager-for-my-home-remodel.json`](./faqs/what-are-the-benefits-of-hiring-a-project-manager-for-my-home-remodel.json) — schema
+- [`faqs/what-are-the-benefits-of-hiring-professional-painters-instead-of-diy.json`](./faqs/what-are-the-benefits-of-hiring-professional-painters-instead-of-diy.json) — schema
 - [`faqs/what-are-the-benefits-of-installing-led-lighting-in-my-bathroom.json`](./faqs/what-are-the-benefits-of-installing-led-lighting-in-my-bathroom.json) — schema
 - [`faqs/what-are-the-benefits-of-installing-new-trim-and-molding.json`](./faqs/what-are-the-benefits-of-installing-new-trim-and-molding.json) — schema
+- [`faqs/what-are-the-benefits-of-installing-smart-lighting-in-a-kitchen.json`](./faqs/what-are-the-benefits-of-installing-smart-lighting-in-a-kitchen.json) — schema
 - [`faqs/what-are-the-benefits-of-investing-in-functional-layout-improvements.json`](./faqs/what-are-the-benefits-of-investing-in-functional-layout-improvements.json) — schema
 - [`faqs/what-are-the-benefits-of-led-lighting-for-kitchens-and-bathrooms.json`](./faqs/what-are-the-benefits-of-led-lighting-for-kitchens-and-bathrooms.json) — schema
 - [`faqs/what-are-the-benefits-of-led-lighting-in-a-kitchen.json`](./faqs/what-are-the-benefits-of-led-lighting-in-a-kitchen.json) — schema
@@ -845,6 +1224,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-are-the-benefits-of-under-cabinet-lighting-in-a-kitchen.json`](./faqs/what-are-the-benefits-of-under-cabinet-lighting-in-a-kitchen.json) — schema
 - [`faqs/what-are-the-benefits-of-updating-my-home-s-tile-and-surfaces.json`](./faqs/what-are-the-benefits-of-updating-my-home-s-tile-and-surfaces.json) — schema
 - [`faqs/what-are-the-benefits-of-upgrading-bathroom-electrical-and-lighting.json`](./faqs/what-are-the-benefits-of-upgrading-bathroom-electrical-and-lighting.json) — schema
+- [`faqs/what-are-the-benefits-of-upgrading-kitchen-cabinetry-during-an-interior-finish-p.json`](./faqs/what-are-the-benefits-of-upgrading-kitchen-cabinetry-during-an-interior-finish-p.json) — schema
 - [`faqs/what-are-the-benefits-of-upgrading-kitchen-cabinets.json`](./faqs/what-are-the-benefits-of-upgrading-kitchen-cabinets.json) — schema
 - [`faqs/what-are-the-benefits-of-upgrading-kitchen-electrical-wiring.json`](./faqs/what-are-the-benefits-of-upgrading-kitchen-electrical-wiring.json) — schema
 - [`faqs/what-are-the-benefits-of-upgrading-my-bathroom-vanity-and-cabinets.json`](./faqs/what-are-the-benefits-of-upgrading-my-bathroom-vanity-and-cabinets.json) — schema
@@ -854,12 +1234,21 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-are-the-benefits-of-upgrading-my-kitchen-cabinets.json`](./faqs/what-are-the-benefits-of-upgrading-my-kitchen-cabinets.json) — schema
 - [`faqs/what-are-the-benefits-of-upgrading-my-shower-or-tub.json`](./faqs/what-are-the-benefits-of-upgrading-my-shower-or-tub.json) — schema
 - [`faqs/what-are-the-benefits-of-upgrading-to-a-tankless-water-heater-in-my-kitchen.json`](./faqs/what-are-the-benefits-of-upgrading-to-a-tankless-water-heater-in-my-kitchen.json) — schema
+- [`faqs/what-are-the-benefits-of-upgrading-to-led-lighting-in-a-bathroom.json`](./faqs/what-are-the-benefits-of-upgrading-to-led-lighting-in-a-bathroom.json) — schema
+- [`faqs/what-are-the-benefits-of-upgrading-to-water-efficient-plumbing-fixtures.json`](./faqs/what-are-the-benefits-of-upgrading-to-water-efficient-plumbing-fixtures.json) — schema
+- [`faqs/what-are-the-benefits-of-using-porcelain-tile-versus-ceramic-tile-for-surface-up.json`](./faqs/what-are-the-benefits-of-using-porcelain-tile-versus-ceramic-tile-for-surface-up.json) — schema
 - [`faqs/what-are-the-best-lighting-options-for-a-small-kitchen.json`](./faqs/what-are-the-best-lighting-options-for-a-small-kitchen.json) — schema
 - [`faqs/what-are-the-common-causes-of-fence-instability-in-the-berkeley-area.json`](./faqs/what-are-the-common-causes-of-fence-instability-in-the-berkeley-area.json) — schema
+- [`faqs/what-are-the-common-challenges-during-cabinet-installation-and-how-are-they-mana.json`](./faqs/what-are-the-common-challenges-during-cabinet-installation-and-how-are-they-mana.json) — schema
 - [`faqs/what-are-the-common-challenges-in-coordinating-plumbing-and-electrical-for-a-hom.json`](./faqs/what-are-the-common-challenges-in-coordinating-plumbing-and-electrical-for-a-hom.json) — schema
+- [`faqs/what-are-the-common-challenges-in-flooring-installation-coordination-and-how-do.json`](./faqs/what-are-the-common-challenges-in-flooring-installation-coordination-and-how-do.json) — schema
+- [`faqs/what-are-the-common-challenges-in-plumbing-coordination-for-remodeling-projects.json`](./faqs/what-are-the-common-challenges-in-plumbing-coordination-for-remodeling-projects.json) — schema
 - [`faqs/what-are-the-common-challenges-in-trade-scheduling-for-residential-projects.json`](./faqs/what-are-the-common-challenges-in-trade-scheduling-for-residential-projects.json) — schema
+- [`faqs/what-are-the-common-cost-drivers-in-remodel-planning.json`](./faqs/what-are-the-common-cost-drivers-in-remodel-planning.json) — schema
+- [`faqs/what-are-the-common-countertop-materials-you-coordinate-installation-for.json`](./faqs/what-are-the-common-countertop-materials-you-coordinate-installation-for.json) — schema
 - [`faqs/what-are-the-common-electrical-problems-in-older-homes-in-the-east-bay-area.json`](./faqs/what-are-the-common-electrical-problems-in-older-homes-in-the-east-bay-area.json) — schema
 - [`faqs/what-are-the-common-plumbing-fixture-brands-used-by-remodelers-in-the-east-bay-a.json`](./faqs/what-are-the-common-plumbing-fixture-brands-used-by-remodelers-in-the-east-bay-a.json) — schema
+- [`faqs/what-are-the-common-signs-that-my-wood-fence-needs-immediate-repair.json`](./faqs/what-are-the-common-signs-that-my-wood-fence-needs-immediate-repair.json) — schema
 - [`faqs/what-are-the-common-types-of-cabinets-available-for-installation.json`](./faqs/what-are-the-common-types-of-cabinets-available-for-installation.json) — schema
 - [`faqs/what-are-the-current-trends-in-kitchen-design.json`](./faqs/what-are-the-current-trends-in-kitchen-design.json) — schema
 - [`faqs/what-are-the-differences-between-custom-and-semi-custom-cabinets.json`](./faqs/what-are-the-differences-between-custom-and-semi-custom-cabinets.json) — schema
@@ -869,7 +1258,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-are-the-first-steps-to-planning-a-kitchen-remodel.json`](./faqs/what-are-the-first-steps-to-planning-a-kitchen-remodel.json) — schema
 - [`faqs/what-are-the-key-considerations-when-choosing-plumbing-fixtures-for-a-bathroom.json`](./faqs/what-are-the-key-considerations-when-choosing-plumbing-fixtures-for-a-bathroom.json) — schema
 - [`faqs/what-are-the-key-factors-that-influence-the-cost-of-a-new-room-addition.json`](./faqs/what-are-the-key-factors-that-influence-the-cost-of-a-new-room-addition.json) — schema
+- [`faqs/what-are-the-key-steps-in-the-remodeling-project-coordination-process.json`](./faqs/what-are-the-key-steps-in-the-remodeling-project-coordination-process.json) — schema
 - [`faqs/what-are-the-key-steps-involved-in-a-bathroom-remodeling-project.json`](./faqs/what-are-the-key-steps-involved-in-a-bathroom-remodeling-project.json) — schema
+- [`faqs/what-are-the-key-steps-involved-in-a-bathroom-renovation-project.json`](./faqs/what-are-the-key-steps-involved-in-a-bathroom-renovation-project.json) — schema
 - [`faqs/what-are-the-key-steps-involved-in-a-kitchen-remodeling-project.json`](./faqs/what-are-the-key-steps-involved-in-a-kitchen-remodeling-project.json) — schema
 - [`faqs/what-are-the-latest-trends-in-kitchen-materials-and-finishes.json`](./faqs/what-are-the-latest-trends-in-kitchen-materials-and-finishes.json) — schema
 - [`faqs/what-are-the-most-popular-countertop-materials.json`](./faqs/what-are-the-most-popular-countertop-materials.json) — schema
@@ -877,6 +1268,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-are-the-most-popular-materials-for-bathroom-vanity-countertops.json`](./faqs/what-are-the-most-popular-materials-for-bathroom-vanity-countertops.json) — schema
 - [`faqs/what-are-the-popular-cabinet-materials-for-kitchen-upgrades.json`](./faqs/what-are-the-popular-cabinet-materials-for-kitchen-upgrades.json) — schema
 - [`faqs/what-are-the-risks-of-poor-plumbing-and-electrical-coordination.json`](./faqs/what-are-the-risks-of-poor-plumbing-and-electrical-coordination.json) — schema
+- [`faqs/what-are-the-safety-considerations-for-kitchen-electrical-upgrades.json`](./faqs/what-are-the-safety-considerations-for-kitchen-electrical-upgrades.json) — schema
 - [`faqs/what-are-the-signs-i-need-new-kitchen-plumbing.json`](./faqs/what-are-the-signs-i-need-new-kitchen-plumbing.json) — schema
 - [`faqs/what-are-the-signs-of-a-hidden-water-leak-in-my-bathroom.json`](./faqs/what-are-the-signs-of-a-hidden-water-leak-in-my-bathroom.json) — schema
 - [`faqs/what-are-the-signs-that-my-deck-needs-maintenance.json`](./faqs/what-are-the-signs-that-my-deck-needs-maintenance.json) — schema
@@ -926,75 +1318,145 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-areas-of-my-home-typically-require-damaged-board-replacement.json`](./faqs/what-areas-of-my-home-typically-require-damaged-board-replacement.json) — schema
 - [`faqs/what-cabinet-services-does-frasheski-construction-offer.json`](./faqs/what-cabinet-services-does-frasheski-construction-offer.json) — schema
 - [`faqs/what-can-cause-my-wood-fence-to-get-damaged.json`](./faqs/what-can-cause-my-wood-fence-to-get-damaged.json) — schema
+- [`faqs/what-can-i-do-to-prepare-my-property-for-wood-fence-panel-repair-work.json`](./faqs/what-can-i-do-to-prepare-my-property-for-wood-fence-panel-repair-work.json) — schema
 - [`faqs/what-can-i-do-to-prevent-fence-post-damage-in-the-future.json`](./faqs/what-can-i-do-to-prevent-fence-post-damage-in-the-future.json) — schema
+- [`faqs/what-causes-a-fence-to-lose-stability.json`](./faqs/what-causes-a-fence-to-lose-stability.json) — schema
 - [`faqs/what-causes-boards-to-get-damaged.json`](./faqs/what-causes-boards-to-get-damaged.json) — schema
 - [`faqs/what-causes-fence-instability.json`](./faqs/what-causes-fence-instability.json) — schema
 - [`faqs/what-causes-fence-posts-to-fail.json`](./faqs/what-causes-fence-posts-to-fail.json) — schema
 - [`faqs/what-colors-are-best-for-a-small-bathroom.json`](./faqs/what-colors-are-best-for-a-small-bathroom.json) — schema
 - [`faqs/what-common-challenges-occur-during-a-room-expansion.json`](./faqs/what-common-challenges-occur-during-a-room-expansion.json) — schema
+- [`faqs/what-common-electrical-upgrades-are-recommended-for-a-modern-kitchen-remodel.json`](./faqs/what-common-electrical-upgrades-are-recommended-for-a-modern-kitchen-remodel.json) — schema
+- [`faqs/what-common-issues-can-arise-from-poor-coordination-between-plumbing-and-electri.json`](./faqs/what-common-issues-can-arise-from-poor-coordination-between-plumbing-and-electri.json) — schema
 - [`faqs/what-common-issues-require-wood-fence-repair.json`](./faqs/what-common-issues-require-wood-fence-repair.json) — schema
 - [`faqs/what-common-plumbing-issues-do-you-fix-in-bathrooms.json`](./faqs/what-common-plumbing-issues-do-you-fix-in-bathrooms.json) — schema
 - [`faqs/what-common-problems-occur-during-appliance-installation.json`](./faqs/what-common-problems-occur-during-appliance-installation.json) — schema
 - [`faqs/what-common-types-of-cabinet-damage-can-be-repaired.json`](./faqs/what-common-types-of-cabinet-damage-can-be-repaired.json) — schema
+- [`faqs/what-common-types-of-damage-affect-wood-fences-in-the-east-bay-area.json`](./faqs/what-common-types-of-damage-affect-wood-fences-in-the-east-bay-area.json) — schema
+- [`faqs/what-considerations-are-important-when-choosing-a-finish-for-custom-cabinets.json`](./faqs/what-considerations-are-important-when-choosing-a-finish-for-custom-cabinets.json) — schema
 - [`faqs/what-design-considerations-are-important-for-a-room-addition.json`](./faqs/what-design-considerations-are-important-for-a-room-addition.json) — schema
+- [`faqs/what-design-considerations-are-important-for-new-room-additions-in-the-east-bay.json`](./faqs/what-design-considerations-are-important-for-new-room-additions-in-the-east-bay.json) — schema
+- [`faqs/what-design-considerations-should-i-keep-in-mind-for-a-small-bathroom-renovation.json`](./faqs/what-design-considerations-should-i-keep-in-mind-for-a-small-bathroom-renovation.json) — schema
 - [`faqs/what-design-trends-are-popular-for-interior-renovations-in-the-east-bay-area.json`](./faqs/what-design-trends-are-popular-for-interior-renovations-in-the-east-bay-area.json) — schema
 - [`faqs/what-design-trends-are-popular-for-kitchen-remodels-in-the-berkeley-area.json`](./faqs/what-design-trends-are-popular-for-kitchen-remodels-in-the-berkeley-area.json) — schema
+- [`faqs/what-distinguishes-frasheski-construction-s-approach-to-finish-carpentry-coordin.json`](./faqs/what-distinguishes-frasheski-construction-s-approach-to-finish-carpentry-coordin.json) — schema
+- [`faqs/what-documentation-do-i-receive-during-project-closeout.json`](./faqs/what-documentation-do-i-receive-during-project-closeout.json) — schema
+- [`faqs/what-documentation-is-needed-for-effective-plumbing-coordination.json`](./faqs/what-documentation-is-needed-for-effective-plumbing-coordination.json) — schema
 - [`faqs/what-does-a-deck-structural-repair-process-involve.json`](./faqs/what-does-a-deck-structural-repair-process-involve.json) — schema
 - [`faqs/what-does-a-finish-carpentry-coordinator-do.json`](./faqs/what-does-a-finish-carpentry-coordinator-do.json) — schema
 - [`faqs/what-does-a-full-kitchen-renovation-involve.json`](./faqs/what-does-a-full-kitchen-renovation-involve.json) — schema
+- [`faqs/what-does-a-typical-kitchen-plumbing-installation-project-involve.json`](./faqs/what-does-a-typical-kitchen-plumbing-installation-project-involve.json) — schema
 - [`faqs/what-does-appliance-area-preparation-involve.json`](./faqs/what-does-appliance-area-preparation-involve.json) — schema
 - [`faqs/what-does-appliance-installation-coordination-involve.json`](./faqs/what-does-appliance-installation-coordination-involve.json) — schema
+- [`faqs/what-does-countertop-installation-coordination-involve.json`](./faqs/what-does-countertop-installation-coordination-involve.json) — schema
+- [`faqs/what-does-final-detail-work-encompass-in-a-construction-project.json`](./faqs/what-does-final-detail-work-encompass-in-a-construction-project.json) — schema
 - [`faqs/what-does-final-detail-work-entail-in-a-construction-project.json`](./faqs/what-does-final-detail-work-entail-in-a-construction-project.json) — schema
+- [`faqs/what-does-finish-carpentry-coordination-involve.json`](./faqs/what-does-finish-carpentry-coordination-involve.json) — schema
 - [`faqs/what-does-outdated-room-modernization-entail.json`](./faqs/what-does-outdated-room-modernization-entail.json) — schema
 - [`faqs/what-does-plumbing-coordination-involve-in-a-construction-project.json`](./faqs/what-does-plumbing-coordination-involve-in-a-construction-project.json) — schema
+- [`faqs/what-does-tile-installation-coordination-mean-for-my-project.json`](./faqs/what-does-tile-installation-coordination-mean-for-my-project.json) — schema
 - [`faqs/what-electrical-upgrades-are-common-for-bathrooms.json`](./faqs/what-electrical-upgrades-are-common-for-bathrooms.json) — schema
+- [`faqs/what-electrical-upgrades-are-typically-needed-for-a-kitchen-remodel.json`](./faqs/what-electrical-upgrades-are-typically-needed-for-a-kitchen-remodel.json) — schema
 - [`faqs/what-electrical-work-is-typically-involved-in-a-kitchen-remodel.json`](./faqs/what-electrical-work-is-typically-involved-in-a-kitchen-remodel.json) — schema
+- [`faqs/what-factors-affect-the-cost-of-cabinet-repair.json`](./faqs/what-factors-affect-the-cost-of-cabinet-repair.json) — schema
 - [`faqs/what-factors-affect-the-cost-of-countertop-installation-coordination.json`](./faqs/what-factors-affect-the-cost-of-countertop-installation-coordination.json) — schema
+- [`faqs/what-factors-affect-the-cost-of-damaged-board-replacement-services.json`](./faqs/what-factors-affect-the-cost-of-damaged-board-replacement-services.json) — schema
 - [`faqs/what-factors-affect-the-cost-of-damaged-board-replacement.json`](./faqs/what-factors-affect-the-cost-of-damaged-board-replacement.json) — schema
 - [`faqs/what-factors-affect-the-cost-of-new-room-construction.json`](./faqs/what-factors-affect-the-cost-of-new-room-construction.json) — schema
+- [`faqs/what-factors-affect-the-cost-of-surface-restoration-services.json`](./faqs/what-factors-affect-the-cost-of-surface-restoration-services.json) — schema
+- [`faqs/what-factors-affect-the-lifespan-of-a-repaired-fence-post.json`](./faqs/what-factors-affect-the-lifespan-of-a-repaired-fence-post.json) — schema
+- [`faqs/what-factors-can-affect-the-timeline-for-trade-scheduling-on-my-construction-pro.json`](./faqs/what-factors-can-affect-the-timeline-for-trade-scheduling-on-my-construction-pro.json) — schema
 - [`faqs/what-factors-influence-the-choice-between-a-wall-mounted-and-a-freestanding-vani.json`](./faqs/what-factors-influence-the-choice-between-a-wall-mounted-and-a-freestanding-vani.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-a-commercial-interior-build-out.json`](./faqs/what-factors-influence-the-cost-of-a-commercial-interior-build-out.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-a-home-addition-in-the-east-bay-area.json`](./faqs/what-factors-influence-the-cost-of-a-home-addition-in-the-east-bay-area.json) — schema
 - [`faqs/what-factors-influence-the-cost-of-a-kitchen-remodel.json`](./faqs/what-factors-influence-the-cost-of-a-kitchen-remodel.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-a-room-expansion-project.json`](./faqs/what-factors-influence-the-cost-of-a-room-expansion-project.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-a-tile-and-surface-update.json`](./faqs/what-factors-influence-the-cost-of-a-tile-and-surface-update.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-an-electrical-coordination-study.json`](./faqs/what-factors-influence-the-cost-of-an-electrical-coordination-study.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-cabinet-installation.json`](./faqs/what-factors-influence-the-cost-of-cabinet-installation.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-cabinet-repair-and-refinishing.json`](./faqs/what-factors-influence-the-cost-of-cabinet-repair-and-refinishing.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-cabinet-services.json`](./faqs/what-factors-influence-the-cost-of-cabinet-services.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-deck-maintenance-or-repair.json`](./faqs/what-factors-influence-the-cost-of-deck-maintenance-or-repair.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-deck-structural-repairs.json`](./faqs/what-factors-influence-the-cost-of-deck-structural-repairs.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-door-and-hardware-installation.json`](./faqs/what-factors-influence-the-cost-of-door-and-hardware-installation.json) — schema
 - [`faqs/what-factors-influence-the-cost-of-electrical-fixture-installation.json`](./faqs/what-factors-influence-the-cost-of-electrical-fixture-installation.json) — schema
 - [`faqs/what-factors-influence-the-cost-of-finish-carpentry-coordination.json`](./faqs/what-factors-influence-the-cost-of-finish-carpentry-coordination.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-interior-painting-coordination-services.json`](./faqs/what-factors-influence-the-cost-of-interior-painting-coordination-services.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-paint-and-finish-work.json`](./faqs/what-factors-influence-the-cost-of-paint-and-finish-work.json) — schema
 - [`faqs/what-factors-influence-the-cost-of-plumbing-services-in-the-east-bay.json`](./faqs/what-factors-influence-the-cost-of-plumbing-services-in-the-east-bay.json) — schema
 - [`faqs/what-factors-influence-the-cost-of-professional-deck-maintenance-services.json`](./faqs/what-factors-influence-the-cost-of-professional-deck-maintenance-services.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-railing-repair-in-the-east-bay-area.json`](./faqs/what-factors-influence-the-cost-of-railing-repair-in-the-east-bay-area.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-stair-repair.json`](./faqs/what-factors-influence-the-cost-of-stair-repair.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-trim-and-detail-painting.json`](./faqs/what-factors-influence-the-cost-of-trim-and-detail-painting.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-trim-and-molding-installation.json`](./faqs/what-factors-influence-the-cost-of-trim-and-molding-installation.json) — schema
 - [`faqs/what-factors-influence-the-cost-of-vanity-and-cabinet-installation.json`](./faqs/what-factors-influence-the-cost-of-vanity-and-cabinet-installation.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-wood-fence-repair.json`](./faqs/what-factors-influence-the-cost-of-wood-fence-repair.json) — schema
 - [`faqs/what-factors-influence-trade-sequencing-decisions.json`](./faqs/what-factors-influence-trade-sequencing-decisions.json) — schema
+- [`faqs/what-factors-should-i-consider-before-installing-a-new-dishwasher.json`](./faqs/what-factors-should-i-consider-before-installing-a-new-dishwasher.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-a-bathroom-remodeling-contractor.json`](./faqs/what-factors-should-i-consider-when-choosing-a-bathroom-remodeling-contractor.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-a-company-for-cabinet-repair-or-ref.json`](./faqs/what-factors-should-i-consider-when-choosing-a-company-for-cabinet-repair-or-ref.json) — schema
+- [`faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-a-layout-change.json`](./faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-a-layout-change.json) — schema
+- [`faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-a-new-room-additio.json`](./faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-a-new-room-additio.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-a-room-addition.json`](./faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-a-room-addition.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-fence-stability-re.json`](./faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-fence-stability-re.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-my-home-addition.json`](./faqs/what-factors-should-i-consider-when-choosing-a-contractor-for-my-home-addition.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-a-plumber-for-my-bathroom-installat.json`](./faqs/what-factors-should-i-consider-when-choosing-a-plumber-for-my-bathroom-installat.json) — schema
+- [`faqs/what-factors-should-i-consider-when-choosing-between-a-shower-and-a-tub-upgrade.json`](./faqs/what-factors-should-i-consider-when-choosing-between-a-shower-and-a-tub-upgrade.json) — schema
+- [`faqs/what-factors-should-i-consider-when-choosing-materials-for-my-interior-renovatio.json`](./faqs/what-factors-should-i-consider-when-choosing-materials-for-my-interior-renovatio.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-new-cabinets-for-my-home.json`](./faqs/what-factors-should-i-consider-when-choosing-new-cabinets-for-my-home.json) — schema
 - [`faqs/what-factors-should-i-consider-when-choosing-new-electrical-fixtures.json`](./faqs/what-factors-should-i-consider-when-choosing-new-electrical-fixtures.json) — schema
+- [`faqs/what-factors-should-i-consider-when-planning-a-new-kitchen-layout.json`](./faqs/what-factors-should-i-consider-when-planning-a-new-kitchen-layout.json) — schema
+- [`faqs/what-factors-should-i-consider-when-planning-my-kitchen-layout.json`](./faqs/what-factors-should-i-consider-when-planning-my-kitchen-layout.json) — schema
 - [`faqs/what-functional-adjustments-can-improve-my-home-s-energy-efficiency.json`](./faqs/what-functional-adjustments-can-improve-my-home-s-energy-efficiency.json) — schema
+- [`faqs/what-happens-after-the-final-quality-walkthrough-and-punch-list-completion.json`](./faqs/what-happens-after-the-final-quality-walkthrough-and-punch-list-completion.json) — schema
 - [`faqs/what-happens-after-the-final-quality-walkthrough.json`](./faqs/what-happens-after-the-final-quality-walkthrough.json) — schema
+- [`faqs/what-happens-during-the-final-client-walkthrough-after-detail-work-is-complete.json`](./faqs/what-happens-during-the-final-client-walkthrough-after-detail-work-is-complete.json) — schema
+- [`faqs/what-happens-if-a-punch-list-item-is-not-completed-to-satisfaction.json`](./faqs/what-happens-if-a-punch-list-item-is-not-completed-to-satisfaction.json) — schema
 - [`faqs/what-happens-if-plumbing-and-electrical-are-not-coordinated-properly.json`](./faqs/what-happens-if-plumbing-and-electrical-are-not-coordinated-properly.json) — schema
 - [`faqs/what-happens-if-punch-list-items-are-not-completed.json`](./faqs/what-happens-if-punch-list-items-are-not-completed.json) — schema
+- [`faqs/what-happens-if-there-are-damaged-cabinets-upon-delivery.json`](./faqs/what-happens-if-there-are-damaged-cabinets-upon-delivery.json) — schema
 - [`faqs/what-happens-if-there-are-delays-in-cabinet-delivery.json`](./faqs/what-happens-if-there-are-delays-in-cabinet-delivery.json) — schema
 - [`faqs/what-if-my-existing-space-isn-t-suitable-for-my-new-appliance.json`](./faqs/what-if-my-existing-space-isn-t-suitable-for-my-new-appliance.json) — schema
+- [`faqs/what-if-the-damaged-board-is-part-of-a-larger-structural-issue.json`](./faqs/what-if-the-damaged-board-is-part-of-a-larger-structural-issue.json) — schema
 - [`faqs/what-if-there-are-unexpected-issues-during-installation.json`](./faqs/what-if-there-are-unexpected-issues-during-installation.json) — schema
+- [`faqs/what-information-do-i-need-to-prepare-before-discussing-tile-installation-coordi.json`](./faqs/what-information-do-i-need-to-prepare-before-discussing-tile-installation-coordi.json) — schema
+- [`faqs/what-information-do-i-need-to-prepare-before-meeting-a-contractor-for-a-new-room.json`](./faqs/what-information-do-i-need-to-prepare-before-meeting-a-contractor-for-a-new-room.json) — schema
+- [`faqs/what-information-do-i-need-to-provide-for-an-accurate-countertop-installation-qu.json`](./faqs/what-information-do-i-need-to-provide-for-an-accurate-countertop-installation-qu.json) — schema
+- [`faqs/what-information-do-i-need-to-provide-for-an-electrical-coordination-study.json`](./faqs/what-information-do-i-need-to-provide-for-an-electrical-coordination-study.json) — schema
 - [`faqs/what-information-do-i-need-to-provide-for-an-electrical-fixture-installation-quo.json`](./faqs/what-information-do-i-need-to-provide-for-an-electrical-fixture-installation-quo.json) — schema
+- [`faqs/what-information-do-i-need-to-provide-for-appliance-installation-coordination.json`](./faqs/what-information-do-i-need-to-provide-for-appliance-installation-coordination.json) — schema
+- [`faqs/what-information-do-i-need-to-provide-for-effective-flooring-installation-coordi.json`](./faqs/what-information-do-i-need-to-provide-for-effective-flooring-installation-coordi.json) — schema
+- [`faqs/what-information-do-i-need-to-provide-for-effective-trade-scheduling-at-the-star.json`](./faqs/what-information-do-i-need-to-provide-for-effective-trade-scheduling-at-the-star.json) — schema
+- [`faqs/what-information-do-i-need-to-provide-for-fixture-coordination.json`](./faqs/what-information-do-i-need-to-provide-for-fixture-coordination.json) — schema
 - [`faqs/what-information-do-you-need-from-me-for-appliance-area-preparation.json`](./faqs/what-information-do-you-need-from-me-for-appliance-area-preparation.json) — schema
 - [`faqs/what-information-does-a-plumbing-coordinator-need-from-me-for-a-project-in-berke.json`](./faqs/what-information-does-a-plumbing-coordinator-need-from-me-for-a-project-in-berke.json) — schema
+- [`faqs/what-information-should-i-gather-before-consulting-with-a-contractor-about-acces.json`](./faqs/what-information-should-i-gather-before-consulting-with-a-contractor-about-acces.json) — schema
+- [`faqs/what-information-should-i-gather-before-my-initial-consultation-about-a-remodel.json`](./faqs/what-information-should-i-gather-before-my-initial-consultation-about-a-remodel.json) — schema
+- [`faqs/what-information-should-i-have-ready-when-calling-for-gate-repair-service.json`](./faqs/what-information-should-i-have-ready-when-calling-for-gate-repair-service.json) — schema
 - [`faqs/what-interior-finish-upgrades-are-most-popular-in-the-east-bay-area.json`](./faqs/what-interior-finish-upgrades-are-most-popular-in-the-east-bay-area.json) — schema
 - [`faqs/what-interior-home-renovations-offer-the-best-return-on-investment.json`](./faqs/what-interior-home-renovations-offer-the-best-return-on-investment.json) — schema
+- [`faqs/what-interior-renovations-offer-the-best-return-on-investment.json`](./faqs/what-interior-renovations-offer-the-best-return-on-investment.json) — schema
 - [`faqs/what-is-a-curbless-shower-and-why-is-it-recommended-for-accessibility.json`](./faqs/what-is-a-curbless-shower-and-why-is-it-recommended-for-accessibility.json) — schema
 - [`faqs/what-is-a-final-quality-walkthrough-in-construction.json`](./faqs/what-is-a-final-quality-walkthrough-in-construction.json) — schema
 - [`faqs/what-is-a-kitchen-backsplash-and-why-do-i-need-one.json`](./faqs/what-is-a-kitchen-backsplash-and-why-do-i-need-one.json) — schema
 - [`faqs/what-is-a-punch-list-and-how-does-it-relate-to-the-final-quality-walkthrough.json`](./faqs/what-is-a-punch-list-and-how-does-it-relate-to-the-final-quality-walkthrough.json) — schema
+- [`faqs/what-is-a-punch-list-in-construction-and-how-does-it-relate-to-closeout.json`](./faqs/what-is-a-punch-list-in-construction-and-how-does-it-relate-to-closeout.json) — schema
 - [`faqs/what-is-a-punch-list-in-construction.json`](./faqs/what-is-a-punch-list-in-construction.json) — schema
 - [`faqs/what-is-a-room-addition.json`](./faqs/what-is-a-room-addition.json) — schema
+- [`faqs/what-is-a-room-expansion-and-how-does-it-differ-from-a-room-addition.json`](./faqs/what-is-a-room-expansion-and-how-does-it-differ-from-a-room-addition.json) — schema
 - [`faqs/what-is-a-room-expansion.json`](./faqs/what-is-a-room-expansion.json) — schema
 - [`faqs/what-is-a-rough-in-plumbing-inspection-for-a-kitchen-remodel.json`](./faqs/what-is-a-rough-in-plumbing-inspection-for-a-kitchen-remodel.json) — schema
+- [`faqs/what-is-a-whole-house-repipe-and-when-is-it-necessary-during-a-remodel.json`](./faqs/what-is-a-whole-house-repipe-and-when-is-it-necessary-during-a-remodel.json) — schema
+- [`faqs/what-is-an-interior-build-out-for-a-commercial-space.json`](./faqs/what-is-an-interior-build-out-for-a-commercial-space.json) — schema
 - [`faqs/what-is-an-interior-build-out.json`](./faqs/what-is-an-interior-build-out.json) — schema
+- [`faqs/what-is-appliance-area-preparation-and-why-is-it-important-before-installation.json`](./faqs/what-is-appliance-area-preparation-and-why-is-it-important-before-installation.json) — schema
 - [`faqs/what-is-appliance-area-preparation.json`](./faqs/what-is-appliance-area-preparation.json) — schema
 - [`faqs/what-is-appliance-installation-coordination.json`](./faqs/what-is-appliance-installation-coordination.json) — schema
 - [`faqs/what-is-damaged-board-replacement.json`](./faqs/what-is-damaged-board-replacement.json) — schema
 - [`faqs/what-is-electrical-coordination-in-construction.json`](./faqs/what-is-electrical-coordination-in-construction.json) — schema
 - [`faqs/what-is-fence-stability-restoration.json`](./faqs/what-is-fence-stability-restoration.json) — schema
 - [`faqs/what-is-finish-carpentry-coordination.json`](./faqs/what-is-finish-carpentry-coordination.json) — schema
+- [`faqs/what-is-fixture-installation-coordination-in-construction.json`](./faqs/what-is-fixture-installation-coordination-in-construction.json) — schema
 - [`faqs/what-is-fixture-installation-coordination.json`](./faqs/what-is-fixture-installation-coordination.json) — schema
 - [`faqs/what-is-gfci-and-why-is-it-important-for-bathrooms.json`](./faqs/what-is-gfci-and-why-is-it-important-for-bathrooms.json) — schema
 - [`faqs/what-is-gfci-and-why-is-it-important-in-bathrooms.json`](./faqs/what-is-gfci-and-why-is-it-important-in-bathrooms.json) — schema
@@ -1007,6 +1469,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-included-in-complete-remodeling-project-management-services.json`](./faqs/what-is-included-in-complete-remodeling-project-management-services.json) — schema
 - [`faqs/what-is-included-in-interior-painting-services.json`](./faqs/what-is-included-in-interior-painting-services.json) — schema
 - [`faqs/what-is-included-in-your-cabinet-installation-service.json`](./faqs/what-is-included-in-your-cabinet-installation-service.json) — schema
+- [`faqs/what-is-involved-in-a-multi-room-remodeling-project.json`](./faqs/what-is-involved-in-a-multi-room-remodeling-project.json) — schema
+- [`faqs/what-is-involved-in-a-plumbing-rough-in-during-a-remodel.json`](./faqs/what-is-involved-in-a-plumbing-rough-in-during-a-remodel.json) — schema
+- [`faqs/what-is-involved-in-a-professional-gate-repair-process.json`](./faqs/what-is-involved-in-a-professional-gate-repair-process.json) — schema
 - [`faqs/what-is-involved-in-a-typical-bathroom-plumbing-installation.json`](./faqs/what-is-involved-in-a-typical-bathroom-plumbing-installation.json) — schema
 - [`faqs/what-is-involved-in-a-typical-deck-structural-repair-project.json`](./faqs/what-is-involved-in-a-typical-deck-structural-repair-project.json) — schema
 - [`faqs/what-is-involved-in-a-typical-kitchen-plumbing-installation.json`](./faqs/what-is-involved-in-a-typical-kitchen-plumbing-installation.json) — schema
@@ -1015,33 +1480,50 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-involved-in-an-electrical-coordination-study.json`](./faqs/what-is-involved-in-an-electrical-coordination-study.json) — schema
 - [`faqs/what-is-involved-in-bathroom-plumbing-installation.json`](./faqs/what-is-involved-in-bathroom-plumbing-installation.json) — schema
 - [`faqs/what-is-involved-in-cabinet-installation-coordination.json`](./faqs/what-is-involved-in-cabinet-installation-coordination.json) — schema
+- [`faqs/what-is-involved-in-coordinating-flooring-installation-for-a-construction-projec.json`](./faqs/what-is-involved-in-coordinating-flooring-installation-for-a-construction-projec.json) — schema
 - [`faqs/what-is-involved-in-countertop-installation-coordination.json`](./faqs/what-is-involved-in-countertop-installation-coordination.json) — schema
 - [`faqs/what-is-involved-in-electrical-fixture-installation.json`](./faqs/what-is-involved-in-electrical-fixture-installation.json) — schema
 - [`faqs/what-is-involved-in-fence-stability-restoration.json`](./faqs/what-is-involved-in-fence-stability-restoration.json) — schema
 - [`faqs/what-is-involved-in-flooring-installation-coordination.json`](./faqs/what-is-involved-in-flooring-installation-coordination.json) — schema
+- [`faqs/what-is-involved-in-interior-painting-coordination-for-a-home-renovation-project.json`](./faqs/what-is-involved-in-interior-painting-coordination-for-a-home-renovation-project.json) — schema
 - [`faqs/what-is-involved-in-interior-painting-coordination.json`](./faqs/what-is-involved-in-interior-painting-coordination.json) — schema
+- [`faqs/what-is-involved-in-jobsite-cleanup-and-project-closeout-after-a-construction-pr.json`](./faqs/what-is-involved-in-jobsite-cleanup-and-project-closeout-after-a-construction-pr.json) — schema
 - [`faqs/what-is-involved-in-kitchen-plumbing-installation.json`](./faqs/what-is-involved-in-kitchen-plumbing-installation.json) — schema
+- [`faqs/what-is-involved-in-painting-and-finishing-a-new-home-addition.json`](./faqs/what-is-involved-in-painting-and-finishing-a-new-home-addition.json) — schema
 - [`faqs/what-is-involved-in-painting-and-finishing-an-addition.json`](./faqs/what-is-involved-in-painting-and-finishing-an-addition.json) — schema
 - [`faqs/what-is-involved-in-painting-and-finishing-for-a-new-home-addition.json`](./faqs/what-is-involved-in-painting-and-finishing-for-a-new-home-addition.json) — schema
 - [`faqs/what-is-involved-in-preparing-a-bathroom-for-painting.json`](./faqs/what-is-involved-in-preparing-a-bathroom-for-painting.json) — schema
 - [`faqs/what-is-involved-in-professional-door-installation.json`](./faqs/what-is-involved-in-professional-door-installation.json) — schema
+- [`faqs/what-is-involved-in-repiping-an-older-home.json`](./faqs/what-is-involved-in-repiping-an-older-home.json) — schema
 - [`faqs/what-is-involved-in-the-cabinet-installation-process.json`](./faqs/what-is-involved-in-the-cabinet-installation-process.json) — schema
 - [`faqs/what-is-involved-in-the-electrical-fixture-installation-process-with-frasheski-c.json`](./faqs/what-is-involved-in-the-electrical-fixture-installation-process-with-frasheski-c.json) — schema
+- [`faqs/what-is-involved-in-the-preparation-phase-for-a-tile-installation.json`](./faqs/what-is-involved-in-the-preparation-phase-for-a-tile-installation.json) — schema
 - [`faqs/what-is-involved-in-the-preparation-process-for-post-remodel-finish-painting.json`](./faqs/what-is-involved-in-the-preparation-process-for-post-remodel-finish-painting.json) — schema
+- [`faqs/what-is-involved-in-the-process-of-fence-stability-restoration.json`](./faqs/what-is-involved-in-the-process-of-fence-stability-restoration.json) — schema
+- [`faqs/what-is-involved-in-the-process-of-replacing-deck-boards.json`](./faqs/what-is-involved-in-the-process-of-replacing-deck-boards.json) — schema
 - [`faqs/what-is-involved-in-the-process-of-upgrading-kitchen-pipes.json`](./faqs/what-is-involved-in-the-process-of-upgrading-kitchen-pipes.json) — schema
 - [`faqs/what-is-involved-in-the-process-of-vanity-and-cabinet-installation.json`](./faqs/what-is-involved-in-the-process-of-vanity-and-cabinet-installation.json) — schema
+- [`faqs/what-is-involved-in-upgrading-a-kitchen-s-hot-water-supply.json`](./faqs/what-is-involved-in-upgrading-a-kitchen-s-hot-water-supply.json) — schema
+- [`faqs/what-is-involved-in-upgrading-an-electrical-panel-during-a-home-remodel.json`](./faqs/what-is-involved-in-upgrading-an-electrical-panel-during-a-home-remodel.json) — schema
 - [`faqs/what-is-involved-in-wood-fence-panel-repair.json`](./faqs/what-is-involved-in-wood-fence-panel-repair.json) — schema
 - [`faqs/what-is-jobsite-cleanup-in-construction.json`](./faqs/what-is-jobsite-cleanup-in-construction.json) — schema
 - [`faqs/what-is-multi-room-remodeling.json`](./faqs/what-is-multi-room-remodeling.json) — schema
+- [`faqs/what-is-outdated-room-modernization-and-how-does-it-differ-from-a-full-renovatio.json`](./faqs/what-is-outdated-room-modernization-and-how-does-it-differ-from-a-full-renovatio.json) — schema
 - [`faqs/what-is-outdated-room-modernization.json`](./faqs/what-is-outdated-room-modernization.json) — schema
+- [`faqs/what-is-plumbing-coordination-in-a-construction-project.json`](./faqs/what-is-plumbing-coordination-in-a-construction-project.json) — schema
 - [`faqs/what-is-post-remodel-finish-painting.json`](./faqs/what-is-post-remodel-finish-painting.json) — schema
 - [`faqs/what-is-remodel-planning-and-scope-coordination.json`](./faqs/what-is-remodel-planning-and-scope-coordination.json) — schema
+- [`faqs/what-is-remodel-planning-and-why-is-it-important-for-my-project.json`](./faqs/what-is-remodel-planning-and-why-is-it-important-for-my-project.json) — schema
 - [`faqs/what-is-surface-restoration.json`](./faqs/what-is-surface-restoration.json) — schema
+- [`faqs/what-is-the-average-cost-for-a-multi-room-remodel-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-for-a-multi-room-remodel-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-average-cost-for-an-interior-build-out-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-for-an-interior-build-out-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-average-cost-for-bathroom-plumbing-installation-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-for-bathroom-plumbing-installation-in-the-east-bay-area.json) — schema
+- [`faqs/what-is-the-average-cost-for-kitchen-cabinet-upgrades-in-the-berkeley-and-east-b.json`](./faqs/what-is-the-average-cost-for-kitchen-cabinet-upgrades-in-the-berkeley-and-east-b.json) — schema
 - [`faqs/what-is-the-average-cost-for-whole-home-interior-painting-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-for-whole-home-interior-painting-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-average-cost-of-a-bathroom-remodel-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-of-a-bathroom-remodel-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-average-cost-of-a-full-kitchen-renovation-in-the-berkeley-east-bay-a.json`](./faqs/what-is-the-average-cost-of-a-full-kitchen-renovation-in-the-berkeley-east-bay-a.json) — schema
+- [`faqs/what-is-the-average-cost-of-a-full-kitchen-renovation-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-of-a-full-kitchen-renovation-in-the-east-bay-area.json) — schema
+- [`faqs/what-is-the-average-cost-of-a-kitchen-remodel-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-of-a-kitchen-remodel-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-average-cost-of-a-kitchen-remodel-in-the-east-bay.json`](./faqs/what-is-the-average-cost-of-a-kitchen-remodel-in-the-east-bay.json) — schema
 - [`faqs/what-is-the-average-cost-of-an-interior-build-out-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-of-an-interior-build-out-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-average-cost-of-an-interior-home-renovation-in-the-east-bay-area.json`](./faqs/what-is-the-average-cost-of-an-interior-home-renovation-in-the-east-bay-area.json) — schema
@@ -1062,21 +1544,31 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-difference-between-a-contractor-and-a-designer-for-a-bathroom-renova.json`](./faqs/what-is-the-difference-between-a-contractor-and-a-designer-for-a-bathroom-renova.json) — schema
 - [`faqs/what-is-the-difference-between-a-custom-and-a-pre-fabricated-bathroom-vanity.json`](./faqs/what-is-the-difference-between-a-custom-and-a-pre-fabricated-bathroom-vanity.json) — schema
 - [`faqs/what-is-the-difference-between-a-full-bathroom-remodel-and-a-cosmetic-update.json`](./faqs/what-is-the-difference-between-a-full-bathroom-remodel-and-a-cosmetic-update.json) — schema
+- [`faqs/what-is-the-difference-between-a-functional-layout-improvement-and-a-cosmetic-re.json`](./faqs/what-is-the-difference-between-a-functional-layout-improvement-and-a-cosmetic-re.json) — schema
+- [`faqs/what-is-the-difference-between-a-general-contractor-and-a-remodeling-project-man.json`](./faqs/what-is-the-difference-between-a-general-contractor-and-a-remodeling-project-man.json) — schema
+- [`faqs/what-is-the-difference-between-a-home-addition-and-a-remodel-and-which-is-right.json`](./faqs/what-is-the-difference-between-a-home-addition-and-a-remodel-and-which-is-right.json) — schema
 - [`faqs/what-is-the-difference-between-a-home-renovation-and-a-home-addition.json`](./faqs/what-is-the-difference-between-a-home-renovation-and-a-home-addition.json) — schema
+- [`faqs/what-is-the-difference-between-a-kitchen-refresh-and-a-full-kitchen-remodel.json`](./faqs/what-is-the-difference-between-a-kitchen-refresh-and-a-full-kitchen-remodel.json) — schema
 - [`faqs/what-is-the-difference-between-a-kitchen-remodel-and-a-kitchen-renovation.json`](./faqs/what-is-the-difference-between-a-kitchen-remodel-and-a-kitchen-renovation.json) — schema
+- [`faqs/what-is-the-difference-between-a-mid-project-cleanup-and-final-jobsite-cleanup.json`](./faqs/what-is-the-difference-between-a-mid-project-cleanup-and-final-jobsite-cleanup.json) — schema
 - [`faqs/what-is-the-difference-between-a-minor-renovation-and-a-major-remodel.json`](./faqs/what-is-the-difference-between-a-minor-renovation-and-a-major-remodel.json) — schema
 - [`faqs/what-is-the-difference-between-a-minor-update-and-a-full-renovation.json`](./faqs/what-is-the-difference-between-a-minor-update-and-a-full-renovation.json) — schema
 - [`faqs/what-is-the-difference-between-a-new-construction-and-an-interior-build-out.json`](./faqs/what-is-the-difference-between-a-new-construction-and-an-interior-build-out.json) — schema
+- [`faqs/what-is-the-difference-between-a-punch-list-and-a-final-quality-walkthrough.json`](./faqs/what-is-the-difference-between-a-punch-list-and-a-final-quality-walkthrough.json) — schema
+- [`faqs/what-is-the-difference-between-a-punch-list-and-warranty-work.json`](./faqs/what-is-the-difference-between-a-punch-list-and-warranty-work.json) — schema
 - [`faqs/what-is-the-difference-between-a-recessed-light-and-a-surface-mounted-light-fixt.json`](./faqs/what-is-the-difference-between-a-recessed-light-and-a-surface-mounted-light-fixt.json) — schema
 - [`faqs/what-is-the-difference-between-a-remodel-and-a-renovation.json`](./faqs/what-is-the-difference-between-a-remodel-and-a-renovation.json) — schema
 - [`faqs/what-is-the-difference-between-a-renovation-and-a-modernization.json`](./faqs/what-is-the-difference-between-a-renovation-and-a-modernization.json) — schema
 - [`faqs/what-is-the-difference-between-a-room-addition-and-a-home-extension.json`](./faqs/what-is-the-difference-between-a-room-addition-and-a-home-extension.json) — schema
 - [`faqs/what-is-the-difference-between-a-room-addition-and-an-adu.json`](./faqs/what-is-the-difference-between-a-room-addition-and-an-adu.json) — schema
 - [`faqs/what-is-the-difference-between-a-standard-water-heater-and-a-tankless-water-heat.json`](./faqs/what-is-the-difference-between-a-standard-water-heater-and-a-tankless-water-heat.json) — schema
+- [`faqs/what-is-the-difference-between-a-tenant-improvement-allowance-and-a-landlord-pro.json`](./faqs/what-is-the-difference-between-a-tenant-improvement-allowance-and-a-landlord-pro.json) — schema
+- [`faqs/what-is-the-difference-between-a-walk-in-shower-and-a-zero-entry-shower.json`](./faqs/what-is-the-difference-between-a-walk-in-shower-and-a-zero-entry-shower.json) — schema
 - [`faqs/what-is-the-difference-between-an-accessible-bathroom-and-a-universally-designed.json`](./faqs/what-is-the-difference-between-an-accessible-bathroom-and-a-universally-designed.json) — schema
 - [`faqs/what-is-the-difference-between-an-addition-and-a-new-room-build.json`](./faqs/what-is-the-difference-between-an-addition-and-a-new-room-build.json) — schema
 - [`faqs/what-is-the-difference-between-an-architect-and-a-designer-in-remodel-planning.json`](./faqs/what-is-the-difference-between-an-architect-and-a-designer-in-remodel-planning.json) — schema
 - [`faqs/what-is-the-difference-between-an-electrical-coordination-study-and-an-arc-flash.json`](./faqs/what-is-the-difference-between-an-electrical-coordination-study-and-an-arc-flash.json) — schema
+- [`faqs/what-is-the-difference-between-an-electrician-and-a-plumber.json`](./faqs/what-is-the-difference-between-an-electrician-and-a-plumber.json) — schema
 - [`faqs/what-is-the-difference-between-an-interior-decorator-and-an-interior-designer-fo.json`](./faqs/what-is-the-difference-between-an-interior-decorator-and-an-interior-designer-fo.json) — schema
 - [`faqs/what-is-the-difference-between-appliance-delivery-and-installation.json`](./faqs/what-is-the-difference-between-appliance-delivery-and-installation.json) — schema
 - [`faqs/what-is-the-difference-between-cabinet-installation-and-cabinet-installation-coo.json`](./faqs/what-is-the-difference-between-cabinet-installation-and-cabinet-installation-coo.json) — schema
@@ -1087,18 +1579,26 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-difference-between-coordinating-interior-painting-myself-and-hiring.json`](./faqs/what-is-the-difference-between-coordinating-interior-painting-myself-and-hiring.json) — schema
 - [`faqs/what-is-the-difference-between-countertop-fabrication-and-installation.json`](./faqs/what-is-the-difference-between-countertop-fabrication-and-installation.json) — schema
 - [`faqs/what-is-the-difference-between-custom-and-pre-fabricated-bathroom-cabinets.json`](./faqs/what-is-the-difference-between-custom-and-pre-fabricated-bathroom-cabinets.json) — schema
+- [`faqs/what-is-the-difference-between-custom-and-semi-custom-cabinet-installation.json`](./faqs/what-is-the-difference-between-custom-and-semi-custom-cabinet-installation.json) — schema
 - [`faqs/what-is-the-difference-between-custom-and-semi-custom-cabinets-for-a-kitchen-rem.json`](./faqs/what-is-the-difference-between-custom-and-semi-custom-cabinets-for-a-kitchen-rem.json) — schema
 - [`faqs/what-is-the-difference-between-custom-and-semi-custom-cabinets.json`](./faqs/what-is-the-difference-between-custom-and-semi-custom-cabinets.json) — schema
+- [`faqs/what-is-the-difference-between-custom-and-semi-custom-kitchen-cabinets.json`](./faqs/what-is-the-difference-between-custom-and-semi-custom-kitchen-cabinets.json) — schema
+- [`faqs/what-is-the-difference-between-deck-maintenance-and-structural-repair.json`](./faqs/what-is-the-difference-between-deck-maintenance-and-structural-repair.json) — schema
 - [`faqs/what-is-the-difference-between-different-paint-finishes.json`](./faqs/what-is-the-difference-between-different-paint-finishes.json) — schema
 - [`faqs/what-is-the-difference-between-fence-post-repair-and-replacement.json`](./faqs/what-is-the-difference-between-fence-post-repair-and-replacement.json) — schema
 - [`faqs/what-is-the-difference-between-fence-stability-restoration-and-full-fence-replac.json`](./faqs/what-is-the-difference-between-fence-stability-restoration-and-full-fence-replac.json) — schema
+- [`faqs/what-is-the-difference-between-final-detail-work-and-punch-list-items.json`](./faqs/what-is-the-difference-between-final-detail-work-and-punch-list-items.json) — schema
 - [`faqs/what-is-the-difference-between-flat-eggshell-and-satin-paint-finishes.json`](./faqs/what-is-the-difference-between-flat-eggshell-and-satin-paint-finishes.json) — schema
+- [`faqs/what-is-the-difference-between-flat-eggshell-satin-and-semi-gloss-paint-finishes.json`](./faqs/what-is-the-difference-between-flat-eggshell-satin-and-semi-gloss-paint-finishes.json) — schema
 - [`faqs/what-is-the-difference-between-framed-and-frameless-cabinets.json`](./faqs/what-is-the-difference-between-framed-and-frameless-cabinets.json) — schema
+- [`faqs/what-is-the-difference-between-grout-and-caulk-for-backsplash-installation.json`](./faqs/what-is-the-difference-between-grout-and-caulk-for-backsplash-installation.json) — schema
 - [`faqs/what-is-the-difference-between-hardware-adjustment-and-hardware-repair.json`](./faqs/what-is-the-difference-between-hardware-adjustment-and-hardware-repair.json) — schema
 - [`faqs/what-is-the-difference-between-honed-and-polished-countertop-finishes.json`](./faqs/what-is-the-difference-between-honed-and-polished-countertop-finishes.json) — schema
 - [`faqs/what-is-the-difference-between-interior-and-exterior-paint-and-why-does-it-matte.json`](./faqs/what-is-the-difference-between-interior-and-exterior-paint-and-why-does-it-matte.json) — schema
 - [`faqs/what-is-the-difference-between-interior-and-exterior-paint-for-an-addition.json`](./faqs/what-is-the-difference-between-interior-and-exterior-paint-for-an-addition.json) — schema
 - [`faqs/what-is-the-difference-between-interior-and-exterior-paint.json`](./faqs/what-is-the-difference-between-interior-and-exterior-paint.json) — schema
+- [`faqs/what-is-the-difference-between-interior-and-exterior-paints.json`](./faqs/what-is-the-difference-between-interior-and-exterior-paints.json) — schema
+- [`faqs/what-is-the-difference-between-interior-painting-and-interior-finishing-services.json`](./faqs/what-is-the-difference-between-interior-painting-and-interior-finishing-services.json) — schema
 - [`faqs/what-is-the-difference-between-interior-painting-and-interior-finishing.json`](./faqs/what-is-the-difference-between-interior-painting-and-interior-finishing.json) — schema
 - [`faqs/what-is-the-difference-between-jobsite-cleanup-and-final-cleaning.json`](./faqs/what-is-the-difference-between-jobsite-cleanup-and-final-cleaning.json) — schema
 - [`faqs/what-is-the-difference-between-latex-and-oil-based-paint-for-interiors.json`](./faqs/what-is-the-difference-between-latex-and-oil-based-paint-for-interiors.json) — schema
@@ -1107,15 +1607,23 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-difference-between-pre-hung-and-slab-doors.json`](./faqs/what-is-the-difference-between-pre-hung-and-slab-doors.json) — schema
 - [`faqs/what-is-the-difference-between-repairing-an-automatic-gate-and-a-manual-gate.json`](./faqs/what-is-the-difference-between-repairing-an-automatic-gate-and-a-manual-gate.json) — schema
 - [`faqs/what-is-the-difference-between-repairing-and-replacing-a-wood-fence-panel.json`](./faqs/what-is-the-difference-between-repairing-and-replacing-a-wood-fence-panel.json) — schema
+- [`faqs/what-is-the-difference-between-replacing-an-existing-fixture-and-installing-a-ne.json`](./faqs/what-is-the-difference-between-replacing-an-existing-fixture-and-installing-a-ne.json) — schema
+- [`faqs/what-is-the-difference-between-rough-in-and-finish-plumbing-in-a-bathroom-instal.json`](./faqs/what-is-the-difference-between-rough-in-and-finish-plumbing-in-a-bathroom-instal.json) — schema
 - [`faqs/what-is-the-difference-between-rough-in-and-finish-plumbing.json`](./faqs/what-is-the-difference-between-rough-in-and-finish-plumbing.json) — schema
 - [`faqs/what-is-the-difference-between-semi-gloss-and-satin-paint-for-bathrooms.json`](./faqs/what-is-the-difference-between-semi-gloss-and-satin-paint-for-bathrooms.json) — schema
 - [`faqs/what-is-the-difference-between-stair-repair-and-stair-refinishing.json`](./faqs/what-is-the-difference-between-stair-repair-and-stair-refinishing.json) — schema
+- [`faqs/what-is-the-difference-between-standard-and-custom-interior-finishes.json`](./faqs/what-is-the-difference-between-standard-and-custom-interior-finishes.json) — schema
 - [`faqs/what-is-the-difference-between-standard-and-upgraded-finishes.json`](./faqs/what-is-the-difference-between-standard-and-upgraded-finishes.json) — schema
+- [`faqs/what-is-the-difference-between-stock-semi-custom-and-custom-cabinets-in-terms-of.json`](./faqs/what-is-the-difference-between-stock-semi-custom-and-custom-cabinets-in-terms-of.json) — schema
 - [`faqs/what-is-the-difference-between-stock-semi-custom-and-custom-cabinets.json`](./faqs/what-is-the-difference-between-stock-semi-custom-and-custom-cabinets.json) — schema
+- [`faqs/what-is-the-difference-between-trade-scheduling-and-project-management.json`](./faqs/what-is-the-difference-between-trade-scheduling-and-project-management.json) — schema
+- [`faqs/what-is-the-difference-between-trim-and-molding.json`](./faqs/what-is-the-difference-between-trim-and-molding.json) — schema
 - [`faqs/what-is-the-difference-between-trim-painting-and-cabinet-painting.json`](./faqs/what-is-the-difference-between-trim-painting-and-cabinet-painting.json) — schema
 - [`faqs/what-is-the-difference-between-warm-white-and-cool-white-lighting-for-a-bathroom.json`](./faqs/what-is-the-difference-between-warm-white-and-cool-white-lighting-for-a-bathroom.json) — schema
 - [`faqs/what-is-the-estimated-cost-for-a-bathroom-vanity-and-cabinet-upgrade-in-the-east.json`](./faqs/what-is-the-estimated-cost-for-a-bathroom-vanity-and-cabinet-upgrade-in-the-east.json) — schema
+- [`faqs/what-is-the-estimated-cost-for-modernizing-an-outdated-room.json`](./faqs/what-is-the-estimated-cost-for-modernizing-an-outdated-room.json) — schema
 - [`faqs/what-is-the-expected-lifespan-of-a-new-shower-or-tub-installation.json`](./faqs/what-is-the-expected-lifespan-of-a-new-shower-or-tub-installation.json) — schema
+- [`faqs/what-is-the-installation-process-for-trim-and-molding.json`](./faqs/what-is-the-installation-process-for-trim-and-molding.json) — schema
 - [`faqs/what-is-the-process-for-a-bathroom-electrical-and-lighting-upgrade.json`](./faqs/what-is-the-process-for-a-bathroom-electrical-and-lighting-upgrade.json) — schema
 - [`faqs/what-is-the-process-for-a-bathroom-plumbing-renovation-in-oakland.json`](./faqs/what-is-the-process-for-a-bathroom-plumbing-renovation-in-oakland.json) — schema
 - [`faqs/what-is-the-process-for-a-bathroom-vanity-and-cabinet-upgrade-with-frasheski-con.json`](./faqs/what-is-the-process-for-a-bathroom-vanity-and-cabinet-upgrade-with-frasheski-con.json) — schema
@@ -1127,6 +1635,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-process-for-a-multi-room-remodel-with-frasheski-construction.json`](./faqs/what-is-the-process-for-a-multi-room-remodel-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-a-room-addition-project.json`](./faqs/what-is-the-process-for-a-room-addition-project.json) — schema
 - [`faqs/what-is-the-process-for-a-room-expansion-project.json`](./faqs/what-is-the-process-for-a-room-expansion-project.json) — schema
+- [`faqs/what-is-the-process-for-a-shower-or-tub-upgrade-with-frasheski-construction.json`](./faqs/what-is-the-process-for-a-shower-or-tub-upgrade-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-a-shower-or-tub-upgrade.json`](./faqs/what-is-the-process-for-a-shower-or-tub-upgrade.json) — schema
 - [`faqs/what-is-the-process-for-a-tile-and-surface-update-project.json`](./faqs/what-is-the-process-for-a-tile-and-surface-update-project.json) — schema
 - [`faqs/what-is-the-process-for-adding-a-room-to-my-home.json`](./faqs/what-is-the-process-for-adding-a-room-to-my-home.json) — schema
@@ -1142,7 +1651,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-process-for-cabinet-repair-with-frasheski-construction.json`](./faqs/what-is-the-process-for-cabinet-repair-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-cabinet-repair.json`](./faqs/what-is-the-process-for-cabinet-repair.json) — schema
 - [`faqs/what-is-the-process-for-coordinating-tile-installation-with-frasheski-constructi.json`](./faqs/what-is-the-process-for-coordinating-tile-installation-with-frasheski-constructi.json) — schema
+- [`faqs/what-is-the-process-for-countertop-replacement-with-frasheski-construction.json`](./faqs/what-is-the-process-for-countertop-replacement-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-countertop-replacement.json`](./faqs/what-is-the-process-for-countertop-replacement.json) — schema
+- [`faqs/what-is-the-process-for-custom-cabinet-design-and-installation.json`](./faqs/what-is-the-process-for-custom-cabinet-design-and-installation.json) — schema
 - [`faqs/what-is-the-process-for-deck-board-replacement.json`](./faqs/what-is-the-process-for-deck-board-replacement.json) — schema
 - [`faqs/what-is-the-process-for-deck-staining-and-sealing.json`](./faqs/what-is-the-process-for-deck-staining-and-sealing.json) — schema
 - [`faqs/what-is-the-process-for-designing-a-new-kitchen-with-your-company.json`](./faqs/what-is-the-process-for-designing-a-new-kitchen-with-your-company.json) — schema
@@ -1150,16 +1661,33 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-process-for-frasheski-construction-to-handle-hardware-and-functional.json`](./faqs/what-is-the-process-for-frasheski-construction-to-handle-hardware-and-functional.json) — schema
 - [`faqs/what-is-the-process-for-gate-repair-with-frasheski-construction.json`](./faqs/what-is-the-process-for-gate-repair-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-getting-a-quote-for-door-installation.json`](./faqs/what-is-the-process-for-getting-a-quote-for-door-installation.json) — schema
+- [`faqs/what-is-the-process-for-getting-a-quote-for-interior-painting-in-the-east-bay-ar.json`](./faqs/what-is-the-process-for-getting-a-quote-for-interior-painting-in-the-east-bay-ar.json) — schema
 - [`faqs/what-is-the-process-for-getting-a-quote-for-paint-and-finish-work-in-berkeley-or.json`](./faqs/what-is-the-process-for-getting-a-quote-for-paint-and-finish-work-in-berkeley-or.json) — schema
+- [`faqs/what-is-the-process-for-getting-a-quote-for-wood-fence-repair-in-the-berkeley-ar.json`](./faqs/what-is-the-process-for-getting-a-quote-for-wood-fence-repair-in-the-berkeley-ar.json) — schema
+- [`faqs/what-is-the-process-for-getting-a-stair-repair-estimate-from-frasheski-construct.json`](./faqs/what-is-the-process-for-getting-a-stair-repair-estimate-from-frasheski-construct.json) — schema
 - [`faqs/what-is-the-process-for-getting-a-wood-fence-repair-estimate.json`](./faqs/what-is-the-process-for-getting-a-wood-fence-repair-estimate.json) — schema
 - [`faqs/what-is-the-process-for-getting-custom-cabinets-from-frasheski-construction.json`](./faqs/what-is-the-process-for-getting-custom-cabinets-from-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-getting-my-gate-repaired-by-frasheski-construction.json`](./faqs/what-is-the-process-for-getting-my-gate-repaired-by-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-getting-my-railing-repaired.json`](./faqs/what-is-the-process-for-getting-my-railing-repaired.json) — schema
 - [`faqs/what-is-the-process-for-getting-new-cabinets-from-frasheski-construction.json`](./faqs/what-is-the-process-for-getting-new-cabinets-from-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-getting-new-cabinets-installed.json`](./faqs/what-is-the-process-for-getting-new-cabinets-installed.json) — schema
+- [`faqs/what-is-the-process-for-hiring-frasheski-construction-for-backsplash-installatio.json`](./faqs/what-is-the-process-for-hiring-frasheski-construction-for-backsplash-installatio.json) — schema
+- [`faqs/what-is-the-process-for-hiring-frasheski-construction-for-electrical-fixture-ins.json`](./faqs/what-is-the-process-for-hiring-frasheski-construction-for-electrical-fixture-ins.json) — schema
+- [`faqs/what-is-the-process-for-installing-a-new-dishwasher.json`](./faqs/what-is-the-process-for-installing-a-new-dishwasher.json) — schema
+- [`faqs/what-is-the-process-for-installing-a-new-exterior-door.json`](./faqs/what-is-the-process-for-installing-a-new-exterior-door.json) — schema
+- [`faqs/what-is-the-process-for-installing-new-electrical-outlets-or-lighting-fixtures-i.json`](./faqs/what-is-the-process-for-installing-new-electrical-outlets-or-lighting-fixtures-i.json) — schema
+- [`faqs/what-is-the-process-for-installing-new-lighting-during-a-bathroom-renovation.json`](./faqs/what-is-the-process-for-installing-new-lighting-during-a-bathroom-renovation.json) — schema
+- [`faqs/what-is-the-process-for-installing-recessed-lighting-in-an-existing-ceiling.json`](./faqs/what-is-the-process-for-installing-recessed-lighting-in-an-existing-ceiling.json) — schema
+- [`faqs/what-is-the-process-for-kitchen-cabinet-installation.json`](./faqs/what-is-the-process-for-kitchen-cabinet-installation.json) — schema
 - [`faqs/what-is-the-process-for-modernizing-a-room-with-frasheski-construction.json`](./faqs/what-is-the-process-for-modernizing-a-room-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-ordering-custom-cabinets.json`](./faqs/what-is-the-process-for-ordering-custom-cabinets.json) — schema
+- [`faqs/what-is-the-process-for-painting-a-bathroom-with-frasheski-construction.json`](./faqs/what-is-the-process-for-painting-a-bathroom-with-frasheski-construction.json) — schema
+- [`faqs/what-is-the-process-for-planning-a-functional-layout-improvement-with-a-contract.json`](./faqs/what-is-the-process-for-planning-a-functional-layout-improvement-with-a-contract.json) — schema
+- [`faqs/what-is-the-process-for-planning-a-home-addition-with-frasheski-construction.json`](./faqs/what-is-the-process-for-planning-a-home-addition-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-planning-an-accessibility-minded-bathroom-modification-w.json`](./faqs/what-is-the-process-for-planning-an-accessibility-minded-bathroom-modification-w.json) — schema
+- [`faqs/what-is-the-process-for-planning-an-accessible-bathroom-remodel.json`](./faqs/what-is-the-process-for-planning-an-accessible-bathroom-remodel.json) — schema
+- [`faqs/what-is-the-process-for-planning-an-interior-home-renovation-with-frasheski-cons.json`](./faqs/what-is-the-process-for-planning-an-interior-home-renovation-with-frasheski-cons.json) — schema
+- [`faqs/what-is-the-process-for-planning-kitchen-electrical-and-lighting-with-frasheski.json`](./faqs/what-is-the-process-for-planning-kitchen-electrical-and-lighting-with-frasheski.json) — schema
 - [`faqs/what-is-the-process-for-repairing-a-damaged-wood-fence.json`](./faqs/what-is-the-process-for-repairing-a-damaged-wood-fence.json) — schema
 - [`faqs/what-is-the-process-for-repairing-a-deck.json`](./faqs/what-is-the-process-for-repairing-a-deck.json) — schema
 - [`faqs/what-is-the-process-for-repairing-a-wood-fence-panel.json`](./faqs/what-is-the-process-for-repairing-a-wood-fence-panel.json) — schema
@@ -1167,25 +1695,37 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-process-for-replacing-deck-boards.json`](./faqs/what-is-the-process-for-replacing-deck-boards.json) — schema
 - [`faqs/what-is-the-process-for-replacing-kitchen-countertops.json`](./faqs/what-is-the-process-for-replacing-kitchen-countertops.json) — schema
 - [`faqs/what-is-the-process-for-replacing-old-plumbing-pipes-in-an-older-home.json`](./faqs/what-is-the-process-for-replacing-old-plumbing-pipes-in-an-older-home.json) — schema
+- [`faqs/what-is-the-process-for-requesting-hardware-and-functional-adjustments-after-a-p.json`](./faqs/what-is-the-process-for-requesting-hardware-and-functional-adjustments-after-a-p.json) — schema
 - [`faqs/what-is-the-process-for-restoring-a-fence-s-stability.json`](./faqs/what-is-the-process-for-restoring-a-fence-s-stability.json) — schema
 - [`faqs/what-is-the-process-for-scheduling-a-flooring-installation.json`](./faqs/what-is-the-process-for-scheduling-a-flooring-installation.json) — schema
 - [`faqs/what-is-the-process-for-selecting-interior-finishes.json`](./faqs/what-is-the-process-for-selecting-interior-finishes.json) — schema
+- [`faqs/what-is-the-process-for-selecting-materials-and-finishes-for-a-bathroom-renovati.json`](./faqs/what-is-the-process-for-selecting-materials-and-finishes-for-a-bathroom-renovati.json) — schema
 - [`faqs/what-is-the-process-for-stair-repair-with-frasheski-construction.json`](./faqs/what-is-the-process-for-stair-repair-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-process-for-stair-repair.json`](./faqs/what-is-the-process-for-stair-repair.json) — schema
+- [`faqs/what-is-the-process-for-starting-a-home-remodeling-project-with-frasheski-constr.json`](./faqs/what-is-the-process-for-starting-a-home-remodeling-project-with-frasheski-constr.json) — schema
 - [`faqs/what-is-the-process-for-starting-a-kitchen-renovation-with-frasheski-constructio.json`](./faqs/what-is-the-process-for-starting-a-kitchen-renovation-with-frasheski-constructio.json) — schema
+- [`faqs/what-is-the-process-for-starting-a-room-expansion-project-with-frasheski-constru.json`](./faqs/what-is-the-process-for-starting-a-room-expansion-project-with-frasheski-constru.json) — schema
 - [`faqs/what-is-the-process-for-surface-restoration-with-frasheski-construction.json`](./faqs/what-is-the-process-for-surface-restoration-with-frasheski-construction.json) — schema
+- [`faqs/what-is-the-process-for-touch-ups-or-repairs-after-the-painting-and-finishing-is.json`](./faqs/what-is-the-process-for-touch-ups-or-repairs-after-the-painting-and-finishing-is.json) — schema
 - [`faqs/what-is-the-process-for-trim-and-molding-installation.json`](./faqs/what-is-the-process-for-trim-and-molding-installation.json) — schema
 - [`faqs/what-is-the-process-for-upgrading-a-bathroom-vanity-with-frasheski-construction.json`](./faqs/what-is-the-process-for-upgrading-a-bathroom-vanity-with-frasheski-construction.json) — schema
+- [`faqs/what-is-the-process-for-upgrading-kitchen-sink-plumbing.json`](./faqs/what-is-the-process-for-upgrading-kitchen-sink-plumbing.json) — schema
+- [`faqs/what-is-the-process-for-vanity-and-cabinet-installation-with-frasheski-construct.json`](./faqs/what-is-the-process-for-vanity-and-cabinet-installation-with-frasheski-construct.json) — schema
 - [`faqs/what-is-the-railing-repair-process-like-with-frasheski-construction.json`](./faqs/what-is-the-railing-repair-process-like-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-remodeling-process-like-from-start-to-finish.json`](./faqs/what-is-the-remodeling-process-like-from-start-to-finish.json) — schema
 - [`faqs/what-is-the-remodeling-project-planning-process-like-with-your-company.json`](./faqs/what-is-the-remodeling-project-planning-process-like-with-your-company.json) — schema
 - [`faqs/what-is-the-renovation-process-like-with-frasheski-construction.json`](./faqs/what-is-the-renovation-process-like-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-return-on-investment-roi-for-a-kitchen-remodel.json`](./faqs/what-is-the-return-on-investment-roi-for-a-kitchen-remodel.json) — schema
 - [`faqs/what-is-the-role-of-a-general-contractor-in-plumbing-and-electrical-coordination.json`](./faqs/what-is-the-role-of-a-general-contractor-in-plumbing-and-electrical-coordination.json) — schema
+- [`faqs/what-is-the-role-of-a-project-manager-in-a-home-remodeling-project.json`](./faqs/what-is-the-role-of-a-project-manager-in-a-home-remodeling-project.json) — schema
+- [`faqs/what-is-the-typical-cost-difference-between-custom-and-pre-manufactured-cabinets.json`](./faqs/what-is-the-typical-cost-difference-between-custom-and-pre-manufactured-cabinets.json) — schema
 - [`faqs/what-is-the-typical-cost-for-a-basic-plumbing-repair-like-a-leaky-faucet.json`](./faqs/what-is-the-typical-cost-for-a-basic-plumbing-repair-like-a-leaky-faucet.json) — schema
 - [`faqs/what-is-the-typical-cost-for-a-home-remodel-in-berkeley.json`](./faqs/what-is-the-typical-cost-for-a-home-remodel-in-berkeley.json) — schema
 - [`faqs/what-is-the-typical-cost-for-a-kitchen-renovation-in-berkeley.json`](./faqs/what-is-the-typical-cost-for-a-kitchen-renovation-in-berkeley.json) — schema
+- [`faqs/what-is-the-typical-cost-for-backsplash-installation.json`](./faqs/what-is-the-typical-cost-for-backsplash-installation.json) — schema
 - [`faqs/what-is-the-typical-cost-for-bathroom-electrical-and-lighting-upgrades-in-the-be.json`](./faqs/what-is-the-typical-cost-for-bathroom-electrical-and-lighting-upgrades-in-the-be.json) — schema
+- [`faqs/what-is-the-typical-cost-for-countertop-installation-coordination-in-the-east-ba.json`](./faqs/what-is-the-typical-cost-for-countertop-installation-coordination-in-the-east-ba.json) — schema
+- [`faqs/what-is-the-typical-cost-for-countertop-replacement.json`](./faqs/what-is-the-typical-cost-for-countertop-replacement.json) — schema
 - [`faqs/what-is-the-typical-cost-for-interior-finish-upgrades.json`](./faqs/what-is-the-typical-cost-for-interior-finish-upgrades.json) — schema
 - [`faqs/what-is-the-typical-cost-for-post-remodel-finish-painting-in-the-east-bay-area.json`](./faqs/what-is-the-typical-cost-for-post-remodel-finish-painting-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-typical-cost-for-post-remodel-finish-painting-in-the-east-bay.json`](./faqs/what-is-the-typical-cost-for-post-remodel-finish-painting-in-the-east-bay.json) — schema
@@ -1196,95 +1736,183 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-typical-cost-of-a-kitchen-remodel-in-berkeley-and-east-bay.json`](./faqs/what-is-the-typical-cost-of-a-kitchen-remodel-in-berkeley-and-east-bay.json) — schema
 - [`faqs/what-is-the-typical-cost-of-interior-painting-services-in-the-east-bay-area.json`](./faqs/what-is-the-typical-cost-of-interior-painting-services-in-the-east-bay-area.json) — schema
 - [`faqs/what-is-the-typical-cost-of-wood-fence-repair-in-berkeley.json`](./faqs/what-is-the-typical-cost-of-wood-fence-repair-in-berkeley.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-a-bathroom-vanity-upgrade-in-the-east-bay-are.json`](./faqs/what-is-the-typical-cost-range-for-a-bathroom-vanity-upgrade-in-the-east-bay-are.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-a-full-bathroom-renovation-in-the-east-bay-ar.json`](./faqs/what-is-the-typical-cost-range-for-a-full-bathroom-renovation-in-the-east-bay-ar.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-a-kitchen-remodel.json`](./faqs/what-is-the-typical-cost-range-for-a-kitchen-remodel.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-a-room-addition.json`](./faqs/what-is-the-typical-cost-range-for-a-room-addition.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-a-shower-or-tub-upgrade.json`](./faqs/what-is-the-typical-cost-range-for-a-shower-or-tub-upgrade.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-appliance-area-preparation-services.json`](./faqs/what-is-the-typical-cost-range-for-appliance-area-preparation-services.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-whole-home-interior-painting.json`](./faqs/what-is-the-typical-cost-range-for-whole-home-interior-painting.json) — schema
 - [`faqs/what-is-the-typical-cost-structure-for-complete-remodeling-project-management.json`](./faqs/what-is-the-typical-cost-structure-for-complete-remodeling-project-management.json) — schema
 - [`faqs/what-is-the-typical-cost-structure-for-fixture-installation-coordination-service.json`](./faqs/what-is-the-typical-cost-structure-for-fixture-installation-coordination-service.json) — schema
 - [`faqs/what-is-the-typical-cost-to-install-new-kitchen-lighting-in-the-east-bay-area.json`](./faqs/what-is-the-typical-cost-to-install-new-kitchen-lighting-in-the-east-bay-area.json) — schema
+- [`faqs/what-is-the-typical-cost-to-paint-a-bathroom.json`](./faqs/what-is-the-typical-cost-to-paint-a-bathroom.json) — schema
+- [`faqs/what-is-the-typical-design-consultation-process-for-custom-cabinets.json`](./faqs/what-is-the-typical-design-consultation-process-for-custom-cabinets.json) — schema
 - [`faqs/what-is-the-typical-new-room-construction-process.json`](./faqs/what-is-the-typical-new-room-construction-process.json) — schema
+- [`faqs/what-is-the-typical-payment-schedule-for-a-kitchen-renovation-project.json`](./faqs/what-is-the-typical-payment-schedule-for-a-kitchen-renovation-project.json) — schema
 - [`faqs/what-is-the-typical-payment-schedule-for-a-new-room-construction-project.json`](./faqs/what-is-the-typical-payment-schedule-for-a-new-room-construction-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-bathroom-plumbing-repair.json`](./faqs/what-is-the-typical-process-for-a-bathroom-plumbing-repair.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-cabinet-installation-project.json`](./faqs/what-is-the-typical-process-for-a-cabinet-installation-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-coordinated-interior-painting-project-with-fra.json`](./faqs/what-is-the-typical-process-for-a-coordinated-interior-painting-project-with-fra.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-full-kitchen-cabinet-installation.json`](./faqs/what-is-the-typical-process-for-a-full-kitchen-cabinet-installation.json) — schema
 - [`faqs/what-is-the-typical-process-for-a-functional-layout-improvement-project.json`](./faqs/what-is-the-typical-process-for-a-functional-layout-improvement-project.json) — schema
 - [`faqs/what-is-the-typical-process-for-a-home-remodeling-project-with-frasheski-constru.json`](./faqs/what-is-the-typical-process-for-a-home-remodeling-project-with-frasheski-constru.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-kitchen-remodel-project.json`](./faqs/what-is-the-typical-process-for-a-kitchen-remodel-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-kitchen-remodel-with-frasheski-construction.json`](./faqs/what-is-the-typical-process-for-a-kitchen-remodel-with-frasheski-construction.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-new-room-addition-project.json`](./faqs/what-is-the-typical-process-for-a-new-room-addition-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-railing-repair-project-with-frasheski-construc.json`](./faqs/what-is-the-typical-process-for-a-railing-repair-project-with-frasheski-construc.json) — schema
 - [`faqs/what-is-the-typical-process-for-a-room-painting-project.json`](./faqs/what-is-the-typical-process-for-a-room-painting-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-an-electrical-coordination-study.json`](./faqs/what-is-the-typical-process-for-an-electrical-coordination-study.json) — schema
+- [`faqs/what-is-the-typical-process-for-an-interior-finish-upgrade-project.json`](./faqs/what-is-the-typical-process-for-an-interior-finish-upgrade-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-an-interior-painting-project.json`](./faqs/what-is-the-typical-process-for-an-interior-painting-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-cabinet-repair-with-frasheski-construction.json`](./faqs/what-is-the-typical-process-for-cabinet-repair-with-frasheski-construction.json) — schema
+- [`faqs/what-is-the-typical-process-for-coordinating-appliance-installation-during-a-rem.json`](./faqs/what-is-the-typical-process-for-coordinating-appliance-installation-during-a-rem.json) — schema
+- [`faqs/what-is-the-typical-process-for-coordinating-fixture-installation-with-frasheski.json`](./faqs/what-is-the-typical-process-for-coordinating-fixture-installation-with-frasheski.json) — schema
+- [`faqs/what-is-the-typical-process-for-damaged-board-replacement.json`](./faqs/what-is-the-typical-process-for-damaged-board-replacement.json) — schema
+- [`faqs/what-is-the-typical-process-for-deck-repair.json`](./faqs/what-is-the-typical-process-for-deck-repair.json) — schema
+- [`faqs/what-is-the-typical-process-for-electrical-rough-in-during-a-home-remodel.json`](./faqs/what-is-the-typical-process-for-electrical-rough-in-during-a-home-remodel.json) — schema
+- [`faqs/what-is-the-typical-process-for-exterior-paint-and-finish-work.json`](./faqs/what-is-the-typical-process-for-exterior-paint-and-finish-work.json) — schema
 - [`faqs/what-is-the-typical-process-for-fence-post-repair.json`](./faqs/what-is-the-typical-process-for-fence-post-repair.json) — schema
 - [`faqs/what-is-the-typical-process-for-functional-layout-improvements-with-frasheski-co.json`](./faqs/what-is-the-typical-process-for-functional-layout-improvements-with-frasheski-co.json) — schema
 - [`faqs/what-is-the-typical-process-for-interior-painting.json`](./faqs/what-is-the-typical-process-for-interior-painting.json) — schema
 - [`faqs/what-is-the-typical-process-for-new-room-construction-with-frasheski-constructio.json`](./faqs/what-is-the-typical-process-for-new-room-construction-with-frasheski-constructio.json) — schema
 - [`faqs/what-is-the-typical-process-for-plumbing-work-during-a-home-remodel.json`](./faqs/what-is-the-typical-process-for-plumbing-work-during-a-home-remodel.json) — schema
+- [`faqs/what-is-the-typical-process-for-post-remodel-finish-painting.json`](./faqs/what-is-the-typical-process-for-post-remodel-finish-painting.json) — schema
 - [`faqs/what-is-the-typical-process-for-remodel-planning-with-frasheski-construction.json`](./faqs/what-is-the-typical-process-for-remodel-planning-with-frasheski-construction.json) — schema
+- [`faqs/what-is-the-typical-process-for-repairing-a-leaning-fence-post.json`](./faqs/what-is-the-typical-process-for-repairing-a-leaning-fence-post.json) — schema
+- [`faqs/what-is-the-typical-process-for-surface-restoration-with-frasheski-construction.json`](./faqs/what-is-the-typical-process-for-surface-restoration-with-frasheski-construction.json) — schema
 - [`faqs/what-is-the-typical-process-for-trim-and-detail-painting.json`](./faqs/what-is-the-typical-process-for-trim-and-detail-painting.json) — schema
 - [`faqs/what-is-the-typical-remodeling-project-timeline.json`](./faqs/what-is-the-typical-remodeling-project-timeline.json) — schema
+- [`faqs/what-is-the-typical-sequence-for-finish-carpentry-installation.json`](./faqs/what-is-the-typical-sequence-for-finish-carpentry-installation.json) — schema
+- [`faqs/what-is-the-typical-sequence-of-events-for-plumbing-and-electrical-rough-ins-dur.json`](./faqs/what-is-the-typical-sequence-of-events-for-plumbing-and-electrical-rough-ins-dur.json) — schema
 - [`faqs/what-is-the-typical-timeframe-for-a-cabinet-installation-project.json`](./faqs/what-is-the-typical-timeframe-for-a-cabinet-installation-project.json) — schema
+- [`faqs/what-is-the-typical-timeframe-for-a-deck-structural-repair-project.json`](./faqs/what-is-the-typical-timeframe-for-a-deck-structural-repair-project.json) — schema
+- [`faqs/what-is-the-typical-timeframe-for-a-full-cabinet-installation-project.json`](./faqs/what-is-the-typical-timeframe-for-a-full-cabinet-installation-project.json) — schema
+- [`faqs/what-is-the-typical-timeframe-for-a-home-remodeling-project.json`](./faqs/what-is-the-typical-timeframe-for-a-home-remodeling-project.json) — schema
+- [`faqs/what-is-the-typical-timeframe-for-a-vanity-or-cabinet-installation-project.json`](./faqs/what-is-the-typical-timeframe-for-a-vanity-or-cabinet-installation-project.json) — schema
+- [`faqs/what-is-the-typical-timeframe-for-a-wood-fence-panel-repair-project.json`](./faqs/what-is-the-typical-timeframe-for-a-wood-fence-panel-repair-project.json) — schema
 - [`faqs/what-is-the-typical-timeframe-for-cabinet-installation.json`](./faqs/what-is-the-typical-timeframe-for-cabinet-installation.json) — schema
+- [`faqs/what-is-the-typical-timeframe-for-completing-final-detail-work-on-a-residential.json`](./faqs/what-is-the-typical-timeframe-for-completing-final-detail-work-on-a-residential.json) — schema
 - [`faqs/what-is-the-typical-timeframe-for-coordinating-appliance-installations.json`](./faqs/what-is-the-typical-timeframe-for-coordinating-appliance-installations.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-bathroom-remodel.json`](./faqs/what-is-the-typical-timeline-for-a-bathroom-remodel.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-coordinated-tile-installation-project.json`](./faqs/what-is-the-typical-timeline-for-a-coordinated-tile-installation-project.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-a-coordinated-tile-installation.json`](./faqs/what-is-the-typical-timeline-for-a-coordinated-tile-installation.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-home-remodeling-project-in-the-east-bay.json`](./faqs/what-is-the-typical-timeline-for-a-home-remodeling-project-in-the-east-bay.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-a-home-remodeling-project.json`](./faqs/what-is-the-typical-timeline-for-a-home-remodeling-project.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-kitchen-lighting-upgrade-during-a-renovation.json`](./faqs/what-is-the-typical-timeline-for-a-kitchen-lighting-upgrade-during-a-renovation.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-a-kitchen-renovation.json`](./faqs/what-is-the-typical-timeline-for-a-kitchen-renovation.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-a-multi-room-remodel.json`](./faqs/what-is-the-typical-timeline-for-a-multi-room-remodel.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-a-multi-room-remodeling-project.json`](./faqs/what-is-the-typical-timeline-for-a-multi-room-remodeling-project.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-remodeling-project-managed-by-professionals.json`](./faqs/what-is-the-typical-timeline-for-a-remodeling-project-managed-by-professionals.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-tile-or-surface-update-project.json`](./faqs/what-is-the-typical-timeline-for-a-tile-or-surface-update-project.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-an-outdated-room-modernization-project.json`](./faqs/what-is-the-typical-timeline-for-an-outdated-room-modernization-project.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-cabinet-installation-coordination.json`](./faqs/what-is-the-typical-timeline-for-cabinet-installation-coordination.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-kitchen-electrical-and-lighting-upgrade-project.json`](./faqs/what-is-the-typical-timeline-for-kitchen-electrical-and-lighting-upgrade-project.json) — schema
 - [`faqs/what-is-the-typical-timeline-for-plumbing-rough-in-during-a-remodel.json`](./faqs/what-is-the-typical-timeline-for-plumbing-rough-in-during-a-remodel.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-plumbing-work-in-a-bathroom-remodel.json`](./faqs/what-is-the-typical-timeline-for-plumbing-work-in-a-bathroom-remodel.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-remodel-planning-before-construction-starts.json`](./faqs/what-is-the-typical-timeline-for-remodel-planning-before-construction-starts.json) — schema
 - [`faqs/what-is-tile-installation-coordination.json`](./faqs/what-is-tile-installation-coordination.json) — schema
+- [`faqs/what-is-trade-scheduling-and-why-is-it-important-for-my-construction-project.json`](./faqs/what-is-trade-scheduling-and-why-is-it-important-for-my-construction-project.json) — schema
 - [`faqs/what-is-trade-scheduling-in-construction.json`](./faqs/what-is-trade-scheduling-in-construction.json) — schema
+- [`faqs/what-is-trim-and-detail-painting-and-why-is-it-important-for-my-home.json`](./faqs/what-is-trim-and-detail-painting-and-why-is-it-important-for-my-home.json) — schema
 - [`faqs/what-is-trim-and-detail-painting.json`](./faqs/what-is-trim-and-detail-painting.json) — schema
 - [`faqs/what-is-trim-and-molding.json`](./faqs/what-is-trim-and-molding.json) — schema
 - [`faqs/what-is-whole-home-interior-painting.json`](./faqs/what-is-whole-home-interior-painting.json) — schema
 - [`faqs/what-is-your-process-for-bathroom-plumbing-repairs.json`](./faqs/what-is-your-process-for-bathroom-plumbing-repairs.json) — schema
+- [`faqs/what-is-your-process-for-handling-unexpected-issues-during-a-remodel.json`](./faqs/what-is-your-process-for-handling-unexpected-issues-during-a-remodel.json) — schema
 - [`faqs/what-kind-of-damage-can-be-repaired-on-a-wood-fence-panel.json`](./faqs/what-kind-of-damage-can-be-repaired-on-a-wood-fence-panel.json) — schema
+- [`faqs/what-kind-of-disruption-can-i-expect-during-a-multi-room-remodel.json`](./faqs/what-kind-of-disruption-can-i-expect-during-a-multi-room-remodel.json) — schema
 - [`faqs/what-kind-of-electrical-work-is-typically-involved-in-a-kitchen-remodel.json`](./faqs/what-kind-of-electrical-work-is-typically-involved-in-a-kitchen-remodel.json) — schema
 - [`faqs/what-kind-of-fence-post-materials-do-you-use-for-repairs.json`](./faqs/what-kind-of-fence-post-materials-do-you-use-for-repairs.json) — schema
+- [`faqs/what-kind-of-fences-can-frasheski-construction-restore-for-stability.json`](./faqs/what-kind-of-fences-can-frasheski-construction-restore-for-stability.json) — schema
+- [`faqs/what-kind-of-finishes-are-available-for-interior-walls.json`](./faqs/what-kind-of-finishes-are-available-for-interior-walls.json) — schema
+- [`faqs/what-kind-of-hardware-options-are-available-for-new-door-installations.json`](./faqs/what-kind-of-hardware-options-are-available-for-new-door-installations.json) — schema
 - [`faqs/what-kind-of-lighting-is-best-for-a-kitchen.json`](./faqs/what-kind-of-lighting-is-best-for-a-kitchen.json) — schema
 - [`faqs/what-kind-of-maintenance-can-extend-the-life-of-my-repaired-deck.json`](./faqs/what-kind-of-maintenance-can-extend-the-life-of-my-repaired-deck.json) — schema
 - [`faqs/what-kind-of-maintenance-do-new-countertops-require.json`](./faqs/what-kind-of-maintenance-do-new-countertops-require.json) — schema
 - [`faqs/what-kind-of-maintenance-do-refinished-cabinets-require.json`](./faqs/what-kind-of-maintenance-do-refinished-cabinets-require.json) — schema
 - [`faqs/what-kind-of-maintenance-is-required-after-surface-restoration.json`](./faqs/what-kind-of-maintenance-is-required-after-surface-restoration.json) — schema
+- [`faqs/what-kind-of-maintenance-is-required-for-a-new-backsplash.json`](./faqs/what-kind-of-maintenance-is-required-for-a-new-backsplash.json) — schema
 - [`faqs/what-kind-of-materials-are-used-for-deck-repair.json`](./faqs/what-kind-of-materials-are-used-for-deck-repair.json) — schema
 - [`faqs/what-kind-of-materials-are-used-for-deck-structural-repairs.json`](./faqs/what-kind-of-materials-are-used-for-deck-structural-repairs.json) — schema
 - [`faqs/what-kind-of-new-rooms-can-frasheski-construction-build.json`](./faqs/what-kind-of-new-rooms-can-frasheski-construction-build.json) — schema
 - [`faqs/what-kind-of-paint-do-you-use-and-can-i-choose-a-specific-brand-or-color.json`](./faqs/what-kind-of-paint-do-you-use-and-can-i-choose-a-specific-brand-or-color.json) — schema
+- [`faqs/what-kind-of-paint-do-you-use-for-interior-painting-projects.json`](./faqs/what-kind-of-paint-do-you-use-for-interior-painting-projects.json) — schema
 - [`faqs/what-kind-of-paint-do-you-use-for-interior-painting.json`](./faqs/what-kind-of-paint-do-you-use-for-interior-painting.json) — schema
+- [`faqs/what-kind-of-paint-do-you-use-for-interior-projects-and-are-they-low-voc-options.json`](./faqs/what-kind-of-paint-do-you-use-for-interior-projects-and-are-they-low-voc-options.json) — schema
 - [`faqs/what-kind-of-paint-do-you-use-for-interior-projects.json`](./faqs/what-kind-of-paint-do-you-use-for-interior-projects.json) — schema
 - [`faqs/what-kind-of-paint-do-you-use-for-kitchen-cabinets.json`](./faqs/what-kind-of-paint-do-you-use-for-kitchen-cabinets.json) — schema
 - [`faqs/what-kind-of-paint-finishes-are-available-for-interior-walls.json`](./faqs/what-kind-of-paint-finishes-are-available-for-interior-walls.json) — schema
+- [`faqs/what-kind-of-paint-is-best-for-a-bathroom.json`](./faqs/what-kind-of-paint-is-best-for-a-bathroom.json) — schema
 - [`faqs/what-kind-of-paint-is-best-for-a-new-home-addition.json`](./faqs/what-kind-of-paint-is-best-for-a-new-home-addition.json) — schema
 - [`faqs/what-kind-of-paint-is-best-for-bathrooms.json`](./faqs/what-kind-of-paint-is-best-for-bathrooms.json) — schema
 - [`faqs/what-kind-of-paint-is-best-for-interior-walls.json`](./faqs/what-kind-of-paint-is-best-for-interior-walls.json) — schema
 - [`faqs/what-kind-of-paint-is-best-for-kitchen-cabinets.json`](./faqs/what-kind-of-paint-is-best-for-kitchen-cabinets.json) — schema
 - [`faqs/what-kind-of-paint-is-best-for-new-additions.json`](./faqs/what-kind-of-paint-is-best-for-new-additions.json) — schema
 - [`faqs/what-kind-of-paint-is-best-for-post-remodel-finish-painting.json`](./faqs/what-kind-of-paint-is-best-for-post-remodel-finish-painting.json) — schema
+- [`faqs/what-kind-of-paint-is-best-for-post-remodel-interiors.json`](./faqs/what-kind-of-paint-is-best-for-post-remodel-interiors.json) — schema
 - [`faqs/what-kind-of-paint-is-best-for-trim-and-details.json`](./faqs/what-kind-of-paint-is-best-for-trim-and-details.json) — schema
 - [`faqs/what-kind-of-paint-should-i-choose-for-my-interior-walls.json`](./faqs/what-kind-of-paint-should-i-choose-for-my-interior-walls.json) — schema
 - [`faqs/what-kind-of-paint-should-i-choose-for-my-living-room.json`](./faqs/what-kind-of-paint-should-i-choose-for-my-living-room.json) — schema
+- [`faqs/what-kind-of-permits-do-i-need-for-a-remodeling-project-in-berkeley.json`](./faqs/what-kind-of-permits-do-i-need-for-a-remodeling-project-in-berkeley.json) — schema
 - [`faqs/what-kind-of-plumbing-updates-are-typically-involved-in-a-kitchen-remodel.json`](./faqs/what-kind-of-plumbing-updates-are-typically-involved-in-a-kitchen-remodel.json) — schema
 - [`faqs/what-kind-of-prep-work-is-done-before-painting-a-new-addition.json`](./faqs/what-kind-of-prep-work-is-done-before-painting-a-new-addition.json) — schema
 - [`faqs/what-kind-of-preparation-is-needed-before-cabinet-installers-arrive.json`](./faqs/what-kind-of-preparation-is-needed-before-cabinet-installers-arrive.json) — schema
+- [`faqs/what-kind-of-preparation-is-needed-before-interior-painters-arrive.json`](./faqs/what-kind-of-preparation-is-needed-before-interior-painters-arrive.json) — schema
+- [`faqs/what-kind-of-preparation-is-needed-before-painting-a-room.json`](./faqs/what-kind-of-preparation-is-needed-before-painting-a-room.json) — schema
 - [`faqs/what-kind-of-preparation-is-needed-before-painting-an-addition.json`](./faqs/what-kind-of-preparation-is-needed-before-painting-an-addition.json) — schema
+- [`faqs/what-kind-of-preparation-is-needed-before-you-start-painting-my-trim.json`](./faqs/what-kind-of-preparation-is-needed-before-you-start-painting-my-trim.json) — schema
 - [`faqs/what-kind-of-projects-in-berkeley-require-significant-plumbing-and-electrical-co.json`](./faqs/what-kind-of-projects-in-berkeley-require-significant-plumbing-and-electrical-co.json) — schema
 - [`faqs/what-kind-of-repairs-can-be-made-to-damaged-cabinets.json`](./faqs/what-kind-of-repairs-can-be-made-to-damaged-cabinets.json) — schema
+- [`faqs/what-kind-of-return-on-investment-roi-can-i-expect-from-an-outdated-room-moderni.json`](./faqs/what-kind-of-return-on-investment-roi-can-i-expect-from-an-outdated-room-moderni.json) — schema
 - [`faqs/what-kind-of-room-additions-do-you-specialize-in.json`](./faqs/what-kind-of-room-additions-do-you-specialize-in.json) — schema
+- [`faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-cabinet-services.json`](./faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-cabinet-services.json) — schema
 - [`faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-cabinet-installation-ser.json`](./faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-cabinet-installation-ser.json) — schema
 - [`faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-painting-services.json`](./faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-painting-services.json) — schema
 - [`faqs/what-kind-of-warranty-or-guarantee-does-frasheski-construction-offer-on-paint-an.json`](./faqs/what-kind-of-warranty-or-guarantee-does-frasheski-construction-offer-on-paint-an.json) — schema
 - [`faqs/what-kind-of-wood-do-you-use-for-damaged-board-replacement.json`](./faqs/what-kind-of-wood-do-you-use-for-damaged-board-replacement.json) — schema
 - [`faqs/what-kind-of-wood-do-you-use-for-fence-panel-repairs.json`](./faqs/what-kind-of-wood-do-you-use-for-fence-panel-repairs.json) — schema
 - [`faqs/what-kind-of-wood-is-used-for-board-replacement.json`](./faqs/what-kind-of-wood-is-used-for-board-replacement.json) — schema
+- [`faqs/what-local-regulations-impact-plumbing-coordination-in-the-east-bay-area.json`](./faqs/what-local-regulations-impact-plumbing-coordination-in-the-east-bay-area.json) — schema
 - [`faqs/what-maintenance-is-required-for-new-countertops.json`](./faqs/what-maintenance-is-required-for-new-countertops.json) — schema
 - [`faqs/what-materials-are-available-for-custom-cabinets.json`](./faqs/what-materials-are-available-for-custom-cabinets.json) — schema
 - [`faqs/what-materials-are-available-for-kitchen-cabinets.json`](./faqs/what-materials-are-available-for-kitchen-cabinets.json) — schema
 - [`faqs/what-materials-are-best-for-a-durable-and-low-maintenance-shower.json`](./faqs/what-materials-are-best-for-a-durable-and-low-maintenance-shower.json) — schema
 - [`faqs/what-materials-are-best-for-a-durable-bathroom-remodel.json`](./faqs/what-materials-are-best-for-a-durable-bathroom-remodel.json) — schema
+- [`faqs/what-materials-are-best-for-an-accessible-bathroom-to-ensure-safety-and-durabili.json`](./faqs/what-materials-are-best-for-an-accessible-bathroom-to-ensure-safety-and-durabili.json) — schema
 - [`faqs/what-materials-are-best-for-kitchen-countertops.json`](./faqs/what-materials-are-best-for-kitchen-countertops.json) — schema
+- [`faqs/what-materials-are-best-for-new-kitchen-cabinets.json`](./faqs/what-materials-are-best-for-new-kitchen-cabinets.json) — schema
 - [`faqs/what-materials-are-commonly-used-for-backsplashes.json`](./faqs/what-materials-are-commonly-used-for-backsplashes.json) — schema
 - [`faqs/what-materials-are-commonly-used-for-kitchen-backsplashes.json`](./faqs/what-materials-are-commonly-used-for-kitchen-backsplashes.json) — schema
 - [`faqs/what-materials-are-commonly-used-for-shower-and-tub-surrounds.json`](./faqs/what-materials-are-commonly-used-for-shower-and-tub-surrounds.json) — schema
+- [`faqs/what-materials-are-typically-used-for-deck-structural-repairs.json`](./faqs/what-materials-are-typically-used-for-deck-structural-repairs.json) — schema
+- [`faqs/what-materials-are-typically-used-for-stair-repair.json`](./faqs/what-materials-are-typically-used-for-stair-repair.json) — schema
+- [`faqs/what-materials-are-used-for-deck-repair.json`](./faqs/what-materials-are-used-for-deck-repair.json) — schema
 - [`faqs/what-materials-are-used-for-deck-structural-repairs.json`](./faqs/what-materials-are-used-for-deck-structural-repairs.json) — schema
+- [`faqs/what-materials-or-tools-are-typically-used-for-hardware-and-functional-adjustmen.json`](./faqs/what-materials-or-tools-are-typically-used-for-hardware-and-functional-adjustmen.json) — schema
+- [`faqs/what-needs-to-be-done-to-my-kitchen-before-the-countertop-installers-arrive.json`](./faqs/what-needs-to-be-done-to-my-kitchen-before-the-countertop-installers-arrive.json) — schema
+- [`faqs/what-permits-are-needed-for-a-full-bathroom-renovation-in-the-east-bay.json`](./faqs/what-permits-are-needed-for-a-full-bathroom-renovation-in-the-east-bay.json) — schema
 - [`faqs/what-permits-are-needed-for-a-remodel-in-berkeley-or-oakland.json`](./faqs/what-permits-are-needed-for-a-remodel-in-berkeley-or-oakland.json) — schema
+- [`faqs/what-permits-are-needed-for-cabinet-installation-in-berkeley-or-oakland.json`](./faqs/what-permits-are-needed-for-cabinet-installation-in-berkeley-or-oakland.json) — schema
+- [`faqs/what-permits-are-needed-for-kitchen-plumbing-work-in-the-east-bay-area.json`](./faqs/what-permits-are-needed-for-kitchen-plumbing-work-in-the-east-bay-area.json) — schema
 - [`faqs/what-permits-are-needed-for-new-room-construction-in-berkeley-or-oakland.json`](./faqs/what-permits-are-needed-for-new-room-construction-in-berkeley-or-oakland.json) — schema
 - [`faqs/what-permits-are-required-for-a-home-addition-in-berkeley.json`](./faqs/what-permits-are-required-for-a-home-addition-in-berkeley.json) — schema
 - [`faqs/what-permits-are-required-for-a-home-addition-in-oakland.json`](./faqs/what-permits-are-required-for-a-home-addition-in-oakland.json) — schema
+- [`faqs/what-permits-are-required-for-a-home-addition-in-the-berkeley-or-east-bay-area.json`](./faqs/what-permits-are-required-for-a-home-addition-in-the-berkeley-or-east-bay-area.json) — schema
+- [`faqs/what-permits-are-required-for-a-home-remodeling-project-in-berkeley-or-oakland.json`](./faqs/what-permits-are-required-for-a-home-remodeling-project-in-berkeley-or-oakland.json) — schema
+- [`faqs/what-permits-are-required-for-a-kitchen-remodel-in-berkeley.json`](./faqs/what-permits-are-required-for-a-kitchen-remodel-in-berkeley.json) — schema
+- [`faqs/what-permits-are-required-for-a-new-room-construction-in-the-east-bay.json`](./faqs/what-permits-are-required-for-a-new-room-construction-in-the-east-bay.json) — schema
 - [`faqs/what-permits-are-required-for-a-room-addition-in-oakland.json`](./faqs/what-permits-are-required-for-a-room-addition-in-oakland.json) — schema
+- [`faqs/what-permits-are-required-for-a-room-addition-in-the-east-bay-area.json`](./faqs/what-permits-are-required-for-a-room-addition-in-the-east-bay-area.json) — schema
 - [`faqs/what-permits-are-required-for-an-interior-build-out-in-berkeley-or-oakland.json`](./faqs/what-permits-are-required-for-an-interior-build-out-in-berkeley-or-oakland.json) — schema
 - [`faqs/what-permits-are-required-for-an-interior-build-out-in-el-cerrito.json`](./faqs/what-permits-are-required-for-an-interior-build-out-in-el-cerrito.json) — schema
+- [`faqs/what-permits-are-required-for-an-interior-build-out-in-oakland-or-berkeley.json`](./faqs/what-permits-are-required-for-an-interior-build-out-in-oakland-or-berkeley.json) — schema
+- [`faqs/what-permits-are-required-for-kitchen-plumbing-upgrades-in-the-east-bay-area.json`](./faqs/what-permits-are-required-for-kitchen-plumbing-upgrades-in-the-east-bay-area.json) — schema
 - [`faqs/what-permits-are-required-for-multi-room-remodeling-in-oakland-and-the-east-bay.json`](./faqs/what-permits-are-required-for-multi-room-remodeling-in-oakland-and-the-east-bay.json) — schema
+- [`faqs/what-permits-are-required-for-plumbing-changes-during-a-remodel-in-the-east-bay.json`](./faqs/what-permits-are-required-for-plumbing-changes-during-a-remodel-in-the-east-bay.json) — schema
+- [`faqs/what-permits-are-typically-required-for-a-major-home-remodel-in-the-east-bay-are.json`](./faqs/what-permits-are-typically-required-for-a-major-home-remodel-in-the-east-bay-are.json) — schema
+- [`faqs/what-permits-are-typically-required-for-a-remodel-in-the-east-bay-area.json`](./faqs/what-permits-are-typically-required-for-a-remodel-in-the-east-bay-area.json) — schema
+- [`faqs/what-permits-are-typically-required-for-a-room-expansion-in-the-east-bay-area.json`](./faqs/what-permits-are-typically-required-for-a-room-expansion-in-the-east-bay-area.json) — schema
 - [`faqs/what-permits-do-i-need-for-a-home-remodel-in-berkeley.json`](./faqs/what-permits-do-i-need-for-a-home-remodel-in-berkeley.json) — schema
 - [`faqs/what-permits-do-i-need-for-a-home-remodel-in-oakland.json`](./faqs/what-permits-do-i-need-for-a-home-remodel-in-oakland.json) — schema
 - [`faqs/what-permits-do-i-need-for-a-kitchen-remodel-in-oakland.json`](./faqs/what-permits-do-i-need-for-a-kitchen-remodel-in-oakland.json) — schema
@@ -1292,32 +1920,52 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-permits-do-i-need-for-a-remodeling-project-in-berkeley.json`](./faqs/what-permits-do-i-need-for-a-remodeling-project-in-berkeley.json) — schema
 - [`faqs/what-plumbing-permits-do-i-need-for-a-bathroom-remodel-in-berkeley.json`](./faqs/what-plumbing-permits-do-i-need-for-a-bathroom-remodel-in-berkeley.json) — schema
 - [`faqs/what-preparation-do-i-need-to-do-before-cabinet-installers-arrive.json`](./faqs/what-preparation-do-i-need-to-do-before-cabinet-installers-arrive.json) — schema
+- [`faqs/what-preparation-do-i-need-to-do-before-frasheski-construction-installs-new-outd.json`](./faqs/what-preparation-do-i-need-to-do-before-frasheski-construction-installs-new-outd.json) — schema
+- [`faqs/what-preparation-do-i-need-to-do-before-painting-starts-on-my-addition.json`](./faqs/what-preparation-do-i-need-to-do-before-painting-starts-on-my-addition.json) — schema
 - [`faqs/what-preparation-do-i-need-to-do-before-the-installers-arrive.json`](./faqs/what-preparation-do-i-need-to-do-before-the-installers-arrive.json) — schema
+- [`faqs/what-preparation-do-i-need-to-do-regarding-plumbing-and-electrical-needs-before.json`](./faqs/what-preparation-do-i-need-to-do-regarding-plumbing-and-electrical-needs-before.json) — schema
+- [`faqs/what-preparation-is-needed-before-a-bathroom-electrical-upgrade-project-can-begi.json`](./faqs/what-preparation-is-needed-before-a-bathroom-electrical-upgrade-project-can-begi.json) — schema
+- [`faqs/what-preparation-is-needed-before-a-fence-post-repair-service.json`](./faqs/what-preparation-is-needed-before-a-fence-post-repair-service.json) — schema
+- [`faqs/what-preparation-is-needed-before-cabinet-installers-arrive.json`](./faqs/what-preparation-is-needed-before-cabinet-installers-arrive.json) — schema
+- [`faqs/what-preparation-is-needed-before-cabinet-refinishing-begins.json`](./faqs/what-preparation-is-needed-before-cabinet-refinishing-begins.json) — schema
+- [`faqs/what-preparation-is-needed-before-countertop-installation.json`](./faqs/what-preparation-is-needed-before-countertop-installation.json) — schema
 - [`faqs/what-preparation-is-needed-before-finish-painting.json`](./faqs/what-preparation-is-needed-before-finish-painting.json) — schema
+- [`faqs/what-preparation-is-needed-before-frasheski-construction-arrives-to-install-my-n.json`](./faqs/what-preparation-is-needed-before-frasheski-construction-arrives-to-install-my-n.json) — schema
 - [`faqs/what-preparation-is-needed-before-frasheski-construction-starts-a-tile-update.json`](./faqs/what-preparation-is-needed-before-frasheski-construction-starts-a-tile-update.json) — schema
+- [`faqs/what-preparation-is-needed-before-interior-painters-begin-work.json`](./faqs/what-preparation-is-needed-before-interior-painters-begin-work.json) — schema
 - [`faqs/what-preparation-is-needed-before-interior-painters-start-working.json`](./faqs/what-preparation-is-needed-before-interior-painters-start-working.json) — schema
 - [`faqs/what-preparation-is-needed-before-interior-painting-begins.json`](./faqs/what-preparation-is-needed-before-interior-painting-begins.json) — schema
 - [`faqs/what-preparation-is-needed-before-interior-painting.json`](./faqs/what-preparation-is-needed-before-interior-painting.json) — schema
 - [`faqs/what-preparation-is-needed-before-painting-a-bathroom.json`](./faqs/what-preparation-is-needed-before-painting-a-bathroom.json) — schema
 - [`faqs/what-preparation-is-needed-before-you-start-painting-my-kitchen.json`](./faqs/what-preparation-is-needed-before-you-start-painting-my-kitchen.json) — schema
+- [`faqs/what-preparation-should-i-do-before-trim-and-molding-installation.json`](./faqs/what-preparation-should-i-do-before-trim-and-molding-installation.json) — schema
+- [`faqs/what-preparations-do-i-need-to-make-before-painters-arrive-for-a-post-remodel-jo.json`](./faqs/what-preparations-do-i-need-to-make-before-painters-arrive-for-a-post-remodel-jo.json) — schema
 - [`faqs/what-preparations-do-i-need-to-make-before-your-team-arrives-for-installation.json`](./faqs/what-preparations-do-i-need-to-make-before-your-team-arrives-for-installation.json) — schema
+- [`faqs/what-preparations-should-i-make-before-frasheski-construction-arrives-for-a-door.json`](./faqs/what-preparations-should-i-make-before-frasheski-construction-arrives-for-a-door.json) — schema
+- [`faqs/what-preparatory-steps-should-i-take-before-a-plumbing-or-electrical-renovation.json`](./faqs/what-preparatory-steps-should-i-take-before-a-plumbing-or-electrical-renovation.json) — schema
 - [`faqs/what-preventative-measures-can-extend-the-life-of-my-deck-s-structure.json`](./faqs/what-preventative-measures-can-extend-the-life-of-my-deck-s-structure.json) — schema
 - [`faqs/what-preventative-measures-can-i-take-to-extend-my-deck-s-lifespan-after-repair.json`](./faqs/what-preventative-measures-can-i-take-to-extend-my-deck-s-lifespan-after-repair.json) — schema
 - [`faqs/what-preventative-measures-can-i-take-to-maintain-fence-stability.json`](./faqs/what-preventative-measures-can-i-take-to-maintain-fence-stability.json) — schema
 - [`faqs/what-questions-should-i-ask-a-bathroom-remodeling-contractor.json`](./faqs/what-questions-should-i-ask-a-bathroom-remodeling-contractor.json) — schema
+- [`faqs/what-questions-should-i-ask-a-contractor-before-hiring-them-for-an-interior-reno.json`](./faqs/what-questions-should-i-ask-a-contractor-before-hiring-them-for-an-interior-reno.json) — schema
 - [`faqs/what-return-on-investment-can-i-expect-from-a-kitchen-remodel-in-berkeley.json`](./faqs/what-return-on-investment-can-i-expect-from-a-kitchen-remodel-in-berkeley.json) — schema
+- [`faqs/what-s-involved-in-preparing-a-kitchen-for-painting.json`](./faqs/what-s-involved-in-preparing-a-kitchen-for-painting.json) — schema
 - [`faqs/what-s-the-difference-between-a-minor-renovation-and-a-major-remodel.json`](./faqs/what-s-the-difference-between-a-minor-renovation-and-a-major-remodel.json) — schema
+- [`faqs/what-s-the-difference-between-a-minor-update-and-a-full-bathroom-renovation.json`](./faqs/what-s-the-difference-between-a-minor-update-and-a-full-bathroom-renovation.json) — schema
 - [`faqs/what-s-the-difference-between-a-minor-update-and-a-major-bathroom-renovation.json`](./faqs/what-s-the-difference-between-a-minor-update-and-a-major-bathroom-renovation.json) — schema
 - [`faqs/what-s-the-difference-between-a-multi-room-remodel-and-a-single-room-remodel.json`](./faqs/what-s-the-difference-between-a-multi-room-remodel-and-a-single-room-remodel.json) — schema
 - [`faqs/what-s-the-difference-between-a-plumber-and-a-plumbing-coordinator-on-a-construc.json`](./faqs/what-s-the-difference-between-a-plumber-and-a-plumbing-coordinator-on-a-construc.json) — schema
 - [`faqs/what-s-the-difference-between-a-plumbing-repair-and-a-full-replacement.json`](./faqs/what-s-the-difference-between-a-plumbing-repair-and-a-full-replacement.json) — schema
+- [`faqs/what-s-the-difference-between-a-plumbing-repair-and-a-full-system-replacement.json`](./faqs/what-s-the-difference-between-a-plumbing-repair-and-a-full-system-replacement.json) — schema
 - [`faqs/what-s-the-difference-between-a-punch-list-and-final-detail-work.json`](./faqs/what-s-the-difference-between-a-punch-list-and-final-detail-work.json) — schema
 - [`faqs/what-s-the-difference-between-a-renovation-and-a-remodel.json`](./faqs/what-s-the-difference-between-a-renovation-and-a-remodel.json) — schema
 - [`faqs/what-s-the-difference-between-a-room-expansion-and-a-renovation.json`](./faqs/what-s-the-difference-between-a-room-expansion-and-a-renovation.json) — schema
 - [`faqs/what-s-the-difference-between-a-shower-upgrade-and-a-tub-to-shower-conversion.json`](./faqs/what-s-the-difference-between-a-shower-upgrade-and-a-tub-to-shower-conversion.json) — schema
+- [`faqs/what-s-the-difference-between-a-smart-light-switch-and-a-traditional-dimmer-swit.json`](./faqs/what-s-the-difference-between-a-smart-light-switch-and-a-traditional-dimmer-swit.json) — schema
 - [`faqs/what-s-the-difference-between-appliance-area-preparation-and-appliance-installat.json`](./faqs/what-s-the-difference-between-appliance-area-preparation-and-appliance-installat.json) — schema
 - [`faqs/what-s-the-difference-between-cabinet-painting-and-cabinet-refacing.json`](./faqs/what-s-the-difference-between-cabinet-painting-and-cabinet-refacing.json) — schema
 - [`faqs/what-s-the-difference-between-custom-semi-custom-and-stock-cabinets.json`](./faqs/what-s-the-difference-between-custom-semi-custom-and-stock-cabinets.json) — schema
+- [`faqs/what-s-the-difference-between-deck-cleaning-staining-and-sealing.json`](./faqs/what-s-the-difference-between-deck-cleaning-staining-and-sealing.json) — schema
 - [`faqs/what-s-the-difference-between-deck-sealing-and-staining.json`](./faqs/what-s-the-difference-between-deck-sealing-and-staining.json) — schema
 - [`faqs/what-s-the-difference-between-deck-structural-repair-and-deck-renovation.json`](./faqs/what-s-the-difference-between-deck-structural-repair-and-deck-renovation.json) — schema
 - [`faqs/what-s-the-difference-between-fixing-and-replacing-a-leaking-shower-head.json`](./faqs/what-s-the-difference-between-fixing-and-replacing-a-leaking-shower-head.json) — schema
@@ -1337,75 +1985,160 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-s-the-difference-between-task-lighting-and-ambient-lighting.json`](./faqs/what-s-the-difference-between-task-lighting-and-ambient-lighting.json) — schema
 - [`faqs/what-s-the-difference-between-tile-and-slab-backsplashes.json`](./faqs/what-s-the-difference-between-tile-and-slab-backsplashes.json) — schema
 - [`faqs/what-s-the-difference-between-under-cabinet-lighting-and-in-cabinet-lighting.json`](./faqs/what-s-the-difference-between-under-cabinet-lighting-and-in-cabinet-lighting.json) — schema
+- [`faqs/what-s-the-process-for-getting-a-quote-for-deck-maintenance-from-frasheski-const.json`](./faqs/what-s-the-process-for-getting-a-quote-for-deck-maintenance-from-frasheski-const.json) — schema
 - [`faqs/what-s-the-process-for-painting-kitchen-cabinets.json`](./faqs/what-s-the-process-for-painting-kitchen-cabinets.json) — schema
+- [`faqs/what-s-the-typical-process-for-a-room-painting-project.json`](./faqs/what-s-the-typical-process-for-a-room-painting-project.json) — schema
+- [`faqs/what-safety-considerations-are-important-for-appliance-installation-in-the-east.json`](./faqs/what-safety-considerations-are-important-for-appliance-installation-in-the-east.json) — schema
 - [`faqs/what-safety-considerations-are-important-for-electrical-work-during-a-renovation.json`](./faqs/what-safety-considerations-are-important-for-electrical-work-during-a-renovation.json) — schema
+- [`faqs/what-safety-features-should-i-ensure-are-working-on-my-automatic-gate.json`](./faqs/what-safety-features-should-i-ensure-are-working-on-my-automatic-gate.json) — schema
+- [`faqs/what-should-i-consider-before-a-kitchen-plumbing-installation.json`](./faqs/what-should-i-consider-before-a-kitchen-plumbing-installation.json) — schema
+- [`faqs/what-should-i-consider-before-choosing-light-fixtures-for-a-small-bathroom.json`](./faqs/what-should-i-consider-before-choosing-light-fixtures-for-a-small-bathroom.json) — schema
+- [`faqs/what-should-i-consider-before-planning-a-room-expansion.json`](./faqs/what-should-i-consider-before-planning-a-room-expansion.json) — schema
+- [`faqs/what-should-i-consider-before-selecting-a-new-bathroom-vanity-countertop.json`](./faqs/what-should-i-consider-before-selecting-a-new-bathroom-vanity-countertop.json) — schema
+- [`faqs/what-should-i-consider-before-starting-a-kitchen-renovation-project.json`](./faqs/what-should-i-consider-before-starting-a-kitchen-renovation-project.json) — schema
+- [`faqs/what-should-i-consider-before-starting-a-new-bathroom-plumbing-installation-proj.json`](./faqs/what-should-i-consider-before-starting-a-new-bathroom-plumbing-installation-proj.json) — schema
+- [`faqs/what-should-i-consider-before-starting-an-interior-build-out-project.json`](./faqs/what-should-i-consider-before-starting-an-interior-build-out-project.json) — schema
+- [`faqs/what-should-i-consider-if-i-want-to-expand-my-bathroom-space.json`](./faqs/what-should-i-consider-if-i-want-to-expand-my-bathroom-space.json) — schema
+- [`faqs/what-should-i-consider-if-i-want-to-incorporate-smart-home-features-into-my-bath.json`](./faqs/what-should-i-consider-if-i-want-to-incorporate-smart-home-features-into-my-bath.json) — schema
+- [`faqs/what-should-i-consider-regarding-smart-home-technology-integration-during-an-ele.json`](./faqs/what-should-i-consider-regarding-smart-home-technology-integration-during-an-ele.json) — schema
+- [`faqs/what-should-i-consider-regarding-ventilation-and-exhaust-for-kitchen-appliances.json`](./faqs/what-should-i-consider-regarding-ventilation-and-exhaust-for-kitchen-appliances.json) — schema
+- [`faqs/what-should-i-consider-regarding-water-pressure-and-plumbing-during-an-upgrade.json`](./faqs/what-should-i-consider-regarding-water-pressure-and-plumbing-during-an-upgrade.json) — schema
 - [`faqs/what-should-i-consider-when-buying-new-appliances-for-installation.json`](./faqs/what-should-i-consider-when-buying-new-appliances-for-installation.json) — schema
 - [`faqs/what-should-i-consider-when-choosing-a-backsplash-for-my-kitchen.json`](./faqs/what-should-i-consider-when-choosing-a-backsplash-for-my-kitchen.json) — schema
 - [`faqs/what-should-i-consider-when-choosing-a-contractor-for-appliance-installation-coo.json`](./faqs/what-should-i-consider-when-choosing-a-contractor-for-appliance-installation-coo.json) — schema
+- [`faqs/what-should-i-consider-when-choosing-a-contractor-for-cabinet-repair.json`](./faqs/what-should-i-consider-when-choosing-a-contractor-for-cabinet-repair.json) — schema
+- [`faqs/what-should-i-consider-when-choosing-a-countertop-material-for-my-home-in-the-ea.json`](./faqs/what-should-i-consider-when-choosing-a-countertop-material-for-my-home-in-the-ea.json) — schema
 - [`faqs/what-should-i-consider-when-choosing-a-home-remodeling-contractor.json`](./faqs/what-should-i-consider-when-choosing-a-home-remodeling-contractor.json) — schema
 - [`faqs/what-should-i-consider-when-choosing-a-new-electrical-fixture-for-my-home.json`](./faqs/what-should-i-consider-when-choosing-a-new-electrical-fixture-for-my-home.json) — schema
+- [`faqs/what-should-i-consider-when-choosing-between-a-chandelier-and-pendant-lights-for.json`](./faqs/what-should-i-consider-when-choosing-between-a-chandelier-and-pendant-lights-for.json) — schema
+- [`faqs/what-should-i-consider-when-choosing-between-copper-and-pex-piping-for-a-plumbin.json`](./faqs/what-should-i-consider-when-choosing-between-copper-and-pex-piping-for-a-plumbin.json) — schema
+- [`faqs/what-should-i-consider-when-choosing-cabinet-materials-for-durability-and-style.json`](./faqs/what-should-i-consider-when-choosing-cabinet-materials-for-durability-and-style.json) — schema
 - [`faqs/what-should-i-consider-when-choosing-kitchen-plumbing-fixtures.json`](./faqs/what-should-i-consider-when-choosing-kitchen-plumbing-fixtures.json) — schema
+- [`faqs/what-should-i-consider-when-choosing-materials-for-finish-carpentry.json`](./faqs/what-should-i-consider-when-choosing-materials-for-finish-carpentry.json) — schema
 - [`faqs/what-should-i-consider-when-choosing-materials-for-my-bathroom-renovation.json`](./faqs/what-should-i-consider-when-choosing-materials-for-my-bathroom-renovation.json) — schema
+- [`faqs/what-should-i-consider-when-comparing-painting-contractors-for-my-interior-proje.json`](./faqs/what-should-i-consider-when-comparing-painting-contractors-for-my-interior-proje.json) — schema
+- [`faqs/what-should-i-consider-when-planning-a-kitchen-cabinet-upgrade-for-resale-value.json`](./faqs/what-should-i-consider-when-planning-a-kitchen-cabinet-upgrade-for-resale-value.json) — schema
+- [`faqs/what-should-i-consider-when-planning-cabinet-installation-for-a-small-kitchen-or.json`](./faqs/what-should-i-consider-when-planning-cabinet-installation-for-a-small-kitchen-or.json) — schema
+- [`faqs/what-should-i-consider-when-planning-cabinet-placement-for-a-kitchen-remodel.json`](./faqs/what-should-i-consider-when-planning-cabinet-placement-for-a-kitchen-remodel.json) — schema
+- [`faqs/what-should-i-consider-when-planning-my-flooring-installation-budget-with-coordi.json`](./faqs/what-should-i-consider-when-planning-my-flooring-installation-budget-with-coordi.json) — schema
 - [`faqs/what-should-i-consider-when-renovating-an-older-home-in-berkeley-or-oakland.json`](./faqs/what-should-i-consider-when-renovating-an-older-home-in-berkeley-or-oakland.json) — schema
+- [`faqs/what-should-i-do-before-a-plumber-arrives-for-a-service-call.json`](./faqs/what-should-i-do-before-a-plumber-arrives-for-a-service-call.json) — schema
 - [`faqs/what-should-i-do-if-i-have-a-persistent-electrical-issue-in-my-albany-home.json`](./faqs/what-should-i-do-if-i-have-a-persistent-electrical-issue-in-my-albany-home.json) — schema
+- [`faqs/what-should-i-do-to-prepare-for-a-fence-stability-restoration-service.json`](./faqs/what-should-i-do-to-prepare-for-a-fence-stability-restoration-service.json) — schema
 - [`faqs/what-should-i-do-to-prepare-for-cabinet-installation.json`](./faqs/what-should-i-do-to-prepare-for-cabinet-installation.json) — schema
 - [`faqs/what-should-i-do-to-prepare-for-electrical-fixture-installation.json`](./faqs/what-should-i-do-to-prepare-for-electrical-fixture-installation.json) — schema
 - [`faqs/what-should-i-do-to-prepare-my-home-for-cabinet-installation.json`](./faqs/what-should-i-do-to-prepare-my-home-for-cabinet-installation.json) — schema
 - [`faqs/what-should-i-look-for-during-a-final-quality-walkthrough.json`](./faqs/what-should-i-look-for-during-a-final-quality-walkthrough.json) — schema
+- [`faqs/what-should-i-look-for-in-a-contractor-for-post-remodel-finish-painting-in-the-e.json`](./faqs/what-should-i-look-for-in-a-contractor-for-post-remodel-finish-painting-in-the-e.json) — schema
+- [`faqs/what-should-i-look-for-in-a-contractor-to-ensure-good-plumbing-and-electrical-co.json`](./faqs/what-should-i-look-for-in-a-contractor-to-ensure-good-plumbing-and-electrical-co.json) — schema
 - [`faqs/what-should-i-look-for-in-a-home-remodeling-contract.json`](./faqs/what-should-i-look-for-in-a-home-remodeling-contract.json) — schema
 - [`faqs/what-should-i-look-for-in-a-remodeling-contract.json`](./faqs/what-should-i-look-for-in-a-remodeling-contract.json) — schema
 - [`faqs/what-should-i-look-for-when-choosing-a-contractor-for-damaged-board-replacement.json`](./faqs/what-should-i-look-for-when-choosing-a-contractor-for-damaged-board-replacement.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-deck-repair-contractor-in-the-east-bay.json`](./faqs/what-should-i-look-for-when-choosing-a-deck-repair-contractor-in-the-east-bay.json) — schema
 - [`faqs/what-should-i-look-for-when-choosing-a-gate-repair-company.json`](./faqs/what-should-i-look-for-when-choosing-a-gate-repair-company.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-home-remodeling-contractor-in-the-east-ba.json`](./faqs/what-should-i-look-for-when-choosing-a-home-remodeling-contractor-in-the-east-ba.json) — schema
 - [`faqs/what-should-i-look-for-when-choosing-a-plumber-for-kitchen-installation-in-oakla.json`](./faqs/what-should-i-look-for-when-choosing-a-plumber-for-kitchen-installation-in-oakla.json) — schema
 - [`faqs/what-should-i-look-for-when-choosing-a-stair-repair-company-in-berkeley.json`](./faqs/what-should-i-look-for-when-choosing-a-stair-repair-company-in-berkeley.json) — schema
 - [`faqs/what-should-i-look-for-when-hiring-a-contractor-for-a-shower-or-tub-upgrade-in-t.json`](./faqs/what-should-i-look-for-when-hiring-a-contractor-for-a-shower-or-tub-upgrade-in-t.json) — schema
 - [`faqs/what-should-i-look-for-when-making-a-punch-list-for-my-construction-project.json`](./faqs/what-should-i-look-for-when-making-a-punch-list-for-my-construction-project.json) — schema
+- [`faqs/what-should-i-prepare-before-a-cabinet-consultation-with-frasheski-construction.json`](./faqs/what-should-i-prepare-before-a-cabinet-consultation-with-frasheski-construction.json) — schema
+- [`faqs/what-should-i-prepare-before-a-plumbing-contractor-starts-work-on-my-remodel.json`](./faqs/what-should-i-prepare-before-a-plumbing-contractor-starts-work-on-my-remodel.json) — schema
+- [`faqs/what-should-i-prepare-before-beginning-a-multi-room-remodeling-project.json`](./faqs/what-should-i-prepare-before-beginning-a-multi-room-remodeling-project.json) — schema
+- [`faqs/what-should-i-prepare-before-contacting-a-contractor-for-an-interior-finish-upgr.json`](./faqs/what-should-i-prepare-before-contacting-a-contractor-for-an-interior-finish-upgr.json) — schema
+- [`faqs/what-should-i-prepare-before-contacting-a-contractor-for-room-modernization.json`](./faqs/what-should-i-prepare-before-contacting-a-contractor-for-room-modernization.json) — schema
+- [`faqs/what-should-i-prepare-before-contacting-frasheski-construction-for-a-layout-impr.json`](./faqs/what-should-i-prepare-before-contacting-frasheski-construction-for-a-layout-impr.json) — schema
+- [`faqs/what-should-i-prepare-before-engaging-a-contractor-for-project-management.json`](./faqs/what-should-i-prepare-before-engaging-a-contractor-for-project-management.json) — schema
+- [`faqs/what-should-i-prepare-before-frasheski-construction-arrives-to-make-hardware-adj.json`](./faqs/what-should-i-prepare-before-frasheski-construction-arrives-to-make-hardware-adj.json) — schema
+- [`faqs/what-should-i-prepare-before-frasheski-construction-comes-to-repair-my-railing.json`](./faqs/what-should-i-prepare-before-frasheski-construction-comes-to-repair-my-railing.json) — schema
+- [`faqs/what-should-i-prepare-before-frasheski-construction-starts-a-surface-restoration.json`](./faqs/what-should-i-prepare-before-frasheski-construction-starts-a-surface-restoration.json) — schema
+- [`faqs/what-should-i-prepare-before-my-first-kitchen-remodel-consultation.json`](./faqs/what-should-i-prepare-before-my-first-kitchen-remodel-consultation.json) — schema
+- [`faqs/what-should-i-prepare-before-my-first-meeting-with-a-remodeling-contractor.json`](./faqs/what-should-i-prepare-before-my-first-meeting-with-a-remodeling-contractor.json) — schema
 - [`faqs/what-should-i-prepare-before-starting-a-renovation-project.json`](./faqs/what-should-i-prepare-before-starting-a-renovation-project.json) — schema
 - [`faqs/what-should-i-prepare-before-starting-an-interior-build-out-project.json`](./faqs/what-should-i-prepare-before-starting-an-interior-build-out-project.json) — schema
+- [`faqs/what-should-i-prepare-before-the-punch-list-walk-through.json`](./faqs/what-should-i-prepare-before-the-punch-list-walk-through.json) — schema
+- [`faqs/what-should-i-prepare-for-cabinet-installation-day.json`](./faqs/what-should-i-prepare-for-cabinet-installation-day.json) — schema
+- [`faqs/what-should-i-prepare-for-the-final-detail-walkthrough.json`](./faqs/what-should-i-prepare-for-the-final-detail-walkthrough.json) — schema
+- [`faqs/what-should-i-prepare-for-the-final-quality-walkthrough-as-a-client.json`](./faqs/what-should-i-prepare-for-the-final-quality-walkthrough-as-a-client.json) — schema
+- [`faqs/what-should-i-prepare-or-consider-before-getting-a-quote-for-deck-board-replacem.json`](./faqs/what-should-i-prepare-or-consider-before-getting-a-quote-for-deck-board-replacem.json) — schema
 - [`faqs/what-specific-information-do-plumbers-and-electricians-need-to-share-for-effecti.json`](./faqs/what-specific-information-do-plumbers-and-electricians-need-to-share-for-effecti.json) — schema
+- [`faqs/what-specific-measurements-do-i-need-to-provide-for-appliance-area-preparation.json`](./faqs/what-specific-measurements-do-i-need-to-provide-for-appliance-area-preparation.json) — schema
 - [`faqs/what-steps-are-involved-in-a-multi-room-remodeling-project-with-frasheski-constr.json`](./faqs/what-steps-are-involved-in-a-multi-room-remodeling-project-with-frasheski-constr.json) — schema
+- [`faqs/what-steps-are-involved-in-preparing-my-home-for-interior-painting.json`](./faqs/what-steps-are-involved-in-preparing-my-home-for-interior-painting.json) — schema
+- [`faqs/what-steps-are-involved-in-the-bathroom-vanity-upgrade-process-with-your-company.json`](./faqs/what-steps-are-involved-in-the-bathroom-vanity-upgrade-process-with-your-company.json) — schema
 - [`faqs/what-steps-are-involved-in-the-interior-painting-process.json`](./faqs/what-steps-are-involved-in-the-interior-painting-process.json) — schema
 - [`faqs/what-steps-are-taken-to-prevent-leaks-during-installation.json`](./faqs/what-steps-are-taken-to-prevent-leaks-during-installation.json) — schema
 - [`faqs/what-steps-do-i-need-to-take-to-prepare-my-kitchen-before-cabinet-painting.json`](./faqs/what-steps-do-i-need-to-take-to-prepare-my-kitchen-before-cabinet-painting.json) — schema
 - [`faqs/what-steps-do-you-take-to-ensure-a-clean-work-environment.json`](./faqs/what-steps-do-you-take-to-ensure-a-clean-work-environment.json) — schema
 - [`faqs/what-steps-do-you-take-to-protect-my-home-during-interior-painting.json`](./faqs/what-steps-do-you-take-to-protect-my-home-during-interior-painting.json) — schema
+- [`faqs/what-steps-do-you-take-to-protect-my-property-during-paint-and-finish-work.json`](./faqs/what-steps-do-you-take-to-protect-my-property-during-paint-and-finish-work.json) — schema
+- [`faqs/what-steps-does-frasheski-construction-take-to-ensure-minimal-disruption-during.json`](./faqs/what-steps-does-frasheski-construction-take-to-ensure-minimal-disruption-during.json) — schema
 - [`faqs/what-tools-are-used-for-trade-scheduling-and-sequencing.json`](./faqs/what-tools-are-used-for-trade-scheduling-and-sequencing.json) — schema
 - [`faqs/what-type-of-pipes-are-best-for-kitchen-plumbing.json`](./faqs/what-type-of-pipes-are-best-for-kitchen-plumbing.json) — schema
+- [`faqs/what-type-of-wood-is-best-for-deck-improvements-in-the-east-bay-climate.json`](./faqs/what-type-of-wood-is-best-for-deck-improvements-in-the-east-bay-climate.json) — schema
 - [`faqs/what-types-of-appliances-can-frasheski-construction-help-coordinate-installation.json`](./faqs/what-types-of-appliances-can-frasheski-construction-help-coordinate-installation.json) — schema
+- [`faqs/what-types-of-bathroom-vanity-materials-are-available-for-upgrade.json`](./faqs/what-types-of-bathroom-vanity-materials-are-available-for-upgrade.json) — schema
 - [`faqs/what-types-of-cabinet-damage-can-be-repaired.json`](./faqs/what-types-of-cabinet-damage-can-be-repaired.json) — schema
+- [`faqs/what-types-of-cabinet-damage-can-frasheski-construction-repair.json`](./faqs/what-types-of-cabinet-damage-can-frasheski-construction-repair.json) — schema
+- [`faqs/what-types-of-cabinet-services-does-frasheski-construction-offer.json`](./faqs/what-types-of-cabinet-services-does-frasheski-construction-offer.json) — schema
 - [`faqs/what-types-of-cabinets-do-you-install.json`](./faqs/what-types-of-cabinets-do-you-install.json) — schema
 - [`faqs/what-types-of-countertop-materials-do-you-coordinate-installation-for.json`](./faqs/what-types-of-countertop-materials-do-you-coordinate-installation-for.json) — schema
 - [`faqs/what-types-of-damage-can-be-repaired-on-wood-fence-panels.json`](./faqs/what-types-of-damage-can-be-repaired-on-wood-fence-panels.json) — schema
+- [`faqs/what-types-of-damaged-boards-can-frasheski-construction-replace.json`](./faqs/what-types-of-damaged-boards-can-frasheski-construction-replace.json) — schema
 - [`faqs/what-types-of-door-hardware-are-available-for-installation.json`](./faqs/what-types-of-door-hardware-are-available-for-installation.json) — schema
+- [`faqs/what-types-of-doors-can-frasheski-construction-install.json`](./faqs/what-types-of-doors-can-frasheski-construction-install.json) — schema
 - [`faqs/what-types-of-electrical-fixtures-can-frasheski-construction-install.json`](./faqs/what-types-of-electrical-fixtures-can-frasheski-construction-install.json) — schema
+- [`faqs/what-types-of-electrical-upgrades-are-typically-involved-in-a-modern-bathroom-re.json`](./faqs/what-types-of-electrical-upgrades-are-typically-involved-in-a-modern-bathroom-re.json) — schema
+- [`faqs/what-types-of-finish-carpentry-does-frasheski-construction-coordinate.json`](./faqs/what-types-of-finish-carpentry-does-frasheski-construction-coordinate.json) — schema
 - [`faqs/what-types-of-finishes-are-available-for-cabinet-refinishing.json`](./faqs/what-types-of-finishes-are-available-for-cabinet-refinishing.json) — schema
+- [`faqs/what-types-of-finishes-can-frasheski-construction-match-for-cabinet-repairs.json`](./faqs/what-types-of-finishes-can-frasheski-construction-match-for-cabinet-repairs.json) — schema
 - [`faqs/what-types-of-fixtures-do-you-coordinate-for-installation.json`](./faqs/what-types-of-fixtures-do-you-coordinate-for-installation.json) — schema
+- [`faqs/what-types-of-fixtures-does-frasheski-construction-help-coordinate.json`](./faqs/what-types-of-fixtures-does-frasheski-construction-help-coordinate.json) — schema
 - [`faqs/what-types-of-flooring-do-you-coordinate-installation-for.json`](./faqs/what-types-of-flooring-do-you-coordinate-installation-for.json) — schema
+- [`faqs/what-types-of-flooring-materials-can-frasheski-construction-coordinate-for-insta.json`](./faqs/what-types-of-flooring-materials-can-frasheski-construction-coordinate-for-insta.json) — schema
 - [`faqs/what-types-of-functional-adjustments-can-extend-the-life-of-my-home-s-fixtures.json`](./faqs/what-types-of-functional-adjustments-can-extend-the-life-of-my-home-s-fixtures.json) — schema
 - [`faqs/what-types-of-hardware-are-commonly-adjusted.json`](./faqs/what-types-of-hardware-are-commonly-adjusted.json) — schema
+- [`faqs/what-types-of-home-additions-can-frasheski-construction-build.json`](./faqs/what-types-of-home-additions-can-frasheski-construction-build.json) — schema
 - [`faqs/what-types-of-home-additions-does-frasheski-construction-build.json`](./faqs/what-types-of-home-additions-does-frasheski-construction-build.json) — schema
 - [`faqs/what-types-of-home-remodeling-projects-does-frasheski-construction-specialize-in.json`](./faqs/what-types-of-home-remodeling-projects-does-frasheski-construction-specialize-in.json) — schema
+- [`faqs/what-types-of-interior-finish-upgrades-are-common-for-residential-projects.json`](./faqs/what-types-of-interior-finish-upgrades-are-common-for-residential-projects.json) — schema
+- [`faqs/what-types-of-issues-indicate-a-need-for-hardware-or-functional-adjustments.json`](./faqs/what-types-of-issues-indicate-a-need-for-hardware-or-functional-adjustments.json) — schema
+- [`faqs/what-types-of-kitchen-cabinet-upgrades-are-available.json`](./faqs/what-types-of-kitchen-cabinet-upgrades-are-available.json) — schema
 - [`faqs/what-types-of-lighting-are-best-for-a-bathroom.json`](./faqs/what-types-of-lighting-are-best-for-a-bathroom.json) — schema
+- [`faqs/what-types-of-lighting-are-best-for-a-kitchen-remodel.json`](./faqs/what-types-of-lighting-are-best-for-a-kitchen-remodel.json) — schema
 - [`faqs/what-types-of-lighting-are-best-for-kitchens.json`](./faqs/what-types-of-lighting-are-best-for-kitchens.json) — schema
 - [`faqs/what-types-of-lighting-are-most-energy-efficient-for-kitchens-and-bathrooms.json`](./faqs/what-types-of-lighting-are-most-energy-efficient-for-kitchens-and-bathrooms.json) — schema
+- [`faqs/what-types-of-lighting-upgrades-are-most-popular-for-kitchen-renovations.json`](./faqs/what-types-of-lighting-upgrades-are-most-popular-for-kitchen-renovations.json) — schema
 - [`faqs/what-types-of-materials-are-available-for-bathroom-vanities-and-cabinets.json`](./faqs/what-types-of-materials-are-available-for-bathroom-vanities-and-cabinets.json) — schema
+- [`faqs/what-types-of-materials-are-available-for-countertop-replacement.json`](./faqs/what-types-of-materials-are-available-for-countertop-replacement.json) — schema
 - [`faqs/what-types-of-materials-are-available-for-custom-cabinets.json`](./faqs/what-types-of-materials-are-available-for-custom-cabinets.json) — schema
 - [`faqs/what-types-of-materials-are-available-for-deck-board-replacement.json`](./faqs/what-types-of-materials-are-available-for-deck-board-replacement.json) — schema
 - [`faqs/what-types-of-materials-are-available-for-tile-and-surface-updates.json`](./faqs/what-types-of-materials-are-available-for-tile-and-surface-updates.json) — schema
+- [`faqs/what-types-of-materials-are-best-for-a-kitchen-backsplash.json`](./faqs/what-types-of-materials-are-best-for-a-kitchen-backsplash.json) — schema
 - [`faqs/what-types-of-materials-are-used-for-deck-repair.json`](./faqs/what-types-of-materials-are-used-for-deck-repair.json) — schema
 - [`faqs/what-types-of-materials-are-used-for-fence-post-repair.json`](./faqs/what-types-of-materials-are-used-for-fence-post-repair.json) — schema
 - [`faqs/what-types-of-materials-are-used-for-trim-and-molding.json`](./faqs/what-types-of-materials-are-used-for-trim-and-molding.json) — schema
 - [`faqs/what-types-of-materials-do-you-use-for-stair-repair.json`](./faqs/what-types-of-materials-do-you-use-for-stair-repair.json) — schema
 - [`faqs/what-types-of-paint-and-finishes-does-frasheski-construction-offer.json`](./faqs/what-types-of-paint-and-finishes-does-frasheski-construction-offer.json) — schema
+- [`faqs/what-types-of-paint-are-best-for-a-new-home-addition.json`](./faqs/what-types-of-paint-are-best-for-a-new-home-addition.json) — schema
+- [`faqs/what-types-of-paint-are-best-for-kitchen-cabinets.json`](./faqs/what-types-of-paint-are-best-for-kitchen-cabinets.json) — schema
+- [`faqs/what-types-of-paint-are-environmentally-friendly-or-low-voc.json`](./faqs/what-types-of-paint-are-environmentally-friendly-or-low-voc.json) — schema
 - [`faqs/what-types-of-railing-damage-can-be-repaired.json`](./faqs/what-types-of-railing-damage-can-be-repaired.json) — schema
+- [`faqs/what-types-of-railing-materials-can-frasheski-construction-repair.json`](./faqs/what-types-of-railing-materials-can-frasheski-construction-repair.json) — schema
+- [`faqs/what-types-of-room-additions-are-most-common.json`](./faqs/what-types-of-room-additions-are-most-common.json) — schema
 - [`faqs/what-types-of-stains-and-sealants-are-best-for-east-bay-weather-conditions.json`](./faqs/what-types-of-stains-and-sealants-are-best-for-east-bay-weather-conditions.json) — schema
+- [`faqs/what-types-of-stair-damage-can-frasheski-construction-repair.json`](./faqs/what-types-of-stair-damage-can-frasheski-construction-repair.json) — schema
 - [`faqs/what-types-of-stair-materials-can-be-repaired.json`](./faqs/what-types-of-stair-materials-can-be-repaired.json) — schema
+- [`faqs/what-types-of-surfaces-can-be-restored-by-frasheski-construction.json`](./faqs/what-types-of-surfaces-can-be-restored-by-frasheski-construction.json) — schema
 - [`faqs/what-types-of-surfaces-can-frasheski-construction-restore-in-the-east-bay-area.json`](./faqs/what-types-of-surfaces-can-frasheski-construction-restore-in-the-east-bay-area.json) — schema
 - [`faqs/what-types-of-surfaces-can-frasheski-construction-restore.json`](./faqs/what-types-of-surfaces-can-frasheski-construction-restore.json) — schema
+- [`faqs/what-types-of-tile-and-surface-updates-do-you-offer-for-kitchens-and-bathrooms.json`](./faqs/what-types-of-tile-and-surface-updates-do-you-offer-for-kitchens-and-bathrooms.json) — schema
 - [`faqs/what-types-of-tile-and-surface-updates-does-frasheski-construction-offer.json`](./faqs/what-types-of-tile-and-surface-updates-does-frasheski-construction-offer.json) — schema
+- [`faqs/what-types-of-trim-and-molding-do-you-install.json`](./faqs/what-types-of-trim-and-molding-do-you-install.json) — schema
+- [`faqs/what-types-of-wood-are-best-for-fence-panel-repairs-in-the-east-bay-area.json`](./faqs/what-types-of-wood-are-best-for-fence-panel-repairs-in-the-east-bay-area.json) — schema
 - [`faqs/what-types-of-wood-are-typically-used-for-fence-panel-repairs-in-the-east-bay-ar.json`](./faqs/what-types-of-wood-are-typically-used-for-fence-panel-repairs-in-the-east-bay-ar.json) — schema
 - [`faqs/what-types-of-wood-fence-repairs-do-you-offer-in-berkeley.json`](./faqs/what-types-of-wood-fence-repairs-do-you-offer-in-berkeley.json) — schema
 - [`faqs/what-types-of-wood-fences-can-you-repair.json`](./faqs/what-types-of-wood-fences-can-you-repair.json) — schema
+- [`faqs/when-are-hardware-and-functional-adjustments-typically-made-during-a-constructio.json`](./faqs/when-are-hardware-and-functional-adjustments-typically-made-during-a-constructio.json) — schema
 - [`faqs/when-are-hardware-and-functional-adjustments-typically-performed-during-a-constr.json`](./faqs/when-are-hardware-and-functional-adjustments-typically-performed-during-a-constr.json) — schema
 - [`faqs/when-do-i-need-a-home-addition-versus-renovating-my-existing-space.json`](./faqs/when-do-i-need-a-home-addition-versus-renovating-my-existing-space.json) — schema
 - [`faqs/when-do-i-need-a-professional-electrician-for-my-home-in-berkeley.json`](./faqs/when-do-i-need-a-professional-electrician-for-my-home-in-berkeley.json) — schema
@@ -1419,53 +2152,86 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/when-does-final-detail-work-typically-occur-in-the-construction-timeline.json`](./faqs/when-does-final-detail-work-typically-occur-in-the-construction-timeline.json) — schema
 - [`faqs/when-does-jobsite-cleanup-typically-occur-during-a-construction-project.json`](./faqs/when-does-jobsite-cleanup-typically-occur-during-a-construction-project.json) — schema
 - [`faqs/when-does-the-final-quality-walkthrough-typically-occur-during-a-construction-pr.json`](./faqs/when-does-the-final-quality-walkthrough-typically-occur-during-a-construction-pr.json) — schema
+- [`faqs/when-does-the-final-quality-walkthrough-typically-occur.json`](./faqs/when-does-the-final-quality-walkthrough-typically-occur.json) — schema
+- [`faqs/when-does-the-warranty-period-for-construction-work-begin-after-project-closeout.json`](./faqs/when-does-the-warranty-period-for-construction-work-begin-after-project-closeout.json) — schema
 - [`faqs/when-is-a-punch-list-created-during-a-construction-project.json`](./faqs/when-is-a-punch-list-created-during-a-construction-project.json) — schema
+- [`faqs/when-is-a-room-expansion-a-more-suitable-option-than-building-a-completely-new-a.json`](./faqs/when-is-a-room-expansion-a-more-suitable-option-than-building-a-completely-new-a.json) — schema
+- [`faqs/when-is-it-better-to-renovate-an-existing-space-versus-building-a-new-one.json`](./faqs/when-is-it-better-to-renovate-an-existing-space-versus-building-a-new-one.json) — schema
+- [`faqs/when-is-it-better-to-replace-an-entire-fence-section-rather-than-just-repairing.json`](./faqs/when-is-it-better-to-replace-an-entire-fence-section-rather-than-just-repairing.json) — schema
+- [`faqs/when-is-it-necessary-to-replace-all-bathroom-plumbing-pipes-versus-just-upgradin.json`](./faqs/when-is-it-necessary-to-replace-all-bathroom-plumbing-pipes-versus-just-upgradin.json) — schema
+- [`faqs/when-is-it-necessary-to-upgrade-kitchen-drain-lines.json`](./faqs/when-is-it-necessary-to-upgrade-kitchen-drain-lines.json) — schema
+- [`faqs/when-is-the-best-time-during-a-home-renovation-to-schedule-interior-painting-coo.json`](./faqs/when-is-the-best-time-during-a-home-renovation-to-schedule-interior-painting-coo.json) — schema
 - [`faqs/when-is-the-best-time-for-post-remodel-finish-painting.json`](./faqs/when-is-the-best-time-for-post-remodel-finish-painting.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-do-a-bathroom-renovation.json`](./faqs/when-is-the-best-time-of-year-to-do-a-bathroom-renovation.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-do-exterior-painting-in-the-east-bay.json`](./faqs/when-is-the-best-time-of-year-to-do-exterior-painting-in-the-east-bay.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-get-deck-maintenance-done-in-the-east-bay-area.json`](./faqs/when-is-the-best-time-of-year-to-get-deck-maintenance-done-in-the-east-bay-area.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-get-exterior-trim-painted.json`](./faqs/when-is-the-best-time-of-year-to-get-exterior-trim-painted.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-paint-a-kitchen.json`](./faqs/when-is-the-best-time-of-year-to-paint-a-kitchen.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-paint-a-room-in-the-east-bay.json`](./faqs/when-is-the-best-time-of-year-to-paint-a-room-in-the-east-bay.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-paint-a-room-indoors.json`](./faqs/when-is-the-best-time-of-year-to-paint-a-room-indoors.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-paint-the-exterior-of-my-home-in-the-east-bay.json`](./faqs/when-is-the-best-time-of-year-to-paint-the-exterior-of-my-home-in-the-east-bay.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home-in-california.json`](./faqs/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home-in-california.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home.json`](./faqs/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-perform-deck-maintenance-in-the-east-bay-area.json`](./faqs/when-is-the-best-time-of-year-to-perform-deck-maintenance-in-the-east-bay-area.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-schedule-a-bathroom-renovation-in-oakland.json`](./faqs/when-is-the-best-time-of-year-to-schedule-a-bathroom-renovation-in-oakland.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-schedule-a-tile-or-surface-update.json`](./faqs/when-is-the-best-time-of-year-to-schedule-a-tile-or-surface-update.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-schedule-interior-painting-in-the-east-bay-area.json`](./faqs/when-is-the-best-time-of-year-to-schedule-interior-painting-in-the-east-bay-area.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-start-a-home-addition-project-in-the-san-franci.json`](./faqs/when-is-the-best-time-of-year-to-start-a-home-addition-project-in-the-san-franci.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-start-a-home-remodel-in-the-east-bay.json`](./faqs/when-is-the-best-time-of-year-to-start-a-home-remodel-in-the-east-bay.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-start-a-kitchen-remodel-in-albany-or-el-cerrito.json`](./faqs/when-is-the-best-time-of-year-to-start-a-kitchen-remodel-in-albany-or-el-cerrito.json) — schema
 - [`faqs/when-is-the-best-time-of-year-to-start-a-room-expansion-project-in-the-east-bay.json`](./faqs/when-is-the-best-time-of-year-to-start-a-room-expansion-project-in-the-east-bay.json) — schema
+- [`faqs/when-is-the-best-time-to-consider-adding-a-room-to-my-home.json`](./faqs/when-is-the-best-time-to-consider-adding-a-room-to-my-home.json) — schema
 - [`faqs/when-is-the-best-time-to-do-interior-finish-upgrades.json`](./faqs/when-is-the-best-time-to-do-interior-finish-upgrades.json) — schema
 - [`faqs/when-is-the-best-time-to-do-trim-and-detail-painting.json`](./faqs/when-is-the-best-time-to-do-trim-and-detail-painting.json) — schema
+- [`faqs/when-is-the-best-time-to-install-new-trim-or-molding-during-a-renovation.json`](./faqs/when-is-the-best-time-to-install-new-trim-or-molding-during-a-renovation.json) — schema
 - [`faqs/when-is-the-best-time-to-install-trim-and-molding-during-a-renovation.json`](./faqs/when-is-the-best-time-to-install-trim-and-molding-during-a-renovation.json) — schema
+- [`faqs/when-is-the-best-time-to-involve-frasheski-construction-for-tile-installation-co.json`](./faqs/when-is-the-best-time-to-involve-frasheski-construction-for-tile-installation-co.json) — schema
+- [`faqs/when-is-the-best-time-to-involve-frasheski-construction-in-the-trade-scheduling.json`](./faqs/when-is-the-best-time-to-involve-frasheski-construction-in-the-trade-scheduling.json) — schema
 - [`faqs/when-is-the-best-time-to-schedule-a-vanity-or-cabinet-installation.json`](./faqs/when-is-the-best-time-to-schedule-a-vanity-or-cabinet-installation.json) — schema
 - [`faqs/when-is-the-best-time-to-schedule-cabinet-installation-during-a-home-renovation.json`](./faqs/when-is-the-best-time-to-schedule-cabinet-installation-during-a-home-renovation.json) — schema
 - [`faqs/when-is-the-best-time-to-schedule-cabinet-installation-during-a-remodel.json`](./faqs/when-is-the-best-time-to-schedule-cabinet-installation-during-a-remodel.json) — schema
+- [`faqs/when-is-the-best-time-to-schedule-painting-and-finishing-for-a-new-addition-in-t.json`](./faqs/when-is-the-best-time-to-schedule-painting-and-finishing-for-a-new-addition-in-t.json) — schema
 - [`faqs/when-is-the-best-time-to-start-planning-a-kitchen-renovation.json`](./faqs/when-is-the-best-time-to-start-planning-a-kitchen-renovation.json) — schema
 - [`faqs/when-is-the-best-time-to-undertake-a-multi-room-remodeling-project.json`](./faqs/when-is-the-best-time-to-undertake-a-multi-room-remodeling-project.json) — schema
+- [`faqs/when-is-the-final-detail-work-typically-scheduled-in-a-construction-timeline.json`](./faqs/when-is-the-final-detail-work-typically-scheduled-in-a-construction-timeline.json) — schema
+- [`faqs/when-is-the-punch-list-usually-created-during-a-construction-project.json`](./faqs/when-is-the-punch-list-usually-created-during-a-construction-project.json) — schema
 - [`faqs/when-should-i-call-a-plumber-for-a-clogged-drain-in-el-cerrito.json`](./faqs/when-should-i-call-a-plumber-for-a-clogged-drain-in-el-cerrito.json) — schema
+- [`faqs/when-should-i-call-a-professional-plumber-for-a-leaky-faucet-instead-of-fixing-i.json`](./faqs/when-should-i-call-a-professional-plumber-for-a-leaky-faucet-instead-of-fixing-i.json) — schema
 - [`faqs/when-should-i-call-a-professional-plumber-instead-of-attempting-a-diy-repair.json`](./faqs/when-should-i-call-a-professional-plumber-instead-of-attempting-a-diy-repair.json) — schema
 - [`faqs/when-should-i-consider-a-complete-bathroom-renovation-instead-of-minor-repairs.json`](./faqs/when-should-i-consider-a-complete-bathroom-renovation-instead-of-minor-repairs.json) — schema
 - [`faqs/when-should-i-consider-a-full-bathroom-renovation-instead-of-a-partial-update.json`](./faqs/when-should-i-consider-a-full-bathroom-renovation-instead-of-a-partial-update.json) — schema
+- [`faqs/when-should-i-consider-a-full-bathroom-renovation-instead-of-minor-updates.json`](./faqs/when-should-i-consider-a-full-bathroom-renovation-instead-of-minor-updates.json) — schema
+- [`faqs/when-should-i-consider-a-functional-layout-improvement-project-for-my-home.json`](./faqs/when-should-i-consider-a-functional-layout-improvement-project-for-my-home.json) — schema
+- [`faqs/when-should-i-consider-a-multi-room-remodel-instead-of-single-room-projects.json`](./faqs/when-should-i-consider-a-multi-room-remodel-instead-of-single-room-projects.json) — schema
+- [`faqs/when-should-i-consider-a-new-room-addition-versus-remodeling-an-existing-space.json`](./faqs/when-should-i-consider-a-new-room-addition-versus-remodeling-an-existing-space.json) — schema
 - [`faqs/when-should-i-consider-accessibility-minded-bathroom-modifications.json`](./faqs/when-should-i-consider-accessibility-minded-bathroom-modifications.json) — schema
+- [`faqs/when-should-i-consider-an-accessibility-minded-bathroom-modification.json`](./faqs/when-should-i-consider-an-accessibility-minded-bathroom-modification.json) — schema
+- [`faqs/when-should-i-consider-an-electrical-coordination-study-for-my-project.json`](./faqs/when-should-i-consider-an-electrical-coordination-study-for-my-project.json) — schema
 - [`faqs/when-should-i-consider-building-a-home-addition-instead-of-buying-a-new-house.json`](./faqs/when-should-i-consider-building-a-home-addition-instead-of-buying-a-new-house.json) — schema
 - [`faqs/when-should-i-consider-building-a-new-room-versus-remodeling-an-existing-space.json`](./faqs/when-should-i-consider-building-a-new-room-versus-remodeling-an-existing-space.json) — schema
+- [`faqs/when-should-i-consider-cabinet-refinishing-instead-of-full-replacement.json`](./faqs/when-should-i-consider-cabinet-refinishing-instead-of-full-replacement.json) — schema
 - [`faqs/when-should-i-consider-custom-fit-cabinet-solutions-instead-of-standard-options.json`](./faqs/when-should-i-consider-custom-fit-cabinet-solutions-instead-of-standard-options.json) — schema
 - [`faqs/when-should-i-consider-custom-fit-cabinets-instead-of-standard-options.json`](./faqs/when-should-i-consider-custom-fit-cabinets-instead-of-standard-options.json) — schema
 - [`faqs/when-should-i-consider-electrical-coordination-for-my-construction-project.json`](./faqs/when-should-i-consider-electrical-coordination-for-my-construction-project.json) — schema
 - [`faqs/when-should-i-consider-fence-replacement-instead-of-restoration.json`](./faqs/when-should-i-consider-fence-replacement-instead-of-restoration.json) — schema
+- [`faqs/when-should-i-consider-fence-stability-restoration-instead-of-full-replacement.json`](./faqs/when-should-i-consider-fence-stability-restoration-instead-of-full-replacement.json) — schema
 - [`faqs/when-should-i-consider-fence-stability-restoration.json`](./faqs/when-should-i-consider-fence-stability-restoration.json) — schema
 - [`faqs/when-should-i-consider-functional-layout-improvements-for-my-home-or-business.json`](./faqs/when-should-i-consider-functional-layout-improvements-for-my-home-or-business.json) — schema
 - [`faqs/when-should-i-consider-functional-layout-improvements-for-my-home.json`](./faqs/when-should-i-consider-functional-layout-improvements-for-my-home.json) — schema
 - [`faqs/when-should-i-consider-hiring-a-complete-remodeling-project-manager.json`](./faqs/when-should-i-consider-hiring-a-complete-remodeling-project-manager.json) — schema
 - [`faqs/when-should-i-consider-hiring-a-professional-electrician-for-kitchen-and-bathroo.json`](./faqs/when-should-i-consider-hiring-a-professional-electrician-for-kitchen-and-bathroo.json) — schema
 - [`faqs/when-should-i-consider-hiring-a-professional-kitchen-designer.json`](./faqs/when-should-i-consider-hiring-a-professional-kitchen-designer.json) — schema
+- [`faqs/when-should-i-consider-hiring-a-project-manager-for-my-home-remodel.json`](./faqs/when-should-i-consider-hiring-a-project-manager-for-my-home-remodel.json) — schema
 - [`faqs/when-should-i-consider-making-my-bathroom-accessible.json`](./faqs/when-should-i-consider-making-my-bathroom-accessible.json) — schema
 - [`faqs/when-should-i-consider-modernizing-an-outdated-room-instead-of-building-an-addit.json`](./faqs/when-should-i-consider-modernizing-an-outdated-room-instead-of-building-an-addit.json) — schema
+- [`faqs/when-should-i-consider-modernizing-an-outdated-room-instead-of-moving.json`](./faqs/when-should-i-consider-modernizing-an-outdated-room-instead-of-moving.json) — schema
 - [`faqs/when-should-i-consider-painting-my-kitchen-cabinets-instead-of-replacing-them.json`](./faqs/when-should-i-consider-painting-my-kitchen-cabinets-instead-of-replacing-them.json) — schema
 - [`faqs/when-should-i-consider-professional-help-for-hardware-and-functional-adjustments.json`](./faqs/when-should-i-consider-professional-help-for-hardware-and-functional-adjustments.json) — schema
+- [`faqs/when-should-i-consider-professional-plumbing-services-for-my-bathroom.json`](./faqs/when-should-i-consider-professional-plumbing-services-for-my-bathroom.json) — schema
+- [`faqs/when-should-i-consider-professional-stair-repair-for-my-home.json`](./faqs/when-should-i-consider-professional-stair-repair-for-my-home.json) — schema
 - [`faqs/when-should-i-consider-professional-trim-and-detail-painting.json`](./faqs/when-should-i-consider-professional-trim-and-detail-painting.json) — schema
 - [`faqs/when-should-i-consider-railing-replacement-instead-of-just-repair.json`](./faqs/when-should-i-consider-railing-replacement-instead-of-just-repair.json) — schema
+- [`faqs/when-should-i-consider-remodeling-versus-moving-to-a-new-home.json`](./faqs/when-should-i-consider-remodeling-versus-moving-to-a-new-home.json) — schema
 - [`faqs/when-should-i-consider-renovating-my-basement-in-albany.json`](./faqs/when-should-i-consider-renovating-my-basement-in-albany.json) — schema
 - [`faqs/when-should-i-consider-repairing-my-cabinets-instead-of-replacing-them.json`](./faqs/when-should-i-consider-repairing-my-cabinets-instead-of-replacing-them.json) — schema
 - [`faqs/when-should-i-consider-repairing-my-deck-versus-replacing-it-entirely.json`](./faqs/when-should-i-consider-repairing-my-deck-versus-replacing-it-entirely.json) — schema
@@ -1473,9 +2239,12 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/when-should-i-consider-replacing-my-bathroom-plumbing.json`](./faqs/when-should-i-consider-replacing-my-bathroom-plumbing.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-cabinets.json`](./faqs/when-should-i-consider-replacing-my-cabinets.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-countertops.json`](./faqs/when-should-i-consider-replacing-my-countertops.json) — schema
+- [`faqs/when-should-i-consider-replacing-my-deck-boards-instead-of-just-repairing-them.json`](./faqs/when-should-i-consider-replacing-my-deck-boards-instead-of-just-repairing-them.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-deck-boards.json`](./faqs/when-should-i-consider-replacing-my-deck-boards.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-deck-instead-of-just-repairing-it.json`](./faqs/when-should-i-consider-replacing-my-deck-instead-of-just-repairing-it.json) — schema
+- [`faqs/when-should-i-consider-replacing-my-deck-instead-of-repairing-it.json`](./faqs/when-should-i-consider-replacing-my-deck-instead-of-repairing-it.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-doors.json`](./faqs/when-should-i-consider-replacing-my-doors.json) — schema
+- [`faqs/when-should-i-consider-replacing-my-existing-doors.json`](./faqs/when-should-i-consider-replacing-my-existing-doors.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-kitchen-cabinets.json`](./faqs/when-should-i-consider-replacing-my-kitchen-cabinets.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-railing-instead-of-repairing-it.json`](./faqs/when-should-i-consider-replacing-my-railing-instead-of-repairing-it.json) — schema
 - [`faqs/when-should-i-consider-replacing-my-stairs-instead-of-repairing-them.json`](./faqs/when-should-i-consider-replacing-my-stairs-instead-of-repairing-them.json) — schema
@@ -1489,6 +2258,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/when-should-i-consider-upgrading-my-bathroom-s-electrical-system.json`](./faqs/when-should-i-consider-upgrading-my-bathroom-s-electrical-system.json) — schema
 - [`faqs/when-should-i-consider-upgrading-my-bathroom-vanity.json`](./faqs/when-should-i-consider-upgrading-my-bathroom-vanity.json) — schema
 - [`faqs/when-should-i-consider-upgrading-my-electrical-fixtures.json`](./faqs/when-should-i-consider-upgrading-my-electrical-fixtures.json) — schema
+- [`faqs/when-should-i-consider-upgrading-my-electrical-panel-during-fixture-installation.json`](./faqs/when-should-i-consider-upgrading-my-electrical-panel-during-fixture-installation.json) — schema
 - [`faqs/when-should-i-consider-upgrading-my-kitchen-cabinets.json`](./faqs/when-should-i-consider-upgrading-my-kitchen-cabinets.json) — schema
 - [`faqs/when-should-i-consider-upgrading-my-kitchen-electrical-panel.json`](./faqs/when-should-i-consider-upgrading-my-kitchen-electrical-panel.json) — schema
 - [`faqs/when-should-i-consider-upgrading-my-kitchen-plumbing.json`](./faqs/when-should-i-consider-upgrading-my-kitchen-plumbing.json) — schema
@@ -1497,20 +2267,30 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/when-should-i-hire-a-plumber-for-my-remodel-in-albany.json`](./faqs/when-should-i-hire-a-plumber-for-my-remodel-in-albany.json) — schema
 - [`faqs/when-should-i-hire-a-professional-for-electrical-fixture-installation.json`](./faqs/when-should-i-hire-a-professional-for-electrical-fixture-installation.json) — schema
 - [`faqs/when-should-i-hire-an-electrician-during-my-remodel-project.json`](./faqs/when-should-i-hire-an-electrician-during-my-remodel-project.json) — schema
+- [`faqs/when-should-i-involve-a-contractor-for-plumbing-coordination-in-my-project.json`](./faqs/when-should-i-involve-a-contractor-for-plumbing-coordination-in-my-project.json) — schema
+- [`faqs/when-should-i-involve-a-contractor-like-frasheski-construction-for-plumbing-and.json`](./faqs/when-should-i-involve-a-contractor-like-frasheski-construction-for-plumbing-and.json) — schema
 - [`faqs/when-should-i-involve-a-plumber-in-my-remodel-project.json`](./faqs/when-should-i-involve-a-plumber-in-my-remodel-project.json) — schema
+- [`faqs/when-should-i-involve-an-electrician-during-my-remodeling-project.json`](./faqs/when-should-i-involve-an-electrician-during-my-remodeling-project.json) — schema
 - [`faqs/when-should-i-involve-an-electrician-in-my-home-remodeling-project.json`](./faqs/when-should-i-involve-an-electrician-in-my-home-remodeling-project.json) — schema
 - [`faqs/when-should-i-repair-my-cabinets-instead-of-replacing-them.json`](./faqs/when-should-i-repair-my-cabinets-instead-of-replacing-them.json) — schema
 - [`faqs/when-should-i-repair-my-cabinets-versus-replacing-them-entirely.json`](./faqs/when-should-i-repair-my-cabinets-versus-replacing-them-entirely.json) — schema
 - [`faqs/when-should-i-repair-my-cabinets-versus-replacing-them.json`](./faqs/when-should-i-repair-my-cabinets-versus-replacing-them.json) — schema
 - [`faqs/when-should-i-repair-my-deck-versus-replacing-it-entirely.json`](./faqs/when-should-i-repair-my-deck-versus-replacing-it-entirely.json) — schema
 - [`faqs/when-should-i-repair-my-wood-fence-panel.json`](./faqs/when-should-i-repair-my-wood-fence-panel.json) — schema
+- [`faqs/when-should-i-repair-my-wood-fence-versus-replacing-it-entirely.json`](./faqs/when-should-i-repair-my-wood-fence-versus-replacing-it-entirely.json) — schema
 - [`faqs/when-should-i-replace-my-deck-boards.json`](./faqs/when-should-i-replace-my-deck-boards.json) — schema
 - [`faqs/when-should-i-replace-my-kitchen-faucet-versus-repairing-it.json`](./faqs/when-should-i-replace-my-kitchen-faucet-versus-repairing-it.json) — schema
 - [`faqs/when-should-i-schedule-finish-painting-after-a-remodel.json`](./faqs/when-should-i-schedule-finish-painting-after-a-remodel.json) — schema
+- [`faqs/when-should-i-schedule-finish-painting-during-a-remodel.json`](./faqs/when-should-i-schedule-finish-painting-during-a-remodel.json) — schema
+- [`faqs/when-should-i-start-coordinating-appliance-installation-with-my-construction-pro.json`](./faqs/when-should-i-start-coordinating-appliance-installation-with-my-construction-pro.json) — schema
+- [`faqs/when-should-i-start-coordinating-cabinet-installation-during-a-renovation.json`](./faqs/when-should-i-start-coordinating-cabinet-installation-during-a-renovation.json) — schema
 - [`faqs/when-should-i-start-planning-for-an-interior-build-out.json`](./faqs/when-should-i-start-planning-for-an-interior-build-out.json) — schema
 - [`faqs/when-should-i-start-planning-for-appliance-area-preparation.json`](./faqs/when-should-i-start-planning-for-appliance-area-preparation.json) — schema
+- [`faqs/when-should-i-start-planning-for-appliance-installation-in-my-construction-proje.json`](./faqs/when-should-i-start-planning-for-appliance-installation-in-my-construction-proje.json) — schema
+- [`faqs/when-should-i-start-planning-for-finish-carpentry-in-my-project.json`](./faqs/when-should-i-start-planning-for-finish-carpentry-in-my-project.json) — schema
 - [`faqs/when-should-i-start-planning-my-home-remodel.json`](./faqs/when-should-i-start-planning-my-home-remodel.json) — schema
 - [`faqs/when-should-i-start-thinking-about-finish-carpentry-coordination-for-my-project.json`](./faqs/when-should-i-start-thinking-about-finish-carpentry-coordination-for-my-project.json) — schema
+- [`faqs/when-should-i-start-thinking-about-fixture-selections-for-my-project.json`](./faqs/when-should-i-start-thinking-about-fixture-selections-for-my-project.json) — schema
 - [`faqs/when-should-painting-and-finishing-happen-during-an-addition-project.json`](./faqs/when-should-painting-and-finishing-happen-during-an-addition-project.json) — schema
 - [`faqs/when-should-plumbing-and-electrical-coordination-begin-in-a-construction-project.json`](./faqs/when-should-plumbing-and-electrical-coordination-begin-in-a-construction-project.json) — schema
 - [`faqs/when-should-plumbing-and-electrical-coordination-discussions-start-in-a-construc.json`](./faqs/when-should-plumbing-and-electrical-coordination-discussions-start-in-a-construc.json) — schema
@@ -1518,89 +2298,157 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/who-attends-the-final-quality-walkthrough.json`](./faqs/who-attends-the-final-quality-walkthrough.json) — schema
 - [`faqs/who-is-responsible-for-coordinating-plumbing-and-electrical-work.json`](./faqs/who-is-responsible-for-coordinating-plumbing-and-electrical-work.json) — schema
 - [`faqs/who-is-responsible-for-creating-a-punch-list.json`](./faqs/who-is-responsible-for-creating-a-punch-list.json) — schema
+- [`faqs/who-is-responsible-for-jobsite-cleanup-during-and-after-a-construction-project.json`](./faqs/who-is-responsible-for-jobsite-cleanup-during-and-after-a-construction-project.json) — schema
 - [`faqs/who-is-responsible-for-jobsite-cleanup-on-a-construction-project.json`](./faqs/who-is-responsible-for-jobsite-cleanup-on-a-construction-project.json) — schema
 - [`faqs/who-is-responsible-for-overseeing-the-final-detail-work.json`](./faqs/who-is-responsible-for-overseeing-the-final-detail-work.json) — schema
+- [`faqs/who-is-responsible-for-preparing-and-completing-a-construction-punch-list.json`](./faqs/who-is-responsible-for-preparing-and-completing-a-construction-punch-list.json) — schema
 - [`faqs/who-is-responsible-for-trade-scheduling-on-a-construction-project.json`](./faqs/who-is-responsible-for-trade-scheduling-on-a-construction-project.json) — schema
+- [`faqs/who-performs-electrical-coordination-studies.json`](./faqs/who-performs-electrical-coordination-studies.json) — schema
+- [`faqs/who-should-be-present-during-the-final-quality-walkthrough.json`](./faqs/who-should-be-present-during-the-final-quality-walkthrough.json) — schema
 - [`faqs/why-are-hardware-and-functional-adjustments-important-for-my-home.json`](./faqs/why-are-hardware-and-functional-adjustments-important-for-my-home.json) — schema
 - [`faqs/why-choose-a-local-contractor-like-frasheski-construction-for-bathroom-electrica.json`](./faqs/why-choose-a-local-contractor-like-frasheski-construction-for-bathroom-electrica.json) — schema
 - [`faqs/why-choose-a-local-contractor-like-frasheski-construction-for-deck-maintenance-i.json`](./faqs/why-choose-a-local-contractor-like-frasheski-construction-for-deck-maintenance-i.json) — schema
+- [`faqs/why-choose-a-local-contractor-like-frasheski-construction-for-gate-repair-in-the.json`](./faqs/why-choose-a-local-contractor-like-frasheski-construction-for-gate-repair-in-the.json) — schema
+- [`faqs/why-choose-frasheski-construction-for-surface-restoration-in-the-east-bay-area.json`](./faqs/why-choose-frasheski-construction-for-surface-restoration-in-the-east-bay-area.json) — schema
 - [`faqs/why-choose-frasheski-construction-for-wood-fence-repair-in-the-east-bay.json`](./faqs/why-choose-frasheski-construction-for-wood-fence-repair-in-the-east-bay.json) — schema
 - [`faqs/why-choose-professional-trim-and-detail-painting-over-diy.json`](./faqs/why-choose-professional-trim-and-detail-painting-over-diy.json) — schema
 - [`faqs/why-do-i-need-a-professional-to-coordinate-my-cabinet-installation.json`](./faqs/why-do-i-need-a-professional-to-coordinate-my-cabinet-installation.json) — schema
 - [`faqs/why-do-i-need-tile-installation-coordination-for-my-project-in-berkeley.json`](./faqs/why-do-i-need-tile-installation-coordination-for-my-project-in-berkeley.json) — schema
+- [`faqs/why-is-a-detailed-punch-list-important-for-custom-home-builds-in-the-east-bay.json`](./faqs/why-is-a-detailed-punch-list-important-for-custom-home-builds-in-the-east-bay.json) — schema
 - [`faqs/why-is-a-final-quality-walkthrough-important-for-my-construction-project.json`](./faqs/why-is-a-final-quality-walkthrough-important-for-my-construction-project.json) — schema
+- [`faqs/why-is-electrical-coordination-important-for-my-commercial-property-renovation.json`](./faqs/why-is-electrical-coordination-important-for-my-commercial-property-renovation.json) — schema
 - [`faqs/why-is-electrical-coordination-important-for-my-project-in-berkeley.json`](./faqs/why-is-electrical-coordination-important-for-my-project-in-berkeley.json) — schema
 - [`faqs/why-is-final-detail-work-important-for-a-construction-project.json`](./faqs/why-is-final-detail-work-important-for-a-construction-project.json) — schema
 - [`faqs/why-is-finish-carpentry-coordination-important-for-my-construction-project.json`](./faqs/why-is-finish-carpentry-coordination-important-for-my-construction-project.json) — schema
 - [`faqs/why-is-it-important-for-plumbing-and-electrical-work-to-be-coordinated-during-co.json`](./faqs/why-is-it-important-for-plumbing-and-electrical-work-to-be-coordinated-during-co.json) — schema
+- [`faqs/why-is-it-important-to-clearly-define-the-scope-of-work-at-the-beginning-of-a-re.json`](./faqs/why-is-it-important-to-clearly-define-the-scope-of-work-at-the-beginning-of-a-re.json) — schema
+- [`faqs/why-is-plumbing-and-electrical-coordination-important-for-a-home-addition.json`](./faqs/why-is-plumbing-and-electrical-coordination-important-for-a-home-addition.json) — schema
 - [`faqs/why-is-plumbing-and-electrical-coordination-important-in-construction.json`](./faqs/why-is-plumbing-and-electrical-coordination-important-in-construction.json) — schema
+- [`faqs/why-is-plumbing-coordination-important-for-my-home-renovation-or-new-build.json`](./faqs/why-is-plumbing-coordination-important-for-my-home-renovation-or-new-build.json) — schema
 - [`faqs/why-is-professional-appliance-area-preparation-important.json`](./faqs/why-is-professional-appliance-area-preparation-important.json) — schema
 - [`faqs/why-is-professional-fixture-installation-coordination-important-for-my-project.json`](./faqs/why-is-professional-fixture-installation-coordination-important-for-my-project.json) — schema
+- [`faqs/why-is-professional-flooring-installation-coordination-important-for-my-project.json`](./faqs/why-is-professional-flooring-installation-coordination-important-for-my-project.json) — schema
 - [`faqs/why-is-professional-plumbing-coordination-essential-for-new-construction-or-remo.json`](./faqs/why-is-professional-plumbing-coordination-essential-for-new-construction-or-remo.json) — schema
 - [`faqs/why-is-project-closeout-important-for-a-construction-project.json`](./faqs/why-is-project-closeout-important-for-a-construction-project.json) — schema
+- [`faqs/why-is-proper-measurement-critical-for-trim-and-molding-projects.json`](./faqs/why-is-proper-measurement-critical-for-trim-and-molding-projects.json) — schema
 - [`faqs/why-is-proper-ventilation-important-for-bathroom-plumbing.json`](./faqs/why-is-proper-ventilation-important-for-bathroom-plumbing.json) — schema
 - [`faqs/why-is-proper-ventilation-important-when-painting-a-bathroom.json`](./faqs/why-is-proper-ventilation-important-when-painting-a-bathroom.json) — schema
+- [`faqs/why-is-regular-plumbing-maintenance-important-for-bathrooms.json`](./faqs/why-is-regular-plumbing-maintenance-important-for-bathrooms.json) — schema
 - [`faqs/why-is-sequencing-important-for-construction-trades.json`](./faqs/why-is-sequencing-important-for-construction-trades.json) — schema
+- [`faqs/why-is-the-final-quality-walkthrough-important-for-my-project-in-the-east-bay-ar.json`](./faqs/why-is-the-final-quality-walkthrough-important-for-my-project-in-the-east-bay-ar.json) — schema
 - [`faqs/why-is-trim-and-detail-painting-important-for-my-home.json`](./faqs/why-is-trim-and-detail-painting-important-for-my-home.json) — schema
 - [`faqs/why-should-i-choose-frasheski-construction-for-my-backsplash-installation-in-ber.json`](./faqs/why-should-i-choose-frasheski-construction-for-my-backsplash-installation-in-ber.json) — schema
 - [`faqs/why-should-i-hire-a-professional-for-post-remodel-finish-painting-in-the-berkele.json`](./faqs/why-should-i-hire-a-professional-for-post-remodel-finish-painting-in-the-berkele.json) — schema
 - [`faqs/why-should-i-hire-a-professional-to-paint-my-bathroom-in-the-east-bay.json`](./faqs/why-should-i-hire-a-professional-to-paint-my-bathroom-in-the-east-bay.json) — schema
 - [`faqs/why-should-i-hire-professional-painters-instead-of-doing-it-myself.json`](./faqs/why-should-i-hire-professional-painters-instead-of-doing-it-myself.json) — schema
+- [`faqs/will-a-bathroom-remodel-increase-my-home-s-value-in-the-berkeley-area.json`](./faqs/will-a-bathroom-remodel-increase-my-home-s-value-in-the-berkeley-area.json) — schema
+- [`faqs/will-a-deck-structural-repair-require-obtaining-permits-in-berkeley-or-other-eas.json`](./faqs/will-a-deck-structural-repair-require-obtaining-permits-in-berkeley-or-other-eas.json) — schema
 - [`faqs/will-a-full-kitchen-renovation-increase-the-value-of-my-home.json`](./faqs/will-a-full-kitchen-renovation-increase-the-value-of-my-home.json) — schema
 - [`faqs/will-a-room-addition-increase-my-home-s-value-in-the-east-bay.json`](./faqs/will-a-room-addition-increase-my-home-s-value-in-the-east-bay.json) — schema
 - [`faqs/will-a-room-expansion-increase-my-home-s-value.json`](./faqs/will-a-room-expansion-increase-my-home-s-value.json) — schema
 - [`faqs/will-a-room-expansion-increase-my-property-value.json`](./faqs/will-a-room-expansion-increase-my-property-value.json) — schema
 - [`faqs/will-i-have-access-to-my-kitchen-during-the-renovation.json`](./faqs/will-i-have-access-to-my-kitchen-during-the-renovation.json) — schema
+- [`faqs/will-i-need-separate-permits-for-plumbing-and-electrical-work-in-my-home-additio.json`](./faqs/will-i-need-separate-permits-for-plumbing-and-electrical-work-in-my-home-additio.json) — schema
+- [`faqs/will-i-need-to-move-out-of-my-home-during-the-painting-process.json`](./faqs/will-i-need-to-move-out-of-my-home-during-the-painting-process.json) — schema
 - [`faqs/will-modernizing-a-room-increase-my-property-value-in-oakland.json`](./faqs/will-modernizing-a-room-increase-my-property-value-in-oakland.json) — schema
 
-### Help Articles (257)
+### Help Articles (401)
 - [`help/5-common-painting-mistakes-in-new-additions-and-how-to-avoid-them.json`](./help/5-common-painting-mistakes-in-new-additions-and-how-to-avoid-them.json) — schema
 - [`help/5-mistakes-to-avoid-when-installing-cabinets.json`](./help/5-mistakes-to-avoid-when-installing-cabinets.json) — schema
+- [`help/are-your-cabinets-worth-repairing-or-refinishing.json`](./help/are-your-cabinets-worth-repairing-or-refinishing.json) — schema
+- [`help/avoiding-common-appliance-installation-mistakes-in-san-francisco.json`](./help/avoiding-common-appliance-installation-mistakes-in-san-francisco.json) — schema
 - [`help/avoiding-common-cabinet-installation-headaches.json`](./help/avoiding-common-cabinet-installation-headaches.json) — schema
 - [`help/avoiding-common-kitchen-design-blunders.json`](./help/avoiding-common-kitchen-design-blunders.json) — schema
 - [`help/avoiding-common-kitchen-plumbing-installation-mistakes.json`](./help/avoiding-common-kitchen-plumbing-installation-mistakes.json) — schema
 - [`help/avoiding-common-lighting-mistakes-in-your-remodel.json`](./help/avoiding-common-lighting-mistakes-in-your-remodel.json) — schema
+- [`help/avoiding-common-mistakes-during-your-interior-home-renovation.json`](./help/avoiding-common-mistakes-during-your-interior-home-renovation.json) — schema
 - [`help/avoiding-common-mistakes-in-bathroom-electrical-upgrades.json`](./help/avoiding-common-mistakes-in-bathroom-electrical-upgrades.json) — schema
 - [`help/avoiding-common-mistakes-in-bathroom-plumbing-installation.json`](./help/avoiding-common-mistakes-in-bathroom-plumbing-installation.json) — schema
+- [`help/avoiding-common-mistakes-in-cabinet-refinishing-projects.json`](./help/avoiding-common-mistakes-in-cabinet-refinishing-projects.json) — schema
 - [`help/avoiding-common-mistakes-in-multi-room-remodeling.json`](./help/avoiding-common-mistakes-in-multi-room-remodeling.json) — schema
 - [`help/avoiding-common-mistakes-in-stair-repair-projects.json`](./help/avoiding-common-mistakes-in-stair-repair-projects.json) — schema
+- [`help/avoiding-common-mistakes-in-your-east-bay-bathroom-remodel.json`](./help/avoiding-common-mistakes-in-your-east-bay-bathroom-remodel.json) — schema
 - [`help/avoiding-common-mistakes-in-your-final-walkthrough.json`](./help/avoiding-common-mistakes-in-your-final-walkthrough.json) — schema
 - [`help/avoiding-common-mistakes-with-new-appliance-hookups.json`](./help/avoiding-common-mistakes-with-new-appliance-hookups.json) — schema
+- [`help/avoiding-common-painting-blunders-what-to-look-out-for.json`](./help/avoiding-common-painting-blunders-what-to-look-out-for.json) — schema
+- [`help/avoiding-common-pitfalls-in-east-bay-bathroom-modifications.json`](./help/avoiding-common-pitfalls-in-east-bay-bathroom-modifications.json) — schema
+- [`help/avoiding-common-pitfalls-in-your-bathroom-accessibility-project.json`](./help/avoiding-common-pitfalls-in-your-bathroom-accessibility-project.json) — schema
 - [`help/avoiding-common-pitfalls-in-your-bathroom-remodel-project.json`](./help/avoiding-common-pitfalls-in-your-bathroom-remodel-project.json) — schema
+- [`help/avoiding-common-pitfalls-in-your-home-renovation-budget.json`](./help/avoiding-common-pitfalls-in-your-home-renovation-budget.json) — schema
+- [`help/avoiding-common-pitfalls-in-your-kitchen-remodel-in-oakland.json`](./help/avoiding-common-pitfalls-in-your-kitchen-remodel-in-oakland.json) — schema
 - [`help/avoiding-common-room-painting-blunders.json`](./help/avoiding-common-room-painting-blunders.json) — schema
+- [`help/avoiding-cost-surprises-in-your-home-addition-project-in-alameda.json`](./help/avoiding-cost-surprises-in-your-home-addition-project-in-alameda.json) — schema
+- [`help/avoiding-cost-surprises-in-your-kitchen-remodeling-project.json`](./help/avoiding-cost-surprises-in-your-kitchen-remodeling-project.json) — schema
+- [`help/avoiding-costly-mistakes-in-kitchen-plumbing-upgrades.json`](./help/avoiding-costly-mistakes-in-kitchen-plumbing-upgrades.json) — schema
+- [`help/avoiding-costly-mistakes-in-your-kitchen-plumbing-project.json`](./help/avoiding-costly-mistakes-in-your-kitchen-plumbing-project.json) — schema
 - [`help/avoiding-costly-scheduling-mistakes-in-your-renovation.json`](./help/avoiding-costly-scheduling-mistakes-in-your-renovation.json) — schema
 - [`help/avoiding-pitfalls-in-your-countertop-project.json`](./help/avoiding-pitfalls-in-your-countertop-project.json) — schema
 - [`help/avoiding-regrets-with-custom-cabinetry.json`](./help/avoiding-regrets-with-custom-cabinetry.json) — schema
+- [`help/bathroom-electrical-upgrades-how-to-ensure-code-compliance.json`](./help/bathroom-electrical-upgrades-how-to-ensure-code-compliance.json) — schema
 - [`help/bathroom-remodel-costs-what-am-i-really-paying-for.json`](./help/bathroom-remodel-costs-what-am-i-really-paying-for.json) — schema
+- [`help/bathroom-remodeling-avoiding-common-mistakes-before-you-start.json`](./help/bathroom-remodeling-avoiding-common-mistakes-before-you-start.json) — schema
+- [`help/bathroom-remodeling-deciding-between-cosmetic-and-major-changes.json`](./help/bathroom-remodeling-deciding-between-cosmetic-and-major-changes.json) — schema
+- [`help/bathroom-remodeling-what-to-expect-during-the-process.json`](./help/bathroom-remodeling-what-to-expect-during-the-process.json) — schema
+- [`help/bathroom-surface-updates-common-mistakes-to-avoid.json`](./help/bathroom-surface-updates-common-mistakes-to-avoid.json) — schema
+- [`help/before-your-layout-improvement-project-in-san-francisco-a-checklist.json`](./help/before-your-layout-improvement-project-in-san-francisco-a-checklist.json) — schema
 - [`help/beyond-the-brush-when-to-hire-a-pro-for-paint-finish-work.json`](./help/beyond-the-brush-when-to-hire-a-pro-for-paint-finish-work.json) — schema
 - [`help/can-i-repair-my-deck-s-support-system-safely.json`](./help/can-i-repair-my-deck-s-support-system-safely.json) — schema
+- [`help/choosing-a-bathroom-remodeling-contractor-in-berkeley-what-to-look-for.json`](./help/choosing-a-bathroom-remodeling-contractor-in-berkeley-what-to-look-for.json) — schema
+- [`help/choosing-a-partner-for-appliance-prep-how-to-compare-your-options.json`](./help/choosing-a-partner-for-appliance-prep-how-to-compare-your-options.json) — schema
+- [`help/choosing-bathroom-lighting-what-to-consider-for-wet-areas.json`](./help/choosing-bathroom-lighting-what-to-consider-for-wet-areas.json) — schema
 - [`help/choosing-between-cabinet-refacing-and-replacement.json`](./help/choosing-between-cabinet-refacing-and-replacement.json) — schema
+- [`help/choosing-interior-finishes-how-to-pick-the-right-materials.json`](./help/choosing-interior-finishes-how-to-pick-the-right-materials.json) — schema
+- [`help/choosing-the-right-bathroom-vanity-a-checklist-for-a-perfect-fit.json`](./help/choosing-the-right-bathroom-vanity-a-checklist-for-a-perfect-fit.json) — schema
+- [`help/choosing-the-right-contractor-for-your-full-bathroom-renovation.json`](./help/choosing-the-right-contractor-for-your-full-bathroom-renovation.json) — schema
+- [`help/choosing-the-right-contractor-for-your-full-kitchen-remodel.json`](./help/choosing-the-right-contractor-for-your-full-kitchen-remodel.json) — schema
 - [`help/choosing-the-right-contractor-for-your-interior-update.json`](./help/choosing-the-right-contractor-for-your-interior-update.json) — schema
+- [`help/choosing-the-right-contractor-for-your-remodel-in-el-cerrito-a-checklist.json`](./help/choosing-the-right-contractor-for-your-remodel-in-el-cerrito-a-checklist.json) — schema
 - [`help/choosing-the-right-interior-finishes-for-your-home.json`](./help/choosing-the-right-interior-finishes-for-your-home.json) — schema
+- [`help/choosing-the-right-interior-paint-finish-for-your-east-bay-home.json`](./help/choosing-the-right-interior-paint-finish-for-your-east-bay-home.json) — schema
+- [`help/choosing-the-right-kitchen-lighting-for-your-remodel.json`](./help/choosing-the-right-kitchen-lighting-for-your-remodel.json) — schema
+- [`help/choosing-the-right-kitchen-renovation-scope-in-berkeley.json`](./help/choosing-the-right-kitchen-renovation-scope-in-berkeley.json) — schema
+- [`help/choosing-the-right-paint-finish-for-your-east-bay-addition-a-comparison.json`](./help/choosing-the-right-paint-finish-for-your-east-bay-addition-a-comparison.json) — schema
+- [`help/common-bathroom-plumbing-mistakes-to-avoid-during-your-remodel.json`](./help/common-bathroom-plumbing-mistakes-to-avoid-during-your-remodel.json) — schema
 - [`help/common-electrical-mistakes-to-avoid-during-a-home-remodel.json`](./help/common-electrical-mistakes-to-avoid-during-a-home-remodel.json) — schema
 - [`help/common-mistakes-homeowners-make-with-kitchen-plumbing.json`](./help/common-mistakes-homeowners-make-with-kitchen-plumbing.json) — schema
 - [`help/common-mistakes-in-bathroom-accessibility-modifications.json`](./help/common-mistakes-in-bathroom-accessibility-modifications.json) — schema
+- [`help/common-mistakes-to-avoid-in-accessible-bathroom-design.json`](./help/common-mistakes-to-avoid-in-accessible-bathroom-design.json) — schema
+- [`help/common-mistakes-to-avoid-in-bathroom-plumbing-upgrades.json`](./help/common-mistakes-to-avoid-in-bathroom-plumbing-upgrades.json) — schema
 - [`help/common-mistakes-to-sidestep-in-plumbing-installation.json`](./help/common-mistakes-to-sidestep-in-plumbing-installation.json) — schema
+- [`help/common-mistakes-when-planning-a-room-modernization-project.json`](./help/common-mistakes-when-planning-a-room-modernization-project.json) — schema
 - [`help/common-mistakes-when-planning-kitchen-electrical.json`](./help/common-mistakes-when-planning-kitchen-electrical.json) — schema
 - [`help/common-mistakes-when-redesigning-room-layouts.json`](./help/common-mistakes-when-redesigning-room-layouts.json) — schema
 - [`help/common-mistakes-when-repairing-a-wooden-fence-panel.json`](./help/common-mistakes-when-repairing-a-wooden-fence-panel.json) — schema
 - [`help/common-pitfalls-in-kitchen-cabinet-upgrades.json`](./help/common-pitfalls-in-kitchen-cabinet-upgrades.json) — schema
+- [`help/comparing-different-vanity-and-cabinet-options-for-your-bathroom.json`](./help/comparing-different-vanity-and-cabinet-options-for-your-bathroom.json) — schema
+- [`help/considering-a-home-addition-in-oakland-how-to-plan-for-structural-changes.json`](./help/considering-a-home-addition-in-oakland-how-to-plan-for-structural-changes.json) — schema
 - [`help/dealing-with-outdated-bathroom-wiring-what-to-know.json`](./help/dealing-with-outdated-bathroom-wiring-what-to-know.json) — schema
+- [`help/dealing-with-unfinished-walls-what-to-know-before-you-paint.json`](./help/dealing-with-unfinished-walls-what-to-know-before-you-paint.json) — schema
+- [`help/deciding-on-electrical-upgrades-for-your-kitchen-in-albany.json`](./help/deciding-on-electrical-upgrades-for-your-kitchen-in-albany.json) — schema
 - [`help/do-i-really-need-a-professional-for-a-damaged-control-board.json`](./help/do-i-really-need-a-professional-for-a-damaged-control-board.json) — schema
 - [`help/don-t-make-these-cabinet-installation-mistakes.json`](./help/don-t-make-these-cabinet-installation-mistakes.json) — schema
 - [`help/don-t-make-these-remodel-plumbing-mistakes.json`](./help/don-t-make-these-remodel-plumbing-mistakes.json) — schema
 - [`help/don-t-overlook-these-final-details-in-your-renovation.json`](./help/don-t-overlook-these-final-details-in-your-renovation.json) — schema
 - [`help/electrical-coordination-your-top-questions-answered.json`](./help/electrical-coordination-your-top-questions-answered.json) — schema
+- [`help/ensuring-appliance-delivery-success-in-berkeley-what-to-prepare.json`](./help/ensuring-appliance-delivery-success-in-berkeley-what-to-prepare.json) — schema
+- [`help/estimating-the-timeline-for-your-interior-home-renovation.json`](./help/estimating-the-timeline-for-your-interior-home-renovation.json) — schema
+- [`help/full-bathroom-renovation-how-to-choose-the-right-contractor.json`](./help/full-bathroom-renovation-how-to-choose-the-right-contractor.json) — schema
+- [`help/full-bathroom-renovation-understanding-permit-and-inspection-needs.json`](./help/full-bathroom-renovation-understanding-permit-and-inspection-needs.json) — schema
+- [`help/full-bathroom-renovation-when-to-consider-a-complete-demolition.json`](./help/full-bathroom-renovation-when-to-consider-a-complete-demolition.json) — schema
 - [`help/getting-plumbing-rough-in-right-the-first-time.json`](./help/getting-plumbing-rough-in-right-the-first-time.json) — schema
 - [`help/getting-the-details-right-what-to-look-for-in-trim-and-molding-installation.json`](./help/getting-the-details-right-what-to-look-for-in-trim-and-molding-installation.json) — schema
 - [`help/getting-the-right-fit-for-your-custom-cabinets.json`](./help/getting-the-right-fit-for-your-custom-cabinets.json) — schema
+- [`help/getting-your-cabinets-right-a-pre-installation-checklist-for-alameda.json`](./help/getting-your-cabinets-right-a-pre-installation-checklist-for-alameda.json) — schema
 - [`help/getting-your-kitchen-ready-for-new-appliances-a-step-by-step-guide.json`](./help/getting-your-kitchen-ready-for-new-appliances-a-step-by-step-guide.json) — schema
+- [`help/getting-your-kitchen-ready-for-new-appliances-what-to-prepare-first.json`](./help/getting-your-kitchen-ready-for-new-appliances-what-to-prepare-first.json) — schema
 - [`help/help-my-paint-project-is-taking-forever-what-gives.json`](./help/help-my-paint-project-is-taking-forever-what-gives.json) — schema
+- [`help/hiring-a-kitchen-remodeling-contractor-what-to-ask-before-you-decide.json`](./help/hiring-a-kitchen-remodeling-contractor-what-to-ask-before-you-decide.json) — schema
 - [`help/how-do-i-prepare-my-home-for-finish-carpentry-work.json`](./help/how-do-i-prepare-my-home-for-finish-carpentry-work.json) — schema
 - [`help/how-long-does-a-full-kitchen-renovation-really-take.json`](./help/how-long-does-a-full-kitchen-renovation-really-take.json) — schema
 - [`help/how-long-does-countertop-replacement-really-take.json`](./help/how-long-does-countertop-replacement-really-take.json) — schema
 - [`help/how-long-does-gate-repair-really-take.json`](./help/how-long-does-gate-repair-really-take.json) — schema
 - [`help/how-long-does-professional-kitchen-cabinet-painting-really-take.json`](./help/how-long-does-professional-kitchen-cabinet-painting-really-take.json) — schema
+- [`help/how-to-achieve-a-smooth-and-lasting-interior-paint-finish.json`](./help/how-to-achieve-a-smooth-and-lasting-interior-paint-finish.json) — schema
 - [`help/how-to-avoid-common-countertop-installation-mistakes.json`](./help/how-to-avoid-common-countertop-installation-mistakes.json) — schema
 - [`help/how-to-avoid-common-mistakes-in-deck-repair.json`](./help/how-to-avoid-common-mistakes-in-deck-repair.json) — schema
 - [`help/how-to-avoid-common-mistakes-in-finish-carpentry-coordination.json`](./help/how-to-avoid-common-mistakes-in-finish-carpentry-coordination.json) — schema
@@ -1615,11 +2463,13 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/how-to-choose-the-right-contractor-for-deck-structural-repairs.json`](./help/how-to-choose-the-right-contractor-for-deck-structural-repairs.json) — schema
 - [`help/how-to-coordinate-plumbing-and-electrical-in-your-home-addition.json`](./help/how-to-coordinate-plumbing-and-electrical-in-your-home-addition.json) — schema
 - [`help/how-to-coordinate-plumbing-with-other-trades-seamlessly.json`](./help/how-to-coordinate-plumbing-with-other-trades-seamlessly.json) — schema
+- [`help/how-to-coordinate-subcontractors-for-your-east-bay-remodel.json`](./help/how-to-coordinate-subcontractors-for-your-east-bay-remodel.json) — schema
 - [`help/how-to-ensure-your-cabinet-quote-is-complete.json`](./help/how-to-ensure-your-cabinet-quote-is-complete.json) — schema
 - [`help/how-to-ensure-your-new-shower-or-tub-installation-goes-smoothly.json`](./help/how-to-ensure-your-new-shower-or-tub-installation-goes-smoothly.json) — schema
 - [`help/how-to-ensure-your-new-vanity-plumbing-is-leak-free.json`](./help/how-to-ensure-your-new-vanity-plumbing-is-leak-free.json) — schema
 - [`help/how-to-fix-a-loose-deck-railing-post.json`](./help/how-to-fix-a-loose-deck-railing-post.json) — schema
 - [`help/how-to-get-a-flawless-paint-finish-in-your-home-addition.json`](./help/how-to-get-a-flawless-paint-finish-in-your-home-addition.json) — schema
+- [`help/how-to-get-started-on-modernizing-your-bathroom.json`](./help/how-to-get-started-on-modernizing-your-bathroom.json) — schema
 - [`help/how-to-identify-the-right-replacement-board-for-your-gate-operator.json`](./help/how-to-identify-the-right-replacement-board-for-your-gate-operator.json) — schema
 - [`help/how-to-improve-your-home-s-layout-for-better-flow.json`](./help/how-to-improve-your-home-s-layout-for-better-flow.json) — schema
 - [`help/how-to-keep-your-deck-looking-great-year-round.json`](./help/how-to-keep-your-deck-looking-great-year-round.json) — schema
@@ -1629,6 +2479,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/how-to-modernize-an-old-room-without-a-full-remodel.json`](./help/how-to-modernize-an-old-room-without-a-full-remodel.json) — schema
 - [`help/how-to-plan-a-seamless-home-addition-without-the-headaches.json`](./help/how-to-plan-a-seamless-home-addition-without-the-headaches.json) — schema
 - [`help/how-to-plan-for-a-smooth-flooring-installation.json`](./help/how-to-plan-for-a-smooth-flooring-installation.json) — schema
+- [`help/how-to-plan-for-better-circulation-in-your-kitchen-or-bath.json`](./help/how-to-plan-for-better-circulation-in-your-kitchen-or-bath.json) — schema
 - [`help/how-to-plan-for-flawless-cabinet-installation.json`](./help/how-to-plan-for-flawless-cabinet-installation.json) — schema
 - [`help/how-to-plan-for-new-electrical-work-in-your-remodel.json`](./help/how-to-plan-for-new-electrical-work-in-your-remodel.json) — schema
 - [`help/how-to-plan-your-backsplash-installation-timeline.json`](./help/how-to-plan-your-backsplash-installation-timeline.json) — schema
@@ -1636,26 +2487,45 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/how-to-plan-your-custom-kitchen-cabinet-project.json`](./help/how-to-plan-your-custom-kitchen-cabinet-project.json) — schema
 - [`help/how-to-plan-your-full-bathroom-renovation-without-major-headaches.json`](./help/how-to-plan-your-full-bathroom-renovation-without-major-headaches.json) — schema
 - [`help/how-to-plan-your-full-kitchen-renovation-without-losing-your-mind.json`](./help/how-to-plan-your-full-kitchen-renovation-without-losing-your-mind.json) — schema
+- [`help/how-to-plan-your-kitchen-layout-for-better-flow-and-function.json`](./help/how-to-plan-your-kitchen-layout-for-better-flow-and-function.json) — schema
+- [`help/how-to-plan-your-kitchen-lighting-layout-in-el-cerrito.json`](./help/how-to-plan-your-kitchen-lighting-layout-in-el-cerrito.json) — schema
+- [`help/how-to-plan-your-kitchen-remodel-layout-effectively.json`](./help/how-to-plan-your-kitchen-remodel-layout-effectively.json) — schema
 - [`help/how-to-plan-your-multi-room-remodel.json`](./help/how-to-plan-your-multi-room-remodel.json) — schema
 - [`help/how-to-plan-your-remodel-project-s-sequence-effectively.json`](./help/how-to-plan-your-remodel-project-s-sequence-effectively.json) — schema
+- [`help/how-to-plan-your-vanity-installation-a-step-by-step-guide.json`](./help/how-to-plan-your-vanity-installation-a-step-by-step-guide.json) — schema
 - [`help/how-to-prep-your-walls-for-a-flawless-paint-finish.json`](./help/how-to-prep-your-walls-for-a-flawless-paint-finish.json) — schema
+- [`help/how-to-prepare-for-your-kitchen-plumbing-relocation.json`](./help/how-to-prepare-for-your-kitchen-plumbing-relocation.json) — schema
 - [`help/how-to-prepare-for-your-renovation-walkthrough.json`](./help/how-to-prepare-for-your-renovation-walkthrough.json) — schema
+- [`help/how-to-prepare-for-your-vanity-and-cabinet-installation.json`](./help/how-to-prepare-for-your-vanity-and-cabinet-installation.json) — schema
+- [`help/how-to-prepare-surfaces-for-painting-a-new-addition-in-oakland.json`](./help/how-to-prepare-surfaces-for-painting-a-new-addition-in-oakland.json) — schema
+- [`help/how-to-prepare-your-home-for-new-appliance-installation.json`](./help/how-to-prepare-your-home-for-new-appliance-installation.json) — schema
+- [`help/how-to-prepare-your-space-for-appliance-installation-in-oakland.json`](./help/how-to-prepare-your-space-for-appliance-installation-in-oakland.json) — schema
 - [`help/how-to-spot-a-bad-cabinet-repair.json`](./help/how-to-spot-a-bad-cabinet-repair.json) — schema
 - [`help/how-to-stabilize-a-wobbly-fence-post.json`](./help/how-to-stabilize-a-wobbly-fence-post.json) — schema
 - [`help/how-to-tell-if-your-deck-needs-new-boards-or-a-full-replacement.json`](./help/how-to-tell-if-your-deck-needs-new-boards-or-a-full-replacement.json) — schema
 - [`help/how-to-tell-if-your-wood-fence-can-be-saved.json`](./help/how-to-tell-if-your-wood-fence-can-be-saved.json) — schema
+- [`help/interior-build-outs-in-el-cerrito-avoiding-common-mistakes.json`](./help/interior-build-outs-in-el-cerrito-avoiding-common-mistakes.json) — schema
 - [`help/is-a-full-home-remodel-right-for-your-berkeley-home.json`](./help/is-a-full-home-remodel-right-for-your-berkeley-home.json) — schema
+- [`help/is-a-full-kitchen-renovation-right-for-your-berkeley-home.json`](./help/is-a-full-kitchen-renovation-right-for-your-berkeley-home.json) — schema
 - [`help/is-a-home-addition-the-right-move-for-my-property.json`](./help/is-a-home-addition-the-right-move-for-my-property.json) — schema
 - [`help/is-a-room-addition-right-for-my-east-bay-home.json`](./help/is-a-room-addition-right-for-my-east-bay-home.json) — schema
+- [`help/is-a-room-expansion-worth-it-in-alameda-comparing-your-options.json`](./help/is-a-room-expansion-worth-it-in-alameda-comparing-your-options.json) — schema
 - [`help/is-diy-room-painting-worth-the-trouble.json`](./help/is-diy-room-painting-worth-the-trouble.json) — schema
 - [`help/is-it-really-necessary-to-hire-a-professional-for-vanity-installation.json`](./help/is-it-really-necessary-to-hire-a-professional-for-vanity-installation.json) — schema
 - [`help/is-moving-my-bathroom-fixtures-a-diy-job.json`](./help/is-moving-my-bathroom-fixtures-a-diy-job.json) — schema
+- [`help/is-my-bathroom-lighting-safe-for-shower-areas.json`](./help/is-my-bathroom-lighting-safe-for-shower-areas.json) — schema
 - [`help/is-that-electrical-issue-just-a-blip-or-a-big-problem.json`](./help/is-that-electrical-issue-just-a-blip-or-a-big-problem.json) — schema
+- [`help/is-your-bathroom-vanity-project-stuck-how-to-avoid-common-pitfalls.json`](./help/is-your-bathroom-vanity-project-stuck-how-to-avoid-common-pitfalls.json) — schema
 - [`help/is-your-current-plumbing-ready-for-a-remodel.json`](./help/is-your-current-plumbing-ready-for-a-remodel.json) — schema
+- [`help/is-your-home-layout-making-life-harder-signs-you-need-an-upgrade.json`](./help/is-your-home-layout-making-life-harder-signs-you-need-an-upgrade.json) — schema
 - [`help/is-your-kitchen-plumbing-ready-for-an-upgrade.json`](./help/is-your-kitchen-plumbing-ready-for-an-upgrade.json) — schema
+- [`help/is-your-kitchen-ready-for-a-complete-overhaul.json`](./help/is-your-kitchen-ready-for-a-complete-overhaul.json) — schema
+- [`help/is-your-kitchen-ready-for-a-smart-appliance-upgrade.json`](./help/is-your-kitchen-ready-for-a-smart-appliance-upgrade.json) — schema
 - [`help/is-your-new-light-fixture-too-heavy-for-the-box.json`](./help/is-your-new-light-fixture-too-heavy-for-the-box.json) — schema
 - [`help/key-steps-for-a-smooth-kitchen-remodel.json`](./help/key-steps-for-a-smooth-kitchen-remodel.json) — schema
+- [`help/making-sense-of-material-choices-for-your-kensington-renovation.json`](./help/making-sense-of-material-choices-for-your-kensington-renovation.json) — schema
 - [`help/making-sense-of-post-remodel-painting-timelines.json`](./help/making-sense-of-post-remodel-painting-timelines.json) — schema
+- [`help/making-smart-material-selections-for-your-sausalito-home-addition.json`](./help/making-smart-material-selections-for-your-sausalito-home-addition.json) — schema
 - [`help/making-sure-your-new-appliances-fit-a-pre-installation-checklist.json`](./help/making-sure-your-new-appliances-fit-a-pre-installation-checklist.json) — schema
 - [`help/making-your-bathroom-safe-and-comfortable-a-guide.json`](./help/making-your-bathroom-safe-and-comfortable-a-guide.json) — schema
 - [`help/mistakes-people-make-repairing-wood-fences.json`](./help/mistakes-people-make-repairing-wood-fences.json) — schema
@@ -1664,8 +2534,10 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/mistakes-to-avoid-during-your-kitchen-remodel.json`](./help/mistakes-to-avoid-during-your-kitchen-remodel.json) — schema
 - [`help/mistakes-to-avoid-when-coordinating-plumbing-and-electrical-for-your-addition.json`](./help/mistakes-to-avoid-when-coordinating-plumbing-and-electrical-for-your-addition.json) — schema
 - [`help/mistakes-to-avoid-when-installing-a-new-bathroom-vanity.json`](./help/mistakes-to-avoid-when-installing-a-new-bathroom-vanity.json) — schema
+- [`help/mistakes-to-avoid-when-modernizing-your-bathroom-in-oakland.json`](./help/mistakes-to-avoid-when-modernizing-your-bathroom-in-oakland.json) — schema
 - [`help/mistakes-to-avoid-when-painting-your-kitchen-cabinets-yourself.json`](./help/mistakes-to-avoid-when-painting-your-kitchen-cabinets-yourself.json) — schema
 - [`help/mistakes-to-avoid-when-planning-your-home-remodel.json`](./help/mistakes-to-avoid-when-planning-your-home-remodel.json) — schema
+- [`help/mistakes-to-avoid-when-planning-your-kitchen-renovation.json`](./help/mistakes-to-avoid-when-planning-your-kitchen-renovation.json) — schema
 - [`help/mistakes-to-avoid-when-repairing-your-fence.json`](./help/mistakes-to-avoid-when-repairing-your-fence.json) — schema
 - [`help/mistakes-to-avoid-when-restoring-surfaces.json`](./help/mistakes-to-avoid-when-restoring-surfaces.json) — schema
 - [`help/mistakes-to-avoid-when-troubleshooting-gate-issues.json`](./help/mistakes-to-avoid-when-troubleshooting-gate-issues.json) — schema
@@ -1682,15 +2554,33 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/my-fence-is-leaning-repair-or-replace.json`](./help/my-fence-is-leaning-repair-or-replace.json) — schema
 - [`help/my-walls-look-dull-is-it-time-for-a-paint-job.json`](./help/my-walls-look-dull-is-it-time-for-a-paint-job.json) — schema
 - [`help/navigating-interior-painting-a-step-by-step-guide.json`](./help/navigating-interior-painting-a-step-by-step-guide.json) — schema
+- [`help/navigating-interior-renovation-timelines-in-albany.json`](./help/navigating-interior-renovation-timelines-in-albany.json) — schema
+- [`help/navigating-permit-requirements-for-your-home-remodel-in-berkeley.json`](./help/navigating-permit-requirements-for-your-home-remodel-in-berkeley.json) — schema
+- [`help/navigating-permits-for-your-kitchen-electrical-work.json`](./help/navigating-permits-for-your-kitchen-electrical-work.json) — schema
 - [`help/navigating-room-addition-permits-in-the-east-bay.json`](./help/navigating-room-addition-permits-in-the-east-bay.json) — schema
+- [`help/navigating-room-expansion-permits-in-berkeley-what-to-expect.json`](./help/navigating-room-expansion-permits-in-berkeley-what-to-expect.json) — schema
+- [`help/navigating-the-remodeling-process-what-to-expect.json`](./help/navigating-the-remodeling-process-what-to-expect.json) — schema
 - [`help/navigating-the-timeline-of-your-home-remodeling-project.json`](./help/navigating-the-timeline-of-your-home-remodeling-project.json) — schema
+- [`help/optimizing-your-small-kitchen-layout-in-kensington-a-how-to-guide.json`](./help/optimizing-your-small-kitchen-layout-in-kensington-a-how-to-guide.json) — schema
 - [`help/painting-perfection-what-to-do-before-the-brushes-come-out.json`](./help/painting-perfection-what-to-do-before-the-brushes-come-out.json) — schema
+- [`help/planning-an-accessible-bathroom-remodel-what-to-consider-in-berkeley.json`](./help/planning-an-accessible-bathroom-remodel-what-to-consider-in-berkeley.json) — schema
+- [`help/planning-an-accessible-bathroom-remodel-where-to-start.json`](./help/planning-an-accessible-bathroom-remodel-where-to-start.json) — schema
+- [`help/planning-an-interior-build-out-in-albany-what-to-prepare.json`](./help/planning-an-interior-build-out-in-albany-what-to-prepare.json) — schema
+- [`help/planning-your-bathroom-tile-project-what-to-prepare-first.json`](./help/planning-your-bathroom-tile-project-what-to-prepare-first.json) — schema
+- [`help/planning-your-kitchen-electrical-upgrade-a-checklist.json`](./help/planning-your-kitchen-electrical-upgrade-a-checklist.json) — schema
+- [`help/preparing-for-a-bathroom-electrical-upgrade-in-kensington.json`](./help/preparing-for-a-bathroom-electrical-upgrade-in-kensington.json) — schema
 - [`help/preparing-for-a-flawless-tile-installation-a-checklist.json`](./help/preparing-for-a-flawless-tile-installation-a-checklist.json) — schema
+- [`help/preparing-your-home-for-an-extensive-interior-renovation.json`](./help/preparing-your-home-for-an-extensive-interior-renovation.json) — schema
 - [`help/preparing-your-home-for-an-interior-paint-project.json`](./help/preparing-your-home-for-an-interior-paint-project.json) — schema
+- [`help/preparing-your-walls-for-painting-a-checklist-for-albany-homeowners.json`](./help/preparing-your-walls-for-painting-a-checklist-for-albany-homeowners.json) — schema
 - [`help/prepping-for-perfect-trim-paint.json`](./help/prepping-for-perfect-trim-paint.json) — schema
+- [`help/preventing-mistakes-in-interior-finish-upgrades.json`](./help/preventing-mistakes-in-interior-finish-upgrades.json) — schema
+- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
+- [`help/relocating-bathroom-fixtures-what-to-know-before-you-start.json`](./help/relocating-bathroom-fixtures-what-to-know-before-you-start.json) — schema
 - [`help/should-you-repair-or-replace-your-fence-panel.json`](./help/should-you-repair-or-replace-your-fence-panel.json) — schema
 - [`help/signs-it-s-time-for-a-full-kitchen-renovation.json`](./help/signs-it-s-time-for-a-full-kitchen-renovation.json) — schema
 - [`help/signs-it-s-time-for-a-plumbing-or-electrical-pro.json`](./help/signs-it-s-time-for-a-plumbing-or-electrical-pro.json) — schema
+- [`help/signs-you-need-a-kitchen-electrical-and-lighting-upgrade.json`](./help/signs-you-need-a-kitchen-electrical-and-lighting-upgrade.json) — schema
 - [`help/signs-your-bathroom-needs-accessibility-upgrades.json`](./help/signs-your-bathroom-needs-accessibility-upgrades.json) — schema
 - [`help/signs-your-countertops-need-an-upgrade.json`](./help/signs-your-countertops-need-an-upgrade.json) — schema
 - [`help/signs-your-deck-railing-needs-professional-repair.json`](./help/signs-your-deck-railing-needs-professional-repair.json) — schema
@@ -1703,10 +2593,18 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/the-hidden-costs-of-diy-bathroom-plumbing.json`](./help/the-hidden-costs-of-diy-bathroom-plumbing.json) — schema
 - [`help/the-hidden-costs-of-room-additions.json`](./help/the-hidden-costs-of-room-additions.json) — schema
 - [`help/the-right-way-to-replace-a-rotted-fence-post.json`](./help/the-right-way-to-replace-a-rotted-fence-post.json) — schema
+- [`help/tile-and-surface-updates-what-to-expect-during-the-process.json`](./help/tile-and-surface-updates-what-to-expect-during-the-process.json) — schema
+- [`help/timeline-for-a-typical-kitchen-modernization-project-in-el-cerrito.json`](./help/timeline-for-a-typical-kitchen-modernization-project-in-el-cerrito.json) — schema
 - [`help/tired-of-your-bathroom-tile-here-s-how-to-upgrade.json`](./help/tired-of-your-bathroom-tile-here-s-how-to-upgrade.json) — schema
 - [`help/top-mistakes-to-avoid-when-refinishing-cabinets.json`](./help/top-mistakes-to-avoid-when-refinishing-cabinets.json) — schema
 - [`help/top-mistakes-to-avoid-with-deck-maintenance.json`](./help/top-mistakes-to-avoid-with-deck-maintenance.json) — schema
+- [`help/understanding-gfci-protection-for-your-san-francisco-bathroom.json`](./help/understanding-gfci-protection-for-your-san-francisco-bathroom.json) — schema
+- [`help/understanding-kitchen-electrical-requirements-for-your-remodel.json`](./help/understanding-kitchen-electrical-requirements-for-your-remodel.json) — schema
 - [`help/understanding-the-phases-of-an-interior-build-out.json`](./help/understanding-the-phases-of-an-interior-build-out.json) — schema
+- [`help/understanding-the-timeline-for-your-east-bay-interior-home-renovation.json`](./help/understanding-the-timeline-for-your-east-bay-interior-home-renovation.json) — schema
+- [`help/understanding-the-timeline-for-your-full-kitchen-renovation.json`](./help/understanding-the-timeline-for-your-full-kitchen-renovation.json) — schema
+- [`help/upgrading-your-bathroom-electrical-when-to-call-the-pros.json`](./help/upgrading-your-bathroom-electrical-when-to-call-the-pros.json) — schema
+- [`help/what-affects-the-timeline-for-modernizing-a-single-room.json`](./help/what-affects-the-timeline-for-modernizing-a-single-room.json) — schema
 - [`help/what-are-the-hidden-costs-of-expanding-a-room.json`](./help/what-are-the-hidden-costs-of-expanding-a-room.json) — schema
 - [`help/what-are-the-key-steps-in-a-kitchen-plumbing-upgrade.json`](./help/what-are-the-key-steps-in-a-kitchen-plumbing-upgrade.json) — schema
 - [`help/what-are-the-signs-my-deck-s-structure-is-compromised.json`](./help/what-are-the-signs-my-deck-s-structure-is-compromised.json) — schema
@@ -1716,16 +2614,20 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/what-happens-during-cabinet-refinishing.json`](./help/what-happens-during-cabinet-refinishing.json) — schema
 - [`help/what-happens-during-my-countertop-installation-project.json`](./help/what-happens-during-my-countertop-installation-project.json) — schema
 - [`help/what-mistakes-to-avoid-when-installing-a-backsplash.json`](./help/what-mistakes-to-avoid-when-installing-a-backsplash.json) — schema
+- [`help/what-permits-do-you-need-for-a-full-kitchen-renovation-in-the-east-bay.json`](./help/what-permits-do-you-need-for-a-full-kitchen-renovation-in-the-east-bay.json) — schema
 - [`help/what-s-included-in-a-professional-room-painting-quote.json`](./help/what-s-included-in-a-professional-room-painting-quote.json) — schema
 - [`help/what-s-involved-in-a-professional-bathroom-painting-project.json`](./help/what-s-involved-in-a-professional-bathroom-painting-project.json) — schema
 - [`help/what-s-involved-in-a-professional-surface-restoration.json`](./help/what-s-involved-in-a-professional-surface-restoration.json) — schema
 - [`help/what-s-the-right-time-for-trim-painting.json`](./help/what-s-the-right-time-for-trim-painting.json) — schema
 - [`help/what-should-i-expect-during-my-tile-project.json`](./help/what-should-i-expect-during-my-tile-project.json) — schema
+- [`help/what-to-ask-a-contractor-before-starting-your-bathroom-modification-project.json`](./help/what-to-ask-a-contractor-before-starting-your-bathroom-modification-project.json) — schema
+- [`help/what-to-ask-before-hiring-for-interior-renovation-in-el-cerrito.json`](./help/what-to-ask-before-hiring-for-interior-renovation-in-el-cerrito.json) — schema
 - [`help/what-to-ask-before-hiring-for-whole-home-painting.json`](./help/what-to-ask-before-hiring-for-whole-home-painting.json) — schema
 - [`help/what-to-ask-before-you-hire-a-cabinet-pro.json`](./help/what-to-ask-before-you-hire-a-cabinet-pro.json) — schema
 - [`help/what-to-check-before-installing-a-new-appliance.json`](./help/what-to-check-before-installing-a-new-appliance.json) — schema
 - [`help/what-to-consider-before-installing-new-electrical-fixtures.json`](./help/what-to-consider-before-installing-new-electrical-fixtures.json) — schema
 - [`help/what-to-consider-before-starting-an-interior-build-out.json`](./help/what-to-consider-before-starting-an-interior-build-out.json) — schema
+- [`help/what-to-consider-when-adding-space-to-your-kensington-home.json`](./help/what-to-consider-when-adding-space-to-your-kensington-home.json) — schema
 - [`help/what-to-do-when-your-bathroom-layout-just-doesn-t-work-anymore.json`](./help/what-to-do-when-your-bathroom-layout-just-doesn-t-work-anymore.json) — schema
 - [`help/what-to-do-when-your-bathroom-sink-plumbing-doesn-t-line-up.json`](./help/what-to-do-when-your-bathroom-sink-plumbing-doesn-t-line-up.json) — schema
 - [`help/what-to-do-when-your-fence-panel-is-loose.json`](./help/what-to-do-when-your-fence-panel-is-loose.json) — schema
@@ -1733,24 +2635,39 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/what-to-do-when-your-kitchen-electrical-isn-t-up-to-snuff.json`](./help/what-to-do-when-your-kitchen-electrical-isn-t-up-to-snuff.json) — schema
 - [`help/what-to-do-when-your-kitchen-layout-feels-all-wrong.json`](./help/what-to-do-when-your-kitchen-layout-feels-all-wrong.json) — schema
 - [`help/what-to-do-when-your-kitchen-plumbing-needs-an-upgrade.json`](./help/what-to-do-when-your-kitchen-plumbing-needs-an-upgrade.json) — schema
+- [`help/what-to-do-when-your-new-cabinets-arrive-damaged-in-albany.json`](./help/what-to-do-when-your-new-cabinets-arrive-damaged-in-albany.json) — schema
 - [`help/what-to-do-when-your-punch-list-feels-endless.json`](./help/what-to-do-when-your-punch-list-feels-endless.json) — schema
 - [`help/what-to-do-when-your-room-feels-outdated.json`](./help/what-to-do-when-your-room-feels-outdated.json) — schema
 - [`help/what-to-do-when-your-surfaces-look-worn-and-tired.json`](./help/what-to-do-when-your-surfaces-look-worn-and-tired.json) — schema
 - [`help/what-to-do-when-your-vanity-hardware-feels-loose.json`](./help/what-to-do-when-your-vanity-hardware-feels-loose.json) — schema
+- [`help/what-to-expect-during-a-full-bathroom-renovation-in-tiburon.json`](./help/what-to-expect-during-a-full-bathroom-renovation-in-tiburon.json) — schema
+- [`help/what-to-expect-during-a-full-kitchen-renovation-in-the-east-bay.json`](./help/what-to-expect-during-a-full-kitchen-renovation-in-the-east-bay.json) — schema
+- [`help/what-to-expect-during-a-full-kitchen-renovation.json`](./help/what-to-expect-during-a-full-kitchen-renovation.json) — schema
 - [`help/what-to-expect-during-a-multi-room-remodel.json`](./help/what-to-expect-during-a-multi-room-remodel.json) — schema
 - [`help/what-to-expect-during-cabinet-installation.json`](./help/what-to-expect-during-cabinet-installation.json) — schema
 - [`help/what-to-expect-during-the-project-closeout-phase.json`](./help/what-to-expect-during-the-project-closeout-phase.json) — schema
+- [`help/what-to-expect-during-your-full-bathroom-renovation-project.json`](./help/what-to-expect-during-your-full-bathroom-renovation-project.json) — schema
 - [`help/what-to-expect-during-your-home-renovation-walkthrough.json`](./help/what-to-expect-during-your-home-renovation-walkthrough.json) — schema
 - [`help/what-to-expect-during-your-interior-painting-project.json`](./help/what-to-expect-during-your-interior-painting-project.json) — schema
+- [`help/what-to-expect-during-your-kitchen-plumbing-upgrade.json`](./help/what-to-expect-during-your-kitchen-plumbing-upgrade.json) — schema
 - [`help/what-to-expect-when-adding-a-new-room-to-your-berkeley-home.json`](./help/what-to-expect-when-adding-a-new-room-to-your-berkeley-home.json) — schema
 - [`help/what-to-expect-when-painting-your-kitchen-cabinets.json`](./help/what-to-expect-when-painting-your-kitchen-cabinets.json) — schema
+- [`help/what-to-know-before-upgrading-your-bathroom-electrical-and-lighting.json`](./help/what-to-know-before-upgrading-your-bathroom-electrical-and-lighting.json) — schema
+- [`help/what-to-look-for-in-an-interior-renovation-contractor.json`](./help/what-to-look-for-in-an-interior-renovation-contractor.json) — schema
+- [`help/what-to-prepare-before-you-start-bathroom-plumbing-work.json`](./help/what-to-prepare-before-you-start-bathroom-plumbing-work.json) — schema
 - [`help/what-to-watch-out-for-when-budgeting-for-a-home-addition.json`](./help/what-to-watch-out-for-when-budgeting-for-a-home-addition.json) — schema
 - [`help/what-you-need-to-know-before-your-bathroom-plumbing-installation.json`](./help/what-you-need-to-know-before-your-bathroom-plumbing-installation.json) — schema
+- [`help/when-a-kitchen-layout-change-needs-a-pro.json`](./help/when-a-kitchen-layout-change-needs-a-pro.json) — schema
 - [`help/when-does-a-leaning-fence-post-need-professional-help.json`](./help/when-does-a-leaning-fence-post-need-professional-help.json) — schema
+- [`help/when-is-a-new-circuit-needed-for-bathroom-electrical.json`](./help/when-is-a-new-circuit-needed-for-bathroom-electrical.json) — schema
+- [`help/when-is-a-professional-essential-for-functional-layout-improvements-in-alameda.json`](./help/when-is-a-professional-essential-for-functional-layout-improvements-in-alameda.json) — schema
 - [`help/when-is-it-time-to-call-a-pro-for-shower-or-tub-upgrades.json`](./help/when-is-it-time-to-call-a-pro-for-shower-or-tub-upgrades.json) — schema
 - [`help/when-is-it-time-to-call-a-pro-for-tile-work.json`](./help/when-is-it-time-to-call-a-pro-for-tile-work.json) — schema
 - [`help/when-is-it-time-to-call-a-professional-for-trim-and-molding.json`](./help/when-is-it-time-to-call-a-professional-for-trim-and-molding.json) — schema
 - [`help/when-is-professional-flooring-installation-a-must.json`](./help/when-is-professional-flooring-installation-a-must.json) — schema
+- [`help/when-is-professional-help-essential-for-appliance-installation.json`](./help/when-is-professional-help-essential-for-appliance-installation.json) — schema
+- [`help/when-is-professional-interior-painting-a-must-have-in-tiburon.json`](./help/when-is-professional-interior-painting-a-must-have-in-tiburon.json) — schema
+- [`help/when-is-professional-interior-painting-a-must-have.json`](./help/when-is-professional-interior-painting-a-must-have.json) — schema
 - [`help/when-should-i-call-a-pro-for-cabinet-hardware-issues.json`](./help/when-should-i-call-a-pro-for-cabinet-hardware-issues.json) — schema
 - [`help/when-should-i-hire-a-pro-for-finish-carpentry-coordination.json`](./help/when-should-i-hire-a-pro-for-finish-carpentry-coordination.json) — schema
 - [`help/when-should-i-hire-a-pro-for-my-remodeling-project.json`](./help/when-should-i-hire-a-pro-for-my-remodeling-project.json) — schema
@@ -1759,32 +2676,44 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-should-i-worry-about-my-punch-list-deadline.json`](./help/when-should-i-worry-about-my-punch-list-deadline.json) — schema
 - [`help/when-should-you-hire-a-pro-for-your-bathroom-painting-needs.json`](./help/when-should-you-hire-a-pro-for-your-bathroom-painting-needs.json) — schema
 - [`help/when-should-you-hire-a-pro-for-your-interior-painting-project.json`](./help/when-should-you-hire-a-pro-for-your-interior-painting-project.json) — schema
+- [`help/when-should-you-hire-a-professional-for-bathroom-modifications.json`](./help/when-should-you-hire-a-professional-for-bathroom-modifications.json) — schema
 - [`help/when-should-you-paint-after-a-remodel.json`](./help/when-should-you-paint-after-a-remodel.json) — schema
 - [`help/when-should-you-upgrade-your-kitchen-plumbing-during-a-remodel.json`](./help/when-should-you-upgrade-your-kitchen-plumbing-during-a-remodel.json) — schema
+- [`help/when-to-bring-in-a-lead-safe-professional-for-cabinet-work.json`](./help/when-to-bring-in-a-lead-safe-professional-for-cabinet-work.json) — schema
 - [`help/when-to-bring-in-a-pro-for-countertop-installation.json`](./help/when-to-bring-in-a-pro-for-countertop-installation.json) — schema
 - [`help/when-to-bring-in-a-pro-for-remodel-electrical-work.json`](./help/when-to-bring-in-a-pro-for-remodel-electrical-work.json) — schema
 - [`help/when-to-bring-in-a-pro-for-your-home-renovation.json`](./help/when-to-bring-in-a-pro-for-your-home-renovation.json) — schema
 - [`help/when-to-bring-in-a-professional-for-remodel-planning.json`](./help/when-to-bring-in-a-professional-for-remodel-planning.json) — schema
 - [`help/when-to-bring-in-the-pros-for-cabinet-installation.json`](./help/when-to-bring-in-the-pros-for-cabinet-installation.json) — schema
+- [`help/when-to-call-a-pro-for-cabinet-installation-in-el-cerrito.json`](./help/when-to-call-a-pro-for-cabinet-installation-in-el-cerrito.json) — schema
 - [`help/when-to-call-a-pro-for-deck-board-replacement.json`](./help/when-to-call-a-pro-for-deck-board-replacement.json) — schema
+- [`help/when-to-call-a-pro-for-kitchen-design-and-layout-improvements.json`](./help/when-to-call-a-pro-for-kitchen-design-and-layout-improvements.json) — schema
 - [`help/when-to-call-a-pro-for-remodel-plumbing.json`](./help/when-to-call-a-pro-for-remodel-plumbing.json) — schema
 - [`help/when-to-call-a-pro-for-that-leaning-fence.json`](./help/when-to-call-a-pro-for-that-leaning-fence.json) — schema
+- [`help/when-to-call-a-pro-for-your-interior-finish-upgrades.json`](./help/when-to-call-a-pro-for-your-interior-finish-upgrades.json) — schema
 - [`help/when-to-call-a-pro-for-your-kitchen-backsplash.json`](./help/when-to-call-a-pro-for-your-kitchen-backsplash.json) — schema
+- [`help/when-to-call-a-pro-for-your-vanity-and-cabinet-installation.json`](./help/when-to-call-a-pro-for-your-vanity-and-cabinet-installation.json) — schema
+- [`help/when-to-call-a-professional-for-complex-bathroom-accessibility-upgrades.json`](./help/when-to-call-a-professional-for-complex-bathroom-accessibility-upgrades.json) — schema
 - [`help/when-to-call-an-electrician-for-fixture-installation.json`](./help/when-to-call-an-electrician-for-fixture-installation.json) — schema
 - [`help/when-to-call-in-a-pro-for-your-kitchen-remodel.json`](./help/when-to-call-in-a-pro-for-your-kitchen-remodel.json) — schema
 - [`help/when-to-get-a-pro-for-appliance-installation.json`](./help/when-to-get-a-pro-for-appliance-installation.json) — schema
 - [`help/when-to-repair-or-replace-your-damaged-stairs.json`](./help/when-to-repair-or-replace-your-damaged-stairs.json) — schema
 - [`help/when-to-repair-your-cabinets-vs-replace-them.json`](./help/when-to-repair-your-cabinets-vs-replace-them.json) — schema
+- [`help/when-to-upgrade-your-bathroom-electrical-in-alameda.json`](./help/when-to-upgrade-your-bathroom-electrical-in-alameda.json) — schema
+- [`help/when-to-upgrade-your-bathroom-plumbing-signs-it-s-time-for-professional-help.json`](./help/when-to-upgrade-your-bathroom-plumbing-signs-it-s-time-for-professional-help.json) — schema
+- [`help/when-to-upgrade-your-kitchen-electrical-panel-in-kensington.json`](./help/when-to-upgrade-your-kitchen-electrical-panel-in-kensington.json) — schema
 - [`help/when-your-bathroom-outlets-aren-t-cutting-it-anymore.json`](./help/when-your-bathroom-outlets-aren-t-cutting-it-anymore.json) — schema
 - [`help/when-your-deck-needs-more-than-just-a-cleaning.json`](./help/when-your-deck-needs-more-than-just-a-cleaning.json) — schema
 - [`help/when-your-diy-paint-job-goes-wrong.json`](./help/when-your-diy-paint-job-goes-wrong.json) — schema
 - [`help/when-your-electrical-system-needs-a-coordination-check.json`](./help/when-your-electrical-system-needs-a-coordination-check.json) — schema
 - [`help/when-your-fixture-installation-goes-wrong-common-mistakes-to-avoid.json`](./help/when-your-fixture-installation-goes-wrong-common-mistakes-to-avoid.json) — schema
 - [`help/when-your-interior-finishes-feel-outdated.json`](./help/when-your-interior-finishes-feel-outdated.json) — schema
+- [`help/when-your-kitchen-plumbing-upgrade-needs-a-permit.json`](./help/when-your-kitchen-plumbing-upgrade-needs-a-permit.json) — schema
 - [`help/when-your-new-door-hardware-just-won-t-cooperate.json`](./help/when-your-new-door-hardware-just-won-t-cooperate.json) — schema
 - [`help/when-your-paint-job-goes-wrong-mistakes-to-avoid.json`](./help/when-your-paint-job-goes-wrong-mistakes-to-avoid.json) — schema
 - [`help/when-your-remodel-budget-feels-out-of-control.json`](./help/when-your-remodel-budget-feels-out-of-control.json) — schema
 - [`help/when-your-room-layout-just-isn-t-working.json`](./help/when-your-room-layout-just-isn-t-working.json) — schema
+- [`help/when-your-sausalito-interior-build-out-needs-professional-coordination.json`](./help/when-your-sausalito-interior-build-out-needs-professional-coordination.json) — schema
 - [`help/when-your-vanity-dreams-don-t-quite-match-reality.json`](./help/when-your-vanity-dreams-don-t-quite-match-reality.json) — schema
 - [`help/why-are-my-cabinets-falling-apart.json`](./help/why-are-my-cabinets-falling-apart.json) — schema
 - [`help/why-are-my-cabinets-looking-so-worn-out.json`](./help/why-are-my-cabinets-looking-so-worn-out.json) — schema
@@ -1794,11 +2723,13 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-aren-t-my-cabinets-functioning-for-me-anymore.json`](./help/why-aren-t-my-cabinets-functioning-for-me-anymore.json) — schema
 - [`help/why-aren-t-my-cabinets-working-for-my-space.json`](./help/why-aren-t-my-cabinets-working-for-my-space.json) — schema
 - [`help/why-aren-t-my-new-addition-s-lights-working.json`](./help/why-aren-t-my-new-addition-s-lights-working.json) — schema
+- [`help/why-does-my-bathroom-plumbing-keep-leaking.json`](./help/why-does-my-bathroom-plumbing-keep-leaking.json) — schema
 - [`help/why-does-my-home-addition-project-feel-like-it-s-taking-forever.json`](./help/why-does-my-home-addition-project-feel-like-it-s-taking-forever.json) — schema
 - [`help/why-does-my-new-room-construction-project-always-seem-to-go-over-budget.json`](./help/why-does-my-new-room-construction-project-always-seem-to-go-over-budget.json) — schema
 - [`help/why-does-my-new-vanity-not-fit-right.json`](./help/why-does-my-new-vanity-not-fit-right.json) — schema
 - [`help/why-does-my-remodel-always-go-over-budget.json`](./help/why-does-my-remodel-always-go-over-budget.json) — schema
 - [`help/why-does-my-room-expansion-keep-running-into-roadblocks.json`](./help/why-does-my-room-expansion-keep-running-into-roadblocks.json) — schema
+- [`help/why-is-appliance-installation-coordination-so-tricky.json`](./help/why-is-appliance-installation-coordination-so-tricky.json) — schema
 - [`help/why-is-my-fence-post-wobbly.json`](./help/why-is-my-fence-post-wobbly.json) — schema
 - [`help/why-is-my-new-paint-job-peeling-so-soon.json`](./help/why-is-my-new-paint-job-peeling-so-soon.json) — schema
 - [`help/why-is-my-remodel-scope-so-hard-to-pin-down.json`](./help/why-is-my-remodel-scope-so-hard-to-pin-down.json) — schema
@@ -1807,273 +2738,34 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-isn-t-my-new-kitchen-appliance-working-right.json`](./help/why-isn-t-my-new-kitchen-appliance-working-right.json) — schema
 - [`help/why-proper-cabinet-installation-coordination-matters.json`](./help/why-proper-cabinet-installation-coordination-matters.json) — schema
 - [`help/why-your-bathroom-paint-isn-t-holding-up-and-what-to-do.json`](./help/why-your-bathroom-paint-isn-t-holding-up-and-what-to-do.json) — schema
+- [`help/why-your-berkeley-bathroom-remodel-needs-professional-accessibility-expertise.json`](./help/why-your-berkeley-bathroom-remodel-needs-professional-accessibility-expertise.json) — schema
+- [`help/why-your-berkeley-kitchen-feels-outdated-and-what-to-do-about-it.json`](./help/why-your-berkeley-kitchen-feels-outdated-and-what-to-do-about-it.json) — schema
 - [`help/why-your-fixture-installation-needs-a-pro.json`](./help/why-your-fixture-installation-needs-a-pro.json) — schema
+- [`help/why-your-full-bathroom-renovation-might-be-taking-longer-than-expected.json`](./help/why-your-full-bathroom-renovation-might-be-taking-longer-than-expected.json) — schema
+- [`help/why-your-kitchen-layout-might-not-be-working-for-you.json`](./help/why-your-kitchen-layout-might-not-be-working-for-you.json) — schema
+- [`help/why-your-kitchen-lighting-isn-t-working-how-you-expected.json`](./help/why-your-kitchen-lighting-isn-t-working-how-you-expected.json) — schema
+- [`help/why-your-kitchen-plumbing-upgrade-needs-a-pro-s-touch.json`](./help/why-your-kitchen-plumbing-upgrade-needs-a-pro-s-touch.json) — schema
+- [`help/why-your-kitchen-remodel-might-be-more-complex-than-you-think.json`](./help/why-your-kitchen-remodel-might-be-more-complex-than-you-think.json) — schema
+- [`help/why-your-new-addition-s-paint-job-looks-uneven-in-berkeley.json`](./help/why-your-new-addition-s-paint-job-looks-uneven-in-berkeley.json) — schema
+- [`help/why-your-new-appliance-might-not-fit-planning-for-delivery.json`](./help/why-your-new-appliance-might-not-fit-planning-for-delivery.json) — schema
+- [`help/why-your-new-interior-paint-job-isn-t-looking-its-best.json`](./help/why-your-new-interior-paint-job-isn-t-looking-its-best.json) — schema
+- [`help/why-your-outdated-kitchen-might-need-more-than-a-fresh-coat-of-paint.json`](./help/why-your-outdated-kitchen-might-need-more-than-a-fresh-coat-of-paint.json) — schema
 - [`help/why-your-remodel-schedule-keeps-slipping.json`](./help/why-your-remodel-schedule-keeps-slipping.json) — schema
+- [`help/why-your-remodeling-project-needs-a-solid-plan.json`](./help/why-your-remodeling-project-needs-a-solid-plan.json) — schema
 - [`help/why-your-trim-paint-isn-t-looking-great.json`](./help/why-your-trim-paint-isn-t-looking-great.json) — schema
 - [`help/worried-about-hidden-problems-in-my-bathroom-remodel.json`](./help/worried-about-hidden-problems-in-my-bathroom-remodel.json) — schema
 
-### Public Pages (265)
+### Public Pages (14)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
+- [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
+- [`articles/getting-started.html`](./articles/getting-started.html) — LLM-optimized public page
+- [`articles/local-service-guidance.html`](./articles/local-service-guidance.html) — LLM-optimized public page
+- [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
+- [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
+- [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
-- [`help/5-common-painting-mistakes-in-new-additions-and-how-to-avoid-them.html`](./help/5-common-painting-mistakes-in-new-additions-and-how-to-avoid-them.html) — LLM-optimized public page
-- [`help/5-mistakes-to-avoid-when-installing-cabinets.html`](./help/5-mistakes-to-avoid-when-installing-cabinets.html) — LLM-optimized public page
-- [`help/avoiding-common-cabinet-installation-headaches.html`](./help/avoiding-common-cabinet-installation-headaches.html) — LLM-optimized public page
-- [`help/avoiding-common-kitchen-design-blunders.html`](./help/avoiding-common-kitchen-design-blunders.html) — LLM-optimized public page
-- [`help/avoiding-common-kitchen-plumbing-installation-mistakes.html`](./help/avoiding-common-kitchen-plumbing-installation-mistakes.html) — LLM-optimized public page
-- [`help/avoiding-common-lighting-mistakes-in-your-remodel.html`](./help/avoiding-common-lighting-mistakes-in-your-remodel.html) — LLM-optimized public page
-- [`help/avoiding-common-mistakes-in-bathroom-electrical-upgrades.html`](./help/avoiding-common-mistakes-in-bathroom-electrical-upgrades.html) — LLM-optimized public page
-- [`help/avoiding-common-mistakes-in-bathroom-plumbing-installation.html`](./help/avoiding-common-mistakes-in-bathroom-plumbing-installation.html) — LLM-optimized public page
-- [`help/avoiding-common-mistakes-in-multi-room-remodeling.html`](./help/avoiding-common-mistakes-in-multi-room-remodeling.html) — LLM-optimized public page
-- [`help/avoiding-common-mistakes-in-stair-repair-projects.html`](./help/avoiding-common-mistakes-in-stair-repair-projects.html) — LLM-optimized public page
-- [`help/avoiding-common-mistakes-in-your-final-walkthrough.html`](./help/avoiding-common-mistakes-in-your-final-walkthrough.html) — LLM-optimized public page
-- [`help/avoiding-common-mistakes-with-new-appliance-hookups.html`](./help/avoiding-common-mistakes-with-new-appliance-hookups.html) — LLM-optimized public page
-- [`help/avoiding-common-pitfalls-in-your-bathroom-remodel-project.html`](./help/avoiding-common-pitfalls-in-your-bathroom-remodel-project.html) — LLM-optimized public page
-- [`help/avoiding-common-room-painting-blunders.html`](./help/avoiding-common-room-painting-blunders.html) — LLM-optimized public page
-- [`help/avoiding-costly-scheduling-mistakes-in-your-renovation.html`](./help/avoiding-costly-scheduling-mistakes-in-your-renovation.html) — LLM-optimized public page
-- [`help/avoiding-pitfalls-in-your-countertop-project.html`](./help/avoiding-pitfalls-in-your-countertop-project.html) — LLM-optimized public page
-- [`help/avoiding-regrets-with-custom-cabinetry.html`](./help/avoiding-regrets-with-custom-cabinetry.html) — LLM-optimized public page
-- [`help/bathroom-remodel-costs-what-am-i-really-paying-for.html`](./help/bathroom-remodel-costs-what-am-i-really-paying-for.html) — LLM-optimized public page
-- [`help/beyond-the-brush-when-to-hire-a-pro-for-paint-finish-work.html`](./help/beyond-the-brush-when-to-hire-a-pro-for-paint-finish-work.html) — LLM-optimized public page
-- [`help/can-i-repair-my-deck-s-support-system-safely.html`](./help/can-i-repair-my-deck-s-support-system-safely.html) — LLM-optimized public page
-- [`help/choosing-between-cabinet-refacing-and-replacement.html`](./help/choosing-between-cabinet-refacing-and-replacement.html) — LLM-optimized public page
-- [`help/choosing-the-right-contractor-for-your-interior-update.html`](./help/choosing-the-right-contractor-for-your-interior-update.html) — LLM-optimized public page
-- [`help/choosing-the-right-interior-finishes-for-your-home.html`](./help/choosing-the-right-interior-finishes-for-your-home.html) — LLM-optimized public page
-- [`help/common-electrical-mistakes-to-avoid-during-a-home-remodel.html`](./help/common-electrical-mistakes-to-avoid-during-a-home-remodel.html) — LLM-optimized public page
-- [`help/common-mistakes-homeowners-make-with-kitchen-plumbing.html`](./help/common-mistakes-homeowners-make-with-kitchen-plumbing.html) — LLM-optimized public page
-- [`help/common-mistakes-in-bathroom-accessibility-modifications.html`](./help/common-mistakes-in-bathroom-accessibility-modifications.html) — LLM-optimized public page
-- [`help/common-mistakes-to-sidestep-in-plumbing-installation.html`](./help/common-mistakes-to-sidestep-in-plumbing-installation.html) — LLM-optimized public page
-- [`help/common-mistakes-when-planning-kitchen-electrical.html`](./help/common-mistakes-when-planning-kitchen-electrical.html) — LLM-optimized public page
-- [`help/common-mistakes-when-redesigning-room-layouts.html`](./help/common-mistakes-when-redesigning-room-layouts.html) — LLM-optimized public page
-- [`help/common-mistakes-when-repairing-a-wooden-fence-panel.html`](./help/common-mistakes-when-repairing-a-wooden-fence-panel.html) — LLM-optimized public page
-- [`help/common-pitfalls-in-kitchen-cabinet-upgrades.html`](./help/common-pitfalls-in-kitchen-cabinet-upgrades.html) — LLM-optimized public page
-- [`help/dealing-with-outdated-bathroom-wiring-what-to-know.html`](./help/dealing-with-outdated-bathroom-wiring-what-to-know.html) — LLM-optimized public page
-- [`help/do-i-really-need-a-professional-for-a-damaged-control-board.html`](./help/do-i-really-need-a-professional-for-a-damaged-control-board.html) — LLM-optimized public page
-- [`help/don-t-make-these-cabinet-installation-mistakes.html`](./help/don-t-make-these-cabinet-installation-mistakes.html) — LLM-optimized public page
-- [`help/don-t-make-these-remodel-plumbing-mistakes.html`](./help/don-t-make-these-remodel-plumbing-mistakes.html) — LLM-optimized public page
-- [`help/don-t-overlook-these-final-details-in-your-renovation.html`](./help/don-t-overlook-these-final-details-in-your-renovation.html) — LLM-optimized public page
-- [`help/electrical-coordination-your-top-questions-answered.html`](./help/electrical-coordination-your-top-questions-answered.html) — LLM-optimized public page
-- [`help/getting-plumbing-rough-in-right-the-first-time.html`](./help/getting-plumbing-rough-in-right-the-first-time.html) — LLM-optimized public page
-- [`help/getting-the-details-right-what-to-look-for-in-trim-and-molding-installation.html`](./help/getting-the-details-right-what-to-look-for-in-trim-and-molding-installation.html) — LLM-optimized public page
-- [`help/getting-the-right-fit-for-your-custom-cabinets.html`](./help/getting-the-right-fit-for-your-custom-cabinets.html) — LLM-optimized public page
-- [`help/getting-your-kitchen-ready-for-new-appliances-a-step-by-step-guide.html`](./help/getting-your-kitchen-ready-for-new-appliances-a-step-by-step-guide.html) — LLM-optimized public page
-- [`help/help-my-paint-project-is-taking-forever-what-gives.html`](./help/help-my-paint-project-is-taking-forever-what-gives.html) — LLM-optimized public page
-- [`help/how-do-i-prepare-my-home-for-finish-carpentry-work.html`](./help/how-do-i-prepare-my-home-for-finish-carpentry-work.html) — LLM-optimized public page
-- [`help/how-long-does-a-full-kitchen-renovation-really-take.html`](./help/how-long-does-a-full-kitchen-renovation-really-take.html) — LLM-optimized public page
-- [`help/how-long-does-countertop-replacement-really-take.html`](./help/how-long-does-countertop-replacement-really-take.html) — LLM-optimized public page
-- [`help/how-long-does-gate-repair-really-take.html`](./help/how-long-does-gate-repair-really-take.html) — LLM-optimized public page
-- [`help/how-long-does-professional-kitchen-cabinet-painting-really-take.html`](./help/how-long-does-professional-kitchen-cabinet-painting-really-take.html) — LLM-optimized public page
-- [`help/how-to-avoid-common-countertop-installation-mistakes.html`](./help/how-to-avoid-common-countertop-installation-mistakes.html) — LLM-optimized public page
-- [`help/how-to-avoid-common-mistakes-in-deck-repair.html`](./help/how-to-avoid-common-mistakes-in-deck-repair.html) — LLM-optimized public page
-- [`help/how-to-avoid-common-mistakes-in-finish-carpentry-coordination.html`](./help/how-to-avoid-common-mistakes-in-finish-carpentry-coordination.html) — LLM-optimized public page
-- [`help/how-to-avoid-common-mistakes-when-upgrading-your-bathroom-vanity.html`](./help/how-to-avoid-common-mistakes-when-upgrading-your-bathroom-vanity.html) — LLM-optimized public page
-- [`help/how-to-avoid-common-remodeling-headaches.html`](./help/how-to-avoid-common-remodeling-headaches.html) — LLM-optimized public page
-- [`help/how-to-avoid-common-tile-installation-mistakes.html`](./help/how-to-avoid-common-tile-installation-mistakes.html) — LLM-optimized public page
-- [`help/how-to-avoid-electrical-coordination-headaches.html`](./help/how-to-avoid-electrical-coordination-headaches.html) — LLM-optimized public page
-- [`help/how-to-avoid-kitchen-electrical-headaches-during-a-remodel.html`](./help/how-to-avoid-kitchen-electrical-headaches-during-a-remodel.html) — LLM-optimized public page
-- [`help/how-to-avoid-painting-mistakes-in-your-remodel.html`](./help/how-to-avoid-painting-mistakes-in-your-remodel.html) — LLM-optimized public page
-- [`help/how-to-avoid-painting-project-headaches.html`](./help/how-to-avoid-painting-project-headaches.html) — LLM-optimized public page
-- [`help/how-to-choose-the-right-bathroom-lighting.html`](./help/how-to-choose-the-right-bathroom-lighting.html) — LLM-optimized public page
-- [`help/how-to-choose-the-right-contractor-for-deck-structural-repairs.html`](./help/how-to-choose-the-right-contractor-for-deck-structural-repairs.html) — LLM-optimized public page
-- [`help/how-to-coordinate-plumbing-and-electrical-in-your-home-addition.html`](./help/how-to-coordinate-plumbing-and-electrical-in-your-home-addition.html) — LLM-optimized public page
-- [`help/how-to-coordinate-plumbing-with-other-trades-seamlessly.html`](./help/how-to-coordinate-plumbing-with-other-trades-seamlessly.html) — LLM-optimized public page
-- [`help/how-to-ensure-your-cabinet-quote-is-complete.html`](./help/how-to-ensure-your-cabinet-quote-is-complete.html) — LLM-optimized public page
-- [`help/how-to-ensure-your-new-shower-or-tub-installation-goes-smoothly.html`](./help/how-to-ensure-your-new-shower-or-tub-installation-goes-smoothly.html) — LLM-optimized public page
-- [`help/how-to-ensure-your-new-vanity-plumbing-is-leak-free.html`](./help/how-to-ensure-your-new-vanity-plumbing-is-leak-free.html) — LLM-optimized public page
-- [`help/how-to-fix-a-loose-deck-railing-post.html`](./help/how-to-fix-a-loose-deck-railing-post.html) — LLM-optimized public page
-- [`help/how-to-get-a-flawless-paint-finish-in-your-home-addition.html`](./help/how-to-get-a-flawless-paint-finish-in-your-home-addition.html) — LLM-optimized public page
-- [`help/how-to-identify-the-right-replacement-board-for-your-gate-operator.html`](./help/how-to-identify-the-right-replacement-board-for-your-gate-operator.html) — LLM-optimized public page
-- [`help/how-to-improve-your-home-s-layout-for-better-flow.html`](./help/how-to-improve-your-home-s-layout-for-better-flow.html) — LLM-optimized public page
-- [`help/how-to-keep-your-deck-looking-great-year-round.html`](./help/how-to-keep-your-deck-looking-great-year-round.html) — LLM-optimized public page
-- [`help/how-to-keep-your-remodel-schedule-from-spiraling-out-of-control.html`](./help/how-to-keep-your-remodel-schedule-from-spiraling-out-of-control.html) — LLM-optimized public page
-- [`help/how-to-make-your-room-expansion-feel-like-it-s-always-been-there.html`](./help/how-to-make-your-room-expansion-feel-like-it-s-always-been-there.html) — LLM-optimized public page
-- [`help/how-to-master-your-punch-list-for-a-smooth-project-closeout.html`](./help/how-to-master-your-punch-list-for-a-smooth-project-closeout.html) — LLM-optimized public page
-- [`help/how-to-modernize-an-old-room-without-a-full-remodel.html`](./help/how-to-modernize-an-old-room-without-a-full-remodel.html) — LLM-optimized public page
-- [`help/how-to-plan-a-seamless-home-addition-without-the-headaches.html`](./help/how-to-plan-a-seamless-home-addition-without-the-headaches.html) — LLM-optimized public page
-- [`help/how-to-plan-for-a-smooth-flooring-installation.html`](./help/how-to-plan-for-a-smooth-flooring-installation.html) — LLM-optimized public page
-- [`help/how-to-plan-for-flawless-cabinet-installation.html`](./help/how-to-plan-for-flawless-cabinet-installation.html) — LLM-optimized public page
-- [`help/how-to-plan-for-new-electrical-work-in-your-remodel.html`](./help/how-to-plan-for-new-electrical-work-in-your-remodel.html) — LLM-optimized public page
-- [`help/how-to-plan-your-backsplash-installation-timeline.html`](./help/how-to-plan-your-backsplash-installation-timeline.html) — LLM-optimized public page
-- [`help/how-to-plan-your-berkeley-home-remodel.html`](./help/how-to-plan-your-berkeley-home-remodel.html) — LLM-optimized public page
-- [`help/how-to-plan-your-custom-kitchen-cabinet-project.html`](./help/how-to-plan-your-custom-kitchen-cabinet-project.html) — LLM-optimized public page
-- [`help/how-to-plan-your-full-bathroom-renovation-without-major-headaches.html`](./help/how-to-plan-your-full-bathroom-renovation-without-major-headaches.html) — LLM-optimized public page
-- [`help/how-to-plan-your-full-kitchen-renovation-without-losing-your-mind.html`](./help/how-to-plan-your-full-kitchen-renovation-without-losing-your-mind.html) — LLM-optimized public page
-- [`help/how-to-plan-your-multi-room-remodel.html`](./help/how-to-plan-your-multi-room-remodel.html) — LLM-optimized public page
-- [`help/how-to-plan-your-remodel-project-s-sequence-effectively.html`](./help/how-to-plan-your-remodel-project-s-sequence-effectively.html) — LLM-optimized public page
-- [`help/how-to-prep-your-walls-for-a-flawless-paint-finish.html`](./help/how-to-prep-your-walls-for-a-flawless-paint-finish.html) — LLM-optimized public page
-- [`help/how-to-prepare-for-your-renovation-walkthrough.html`](./help/how-to-prepare-for-your-renovation-walkthrough.html) — LLM-optimized public page
-- [`help/how-to-spot-a-bad-cabinet-repair.html`](./help/how-to-spot-a-bad-cabinet-repair.html) — LLM-optimized public page
-- [`help/how-to-stabilize-a-wobbly-fence-post.html`](./help/how-to-stabilize-a-wobbly-fence-post.html) — LLM-optimized public page
-- [`help/how-to-tell-if-your-deck-needs-new-boards-or-a-full-replacement.html`](./help/how-to-tell-if-your-deck-needs-new-boards-or-a-full-replacement.html) — LLM-optimized public page
-- [`help/how-to-tell-if-your-wood-fence-can-be-saved.html`](./help/how-to-tell-if-your-wood-fence-can-be-saved.html) — LLM-optimized public page
-- [`help/is-a-full-home-remodel-right-for-your-berkeley-home.html`](./help/is-a-full-home-remodel-right-for-your-berkeley-home.html) — LLM-optimized public page
-- [`help/is-a-home-addition-the-right-move-for-my-property.html`](./help/is-a-home-addition-the-right-move-for-my-property.html) — LLM-optimized public page
-- [`help/is-a-room-addition-right-for-my-east-bay-home.html`](./help/is-a-room-addition-right-for-my-east-bay-home.html) — LLM-optimized public page
-- [`help/is-diy-room-painting-worth-the-trouble.html`](./help/is-diy-room-painting-worth-the-trouble.html) — LLM-optimized public page
-- [`help/is-it-really-necessary-to-hire-a-professional-for-vanity-installation.html`](./help/is-it-really-necessary-to-hire-a-professional-for-vanity-installation.html) — LLM-optimized public page
-- [`help/is-moving-my-bathroom-fixtures-a-diy-job.html`](./help/is-moving-my-bathroom-fixtures-a-diy-job.html) — LLM-optimized public page
-- [`help/is-that-electrical-issue-just-a-blip-or-a-big-problem.html`](./help/is-that-electrical-issue-just-a-blip-or-a-big-problem.html) — LLM-optimized public page
-- [`help/is-your-current-plumbing-ready-for-a-remodel.html`](./help/is-your-current-plumbing-ready-for-a-remodel.html) — LLM-optimized public page
-- [`help/is-your-kitchen-plumbing-ready-for-an-upgrade.html`](./help/is-your-kitchen-plumbing-ready-for-an-upgrade.html) — LLM-optimized public page
-- [`help/is-your-new-light-fixture-too-heavy-for-the-box.html`](./help/is-your-new-light-fixture-too-heavy-for-the-box.html) — LLM-optimized public page
-- [`help/key-steps-for-a-smooth-kitchen-remodel.html`](./help/key-steps-for-a-smooth-kitchen-remodel.html) — LLM-optimized public page
-- [`help/making-sense-of-post-remodel-painting-timelines.html`](./help/making-sense-of-post-remodel-painting-timelines.html) — LLM-optimized public page
-- [`help/making-sure-your-new-appliances-fit-a-pre-installation-checklist.html`](./help/making-sure-your-new-appliances-fit-a-pre-installation-checklist.html) — LLM-optimized public page
-- [`help/making-your-bathroom-safe-and-comfortable-a-guide.html`](./help/making-your-bathroom-safe-and-comfortable-a-guide.html) — LLM-optimized public page
-- [`help/mistakes-people-make-repairing-wood-fences.html`](./help/mistakes-people-make-repairing-wood-fences.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-door-and-hardware-installation.html`](./help/mistakes-to-avoid-door-and-hardware-installation.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-during-your-interior-build-out-project.html`](./help/mistakes-to-avoid-during-your-interior-build-out-project.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-during-your-kitchen-remodel.html`](./help/mistakes-to-avoid-during-your-kitchen-remodel.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-coordinating-plumbing-and-electrical-for-your-addition.html`](./help/mistakes-to-avoid-when-coordinating-plumbing-and-electrical-for-your-addition.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-installing-a-new-bathroom-vanity.html`](./help/mistakes-to-avoid-when-installing-a-new-bathroom-vanity.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-painting-your-kitchen-cabinets-yourself.html`](./help/mistakes-to-avoid-when-painting-your-kitchen-cabinets-yourself.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-planning-your-home-remodel.html`](./help/mistakes-to-avoid-when-planning-your-home-remodel.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-repairing-your-fence.html`](./help/mistakes-to-avoid-when-repairing-your-fence.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-restoring-surfaces.html`](./help/mistakes-to-avoid-when-restoring-surfaces.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-troubleshooting-gate-issues.html`](./help/mistakes-to-avoid-when-troubleshooting-gate-issues.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-updating-an-outdated-room.html`](./help/mistakes-to-avoid-when-updating-an-outdated-room.html) — LLM-optimized public page
-- [`help/mistakes-to-sidestep-when-upgrading-your-interior-finishes.html`](./help/mistakes-to-sidestep-when-upgrading-your-interior-finishes.html) — LLM-optimized public page
-- [`help/mistakes-to-steer-clear-of-during-your-tile-project.html`](./help/mistakes-to-steer-clear-of-during-your-tile-project.html) — LLM-optimized public page
-- [`help/mistakes-to-steer-clear-of-when-upgrading-your-shower-or-tub.html`](./help/mistakes-to-steer-clear-of-when-upgrading-your-shower-or-tub.html) — LLM-optimized public page
-- [`help/my-automatic-gate-isn-t-opening-what-s-happening.html`](./help/my-automatic-gate-isn-t-opening-what-s-happening.html) — LLM-optimized public page
-- [`help/my-bathroom-is-tiny-can-i-still-remodel-it.html`](./help/my-bathroom-is-tiny-can-i-still-remodel-it.html) — LLM-optimized public page
-- [`help/my-cabinet-doors-are-crooked-can-i-fix-them-myself.html`](./help/my-cabinet-doors-are-crooked-can-i-fix-them-myself.html) — LLM-optimized public page
-- [`help/my-deck-boards-are-soft-what-s-going-on.html`](./help/my-deck-boards-are-soft-what-s-going-on.html) — LLM-optimized public page
-- [`help/my-deck-boards-feel-spongy-what-should-i-do.html`](./help/my-deck-boards-feel-spongy-what-should-i-do.html) — LLM-optimized public page
-- [`help/my-deck-railing-wiggles-is-it-still-safe.html`](./help/my-deck-railing-wiggles-is-it-still-safe.html) — LLM-optimized public page
-- [`help/my-fence-is-leaning-repair-or-replace.html`](./help/my-fence-is-leaning-repair-or-replace.html) — LLM-optimized public page
-- [`help/my-walls-look-dull-is-it-time-for-a-paint-job.html`](./help/my-walls-look-dull-is-it-time-for-a-paint-job.html) — LLM-optimized public page
-- [`help/navigating-interior-painting-a-step-by-step-guide.html`](./help/navigating-interior-painting-a-step-by-step-guide.html) — LLM-optimized public page
-- [`help/navigating-room-addition-permits-in-the-east-bay.html`](./help/navigating-room-addition-permits-in-the-east-bay.html) — LLM-optimized public page
-- [`help/navigating-the-timeline-of-your-home-remodeling-project.html`](./help/navigating-the-timeline-of-your-home-remodeling-project.html) — LLM-optimized public page
-- [`help/painting-perfection-what-to-do-before-the-brushes-come-out.html`](./help/painting-perfection-what-to-do-before-the-brushes-come-out.html) — LLM-optimized public page
-- [`help/preparing-for-a-flawless-tile-installation-a-checklist.html`](./help/preparing-for-a-flawless-tile-installation-a-checklist.html) — LLM-optimized public page
-- [`help/preparing-your-home-for-an-interior-paint-project.html`](./help/preparing-your-home-for-an-interior-paint-project.html) — LLM-optimized public page
-- [`help/prepping-for-perfect-trim-paint.html`](./help/prepping-for-perfect-trim-paint.html) — LLM-optimized public page
-- [`help/should-you-repair-or-replace-your-fence-panel.html`](./help/should-you-repair-or-replace-your-fence-panel.html) — LLM-optimized public page
-- [`help/signs-it-s-time-for-a-full-kitchen-renovation.html`](./help/signs-it-s-time-for-a-full-kitchen-renovation.html) — LLM-optimized public page
-- [`help/signs-it-s-time-for-a-plumbing-or-electrical-pro.html`](./help/signs-it-s-time-for-a-plumbing-or-electrical-pro.html) — LLM-optimized public page
-- [`help/signs-your-bathroom-needs-accessibility-upgrades.html`](./help/signs-your-bathroom-needs-accessibility-upgrades.html) — LLM-optimized public page
-- [`help/signs-your-countertops-need-an-upgrade.html`](./help/signs-your-countertops-need-an-upgrade.html) — LLM-optimized public page
-- [`help/signs-your-deck-railing-needs-professional-repair.html`](./help/signs-your-deck-railing-needs-professional-repair.html) — LLM-optimized public page
-- [`help/signs-your-gate-control-board-needs-replacing.html`](./help/signs-your-gate-control-board-needs-replacing.html) — LLM-optimized public page
-- [`help/signs-your-home-needs-a-professional-interior-paint-job.html`](./help/signs-your-home-needs-a-professional-interior-paint-job.html) — LLM-optimized public page
-- [`help/smooth-cabinet-installation-a-timeline.html`](./help/smooth-cabinet-installation-a-timeline.html) — LLM-optimized public page
-- [`help/smooth-fixture-installation-your-step-by-step-guide.html`](./help/smooth-fixture-installation-your-step-by-step-guide.html) — LLM-optimized public page
-- [`help/struggling-to-make-your-kitchen-flow-better.html`](./help/struggling-to-make-your-kitchen-flow-better.html) — LLM-optimized public page
-- [`help/tackling-persistent-plumbing-problems.html`](./help/tackling-persistent-plumbing-problems.html) — LLM-optimized public page
-- [`help/the-hidden-costs-of-diy-bathroom-plumbing.html`](./help/the-hidden-costs-of-diy-bathroom-plumbing.html) — LLM-optimized public page
-- [`help/the-hidden-costs-of-room-additions.html`](./help/the-hidden-costs-of-room-additions.html) — LLM-optimized public page
-- [`help/the-right-way-to-replace-a-rotted-fence-post.html`](./help/the-right-way-to-replace-a-rotted-fence-post.html) — LLM-optimized public page
-- [`help/tired-of-your-bathroom-tile-here-s-how-to-upgrade.html`](./help/tired-of-your-bathroom-tile-here-s-how-to-upgrade.html) — LLM-optimized public page
-- [`help/top-mistakes-to-avoid-when-refinishing-cabinets.html`](./help/top-mistakes-to-avoid-when-refinishing-cabinets.html) — LLM-optimized public page
-- [`help/top-mistakes-to-avoid-with-deck-maintenance.html`](./help/top-mistakes-to-avoid-with-deck-maintenance.html) — LLM-optimized public page
-- [`help/understanding-the-phases-of-an-interior-build-out.html`](./help/understanding-the-phases-of-an-interior-build-out.html) — LLM-optimized public page
-- [`help/what-are-the-hidden-costs-of-expanding-a-room.html`](./help/what-are-the-hidden-costs-of-expanding-a-room.html) — LLM-optimized public page
-- [`help/what-are-the-key-steps-in-a-kitchen-plumbing-upgrade.html`](./help/what-are-the-key-steps-in-a-kitchen-plumbing-upgrade.html) — LLM-optimized public page
-- [`help/what-are-the-signs-my-deck-s-structure-is-compromised.html`](./help/what-are-the-signs-my-deck-s-structure-is-compromised.html) — LLM-optimized public page
-- [`help/what-are-the-steps-for-a-smooth-bathroom-vanity-upgrade.html`](./help/what-are-the-steps-for-a-smooth-bathroom-vanity-upgrade.html) — LLM-optimized public page
-- [`help/what-do-i-need-to-decide-before-my-remodel-contractor-starts-bidding.html`](./help/what-do-i-need-to-decide-before-my-remodel-contractor-starts-bidding.html) — LLM-optimized public page
-- [`help/what-happens-during-a-professional-door-hardware-install.html`](./help/what-happens-during-a-professional-door-hardware-install.html) — LLM-optimized public page
-- [`help/what-happens-during-cabinet-refinishing.html`](./help/what-happens-during-cabinet-refinishing.html) — LLM-optimized public page
-- [`help/what-happens-during-my-countertop-installation-project.html`](./help/what-happens-during-my-countertop-installation-project.html) — LLM-optimized public page
-- [`help/what-mistakes-to-avoid-when-installing-a-backsplash.html`](./help/what-mistakes-to-avoid-when-installing-a-backsplash.html) — LLM-optimized public page
-- [`help/what-s-included-in-a-professional-room-painting-quote.html`](./help/what-s-included-in-a-professional-room-painting-quote.html) — LLM-optimized public page
-- [`help/what-s-involved-in-a-professional-bathroom-painting-project.html`](./help/what-s-involved-in-a-professional-bathroom-painting-project.html) — LLM-optimized public page
-- [`help/what-s-involved-in-a-professional-surface-restoration.html`](./help/what-s-involved-in-a-professional-surface-restoration.html) — LLM-optimized public page
-- [`help/what-s-the-right-time-for-trim-painting.html`](./help/what-s-the-right-time-for-trim-painting.html) — LLM-optimized public page
-- [`help/what-should-i-expect-during-my-tile-project.html`](./help/what-should-i-expect-during-my-tile-project.html) — LLM-optimized public page
-- [`help/what-to-ask-before-hiring-for-whole-home-painting.html`](./help/what-to-ask-before-hiring-for-whole-home-painting.html) — LLM-optimized public page
-- [`help/what-to-ask-before-you-hire-a-cabinet-pro.html`](./help/what-to-ask-before-you-hire-a-cabinet-pro.html) — LLM-optimized public page
-- [`help/what-to-check-before-installing-a-new-appliance.html`](./help/what-to-check-before-installing-a-new-appliance.html) — LLM-optimized public page
-- [`help/what-to-consider-before-installing-new-electrical-fixtures.html`](./help/what-to-consider-before-installing-new-electrical-fixtures.html) — LLM-optimized public page
-- [`help/what-to-consider-before-starting-an-interior-build-out.html`](./help/what-to-consider-before-starting-an-interior-build-out.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-bathroom-layout-just-doesn-t-work-anymore.html`](./help/what-to-do-when-your-bathroom-layout-just-doesn-t-work-anymore.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-bathroom-sink-plumbing-doesn-t-line-up.html`](./help/what-to-do-when-your-bathroom-sink-plumbing-doesn-t-line-up.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-fence-panel-is-loose.html`](./help/what-to-do-when-your-fence-panel-is-loose.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-interior-renovation-budget-gets-tricky.html`](./help/what-to-do-when-your-interior-renovation-budget-gets-tricky.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-kitchen-electrical-isn-t-up-to-snuff.html`](./help/what-to-do-when-your-kitchen-electrical-isn-t-up-to-snuff.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-kitchen-layout-feels-all-wrong.html`](./help/what-to-do-when-your-kitchen-layout-feels-all-wrong.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-kitchen-plumbing-needs-an-upgrade.html`](./help/what-to-do-when-your-kitchen-plumbing-needs-an-upgrade.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-punch-list-feels-endless.html`](./help/what-to-do-when-your-punch-list-feels-endless.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-room-feels-outdated.html`](./help/what-to-do-when-your-room-feels-outdated.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-surfaces-look-worn-and-tired.html`](./help/what-to-do-when-your-surfaces-look-worn-and-tired.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-vanity-hardware-feels-loose.html`](./help/what-to-do-when-your-vanity-hardware-feels-loose.html) — LLM-optimized public page
-- [`help/what-to-expect-during-a-multi-room-remodel.html`](./help/what-to-expect-during-a-multi-room-remodel.html) — LLM-optimized public page
-- [`help/what-to-expect-during-cabinet-installation.html`](./help/what-to-expect-during-cabinet-installation.html) — LLM-optimized public page
-- [`help/what-to-expect-during-the-project-closeout-phase.html`](./help/what-to-expect-during-the-project-closeout-phase.html) — LLM-optimized public page
-- [`help/what-to-expect-during-your-home-renovation-walkthrough.html`](./help/what-to-expect-during-your-home-renovation-walkthrough.html) — LLM-optimized public page
-- [`help/what-to-expect-during-your-interior-painting-project.html`](./help/what-to-expect-during-your-interior-painting-project.html) — LLM-optimized public page
-- [`help/what-to-expect-when-adding-a-new-room-to-your-berkeley-home.html`](./help/what-to-expect-when-adding-a-new-room-to-your-berkeley-home.html) — LLM-optimized public page
-- [`help/what-to-expect-when-painting-your-kitchen-cabinets.html`](./help/what-to-expect-when-painting-your-kitchen-cabinets.html) — LLM-optimized public page
-- [`help/what-to-watch-out-for-when-budgeting-for-a-home-addition.html`](./help/what-to-watch-out-for-when-budgeting-for-a-home-addition.html) — LLM-optimized public page
-- [`help/what-you-need-to-know-before-your-bathroom-plumbing-installation.html`](./help/what-you-need-to-know-before-your-bathroom-plumbing-installation.html) — LLM-optimized public page
-- [`help/when-does-a-leaning-fence-post-need-professional-help.html`](./help/when-does-a-leaning-fence-post-need-professional-help.html) — LLM-optimized public page
-- [`help/when-is-it-time-to-call-a-pro-for-shower-or-tub-upgrades.html`](./help/when-is-it-time-to-call-a-pro-for-shower-or-tub-upgrades.html) — LLM-optimized public page
-- [`help/when-is-it-time-to-call-a-pro-for-tile-work.html`](./help/when-is-it-time-to-call-a-pro-for-tile-work.html) — LLM-optimized public page
-- [`help/when-is-it-time-to-call-a-professional-for-trim-and-molding.html`](./help/when-is-it-time-to-call-a-professional-for-trim-and-molding.html) — LLM-optimized public page
-- [`help/when-is-professional-flooring-installation-a-must.html`](./help/when-is-professional-flooring-installation-a-must.html) — LLM-optimized public page
-- [`help/when-should-i-call-a-pro-for-cabinet-hardware-issues.html`](./help/when-should-i-call-a-pro-for-cabinet-hardware-issues.html) — LLM-optimized public page
-- [`help/when-should-i-hire-a-pro-for-finish-carpentry-coordination.html`](./help/when-should-i-hire-a-pro-for-finish-carpentry-coordination.html) — LLM-optimized public page
-- [`help/when-should-i-hire-a-pro-for-my-remodeling-project.html`](./help/when-should-i-hire-a-pro-for-my-remodeling-project.html) — LLM-optimized public page
-- [`help/when-should-i-hire-a-professional-for-addition-painting.html`](./help/when-should-i-hire-a-professional-for-addition-painting.html) — LLM-optimized public page
-- [`help/when-should-i-repair-my-deck-versus-replacing-it-entirely.html`](./help/when-should-i-repair-my-deck-versus-replacing-it-entirely.html) — LLM-optimized public page
-- [`help/when-should-i-worry-about-my-punch-list-deadline.html`](./help/when-should-i-worry-about-my-punch-list-deadline.html) — LLM-optimized public page
-- [`help/when-should-you-hire-a-pro-for-your-bathroom-painting-needs.html`](./help/when-should-you-hire-a-pro-for-your-bathroom-painting-needs.html) — LLM-optimized public page
-- [`help/when-should-you-hire-a-pro-for-your-interior-painting-project.html`](./help/when-should-you-hire-a-pro-for-your-interior-painting-project.html) — LLM-optimized public page
-- [`help/when-should-you-paint-after-a-remodel.html`](./help/when-should-you-paint-after-a-remodel.html) — LLM-optimized public page
-- [`help/when-should-you-upgrade-your-kitchen-plumbing-during-a-remodel.html`](./help/when-should-you-upgrade-your-kitchen-plumbing-during-a-remodel.html) — LLM-optimized public page
-- [`help/when-to-bring-in-a-pro-for-countertop-installation.html`](./help/when-to-bring-in-a-pro-for-countertop-installation.html) — LLM-optimized public page
-- [`help/when-to-bring-in-a-pro-for-remodel-electrical-work.html`](./help/when-to-bring-in-a-pro-for-remodel-electrical-work.html) — LLM-optimized public page
-- [`help/when-to-bring-in-a-pro-for-your-home-renovation.html`](./help/when-to-bring-in-a-pro-for-your-home-renovation.html) — LLM-optimized public page
-- [`help/when-to-bring-in-a-professional-for-remodel-planning.html`](./help/when-to-bring-in-a-professional-for-remodel-planning.html) — LLM-optimized public page
-- [`help/when-to-bring-in-the-pros-for-cabinet-installation.html`](./help/when-to-bring-in-the-pros-for-cabinet-installation.html) — LLM-optimized public page
-- [`help/when-to-call-a-pro-for-deck-board-replacement.html`](./help/when-to-call-a-pro-for-deck-board-replacement.html) — LLM-optimized public page
-- [`help/when-to-call-a-pro-for-remodel-plumbing.html`](./help/when-to-call-a-pro-for-remodel-plumbing.html) — LLM-optimized public page
-- [`help/when-to-call-a-pro-for-that-leaning-fence.html`](./help/when-to-call-a-pro-for-that-leaning-fence.html) — LLM-optimized public page
-- [`help/when-to-call-a-pro-for-your-kitchen-backsplash.html`](./help/when-to-call-a-pro-for-your-kitchen-backsplash.html) — LLM-optimized public page
-- [`help/when-to-call-an-electrician-for-fixture-installation.html`](./help/when-to-call-an-electrician-for-fixture-installation.html) — LLM-optimized public page
-- [`help/when-to-call-in-a-pro-for-your-kitchen-remodel.html`](./help/when-to-call-in-a-pro-for-your-kitchen-remodel.html) — LLM-optimized public page
-- [`help/when-to-get-a-pro-for-appliance-installation.html`](./help/when-to-get-a-pro-for-appliance-installation.html) — LLM-optimized public page
-- [`help/when-to-repair-or-replace-your-damaged-stairs.html`](./help/when-to-repair-or-replace-your-damaged-stairs.html) — LLM-optimized public page
-- [`help/when-to-repair-your-cabinets-vs-replace-them.html`](./help/when-to-repair-your-cabinets-vs-replace-them.html) — LLM-optimized public page
-- [`help/when-your-bathroom-outlets-aren-t-cutting-it-anymore.html`](./help/when-your-bathroom-outlets-aren-t-cutting-it-anymore.html) — LLM-optimized public page
-- [`help/when-your-deck-needs-more-than-just-a-cleaning.html`](./help/when-your-deck-needs-more-than-just-a-cleaning.html) — LLM-optimized public page
-- [`help/when-your-diy-paint-job-goes-wrong.html`](./help/when-your-diy-paint-job-goes-wrong.html) — LLM-optimized public page
-- [`help/when-your-electrical-system-needs-a-coordination-check.html`](./help/when-your-electrical-system-needs-a-coordination-check.html) — LLM-optimized public page
-- [`help/when-your-fixture-installation-goes-wrong-common-mistakes-to-avoid.html`](./help/when-your-fixture-installation-goes-wrong-common-mistakes-to-avoid.html) — LLM-optimized public page
-- [`help/when-your-interior-finishes-feel-outdated.html`](./help/when-your-interior-finishes-feel-outdated.html) — LLM-optimized public page
-- [`help/when-your-new-door-hardware-just-won-t-cooperate.html`](./help/when-your-new-door-hardware-just-won-t-cooperate.html) — LLM-optimized public page
-- [`help/when-your-paint-job-goes-wrong-mistakes-to-avoid.html`](./help/when-your-paint-job-goes-wrong-mistakes-to-avoid.html) — LLM-optimized public page
-- [`help/when-your-remodel-budget-feels-out-of-control.html`](./help/when-your-remodel-budget-feels-out-of-control.html) — LLM-optimized public page
-- [`help/when-your-room-layout-just-isn-t-working.html`](./help/when-your-room-layout-just-isn-t-working.html) — LLM-optimized public page
-- [`help/when-your-vanity-dreams-don-t-quite-match-reality.html`](./help/when-your-vanity-dreams-don-t-quite-match-reality.html) — LLM-optimized public page
-- [`help/why-are-my-cabinets-falling-apart.html`](./help/why-are-my-cabinets-falling-apart.html) — LLM-optimized public page
-- [`help/why-are-my-cabinets-looking-so-worn-out.html`](./help/why-are-my-cabinets-looking-so-worn-out.html) — LLM-optimized public page
-- [`help/why-are-my-stairs-creaking-and-what-should-i-do.html`](./help/why-are-my-stairs-creaking-and-what-should-i-do.html) — LLM-optimized public page
-- [`help/why-are-the-final-touches-on-my-remodel-so-important.html`](./help/why-are-the-final-touches-on-my-remodel-so-important.html) — LLM-optimized public page
-- [`help/why-are-there-gaps-in-my-trim-and-molding.html`](./help/why-are-there-gaps-in-my-trim-and-molding.html) — LLM-optimized public page
-- [`help/why-aren-t-my-cabinets-functioning-for-me-anymore.html`](./help/why-aren-t-my-cabinets-functioning-for-me-anymore.html) — LLM-optimized public page
-- [`help/why-aren-t-my-cabinets-working-for-my-space.html`](./help/why-aren-t-my-cabinets-working-for-my-space.html) — LLM-optimized public page
-- [`help/why-aren-t-my-new-addition-s-lights-working.html`](./help/why-aren-t-my-new-addition-s-lights-working.html) — LLM-optimized public page
-- [`help/why-does-my-home-addition-project-feel-like-it-s-taking-forever.html`](./help/why-does-my-home-addition-project-feel-like-it-s-taking-forever.html) — LLM-optimized public page
-- [`help/why-does-my-new-room-construction-project-always-seem-to-go-over-budget.html`](./help/why-does-my-new-room-construction-project-always-seem-to-go-over-budget.html) — LLM-optimized public page
-- [`help/why-does-my-new-vanity-not-fit-right.html`](./help/why-does-my-new-vanity-not-fit-right.html) — LLM-optimized public page
-- [`help/why-does-my-remodel-always-go-over-budget.html`](./help/why-does-my-remodel-always-go-over-budget.html) — LLM-optimized public page
-- [`help/why-does-my-room-expansion-keep-running-into-roadblocks.html`](./help/why-does-my-room-expansion-keep-running-into-roadblocks.html) — LLM-optimized public page
-- [`help/why-is-my-fence-post-wobbly.html`](./help/why-is-my-fence-post-wobbly.html) — LLM-optimized public page
-- [`help/why-is-my-new-paint-job-peeling-so-soon.html`](./help/why-is-my-new-paint-job-peeling-so-soon.html) — LLM-optimized public page
-- [`help/why-is-my-remodel-scope-so-hard-to-pin-down.html`](./help/why-is-my-remodel-scope-so-hard-to-pin-down.html) — LLM-optimized public page
-- [`help/why-isn-t-my-kitchen-lighting-working-for-me.html`](./help/why-isn-t-my-kitchen-lighting-working-for-me.html) — LLM-optimized public page
-- [`help/why-isn-t-my-new-flooring-looking-right.html`](./help/why-isn-t-my-new-flooring-looking-right.html) — LLM-optimized public page
-- [`help/why-isn-t-my-new-kitchen-appliance-working-right.html`](./help/why-isn-t-my-new-kitchen-appliance-working-right.html) — LLM-optimized public page
-- [`help/why-proper-cabinet-installation-coordination-matters.html`](./help/why-proper-cabinet-installation-coordination-matters.html) — LLM-optimized public page
-- [`help/why-your-bathroom-paint-isn-t-holding-up-and-what-to-do.html`](./help/why-your-bathroom-paint-isn-t-holding-up-and-what-to-do.html) — LLM-optimized public page
-- [`help/why-your-fixture-installation-needs-a-pro.html`](./help/why-your-fixture-installation-needs-a-pro.html) — LLM-optimized public page
-- [`help/why-your-remodel-schedule-keeps-slipping.html`](./help/why-your-remodel-schedule-keeps-slipping.html) — LLM-optimized public page
-- [`help/why-your-trim-paint-isn-t-looking-great.html`](./help/why-your-trim-paint-isn-t-looking-great.html) — LLM-optimized public page
-- [`help/worried-about-hidden-problems-in-my-bathroom-remodel.html`](./help/worried-about-hidden-problems-in-my-bathroom-remodel.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page
