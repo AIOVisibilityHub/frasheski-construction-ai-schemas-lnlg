@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/what-is-involved-in-cabinet-installation-coordination",
-  "name": "What is involved in cabinet installation coordination?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in cabinet installation coordination?",
+  "description": "Cabinet installation coordination manages the entire process from delivery to final placement, including scheduling, site prep, and coordinating with other trad",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-cabinet-installation-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in cabinet installation coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cabinet installation coordination involves managing all aspects of getting your new cabinets from design to final placement. This typically includes scheduling delivery, ensuring the site is prepared, coordinating with other trades like plumbers or electricians, and overseeing the installation process itself. For Frasheski Construction, this means we aim to integrate cabinet installation seamlessly into your overall renovation project, minimizing disruptions and ensuring a cohesive timeline with other scheduled work, such as countertop installation or appliance hookups.",
+        "description": "Cabinet installation coordination manages the entire process from delivery to final placement, including scheduling, site prep, and coordinating with other trades for a smooth project."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is involved in cabinet installation coordination?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Cabinet installation coordination involves managing all aspects of getting your new cabinets installed efficiently. This includes scheduling deliveries, ensuring the site is prepared, coordinating with other contractors like plumbers or electricians, and overseeing the installation process itself to ensure it meets design specifications and quality standards. Our goal is to minimize disruptions and ensure a smooth, timely installation for your project in areas like Berkeley or Oakland.",
-        "@type": "Answer",
-        "description": "Cabinet installation coordination manages cabinet delivery, site preparation, contractor scheduling, and installation oversight for a smooth process."
-      }
-    }
-  ],
-  "description": "Cabinet installation coordination manages cabinet delivery, site preparation, contractor scheduling, and installation oversight for a smooth process."
+  }
 }

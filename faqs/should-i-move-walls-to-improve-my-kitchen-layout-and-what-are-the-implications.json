@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I move walls to improve my kitchen layout, and what are the implications?",
+  "description": "Moving walls can open space, but load-bearing walls require structural engineering and increase project complexity and cost.",
+  "url": "frasheskiconstruction.com/faq/should-i-move-walls-to-improve-my-kitchen-layout-and-what-are-the-implications",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I move walls to improve my kitchen layout, and what are the implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deciding whether to move walls to improve your kitchen layout is a significant decision that impacts both design and budget. Moving non-load-bearing walls can open up space and improve flow, creating an open-concept living area. However, if a wall is load-bearing, it requires structural engineering and additional support, which significantly increases complexity, cost, and project duration. You will also need to consider the relocation of electrical, plumbing, and HVAC systems within those walls. We can assess your home's structure during our site visit to determine the feasibility and implications of wall removal, especially in older homes common in the East Bay.",
+        "description": "Moving walls can open space, but load-bearing walls require structural engineering and increase project complexity and cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

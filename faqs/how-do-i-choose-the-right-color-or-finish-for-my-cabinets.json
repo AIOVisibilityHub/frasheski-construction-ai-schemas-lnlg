@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right color or finish for my cabinets?",
+  "description": "Consider your home's aesthetic, existing elements, and natural light; we offer samples and advice to help you choose.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-color-or-finish-for-my-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right color or finish for my cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right color or finish for your cabinets involves considering your home's overall aesthetic, existing flooring, countertops, and wall colors. Natural lighting in your kitchen also plays a significant role in how colors appear. We can provide samples and expert advice to help you visualize different options and make a decision that enhances your home's appeal and fits your personal style, ensuring a cohesive look.",
+        "description": "Consider your home's aesthetic, existing elements, and natural light; we offer samples and advice to help you choose."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

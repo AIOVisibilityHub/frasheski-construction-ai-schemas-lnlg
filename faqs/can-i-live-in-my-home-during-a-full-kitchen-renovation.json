@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I live in my home during a full kitchen renovation?",
+  "description": "You can live in your home during a full kitchen renovation, but be prepared for disruptions, noise, and the need for a temporary kitchen setup.",
+  "url": "frasheskiconstruction.com/faq/can-i-live-in-my-home-during-a-full-kitchen-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I live in my home during a full kitchen renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Living in your home during a full kitchen renovation is possible but can be challenging. Expect noise, dust, and limited access to essential amenities like a sink or cooking appliances for several weeks. Many homeowners set up a temporary kitchen in another area of the house, using a microwave, hot plate, or outdoor grill. Discussing logistics and potential disruptions with your contractor beforehand is essential, as they can help minimize inconvenience and maintain a clean worksite.",
+        "description": "You can live in your home during a full kitchen renovation, but be prepared for disruptions, noise, and the need for a temporary kitchen setup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

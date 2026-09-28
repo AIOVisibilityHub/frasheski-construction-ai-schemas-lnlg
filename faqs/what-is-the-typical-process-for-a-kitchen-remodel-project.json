@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a kitchen remodel project?",
+  "description": "Our kitchen remodel process includes consultation, design, planning, permitting, demolition, installation of various components, and final walk-through.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-a-kitchen-remodel-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a kitchen remodel project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our kitchen remodel process typically begins with an initial consultation to discuss your vision, needs, and budget. This leads to design and material selection, followed by detailed planning and permit acquisition if necessary. The construction phase involves demolition, structural work, plumbing/electrical rough-ins, installation of cabinets, countertops, flooring, and appliances. Finally, there's the finishing work and a final walk-through. We provide a clear roadmap and frequent communication throughout each stage, from design to completion.",
+        "description": "Our kitchen remodel process includes consultation, design, planning, permitting, demolition, installation of various components, and final walk-through."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

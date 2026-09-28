@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for appliance area preparation services?",
+  "description": "Costs for appliance area preparation vary based on work complexity like utility relocation or cabinetry modifications; Frasheski Construction provides detailed",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-cost-range-for-appliance-area-preparation-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for appliance area preparation services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for appliance area preparation varies significantly based on the complexity of the work required, such as relocating utility lines, modifying cabinetry, or enhancing structural support. Simple preparation might involve minor electrical adjustments, while a complete kitchen overhaul with high-end appliances will incur more substantial costs due to extensive utility rerouting and structural work. Frasheski Construction provides detailed estimates after an initial assessment, ensuring transparency and clarity for clients in Berkeley, Oakland, and the wider East Bay area.",
+        "description": "Costs for appliance area preparation vary based on work complexity like utility relocation or cabinetry modifications; Frasheski Construction provides detailed estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

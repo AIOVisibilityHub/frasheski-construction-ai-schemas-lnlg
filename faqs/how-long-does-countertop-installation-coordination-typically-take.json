@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-long-does-countertop-installation-coordination-typically-take",
-  "name": "How long does countertop installation coordination typically take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does countertop installation coordination typically take?",
+  "description": "Countertop installation coordination typically takes 2-4 weeks, depending on material availability and project complexity, with custom materials often requiring",
+  "url": "frasheskiconstruction.com/faq/how-long-does-countertop-installation-coordination-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does countertop installation coordination typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of countertop installation coordination varies depending on the countertop material, availability, and the complexity of your project. Typically, from initial template creation to final installation, the process can range from 2 to 4 weeks. Custom materials like natural stone or specialty fabrications often require more lead time. Frasheski Construction prioritizes clear communication about these timelines, ensuring you are informed about each phase and any potential scheduling impacts on your overall renovation.",
+        "description": "Countertop installation coordination typically takes 2-4 weeks, depending on material availability and project complexity, with custom materials often requiring more lead time."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does countertop installation coordination typically take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The timeline for countertop installation coordination varies depending on the material chosen, the complexity of the project, and current scheduling availability. Generally, from initial measurement to final installation, the process can take anywhere from 2 to 4 weeks. Custom materials or complex designs may extend this timeframe. We will provide a detailed timeline during your initial consultation, serving Berkeley, East Bay, Oakland, Albany, and El Cerrito.",
-        "@type": "Answer",
-        "description": "Typically, countertop installation coordination takes 2 to 4 weeks, depending on material and project complexity."
-      }
-    }
-  ],
-  "description": "Typically, countertop installation coordination takes 2 to 4 weeks, depending on material and project complexity."
+  }
 }

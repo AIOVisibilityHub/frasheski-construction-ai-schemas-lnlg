@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/can-i-install-trim-and-molding-myself-or-should-i-hire-a-professional",
-  "name": "Can I install trim and molding myself, or should I hire a professional?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install trim and molding myself, or should I hire a professional?",
+  "description": "Hiring a professional ensures precision, efficiency, and a high-quality finish, particularly for complex designs. DIY can lead to visible gaps and require costl",
+  "url": "frasheskiconstruction.com/faq/can-i-install-trim-and-molding-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install trim and molding myself, or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While DIY installation is possible, hiring a professional ensures precision, efficiency, and a high-quality finish, especially for complex profiles like crown molding or intricate historical reproductions. Professionals have specialized tools and experience in achieving tight miter joints and smooth transitions. Incorrect cuts or poor installation can lead to visible gaps and an unprofessional appearance, requiring more costly fixes later. Frasheski Construction offers expertise for flawless results in the Berkeley and East Bay areas.",
+        "description": "Hiring a professional ensures precision, efficiency, and a high-quality finish, particularly for complex designs. DIY can lead to visible gaps and require costly fixes."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Can I install trim and molding myself, or should I hire a professional?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "While DIY installation is possible for simple projects, professional installation ensures precision and a high-quality finish, especially for complex profiles like crown molding or intricate casings. Professionals have specialized tools and expertise to handle angles, joints, and material selection, saving you time and potential frustration.",
-        "@type": "Answer",
-        "description": "While DIY is an option, professional installation offers precision and a higher quality finish, particularly for complex molding."
-      }
-    }
-  ],
-  "description": "While DIY is an option, professional installation offers precision and a higher quality finish, particularly for complex molding."
+  }
 }

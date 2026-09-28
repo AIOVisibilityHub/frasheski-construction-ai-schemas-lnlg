@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-style-of-trim-and-molding-for-my-home",
-  "name": "How do I choose the right style of trim and molding for my home?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right style of trim and molding for my home?",
+  "description": "Select trim and molding based on your home's architectural style and your personal taste. Consider existing features and door/window styles for a cohesive desig",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-style-of-trim-and-molding-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right style of trim and molding for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right style involves considering your home's architectural period and your personal aesthetic. Traditional homes might benefit from wider, more ornate profiles like those found in Victorian or Craftsman styles, while modern homes often suit simpler, cleaner lines. We recommend looking at existing architectural features or visiting local showrooms in the East Bay area to see samples. Consider how the trim will complement your doors, windows, and ceiling height to create a cohesive look.",
+        "description": "Select trim and molding based on your home's architectural style and your personal taste. Consider existing features and door/window styles for a cohesive design."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose the right style of trim and molding for my home?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Consider your home's architectural style and your personal aesthetic. Traditional homes often suit elaborate, multi-layered crown moldings and wider baseboards, while modern homes may benefit from simpler, cleaner lines. Consistency throughout the home helps create a cohesive look. Visiting showrooms or viewing online galleries can provide inspiration.",
-        "@type": "Answer",
-        "description": "Choose trim and molding based on your home's architectural style and your personal taste for a cohesive look."
-      }
-    }
-  ],
-  "description": "Choose trim and molding based on your home's architectural style and your personal taste for a cohesive look."
+  }
 }

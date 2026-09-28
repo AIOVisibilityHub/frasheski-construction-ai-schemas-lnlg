@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does interior painting typically take for a multi-room project?",
+  "description": "Interior painting duration varies based on room size, wall condition, and paint types, with extensive prep work or specialized finishes extending the timeline.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-interior-painting-typically-take-for-a-multi-room-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does interior painting typically take for a multi-room project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an interior painting project for multiple rooms depends on several factors, including the total square footage, the current condition of the walls, and the type of paint and finishes chosen. Projects involving extensive repairs, multiple coats, or specialized finishes will naturally take longer. For example, thorough prep work like patching and sanding before painting can significantly improve the final result and add to the timeline. We can provide a more accurate timeline after an initial assessment of your home in Berkeley or the East Bay area.",
+        "description": "Interior painting duration varies based on room size, wall condition, and paint types, with extensive prep work or specialized finishes extending the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

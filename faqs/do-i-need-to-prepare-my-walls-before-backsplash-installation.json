@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to prepare my walls before backsplash installation?",
+  "description": "Yes, walls need to be clean, dry, smooth, and repaired before backsplash installation to ensure proper adhesion.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-prepare-my-walls-before-backsplash-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to prepare my walls before backsplash installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, proper wall preparation is crucial for a successful and lasting backsplash installation. This typically involves ensuring the surface is clean, dry, smooth, and free from grease or loose paint. Any significant imperfections, such as holes or unevenness, should be repaired. As a Preparation step, clearing the countertop area and ensuring easy access to outlets will significantly help our installation team work efficiently and effectively.",
+        "description": "Yes, walls need to be clean, dry, smooth, and repaired before backsplash installation to ensure proper adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

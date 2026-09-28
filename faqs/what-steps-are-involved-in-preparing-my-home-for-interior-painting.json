@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in preparing my home for interior painting?",
+  "description": "Prepare for interior painting by removing small or fragile items from rooms; our team will move and cover larger furniture.",
+  "url": "frasheskiconstruction.com/faq/what-steps-are-involved-in-preparing-my-home-for-interior-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in preparing my home for interior painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare your home for interior painting, we recommend removing small or fragile items from the rooms to be painted. While our team will move larger furniture to the center of the room and cover it, clearing personal items helps expedite the process and ensures their safety. You might also consider detaching wall hangings or curtains beforehand. Proper preparation ensures that our painters can work efficiently and safely, minimizing disruptions and allowing for a smoother, faster painting process in your Berkeley home.",
+        "description": "Prepare for interior painting by removing small or fragile items from rooms; our team will move and cover larger furniture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
