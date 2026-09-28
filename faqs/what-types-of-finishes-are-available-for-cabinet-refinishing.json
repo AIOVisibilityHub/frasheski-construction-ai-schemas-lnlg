@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/what-types-of-finishes-are-available-for-cabinet-refinishing",
-  "name": "What types of finishes are available for cabinet refinishing?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of finishes are available for cabinet refinishing?",
+  "description": "Available finishes include paints, stains, and glazes, offering diverse looks and durability for your cabinets.",
+  "url": "frasheskiconstruction.com/faq/what-types-of-finishes-are-available-for-cabinet-refinishing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of finishes are available for cabinet refinishing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A variety of finishes are available for cabinet refinishing, including opaque paints, transparent stains, and glazes, each offering different aesthetics and durability. Paints provide a solid, uniform color, while stains highlight the wood grain. Glazes can add depth and an aged look. We can discuss various options to help you choose a finish that complements your home's style and stands up to daily use in the East Bay.",
+        "description": "Available finishes include paints, stains, and glazes, offering diverse looks and durability for your cabinets."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What types of finishes are available for cabinet refinishing?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "We offer a range of finishes for cabinet refinishing, including various paint colors (matte, satin, semi-gloss, high-gloss), stains that enhance wood grain, and glazes for added depth and character. We use durable, high-quality products designed to withstand daily use in a kitchen environment. Our team can help you choose the best finish to match your aesthetic and functional needs.",
-        "@type": "Answer",
-        "description": "Available finishes include various paint colors, stains, and glazes, using durable, high-quality products."
-      }
-    }
-  ],
-  "description": "Available finishes include various paint colors, stains, and glazes, using durable, high-quality products."
+  }
 }
