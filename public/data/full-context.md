@@ -1,18 +1,18 @@
 # Frasheski Construction — Full AI Context
 
 **Canonical URL:** https://frasheski-construction.aiovisibility.net
-**Generated:** 2026-09-05
+**Generated:** 2026-09-28
 
 ## Overview
 Frasheski Construction publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **1466** faqs
+- **2265** faqs
 - **15** reviews
 - **29** services
 - **2** locations
 - **6** personnel
-- **257** helpArticles
+- **400** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
