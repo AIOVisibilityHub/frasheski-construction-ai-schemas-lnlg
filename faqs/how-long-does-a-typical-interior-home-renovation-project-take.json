@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-interior-home-renovation-project-take",
-  "name": "How long does a typical interior home renovation project take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical interior home renovation project take?",
+  "description": "Project duration depends on scope and complexity; minor renovations can take weeks, while major projects may take several months.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-interior-home-renovation-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical interior home renovation project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an interior home renovation varies significantly based on the project's scope and complexity. A single room refresh might take a few weeks, while a major whole-house renovation could extend to several months. Key factors include the size of the space, the extent of structural changes, material lead times, and the need for permits. During our initial consultation, Frasheski Construction provides a detailed timeline estimate after assessing your specific project requirements.",
+        "description": "Project duration depends on scope and complexity; minor renovations can take weeks, while major projects may take several months."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a typical interior home renovation project take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of an interior home renovation varies significantly based on the scope and complexity of the project. A small bathroom refresh might take a few weeks, while a major kitchen remodel could extend to several months. Whole-house renovations can take six months to a year or more. Factors like material availability, unforeseen structural issues, and permit processing times can also influence the timeline. We provide a detailed project schedule at the outset.",
-        "@type": "Answer",
-        "description": "Project timelines vary; a small renovation can be weeks, a major one several months or longer."
-      }
-    }
-  ],
-  "description": "Project timelines vary; a small renovation can be weeks, a major one several months or longer."
+  }
 }

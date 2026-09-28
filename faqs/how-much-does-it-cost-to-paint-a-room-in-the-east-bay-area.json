@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-paint-a-room-in-the-east-bay-area",
-  "name": "How much does it cost to paint a room in the East Bay area?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to paint a room in the East Bay area?",
+  "description": "Room painting costs in the East Bay depend on size, prep, paint quality, and finishes; a personalized assessment provides an accurate quote.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-paint-a-room-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to paint a room in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to paint a room in the East Bay area, including locations like Oakland or Albany, depends on several factors: the room's size, ceiling height, the extent of surface preparation required, the quality of paint chosen, and any special finishes. Our estimates factor in labor, materials, and comprehensive prep work to ensure a long-lasting finish. To get an accurate quote, we recommend a personalized assessment of your specific painting needs, as every project is unique.",
+        "description": "Room painting costs in the East Bay depend on size, prep, paint quality, and finishes; a personalized assessment provides an accurate quote."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How much does it cost to paint a room in the East Bay area?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The cost to paint a room in the East Bay area varies based on factors like room size, ceiling height, condition of walls, and paint quality. For a basic 10x12 foot room, you might expect to pay a certain range, but we provide free, no-obligation estimates after an on-site assessment to give you an accurate price tailored to your specific needs.",
-        "@type": "Answer",
-        "description": "Room painting costs in the East Bay vary; we provide free, no-obligation estimates after assessing your specific project."
-      }
-    }
-  ],
-  "description": "Room painting costs in the East Bay vary; we provide free, no-obligation estimates after assessing your specific project."
+  }
 }
