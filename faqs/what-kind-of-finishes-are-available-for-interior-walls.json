@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of finishes are available for interior walls?",
+  "description": "Interior wall finishes range from flat/matte for low-traffic areas to eggshell, satin, and semi-gloss for increased durability and washability, suitable for dif",
+  "url": "frasheskiconstruction.com/faq/what-kind-of-finishes-are-available-for-interior-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of finishes are available for interior walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For interior walls, a range of finishes is available, each offering distinct aesthetics and durability. Common options include flat/matte, eggshell, satin, and semi-gloss. Flat finishes hide imperfections well but are less washable, ideal for low-traffic areas. Eggshell and satin provide a slight sheen, increased durability, and are easier to clean, making them popular for living areas and bedrooms. Semi-gloss offers high durability and a noticeable sheen, best for trim, doors, and high-moisture areas like bathrooms or kitchens. Your choice should balance appearance with functional needs for each room.",
+        "description": "Interior wall finishes range from flat/matte for low-traffic areas to eggshell, satin, and semi-gloss for increased durability and washability, suitable for different room needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

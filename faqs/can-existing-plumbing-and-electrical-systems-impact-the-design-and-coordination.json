@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can existing plumbing and electrical systems impact the design and coordination of a new addition?",
+  "description": "Existing system capacity and condition can require upgrades for a new addition, impacting design and coordination, which we assess early to ensure seamless inte",
+  "url": "frasheskiconstruction.com/faq/can-existing-plumbing-and-electrical-systems-impact-the-design-and-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can existing plumbing and electrical systems impact the design and coordination of a new addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the capacity and condition of your existing plumbing and electrical systems significantly impact the design and coordination of a new addition. An older home in areas like Daly City or Brisbane might require upgrades to its main service panel or water lines to support the increased demand from a new space. Our team assesses these existing capacities early in the project to ensure the new addition integrates seamlessly without overloading current systems, preventing future issues.",
+        "description": "Existing system capacity and condition can require upgrades for a new addition, impacting design and coordination, which we assess early to ensure seamless integration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

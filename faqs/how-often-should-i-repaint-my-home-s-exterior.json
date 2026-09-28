@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I repaint my home's exterior?",
+  "description": "Repainting is typically needed every 5-10 years, depending on climate and paint quality. Look for signs like fading or cracking, especially in varied East Bay w",
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-repaint-my-home-s-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I repaint my home's exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The frequency of repainting your home's exterior typically ranges from 5 to 10 years, depending on factors such as local climate, quality of the previous paint job, and the materials used. Homes in areas like Berkeley and the East Bay, which experience varied weather conditions, might benefit from more frequent inspections. Signs like fading, cracking, peeling, or chalking indicate it's time to consider repainting to protect your home's structural integrity and curb appeal. Regular washing can extend paint life.",
+        "description": "Repainting is typically needed every 5-10 years, depending on climate and paint quality. Look for signs like fading or cracking, especially in varied East Bay weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

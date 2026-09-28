@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an interior build-out for a commercial space?",
+  "description": "An interior build-out customizes a commercial space to fit a business's specific needs, ranging from cosmetic updates to structural changes.",
+  "url": "frasheskiconstruction.com/faq/what-is-an-interior-build-out-for-a-commercial-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an interior build-out for a commercial space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An interior build-out, also known as tenant improvement, refers to the customization of an interior commercial space to suit the specific needs of a business. This can range from minor cosmetic updates like painting and flooring to extensive structural modifications, including new walls, plumbing, electrical systems, and HVAC. The scope often depends on whether the space is a raw shell or has a previous tenant's layout. Understanding your business operations and future growth plans before starting is crucial, as this dictates the complexity and scale of the necessary modifications.",
+        "description": "An interior build-out customizes a commercial space to fit a business's specific needs, ranging from cosmetic updates to structural changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

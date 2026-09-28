@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical bathroom plumbing installation or upgrade take?",
+  "description": "Timing depends on project complexity; simple replacements take hours, while full renovations can take days to weeks, influenced by scope and material availabili",
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-bathroom-plumbing-installation-or-upgrade-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical bathroom plumbing installation or upgrade take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a typical bathroom plumbing installation or upgrade varies significantly based on the project's complexity and scope. Simple fixture replacements might take a few hours, while comprehensive renovations involving pipe re-routing or new layouts can take several days or even weeks. Factors like material availability and any unexpected structural findings can also influence the timeline. Our team at Frasheski Construction will provide a project schedule tailored to your specific work in the East Bay, outlining key milestones.",
+        "description": "Timing depends on project complexity; simple replacements take hours, while full renovations can take days to weeks, influenced by scope and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

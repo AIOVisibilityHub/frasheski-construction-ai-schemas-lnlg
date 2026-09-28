@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a new room addition impact my property value?",
+  "description": "A well-executed and permitted new room addition can significantly increase property value by adding functional living space.",
+  "url": "frasheskiconstruction.com/faq/how-does-a-new-room-addition-impact-my-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a new room addition impact my property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-planned and executed new room addition can significantly increase your property value, especially if it adds functional living space like bedrooms, bathrooms, or a family room. The impact depends on the quality of construction, the cohesiveness of the addition with the existing home's design, and local market demand. Ensuring the addition is permitted and compliant with all local codes, as Frasheski Construction does, also protects and enhances its long-term value.",
+        "description": "A well-executed and permitted new room addition can significantly increase property value by adding functional living space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

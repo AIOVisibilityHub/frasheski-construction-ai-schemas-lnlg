@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeframe for a home remodeling project?",
+  "description": "Project timelines vary; small remodels can take weeks, while larger projects may take several months. Scope, materials, and unforeseen issues affect duration.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-timeframe-for-a-home-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeframe for a home remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for a home remodeling project varies significantly based on its scope and complexity. A small bathroom remodel might take a few weeks, while a major kitchen renovation or whole-home remodel can extend to several months. Factors like design approvals, material availability, and unforeseen structural issues can also impact the schedule. Frasheski Construction works to establish a clear project timeline upfront and communicates any adjustments promptly.",
+        "description": "Project timelines vary; small remodels can take weeks, while larger projects may take several months. Scope, materials, and unforeseen issues affect duration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

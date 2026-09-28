@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I set a realistic budget for my home renovation in the Oakland area?",
+  "description": "Set a realistic Oakland renovation budget by researching local costs, adding a 10-20% contingency, and discussing it early with your contractor.",
+  "url": "frasheskiconstruction.com/faq/how-can-i-set-a-realistic-budget-for-my-home-renovation-in-the-oakland-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I set a realistic budget for my home renovation in the Oakland area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Setting a realistic budget for a home renovation in the Oakland area involves considering material costs, labor rates, and potential unforeseen expenses specific to older homes common in the region. Research average costs for similar projects in Oakland and allocate an additional 10-20% for contingencies, such as unexpected structural issues or necessary upgrades uncovered during demolition. Discussing your budget early with Frasheski Construction allows us to provide cost-effective design solutions and material alternatives that meet your financial parameters while still achieving your desired outcome.",
+        "description": "Set a realistic Oakland renovation budget by researching local costs, adding a 10-20% contingency, and discussing it early with your contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

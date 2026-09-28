@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do interior finish upgrade projects typically take?",
+  "description": "Project duration depends on scope and complexity, ranging from days to weeks. Material lead times are a key factor impacting the overall timeline.",
+  "url": "frasheskiconstruction.com/faq/how-long-do-interior-finish-upgrade-projects-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do interior finish upgrade projects typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an interior finish upgrade project varies significantly based on its scope and complexity. A single room paint job might take a few days, while a full kitchen or bathroom remodel with custom cabinetry and flooring could extend for several weeks. Material lead times, especially for custom orders, are a critical factor affecting the timeline. Discussing realistic timelines with your contractor during the planning phase is essential for managing expectations.",
+        "description": "Project duration depends on scope and complexity, ranging from days to weeks. Material lead times are a key factor impacting the overall timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

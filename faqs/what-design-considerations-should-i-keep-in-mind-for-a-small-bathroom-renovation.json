@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design considerations should I keep in mind for a small bathroom renovation?",
+  "description": "For small bathrooms, maximize space and light using wall-mounted fixtures and light colors. A practical tradeoff is choosing efficient, compact showers over lar",
+  "url": "frasheskiconstruction.com/faq/what-design-considerations-should-i-keep-in-mind-for-a-small-bathroom-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design considerations should I keep in mind for a small bathroom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small bathroom renovation, focus on maximizing space and light. Consider wall-mounted toilets, corner sinks, or floating vanities to free up floor space. Light-colored tiles, ample lighting, and large mirrors can make the room feel more expansive. As a practical tradeoff, while a larger shower might be desirable, sometimes a compact, well-designed shower or a shower-tub combo is more efficient for small footprints.",
+        "description": "For small bathrooms, maximize space and light using wall-mounted fixtures and light colors. A practical tradeoff is choosing efficient, compact showers over larger, less suitable designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

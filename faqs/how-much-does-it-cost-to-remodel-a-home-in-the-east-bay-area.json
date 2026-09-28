@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to remodel a home in the East Bay area?",
+  "description": "Remodeling costs in the East Bay vary widely based on project size, materials, and design complexity, ranging from thousands to hundreds of thousands of dollars",
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-remodel-a-home-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to remodel a home in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of home remodeling in the East Bay area depends on the project's size, the materials chosen, and the complexity of the design. Minor updates might range from a few thousand dollars, while a significant kitchen or bathroom remodel can easily reach tens of thousands, or even hundreds of thousands for a whole-home renovation. We provide detailed estimates after an initial consultation to understand your specific needs and preferences. Preparing a clear budget beforehand helps align expectations.",
+        "description": "Remodeling costs in the East Bay vary widely based on project size, materials, and design complexity, ranging from thousands to hundreds of thousands of dollars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather before consulting with a contractor about accessible bathroom modifications?",
+  "description": "Gather information on your specific needs, budget, desired features, current bathroom dimensions, and existing plumbing locations.",
+  "url": "frasheskiconstruction.com/faq/what-information-should-i-gather-before-consulting-with-a-contractor-about-acces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather before consulting with a contractor about accessible bathroom modifications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before consulting with a contractor, it's helpful to gather information about your specific needs, such as any mobility challenges or assistive devices used. Consider your budget range and have an idea of desired features like grab bars, shower types, or toilet heights. Measuring your current bathroom dimensions and noting existing plumbing locations can also be beneficial. Having these details prepared can streamline the initial consultation and help us provide a more accurate assessment for your project.",
+        "description": "Gather information on your specific needs, budget, desired features, current bathroom dimensions, and existing plumbing locations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

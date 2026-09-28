@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you handle the removal and disposal of old cabinets and vanities?",
+  "description": "Yes, we handle the removal and responsible disposal of old cabinets and vanities. This is part of our comprehensive installation service, ensuring a clean trans",
+  "url": "frasheskiconstruction.com/faq/do-you-handle-the-removal-and-disposal-of-old-cabinets-and-vanities",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you handle the removal and disposal of old cabinets and vanities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction offers comprehensive removal and disposal services for old cabinets and vanities as part of our installation process. This ensures a clean and efficient transition to your new installation, saving you the hassle of coordinating separate disposal. We manage the safe dismantling and responsible removal of old units, leaving your space ready for the new fixtures. This is an integrated part of our full-service approach to cabinet and vanity projects.",
+        "description": "Yes, we handle the removal and responsible disposal of old cabinets and vanities. This is part of our comprehensive installation service, ensuring a clean transition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

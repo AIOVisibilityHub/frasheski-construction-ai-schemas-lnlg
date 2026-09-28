@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you match existing paint colors?",
+  "description": "Yes, we can match existing paint colors using technology and expertise. Providing a paint sample helps achieve the best possible match.",
+  "url": "frasheskiconstruction.com/faq/can-you-match-existing-paint-colors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you match existing paint colors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we can match most existing paint colors. Our team uses color matching technology and expertise to achieve a seamless blend with your current finishes. To ensure the best match, it's helpful if you can provide a sample of the existing paint, such as a leftover paint can or even a small chip of paint. This preparation step helps us ensure accuracy and minimize discrepancies, especially if the original paint has aged or faded over time.",
+        "description": "Yes, we can match existing paint colors using technology and expertise. Providing a paint sample helps achieve the best possible match."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are some common challenges encountered during a room expansion, and how are they managed?",
+  "description": "Challenges like unforeseen structural issues or permit delays are managed through thorough evaluations, flexible scheduling, and proactive communication to keep",
+  "url": "frasheskiconstruction.com/faq/what-are-some-common-challenges-encountered-during-a-room-expansion-and-how-are",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some common challenges encountered during a room expansion, and how are they managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common challenges during a room expansion can include unforeseen structural issues, unexpected plumbing or electrical configurations, and delays due to permit approvals or material availability. We mitigate these by conducting thorough site evaluations, maintaining flexible project schedules, and proactively communicating any potential issues. Our experience in the East Bay allows us to anticipate many common challenges and address them efficiently to keep the project on track.",
+        "description": "Challenges like unforeseen structural issues or permit delays are managed through thorough evaluations, flexible scheduling, and proactive communication to keep projects on track."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

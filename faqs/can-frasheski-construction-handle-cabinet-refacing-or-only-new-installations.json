@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Frasheski Construction handle cabinet refacing or only new installations?",
+  "description": "Frasheski Construction primarily handles new cabinet installations and custom builds; refacing options may be discussed if aligned with the overall project scop",
+  "url": "frasheskiconstruction.com/faq/can-frasheski-construction-handle-cabinet-refacing-or-only-new-installations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Frasheski Construction handle cabinet refacing or only new installations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction primarily focuses on new cabinet installations and custom builds as part of larger renovation or construction projects. While we specialize in creating and installing entirely new cabinetry solutions, we can discuss refacing options during your consultation if it aligns with the overall project scope and budget. Our expertise lies in delivering comprehensive, integrated solutions, ensuring that new cabinetry seamlessly fits within your renovated space.",
+        "description": "Frasheski Construction primarily handles new cabinet installations and custom builds; refacing options may be discussed if aligned with the overall project scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

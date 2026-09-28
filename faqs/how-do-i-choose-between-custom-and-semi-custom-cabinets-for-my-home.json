@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between custom and semi-custom cabinets for my home?",
+  "description": "Custom cabinets offer limitless design and precise fit, while semi-custom provide more variety than stock at a lower price. Your budget and specific needs will",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-between-custom-and-semi-custom-cabinets-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between custom and semi-custom cabinets for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing between custom and semi-custom cabinets depends on your budget, design preferences, and functional needs. Custom cabinets offer limitless design flexibility, precise fit for unique spaces, and personalized features, which is ideal for maximizing storage in oddly shaped rooms or achieving a specific aesthetic. Semi-custom options provide more variety than stock cabinets at a lower price point and shorter lead time, balancing personalization with cost-effectiveness. Consider your budget and how much specific tailoring your space requires.",
+        "description": "Custom cabinets offer limitless design and precise fit, while semi-custom provide more variety than stock at a lower price. Your budget and specific needs will guide your choice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

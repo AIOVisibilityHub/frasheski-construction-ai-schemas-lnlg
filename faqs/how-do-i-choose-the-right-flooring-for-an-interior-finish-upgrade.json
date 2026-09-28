@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right flooring for an interior finish upgrade?",
+  "description": "Select flooring based on durability, maintenance, aesthetics, and budget. Consider traffic and lifestyle to choose between options like hardwood or LVP.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-flooring-for-an-interior-finish-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right flooring for an interior finish upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right flooring involves considering durability, maintenance, aesthetics, and budget. For example, hardwood offers timeless appeal but may require more maintenance than luxury vinyl plank (LVP), which is highly water-resistant and durable—a practical choice for busy households in areas like Albany or El Cerrito. You should evaluate the traffic in each room and your lifestyle to make an informed decision.",
+        "description": "Select flooring based on durability, maintenance, aesthetics, and budget. Consider traffic and lifestyle to choose between options like hardwood or LVP."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

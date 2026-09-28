@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors affect the cost of cabinet repair?",
+  "description": "Cost factors include damage type and extent, required materials, and labor. Minor cosmetic repairs are less costly than structural issues.",
+  "url": "frasheskiconstruction.com/faq/what-factors-affect-the-cost-of-cabinet-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors affect the cost of cabinet repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of cabinet repair is influenced by several factors, including the type and extent of damage, the materials needed for repair (e.g., custom wood, specialty finishes), and the labor involved. Repairing minor cosmetic issues is generally less expensive than addressing structural damage or requiring custom-matched components. We provide transparent estimates after assessing your specific situation, ensuring you understand the investment required before any work begins.",
+        "description": "Cost factors include damage type and extent, required materials, and labor. Minor cosmetic repairs are less costly than structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

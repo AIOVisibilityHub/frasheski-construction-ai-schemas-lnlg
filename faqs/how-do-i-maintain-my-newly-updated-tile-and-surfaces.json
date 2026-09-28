@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I maintain my newly updated tile and surfaces?",
+  "description": "Maintain new tile and surfaces with regular cleaning using mild, pH-neutral cleaners. Natural stone may require specific sealants and cleaners. We provide tailo",
+  "url": "frasheskiconstruction.com/faq/how-do-i-maintain-my-newly-updated-tile-and-surfaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I maintain my newly updated tile and surfaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper maintenance ensures the longevity and appearance of your updated tile and surfaces. Generally, regular cleaning with mild, pH-neutral cleaners and avoiding abrasive scrubbers or harsh chemicals is recommended. For natural stone, specific sealants and cleaners are often required to prevent staining and etching. We can provide specific care instructions tailored to the materials used in your project, helping you preserve their beauty for years to come.",
+        "description": "Maintain new tile and surfaces with regular cleaning using mild, pH-neutral cleaners. Natural stone may require specific sealants and cleaners. We provide tailored care instructions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

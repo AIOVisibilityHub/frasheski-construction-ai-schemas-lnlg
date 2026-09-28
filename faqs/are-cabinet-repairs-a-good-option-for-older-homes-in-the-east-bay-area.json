@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are cabinet repairs a good option for older homes in the East Bay area?",
+  "description": "Yes, repairs are often ideal for older East Bay homes to preserve historical character, as original cabinets are often durable and respond well to restoration.",
+  "url": "frasheskiconstruction.com/faq/are-cabinet-repairs-a-good-option-for-older-homes-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are cabinet repairs a good option for older homes in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cabinet repairs can be an excellent option for older homes in the East Bay area, especially when preserving historical character or unique architectural details. Many older cabinets were built with high-quality, durable materials that respond well to repair and refinishing. Opting for repair can be more cost-effective than custom replacement and helps maintain the original charm of your home, aligning with renovation goals that respect existing structures.",
+        "description": "Yes, repairs are often ideal for older East Bay homes to preserve historical character, as original cabinets are often durable and respond well to restoration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

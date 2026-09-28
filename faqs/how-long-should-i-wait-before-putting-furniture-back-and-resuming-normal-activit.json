@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long should I wait before putting furniture back and resuming normal activities after interior painting?",
+  "description": "Wait at least 24 hours before moving furniture back; full paint cure time can take several days to weeks, so wait longer for hanging items.",
+  "url": "frasheskiconstruction.com/faq/how-long-should-i-wait-before-putting-furniture-back-and-resuming-normal-activit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long should I wait before putting furniture back and resuming normal activities after interior painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, painted surfaces are dry to the touch within a few hours, but it's advisable to wait at least 24 hours before putting furniture back against walls to prevent marring the fresh paint. Full cure time, when the paint reaches its maximum hardness and durability, can take several days to a few weeks, depending on the paint type and environmental conditions like humidity. We recommend waiting a few days before hanging pictures or placing heavy objects directly against freshly painted surfaces to ensure the paint has fully set.",
+        "description": "Wait at least 24 hours before moving furniture back; full paint cure time can take several days to weeks, so wait longer for hanging items."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a multi-room remodeling project?",
+  "description": "Multi-room remodeling updates several home areas, involving design, planning, permitting, construction, and inspections to create a cohesive new space.",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-a-multi-room-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a multi-room remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A multi-room remodeling project involves significant changes to multiple areas of your home, such as kitchens, bathrooms, living spaces, or bedrooms. This can range from updating finishes and fixtures to reconfiguring layouts, altering structural elements, or adding new square footage. The process typically includes initial design consultations, detailed planning, material selection, permitting, demolition, construction, and final inspections. Frasheski Construction manages all these phases to ensure a cohesive transformation across your home, ensuring that the new design flows seamlessly between connected spaces.",
+        "description": "Multi-room remodeling updates several home areas, involving design, planning, permitting, construction, and inspections to create a cohesive new space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

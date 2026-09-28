@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a contractor for a layout change?",
+  "description": "Choose a contractor with relevant experience, good references, clear communication, and local permitting knowledge. Prepare by defining your project priorities",
+  "url": "frasheskiconstruction.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-a-layout-change",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a contractor for a layout change?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for a layout change, look for experience in similar projects, strong references, and a clear communication style. Verify their licensing and insurance. It's crucial to select a contractor who understands the local permitting requirements, especially in the East Bay area where regulations can vary between municipalities. We encourage clients to gather inspiration photos and make a list of 'must-have' vs. 'nice-to-have' features. This preparation helps us tailor solutions that truly meet your needs and vision.",
+        "description": "Choose a contractor with relevant experience, good references, clear communication, and local permitting knowledge. Prepare by defining your project priorities and vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

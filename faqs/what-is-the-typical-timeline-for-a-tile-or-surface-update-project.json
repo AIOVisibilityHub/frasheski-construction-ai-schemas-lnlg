@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a tile or surface update project?",
+  "description": "Project timelines vary; small updates take days, larger ones weeks. Material availability and preparation work can affect duration.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-timeline-for-a-tile-or-surface-update-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a tile or surface update project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a tile or surface update varies based on the scope, material choice, and complexity. A small backsplash update might take a few days, while a full bathroom floor and shower retile could extend to one to two weeks, sometimes longer for custom work or specialty materials. Factors like material availability and any necessary subfloor or wall preparation can also influence the project duration. We provide a detailed project schedule after an initial assessment.",
+        "description": "Project timelines vary; small updates take days, larger ones weeks. Material availability and preparation work can affect duration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

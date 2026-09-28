@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a kitchen cabinet upgrade typically take?",
+  "description": "Cabinet upgrades range from a few days for repainting to several weeks for full custom replacements, depending on the method and complexity.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-kitchen-cabinet-upgrade-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a kitchen cabinet upgrade typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a kitchen cabinet upgrade varies significantly based on the chosen method and the project's complexity. A simple repainting or refinishing job might take a few days to a week. Cabinet refacing projects generally take one to two weeks, as the existing boxes remain. A full cabinet replacement, especially with custom designs, can extend to several weeks due to manufacturing lead times and installation. We help manage expectations by providing a detailed timeline upfront, factoring in material delivery and installation phases to minimize disruption.",
+        "description": "Cabinet upgrades range from a few days for repainting to several weeks for full custom replacements, depending on the method and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

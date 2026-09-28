@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Frasheski Construction ensure effective coordination of plumbing and electrical work in an addition?",
+  "description": "We ensure coordination through detailed blueprint reviews, regular communication between trades, and 3D modeling to prevent conflicts and ensure optimal utility",
+  "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-ensure-effective-coordination-of-plumbing-and-el",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Frasheski Construction ensure effective coordination of plumbing and electrical work in an addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction employs a systematic approach starting with detailed blueprint reviews that integrate plumbing and electrical schematics. We facilitate regular communication and on-site meetings between our master plumbers, electricians, and project managers to resolve potential conflicts before they impact construction. Our team, experienced with projects in communities like Alameda and Kensington, uses 3D modeling where appropriate to visualize system placements and ensure optimal spacing and accessibility for all utilities.",
+        "description": "We ensure coordination through detailed blueprint reviews, regular communication between trades, and 3D modeling to prevent conflicts and ensure optimal utility placement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

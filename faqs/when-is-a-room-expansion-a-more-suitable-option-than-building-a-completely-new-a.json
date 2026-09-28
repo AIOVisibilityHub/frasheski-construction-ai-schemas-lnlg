@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a room expansion a more suitable option than building a completely new addition?",
+  "description": "Expansions are suitable when lot size, budget, or zoning limit outward growth, offering a faster and less disruptive alternative to new additions.",
+  "url": "frasheskiconstruction.com/faq/when-is-a-room-expansion-a-more-suitable-option-than-building-a-completely-new-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a room expansion a more suitable option than building a completely new addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A room expansion is often more suitable when you need more usable space but are constrained by lot size, budget, or local zoning regulations that limit outward growth. It can also be a good choice if you want to improve the flow and functionality of your current layout without the complexity of new foundation work. This approach typically involves less disruption and can be completed more quickly than a full addition, making it a practical tradeoff for homeowners in the East Bay seeking efficient space solutions.",
+        "description": "Expansions are suitable when lot size, budget, or zoning limit outward growth, offering a faster and less disruptive alternative to new additions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

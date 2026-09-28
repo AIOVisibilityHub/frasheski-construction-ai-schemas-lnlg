@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before my first meeting with a remodeling contractor?",
+  "description": "Before meeting a contractor, prepare existing plans, a list of needs, and visual inspiration to clearly communicate your project goals.",
+  "url": "frasheskiconstruction.com/faq/what-should-i-prepare-before-my-first-meeting-with-a-remodeling-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before my first meeting with a remodeling contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your first meeting with a remodeling contractor, it's beneficial to gather any existing architectural plans, survey documents, or property blueprints. Also, compile a list of your specific needs, wants, and any functional issues you want to address. Visual aids like saved images from Pinterest or Houzz can effectively communicate your aesthetic preferences and desired outcomes. This preparation provides Frasheski Construction with a comprehensive understanding of your property and project aspirations, allowing for a more productive initial consultation and accurate preliminary estimates.",
+        "description": "Before meeting a contractor, prepare existing plans, a list of needs, and visual inspiration to clearly communicate your project goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are some popular material choices for shower and tub upgrades?",
+  "description": "Popular materials for upgrades include ceramic, porcelain, and natural stone tiles for surfaces, and acrylic or fiberglass for bases. Consider water resistance",
+  "url": "frasheskiconstruction.com/faq/what-are-some-popular-material-choices-for-shower-and-tub-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some popular material choices for shower and tub upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Popular material choices for shower and tub upgrades include ceramic, porcelain, and natural stone tiles for walls and floors, which offer durability and a wide range of aesthetic options. Acrylic and fiberglass are common for tub and shower bases due to their cost-effectiveness and ease of maintenance. Consider the material's water resistance, cleaning requirements, and aesthetic appeal to ensure it fits your lifestyle and design preferences. We can guide you through options during your consultation.",
+        "description": "Popular materials for upgrades include ceramic, porcelain, and natural stone tiles for surfaces, and acrylic or fiberglass for bases. Consider water resistance and maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
