@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-bathroom-s-electrical-panel",
-  "name": "When should I consider upgrading my bathroom's electrical panel?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider upgrading my bathroom's electrical panel?",
+  "description": "Consider a panel upgrade for frequent tripped breakers, outdated panels, or when adding high-power appliances to ensure safety and capacity.",
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-bathroom-s-electrical-panel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider upgrading my bathroom's electrical panel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider upgrading your bathroom's electrical panel if you are experiencing frequent tripped breakers, if your panel is outdated (e.g., fuse box), or if you plan to add several new high-power appliances like a steam shower, jetted tub, or dedicated hair styling station. An insufficient panel can lead to safety hazards and limit your ability to add modern amenities. Frasheski Construction assesses your current electrical capacity as part of any significant bathroom renovation, especially in older homes common in areas like Albany or El Cerrito, to ensure your new systems operate safely and efficiently.",
+        "description": "Consider a panel upgrade for frequent tripped breakers, outdated panels, or when adding high-power appliances to ensure safety and capacity."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "When should I consider upgrading my bathroom's electrical panel?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "You should consider upgrading your bathroom's electrical panel if you're planning extensive electrical additions that exceed your current panel's capacity, such as installing a large jetted tub, multiple high-wattage heat lamps, or a sauna. Other signs include frequently tripping breakers, dimming lights when appliances turn on, or an outdated fuse box. An upgrade ensures your system can safely handle increased electrical demand.",
-        "@type": "Answer",
-        "description": "Upgrade your electrical panel if extensive bathroom additions exceed current capacity, or if you experience frequent tripped breakers or dimming lights."
-      }
-    }
-  ],
-  "description": "Upgrade your electrical panel if extensive bathroom additions exceed current capacity, or if you experience frequent tripped breakers or dimming lights."
+  }
 }

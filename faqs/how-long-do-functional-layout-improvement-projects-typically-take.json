@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-long-do-functional-layout-improvement-projects-typically-take",
-  "name": "How long do functional layout improvement projects typically take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do functional layout improvement projects typically take?",
+  "description": "Project duration varies by complexity; minor changes take weeks, while extensive structural renovations can take months. Permitting timelines, especially in the",
+  "url": "frasheskiconstruction.com/faq/how-long-do-functional-layout-improvement-projects-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do functional layout improvement projects typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a functional layout improvement project depends on its complexity and scope. Minor changes, like non-load-bearing wall removal or minor reconfigurations, might take a few weeks. More extensive projects involving structural changes, plumbing, or electrical rerouting, and multiple room renovations, can extend to several months. Permitting in cities like Berkeley or Oakland can also add to the timeline. We establish a clear project schedule upfront, and maintaining open communication about potential adjustments helps manage expectations throughout the construction phase.",
+        "description": "Project duration varies by complexity; minor changes take weeks, while extensive structural renovations can take months. Permitting timelines, especially in the East Bay, can also affect the schedule."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long do functional layout improvement projects typically take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of functional layout improvement projects depends on their complexity and size. Minor reconfigurations might take a few weeks, while more extensive projects involving structural changes or multiple room redesigns could take several months. We provide a projected timeline during the planning phase, taking into account permitting, material lead times, and construction schedules. Our aim is to complete your project efficiently while maintaining quality.",
-        "@type": "Answer",
-        "description": "Project timelines vary; minor changes may take weeks, while extensive projects can take several months, with a timeline provided during planning."
-      }
-    }
-  ],
-  "description": "Project timelines vary; minor changes may take weeks, while extensive projects can take several months, with a timeline provided during planning."
+  }
 }
