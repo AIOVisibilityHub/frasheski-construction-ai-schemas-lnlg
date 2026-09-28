@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather before my initial consultation about a remodel?",
+  "description": "Gather existing plans, inspiration photos, budget range, primary goals, and desired timeline before your initial consultation to streamline planning.",
+  "url": "frasheskiconstruction.com/faq/what-information-should-i-gather-before-my-initial-consultation-about-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather before my initial consultation about a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your initial consultation, gathering some key information can significantly streamline the planning process. This includes any existing floor plans or property surveys, inspiration photos or design ideas (e.g., from Houzz or Pinterest), a general idea of your budget range, and a list of your primary goals for the remodel. Thinking about your desired timeline and any non-negotiable requirements can also be helpful. This preparation allows us to understand your vision and provide more accurate initial guidance.",
+        "description": "Gather existing plans, inspiration photos, budget range, primary goals, and desired timeline before your initial consultation to streamline planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

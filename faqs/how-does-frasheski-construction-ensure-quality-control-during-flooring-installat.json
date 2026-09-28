@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Frasheski Construction ensure quality control during flooring installation coordination?",
+  "description": "We ensure quality control through multi-stage inspections, verifying subfloor prep, material quality, installation techniques, and post-installation reviews.",
+  "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-ensure-quality-control-during-flooring-installat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Frasheski Construction ensure quality control during flooring installation coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction ensures quality control throughout flooring installation coordination by implementing a multi-stage inspection process and adhering to industry best practices. This includes verifying proper subfloor preparation, checking material quality upon delivery, supervising installation techniques, and conducting post-installation reviews. We ensure that installers follow manufacturer guidelines for each specific flooring type, such as correct adhesive application or proper gapping for expansion. Regular site visits and communication with the installation team are key. This diligent oversight helps identify and rectify any issues promptly, ensuring the final flooring meets both aesthetic standards and long-term durability requirements, common especially with projects in the diverse architectural styles found across the East Bay.",
+        "description": "We ensure quality control through multi-stage inspections, verifying subfloor prep, material quality, installation techniques, and post-installation reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

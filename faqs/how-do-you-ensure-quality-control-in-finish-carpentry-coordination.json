@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure quality control in finish carpentry coordination?",
+  "description": "Quality control is ensured through meticulous planning, precise measurements, skilled craftsmanship, and regular site inspections to meet design specifications.",
+  "url": "frasheskiconstruction.com/faq/how-do-you-ensure-quality-control-in-finish-carpentry-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure quality control in finish carpentry coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quality control in finish carpentry coordination involves meticulous planning, precise measurements, skilled craftsmanship, and thorough inspections. Frasheski Construction maintains quality by working with experienced carpenters and conducting regular site visits to oversee installations. We ensure that all details meet design specifications, joints are tight, finishes are consistent, and installations are level and plumb, which is vital for the longevity and appearance of custom work.",
+        "description": "Quality control is ensured through meticulous planning, precise measurements, skilled craftsmanship, and regular site inspections to meet design specifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

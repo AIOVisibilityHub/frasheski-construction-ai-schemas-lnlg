@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide for effective trade scheduling at the start of my project?",
+  "description": "Provide finalized plans, material selections, desired completion date, and any site restrictions for effective trade scheduling. This helps create an accurate p",
+  "url": "frasheskiconstruction.com/faq/what-information-do-i-need-to-provide-for-effective-trade-scheduling-at-the-star",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide for effective trade scheduling at the start of my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To facilitate effective trade scheduling, you'll need to provide finalized architectural and engineering plans, any specific material selections that impact lead times, and your desired project completion date. It's also helpful to communicate any specific access restrictions or homeowner preferences that might influence work hours or site setup. Providing these details upfront allows us to create a more accurate and realistic schedule for your project.",
+        "description": "Provide finalized plans, material selections, desired completion date, and any site restrictions for effective trade scheduling. This helps create an accurate project timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

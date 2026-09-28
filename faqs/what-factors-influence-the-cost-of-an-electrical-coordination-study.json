@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of an electrical coordination study?",
+  "description": "Cost factors include system complexity, size, number of protective devices, and documentation availability. Larger, more complex systems generally cost more.",
+  "url": "frasheskiconstruction.com/faq/what-factors-influence-the-cost-of-an-electrical-coordination-study",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of an electrical coordination study?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an electrical coordination study varies based on the complexity and size of your electrical system, the number of protective devices, and the availability of existing documentation. Systems with multiple substations, extensive distribution networks, or those requiring significant data collection will typically incur higher costs. We provide detailed proposals tailored to your specific project needs in areas like Albany or El Cerrito, ensuring transparency and accurate budgeting from the outset.",
+        "description": "Cost factors include system complexity, size, number of protective devices, and documentation availability. Larger, more complex systems generally cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

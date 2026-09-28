@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Frasheski Construction ensure quality in tile installation through coordination?",
+  "description": "Quality is ensured by meticulous planning, advising on substrates, managing installers, and conducting site visits and final walkthroughs.",
+  "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-ensure-quality-in-tile-installation-through-coor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Frasheski Construction ensure quality in tile installation through coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction ensures quality in tile installation through rigorous coordination by meticulously planning each stage. This includes advising on appropriate substrates, overseeing precise measurements, managing skilled installers, and conducting regular site visits during the process. Our approach includes a final walkthrough with the client to address any concerns, ensuring the finished work meets our high standards and client expectations, particularly in custom projects across the East Bay.",
+        "description": "Quality is ensured by meticulous planning, advising on substrates, managing installers, and conducting site visits and final walkthroughs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to install new trim or molding during a renovation?",
+  "description": "Install new trim or molding after major construction, drywall, and wall painting, but before flooring. This protects the trim and allows for precise fitting and",
+  "url": "frasheskiconstruction.com/faq/when-is-the-best-time-to-install-new-trim-or-molding-during-a-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to install new trim or molding during a renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal time to install new trim or molding is typically after major construction, drywall installation, and painting of walls are complete, but before flooring is laid. This sequence ensures that the trim can be cut and fitted precisely against finished walls without risking damage during other trades' work. It also allows for easier painting or staining of the trim itself before final flooring installation.",
+        "description": "Install new trim or molding after major construction, drywall, and wall painting, but before flooring. This protects the trim and allows for precise fitting and finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

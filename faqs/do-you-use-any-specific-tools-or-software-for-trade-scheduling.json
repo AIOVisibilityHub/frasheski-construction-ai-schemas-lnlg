@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you use any specific tools or software for trade scheduling?",
+  "description": "We use industry-standard project management software for trade scheduling. These tools help create timelines, track progress, and communicate updates efficientl",
+  "url": "frasheskiconstruction.com/faq/do-you-use-any-specific-tools-or-software-for-trade-scheduling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you use any specific tools or software for trade scheduling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we utilize industry-standard project management software for developing and managing our trade schedules. These tools allow us to create comprehensive timelines, track progress in real-time, and quickly adjust schedules as needed. The software helps us visualize dependencies between tasks and communicate updates efficiently to all involved parties, ensuring everyone is working from the most current plan for projects across the East Bay area.",
+        "description": "We use industry-standard project management software for trade scheduling. These tools help create timelines, track progress, and communicate updates efficiently to all parties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

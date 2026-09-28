@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Frasheski Construction manage cleanup and debris removal after final detail work?",
+  "description": "Frasheski Construction manages comprehensive site cleanup, removing all debris and dust, sometimes coordinating with professional cleaning services for a pristi",
+  "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-manage-cleanup-and-debris-removal-after-final-de",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Frasheski Construction manage cleanup and debris removal after final detail work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After completing the final detail work, Frasheski Construction ensures a thorough and professional cleanup of the entire site. This includes removing all construction debris, dust, and protective coverings, leaving the space clean and ready for occupancy. We coordinate with professional cleaning services as needed to ensure every surface is pristine, reflecting our commitment to a polished, ready-to-use finished product.",
+        "description": "Frasheski Construction manages comprehensive site cleanup, removing all debris and dust, sometimes coordinating with professional cleaning services for a pristine finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

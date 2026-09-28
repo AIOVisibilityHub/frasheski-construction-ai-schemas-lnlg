@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is remodel planning and why is it important for my project?",
+  "description": "Remodel planning defines project goals, scope, budget, and timeline, crucial for a smooth process and preventing costly changes.",
+  "url": "frasheskiconstruction.com/faq/what-is-remodel-planning-and-why-is-it-important-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is remodel planning and why is it important for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remodel planning involves defining your project goals, scope, budget, and timeline before construction begins. It's crucial for ensuring a smooth process and achieving desired outcomes. A detailed plan helps prevent costly changes during construction, aligns all stakeholders, and allows for efficient resource allocation, ensuring your vision is met within practical constraints. Without thorough planning, projects can face delays, budget overruns, and unsatisfactory results.",
+        "description": "Remodel planning defines project goals, scope, budget, and timeline, crucial for a smooth process and preventing costly changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

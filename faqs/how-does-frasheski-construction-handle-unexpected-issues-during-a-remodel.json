@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Frasheski Construction handle unexpected issues during a remodel?",
+  "description": "Frasheski Construction handles unexpected issues by anticipating challenges, developing contingency plans, and communicating solutions collaboratively with clie",
+  "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-handle-unexpected-issues-during-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Frasheski Construction handle unexpected issues during a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction addresses unexpected issues during a remodel through proactive communication and problem-solving. Our project managers are skilled at anticipating potential challenges and developing contingency plans. When unforeseen problems arise, such as structural surprises or material delays, we promptly inform you, present viable solutions, and adjust the project plan collaboratively to minimize impact on schedule and budget for your South San Francisco or East San Francisco area home.",
+        "description": "Frasheski Construction handles unexpected issues by anticipating challenges, developing contingency plans, and communicating solutions collaboratively with clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

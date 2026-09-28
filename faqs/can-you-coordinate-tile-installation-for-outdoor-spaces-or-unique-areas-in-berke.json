@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you coordinate tile installation for outdoor spaces or unique areas in Berkeley?",
+  "description": "Yes, we coordinate tile installation for outdoor spaces and unique areas, considering drainage, weather, and slip resistance for durability in local climates.",
+  "url": "frasheskiconstruction.com/faq/can-you-coordinate-tile-installation-for-outdoor-spaces-or-unique-areas-in-berke",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you coordinate tile installation for outdoor spaces or unique areas in Berkeley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction can coordinate tile installation for various outdoor spaces and unique areas, including patios, balconies, and custom features. For outdoor installations, specific considerations like drainage, freeze-thaw cycles, and slip resistance are critical. Our coordination process in Berkeley involves selecting weather-appropriate materials and ensuring proper installation techniques to withstand local climate conditions and ensure longevity.",
+        "description": "Yes, we coordinate tile installation for outdoor spaces and unique areas, considering drainage, weather, and slip resistance for durability in local climates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

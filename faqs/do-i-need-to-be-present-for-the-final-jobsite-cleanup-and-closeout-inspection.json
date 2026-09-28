@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be present for the final jobsite cleanup and closeout inspection?",
+  "description": "Your presence at the final inspection is highly recommended to review work and provide direct input before sign-off.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-be-present-for-the-final-jobsite-cleanup-and-closeout-inspection",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be present for the final jobsite cleanup and closeout inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While not strictly mandatory, your presence during the final walkthrough and closeout inspection is highly recommended. This allows you to directly review the completed work, identify any potential punch list items, and ask questions firsthand. Your input at this stage is invaluable to ensure the project meets your expectations before final sign-off, especially for projects in Daly City or Brisbane.",
+        "description": "Your presence at the final inspection is highly recommended to review work and provide direct input before sign-off."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

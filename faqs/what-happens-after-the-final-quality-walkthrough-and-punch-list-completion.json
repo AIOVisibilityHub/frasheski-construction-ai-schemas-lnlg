@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens after the final quality walkthrough and punch list completion?",
+  "description": "After the walkthrough, punch list items are addressed, re-inspected if needed, and then the project is officially handed over with final payments and warranties",
+  "url": "frasheskiconstruction.com/faq/what-happens-after-the-final-quality-walkthrough-and-punch-list-completion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens after the final quality walkthrough and punch list completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After the final quality walkthrough, the contractor addresses all items on the punch list. Once these corrections are completed, a re-inspection might occur to confirm everything is resolved to satisfaction. Following final approval, the project is officially handed over, final payments are made, and warranties typically commence. Frasheski Construction ensures a smooth transition to project close-out and provides all necessary documentation, like warranty information.",
+        "description": "After the walkthrough, punch list items are addressed, re-inspected if needed, and then the project is officially handed over with final payments and warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

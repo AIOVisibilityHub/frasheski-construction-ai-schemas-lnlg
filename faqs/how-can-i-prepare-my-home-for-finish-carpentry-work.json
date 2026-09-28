@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prepare my home for finish carpentry work?",
+  "description": "Prepare your home by ensuring the site is clean, clear of obstructions, has adequate lighting, and protecting existing finishes to facilitate efficient work.",
+  "url": "frasheskiconstruction.com/faq/how-can-i-prepare-my-home-for-finish-carpentry-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prepare my home for finish carpentry work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare your home for finish carpentry work, ensure the site is clean, clear of obstructions, and has adequate lighting and power access. If custom pieces are being installed, confirm that measurements are finalized and all necessary sub-structures are in place. Having a clear pathway for material delivery and protecting existing finishes will help the team work efficiently and prevent damage to your property during the installation process.",
+        "description": "Prepare your home by ensuring the site is clean, clear of obstructions, has adequate lighting, and protecting existing finishes to facilitate efficient work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

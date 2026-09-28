@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can finish carpentry coordination help integrate custom elements into my project?",
+  "description": "Finish carpentry coordination is crucial for integrating custom elements like built-ins and unique trim, ensuring precise fit and a cohesive project aesthetic.",
+  "url": "frasheskiconstruction.com/faq/can-finish-carpentry-coordination-help-integrate-custom-elements-into-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can finish carpentry coordination help integrate custom elements into my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, finish carpentry coordination is essential for seamlessly integrating custom elements such as unique built-ins, custom cabinetry, or specialty trim work into your overall project. This involves precise communication between designers, fabricators, and installers to ensure accurate measurements, proper fit, and a cohesive aesthetic. Frasheski Construction specializes in managing these complex integrations, ensuring custom pieces fit perfectly and align with the architectural vision of your home.",
+        "description": "Finish carpentry coordination is crucial for integrating custom elements like built-ins and unique trim, ensuring precise fit and a cohesive project aesthetic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

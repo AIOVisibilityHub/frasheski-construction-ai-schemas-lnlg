@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for hiring Frasheski Construction for electrical fixture installation?",
+  "description": "The process involves an initial consultation, detailed estimate, scheduled installation by our team, and final cleanup, with clear communication throughout.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-hiring-frasheski-construction-for-electrical-fixture-ins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for hiring Frasheski Construction for electrical fixture installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for hiring Frasheski Construction for electrical fixture installation begins with an initial consultation where we discuss your needs, fixture types, and desired locations. We then provide a detailed estimate based on the scope of work. Once approved, we schedule the installation at your convenience. Our team handles the installation, ensuring proper wiring, safety, and functionality, and cleans up the work area upon completion. We prioritize clear communication throughout the project, from initial assessment to final inspection.",
+        "description": "The process involves an initial consultation, detailed estimate, scheduled installation by our team, and final cleanup, with clear communication throughout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

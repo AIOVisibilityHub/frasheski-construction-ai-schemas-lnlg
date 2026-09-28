@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who performs electrical coordination studies?",
+  "description": "Licensed electrical engineers with power system analysis expertise perform these studies. Frasheski Construction partners with qualified firms for this speciali",
+  "url": "frasheskiconstruction.com/faq/who-performs-electrical-coordination-studies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who performs electrical coordination studies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electrical coordination studies are typically performed by licensed electrical engineers with specialized expertise in power system analysis. While Frasheski Construction manages the overall construction project, we partner with qualified and experienced electrical engineering firms to conduct these specialized studies. This collaborative approach ensures that your electrical system design and implementation meet the highest standards of safety and efficiency, consistent with our commitment to quality across our service areas including Oakland and Alameda.",
+        "description": "Licensed electrical engineers with power system analysis expertise perform these studies. Frasheski Construction partners with qualified firms for this specialized work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

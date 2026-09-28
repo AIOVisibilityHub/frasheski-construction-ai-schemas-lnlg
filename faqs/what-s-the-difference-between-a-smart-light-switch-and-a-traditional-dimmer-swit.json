@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a smart light switch and a traditional dimmer switch?",
+  "description": "Traditional dimmers manually adjust light brightness. Smart switches offer app/voice control, scheduling, and smart home integration for greater automation and",
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-smart-light-switch-and-a-traditional-dimmer-swit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a smart light switch and a traditional dimmer switch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A traditional dimmer switch allows you to manually adjust the brightness of lights. A smart light switch, however, offers advanced functionalities like control via smartphone apps, voice commands, and scheduling features, often integrating with smart home systems. A practical tradeoff is that smart switches offer greater convenience and energy management through automation, while traditional dimmers are simpler, less expensive to install, and provide basic light level control without requiring an internet connection.",
+        "description": "Traditional dimmers manually adjust light brightness. Smart switches offer app/voice control, scheduling, and smart home integration for greater automation and convenience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

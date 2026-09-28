@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can Frasheski Construction ensure a smooth final quality walkthrough?",
+  "description": "Frasheski Construction ensures a smooth walkthrough through open communication, regular internal quality checks, thorough preparation, and proactive issue resol",
+  "url": "frasheskiconstruction.com/faq/how-can-frasheski-construction-ensure-a-smooth-final-quality-walkthrough",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can Frasheski Construction ensure a smooth final quality walkthrough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction ensures a smooth final quality walkthrough by maintaining open communication throughout the project, conducting regular quality checks internally, and meticulously preparing for the final inspection. We provide clear documentation, review project specifications with you beforehand, and address potential issues proactively. Our goal is to minimize surprises and facilitate a quick, efficient review process that leads to your complete satisfaction.",
+        "description": "Frasheski Construction ensures a smooth walkthrough through open communication, regular internal quality checks, thorough preparation, and proactive issue resolution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

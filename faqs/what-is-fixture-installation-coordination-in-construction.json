@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is fixture installation coordination in construction?",
+  "description": "Fixture installation coordination manages the selection, ordering, delivery, and correct installation of fixtures during a construction project.",
+  "url": "frasheskiconstruction.com/faq/what-is-fixture-installation-coordination-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is fixture installation coordination in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fixture installation coordination involves managing the selection, ordering, delivery, and installation of various fixtures like lighting, plumbing, and cabinetry during a construction or renovation project. It ensures that all fixtures arrive on time, are compatible with the planned design and utilities, and are installed correctly by the appropriate trades. This process is crucial to maintain project timelines and avoid costly delays or rework, especially when multiple vendors and specialists are involved.",
+        "description": "Fixture installation coordination manages the selection, ordering, delivery, and correct installation of fixtures during a construction project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

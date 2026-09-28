@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider an electrical coordination study for my project?",
+  "description": "Consider a study for new construction, significant renovations, or electrical system upgrades, especially early in the design phase, to prevent costly issues.",
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-an-electrical-coordination-study-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider an electrical coordination study for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider an electrical coordination study whenever you are undertaking new construction, significant renovations, or upgrades to your electrical system. This includes adding new loads, integrating renewable energy sources, or updating protective devices. Performing a study early in the design phase, particularly for complex commercial or industrial projects in the Berkeley area, helps identify potential issues before construction begins, saving time and costly rework.",
+        "description": "Consider a study for new construction, significant renovations, or electrical system upgrades, especially early in the design phase, to prevent costly issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

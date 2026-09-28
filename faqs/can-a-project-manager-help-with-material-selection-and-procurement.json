@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a project manager help with material selection and procurement?",
+  "description": "A project manager helps with material selection by guiding choices, advising on suitability, and procuring materials that fit your budget and design.",
+  "url": "frasheskiconstruction.com/faq/can-a-project-manager-help-with-material-selection-and-procurement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a project manager help with material selection and procurement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a project manager can significantly assist with material selection and procurement. They leverage their experience and network of suppliers to guide you in choosing suitable materials that align with your budget and design preferences. This often includes advising on durability, aesthetic appeal, and sourcing high-quality options efficiently, ensuring the right materials arrive on time for your remodel in areas like Sausalito or Tiburon.",
+        "description": "A project manager helps with material selection by guiding choices, advising on suitability, and procuring materials that fit your budget and design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you coordinate cabinet installation with other trades like plumbing and electrical?",
+  "description": "Yes, we coordinate cabinet installation with other trades like plumbing and electrical to ensure proper positioning and smooth subsequent installations, prevent",
+  "url": "frasheskiconstruction.com/faq/can-you-coordinate-cabinet-installation-with-other-trades-like-plumbing-and-elec",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you coordinate cabinet installation with other trades like plumbing and electrical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, coordinating cabinet installation with other trades is a standard part of our service at Frasheski Construction. Effective coordination ensures that plumbing and electrical rough-ins are correctly positioned for cabinet placement, and that subsequent installations, like countertops and appliances, proceed smoothly. A key aspect of our approach is to manage the sequencing of these trades to avoid delays and rework, ensuring that all components fit together as planned. This integrated approach helps maintain project efficiency and prevents common scheduling conflicts.",
+        "description": "Yes, we coordinate cabinet installation with other trades like plumbing and electrical to ensure proper positioning and smooth subsequent installations, preventing delays and rework."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

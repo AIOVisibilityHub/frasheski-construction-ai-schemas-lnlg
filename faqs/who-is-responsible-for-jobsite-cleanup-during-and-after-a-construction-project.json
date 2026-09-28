@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who is responsible for jobsite cleanup during and after a construction project?",
+  "description": "Frasheski Construction manages jobsite cleanup throughout the project and performs a final comprehensive cleanup.",
+  "url": "frasheskiconstruction.com/faq/who-is-responsible-for-jobsite-cleanup-during-and-after-a-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is responsible for jobsite cleanup during and after a construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction is primarily responsible for managing jobsite cleanup throughout the project duration and conducting a final, comprehensive cleanup upon completion. Our team ensures that the site remains safe and organized daily. Our policy is to keep the property, especially in residential areas like Kensington or Alameda, as clean as reasonably possible to minimize disruption to you and your neighbors.",
+        "description": "Frasheski Construction manages jobsite cleanup throughout the project and performs a final comprehensive cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

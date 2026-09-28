@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a mid-project cleanup and final jobsite cleanup?",
+  "description": "Mid-project cleanup maintains daily safety and organization, while final cleanup is a comprehensive, deep clean of the entire site.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-mid-project-cleanup-and-final-jobsite-cleanup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a mid-project cleanup and final jobsite cleanup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mid-project cleanup focuses on maintaining a safe and organized work environment by removing daily debris, keeping pathways clear, and managing waste during construction phases. Final jobsite cleanup, however, is a comprehensive effort to leave the entire site spotless, often including professional cleaning services. Frasheski Construction ensures both: ongoing tidiness for safety and a thorough deep clean at completion, particularly important on busy sites in the East Bay area.",
+        "description": "Mid-project cleanup maintains daily safety and organization, while final cleanup is a comprehensive, deep clean of the entire site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an electrical coordination study typically take to complete?",
+  "description": "Completion time varies from weeks to months, depending on system size, complexity, data availability, and on-site collection needs.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-an-electrical-coordination-study-typically-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an electrical coordination study typically take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an electrical coordination study can vary significantly, ranging from a few weeks for smaller, simpler systems to several months for large, complex industrial facilities. Factors such as the availability of accurate system data, the need for on-site data collection, and the complexity of the protective device settings all influence the timeline. Our project managers will provide a realistic timeline based on the specifics of your commercial project in the East Bay.",
+        "description": "Completion time varies from weeks to months, depending on system size, complexity, data availability, and on-site collection needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

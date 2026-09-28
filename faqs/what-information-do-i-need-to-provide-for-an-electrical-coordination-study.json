@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide for an electrical coordination study?",
+  "description": "Provide single-line diagrams, utility data, protective device specifications, and future load plans. Accurate documentation speeds up the study.",
+  "url": "frasheskiconstruction.com/faq/what-information-do-i-need-to-provide-for-an-electrical-coordination-study",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide for an electrical coordination study?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate an electrical coordination study, you will typically need to provide single-line diagrams of your electrical system, utility short-circuit current data, specifications for existing protective devices, and any plans for future load additions or system modifications. Having accurate and up-to-date documentation helps expedite the process and ensures the study's accuracy. We can assist clients in the Berkeley area in gathering this essential information.",
+        "description": "Provide single-line diagrams, utility data, protective device specifications, and future load plans. Accurate documentation speeds up the study."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

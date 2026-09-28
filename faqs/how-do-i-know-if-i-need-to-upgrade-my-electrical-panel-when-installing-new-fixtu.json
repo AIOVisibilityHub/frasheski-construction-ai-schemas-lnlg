@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if I need to upgrade my electrical panel when installing new fixtures?",
+  "description": "An electrical panel upgrade may be necessary if new high-wattage fixtures will exceed your current panel's capacity, especially in older homes.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-i-need-to-upgrade-my-electrical-panel-when-installing-new-fixtu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if I need to upgrade my electrical panel when installing new fixtures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are installing multiple new high-wattage fixtures, especially in an older home, you might need an electrical panel upgrade. An outdated panel may not safely handle increased electrical load, leading to tripped breakers or potential hazards. We can assess your current panel and provide guidance, considering the electrical demands of your planned installations to ensure your system can safely support them.",
+        "description": "An electrical panel upgrade may be necessary if new high-wattage fixtures will exceed your current panel's capacity, especially in older homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

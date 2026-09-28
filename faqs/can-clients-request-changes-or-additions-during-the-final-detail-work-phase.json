@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can clients request changes or additions during the final detail work phase?",
+  "description": "Minor changes may be accommodated, but significant alterations during final detail work can affect timelines and costs, making early decisions preferable.",
+  "url": "frasheskiconstruction.com/faq/can-clients-request-changes-or-additions-during-the-final-detail-work-phase",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can clients request changes or additions during the final detail work phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it's best to finalize all design decisions earlier in the project, minor requests or adjustments can sometimes be accommodated during the final detail work phase. However, significant changes at this stage can impact timelines and costs, as they might require redoing completed work or ordering new materials. We encourage open communication throughout the project to minimize late-stage modifications, but our team at Frasheski Construction is always ready to discuss feasible options.",
+        "description": "Minor changes may be accommodated, but significant alterations during final detail work can affect timelines and costs, making early decisions preferable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

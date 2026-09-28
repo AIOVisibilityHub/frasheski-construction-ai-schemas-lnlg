@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before engaging a contractor for project management?",
+  "description": "Prepare your renovation goals, aesthetic preferences, budget range, and timeline expectations before engaging a project manager.",
+  "url": "frasheskiconstruction.com/faq/what-should-i-prepare-before-engaging-a-contractor-for-project-management",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before engaging a contractor for project management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before engaging a contractor for project management, it's beneficial to have a clear understanding of your renovation goals, desired aesthetic, and a preliminary budget range. Gathering inspirational images, making a list of 'must-haves' versus 'nice-to-haves,' and understanding your general timeline expectations will help the project manager create a more accurate proposal and scope for your home.",
+        "description": "Prepare your renovation goals, aesthetic preferences, budget range, and timeline expectations before engaging a project manager."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I supply my own fixtures for installation?",
+  "description": "You can supply your own fixtures, but coordinate with us early to ensure compatibility, delivery timing, and code compliance in your area.",
+  "url": "frasheskiconstruction.com/faq/can-i-supply-my-own-fixtures-for-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I supply my own fixtures for installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can typically supply your own fixtures for installation. However, it's crucial to coordinate these selections with your contractor, Frasheski Construction, well in advance. This allows us to review specifications for compatibility with existing rough-ins, ensure proper delivery timing, and confirm they meet any local building codes applicable in areas like Berkeley or Oakland. Providing specific product details ensures we can integrate them smoothly and avoid potential issues during installation.",
+        "description": "You can supply your own fixtures, but coordinate with us early to ensure compatibility, delivery timing, and code compliance in your area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

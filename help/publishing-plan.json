@@ -1,0 +1,3317 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Mistakes to Avoid During Your Kitchen Remodel",
+      "anchorSlug": "mistakes-to-avoid-during-your-kitchen-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-during-your-kitchen-remodel.html"
+    },
+    {
+      "title": "Key Steps for a Smooth Kitchen Remodel",
+      "anchorSlug": "key-steps-for-a-smooth-kitchen-remodel",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/key-steps-for-a-smooth-kitchen-remodel.html"
+    },
+    {
+      "title": "When to Call in a Pro for Your Kitchen Remodel",
+      "anchorSlug": "when-to-call-in-a-pro-for-your-kitchen-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-in-a-pro-for-your-kitchen-remodel.html"
+    },
+    {
+      "title": "How Long Does a Full Kitchen Renovation Really Take?",
+      "anchorSlug": "how-long-does-a-full-kitchen-renovation-really-take",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-a-full-kitchen-renovation-really-take.html"
+    },
+    {
+      "title": "Signs It’s Time for a Full Kitchen Renovation",
+      "anchorSlug": "signs-it-s-time-for-a-full-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-it-s-time-for-a-full-kitchen-renovation.html"
+    },
+    {
+      "title": "How to Plan Your Full Kitchen Renovation Without Losing Your Mind",
+      "anchorSlug": "how-to-plan-your-full-kitchen-renovation-without-losing-your-mind",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-full-kitchen-renovation-without-losing-your-mind.html"
+    },
+    {
+      "title": "Struggling to Make Your Kitchen Flow Better?",
+      "anchorSlug": "struggling-to-make-your-kitchen-flow-better",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-to-make-your-kitchen-flow-better.html"
+    },
+    {
+      "title": "What to Do When Your Kitchen Layout Feels All Wrong",
+      "anchorSlug": "what-to-do-when-your-kitchen-layout-feels-all-wrong",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-kitchen-layout-feels-all-wrong.html"
+    },
+    {
+      "title": "Avoiding Common Kitchen Design Blunders",
+      "anchorSlug": "avoiding-common-kitchen-design-blunders",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-kitchen-design-blunders.html"
+    },
+    {
+      "title": "Why Aren't My Cabinets Functioning for Me Anymore?",
+      "anchorSlug": "why-aren-t-my-cabinets-functioning-for-me-anymore",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-aren-t-my-cabinets-functioning-for-me-anymore.html"
+    },
+    {
+      "title": "Smooth Cabinet Installation: A Timeline",
+      "anchorSlug": "smooth-cabinet-installation-a-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smooth-cabinet-installation-a-timeline.html"
+    },
+    {
+      "title": "Don't Make These Cabinet Installation Mistakes",
+      "anchorSlug": "don-t-make-these-cabinet-installation-mistakes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/don-t-make-these-cabinet-installation-mistakes.html"
+    },
+    {
+      "title": "Why Are My Cabinets Looking So Worn Out?",
+      "anchorSlug": "why-are-my-cabinets-looking-so-worn-out",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-cabinets-looking-so-worn-out.html"
+    },
+    {
+      "title": "What Happens During Cabinet Refinishing?",
+      "anchorSlug": "what-happens-during-cabinet-refinishing",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-during-cabinet-refinishing.html"
+    },
+    {
+      "title": "Top Mistakes to Avoid When Refinishing Cabinets",
+      "anchorSlug": "top-mistakes-to-avoid-when-refinishing-cabinets",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/top-mistakes-to-avoid-when-refinishing-cabinets.html"
+    },
+    {
+      "title": "Signs Your Countertops Need an Upgrade",
+      "anchorSlug": "signs-your-countertops-need-an-upgrade",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-countertops-need-an-upgrade.html"
+    },
+    {
+      "title": "How Long Does Countertop Replacement Really Take?",
+      "anchorSlug": "how-long-does-countertop-replacement-really-take",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-countertop-replacement-really-take.html"
+    },
+    {
+      "title": "Avoiding Pitfalls in Your Countertop Project",
+      "anchorSlug": "avoiding-pitfalls-in-your-countertop-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-pitfalls-in-your-countertop-project.html"
+    },
+    {
+      "title": "When to Call a Pro for Your Kitchen Backsplash?",
+      "anchorSlug": "when-to-call-a-pro-for-your-kitchen-backsplash",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-your-kitchen-backsplash.html"
+    },
+    {
+      "title": "What Mistakes to Avoid When Installing a Backsplash?",
+      "anchorSlug": "what-mistakes-to-avoid-when-installing-a-backsplash",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-to-avoid-when-installing-a-backsplash.html"
+    },
+    {
+      "title": "How to Plan Your Backsplash Installation Timeline",
+      "anchorSlug": "how-to-plan-your-backsplash-installation-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-backsplash-installation-timeline.html"
+    },
+    {
+      "title": "Is Your Kitchen Plumbing Ready for an Upgrade?",
+      "anchorSlug": "is-your-kitchen-plumbing-ready-for-an-upgrade",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-kitchen-plumbing-ready-for-an-upgrade.html"
+    },
+    {
+      "title": "What Are the Key Steps in a Kitchen Plumbing Upgrade?",
+      "anchorSlug": "what-are-the-key-steps-in-a-kitchen-plumbing-upgrade",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-key-steps-in-a-kitchen-plumbing-upgrade.html"
+    },
+    {
+      "title": "Common Mistakes Homeowners Make with Kitchen Plumbing",
+      "anchorSlug": "common-mistakes-homeowners-make-with-kitchen-plumbing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-homeowners-make-with-kitchen-plumbing.html"
+    },
+    {
+      "title": "Why Isn't My New Kitchen Appliance Working Right?",
+      "anchorSlug": "why-isn-t-my-new-kitchen-appliance-working-right",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-new-kitchen-appliance-working-right.html"
+    },
+    {
+      "title": "Getting Your Kitchen Ready for New Appliances: A Step-by-Step Guide",
+      "anchorSlug": "getting-your-kitchen-ready-for-new-appliances-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-your-kitchen-ready-for-new-appliances-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Common Mistakes When Planning Kitchen Electrical",
+      "anchorSlug": "common-mistakes-when-planning-kitchen-electrical",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-planning-kitchen-electrical.html"
+    },
+    {
+      "title": "What to Do When Your Kitchen Electrical Isn't Up to Snuff",
+      "anchorSlug": "what-to-do-when-your-kitchen-electrical-isn-t-up-to-snuff",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-kitchen-electrical-isn-t-up-to-snuff.html"
+    },
+    {
+      "title": "Making Sure Your New Appliances Fit: A Pre-Installation Checklist",
+      "anchorSlug": "making-sure-your-new-appliances-fit-a-pre-installation-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-sure-your-new-appliances-fit-a-pre-installation-checklist.html"
+    },
+    {
+      "title": "How to Avoid Kitchen Electrical Headaches During a Remodel",
+      "anchorSlug": "how-to-avoid-kitchen-electrical-headaches-during-a-remodel",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-kitchen-electrical-headaches-during-a-remodel.html"
+    },
+    {
+      "title": "My Walls Look Dull: Is It Time for a Paint Job?",
+      "anchorSlug": "my-walls-look-dull-is-it-time-for-a-paint-job",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-walls-look-dull-is-it-time-for-a-paint-job.html"
+    },
+    {
+      "title": "Help! My Paint Project is Taking Forever – What Gives?",
+      "anchorSlug": "help-my-paint-project-is-taking-forever-what-gives",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/help-my-paint-project-is-taking-forever-what-gives.html"
+    },
+    {
+      "title": "How to Avoid Painting Project Headaches",
+      "anchorSlug": "how-to-avoid-painting-project-headaches",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-painting-project-headaches.html"
+    },
+    {
+      "title": "My Bathroom is Tiny – Can I Still Remodel It?",
+      "anchorSlug": "my-bathroom-is-tiny-can-i-still-remodel-it",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-bathroom-is-tiny-can-i-still-remodel-it.html"
+    },
+    {
+      "title": "Worried About Hidden Problems in My Bathroom Remodel?",
+      "anchorSlug": "worried-about-hidden-problems-in-my-bathroom-remodel",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-hidden-problems-in-my-bathroom-remodel.html"
+    },
+    {
+      "title": "Bathroom Remodel Costs: What Am I Really Paying For?",
+      "anchorSlug": "bathroom-remodel-costs-what-am-i-really-paying-for",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodel-costs-what-am-i-really-paying-for.html"
+    },
+    {
+      "title": "What to Do When Your Bathroom Layout Just Doesn't Work Anymore",
+      "anchorSlug": "what-to-do-when-your-bathroom-layout-just-doesn-t-work-anymore",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-bathroom-layout-just-doesn-t-work-anymore.html"
+    },
+    {
+      "title": "How to Plan Your Full Bathroom Renovation Without Major Headaches",
+      "anchorSlug": "how-to-plan-your-full-bathroom-renovation-without-major-headaches",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-full-bathroom-renovation-without-major-headaches.html"
+    },
+    {
+      "title": "Mistakes to Steer Clear Of When Upgrading Your Shower or Tub",
+      "anchorSlug": "mistakes-to-steer-clear-of-when-upgrading-your-shower-or-tub",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-steer-clear-of-when-upgrading-your-shower-or-tub.html"
+    },
+    {
+      "title": "When is it Time to Call a Pro for Shower or Tub Upgrades?",
+      "anchorSlug": "when-is-it-time-to-call-a-pro-for-shower-or-tub-upgrades",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-pro-for-shower-or-tub-upgrades.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Bathroom Remodel Project",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-bathroom-remodel-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-bathroom-remodel-project.html"
+    },
+    {
+      "title": "How to Ensure Your New Shower or Tub Installation Goes Smoothly",
+      "anchorSlug": "how-to-ensure-your-new-shower-or-tub-installation-goes-smoothly",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-new-shower-or-tub-installation-goes-smoothly.html"
+    },
+    {
+      "title": "Why Does My New Vanity Not Fit Right?",
+      "anchorSlug": "why-does-my-new-vanity-not-fit-right",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-new-vanity-not-fit-right.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Installing a New Bathroom Vanity",
+      "anchorSlug": "mistakes-to-avoid-when-installing-a-new-bathroom-vanity",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-installing-a-new-bathroom-vanity.html"
+    },
+    {
+      "title": "When Your Vanity Dreams Don't Quite Match Reality",
+      "anchorSlug": "when-your-vanity-dreams-don-t-quite-match-reality",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-vanity-dreams-don-t-quite-match-reality.html"
+    },
+    {
+      "title": "What to Do When Your Bathroom Sink Plumbing Doesn't Line Up",
+      "anchorSlug": "what-to-do-when-your-bathroom-sink-plumbing-doesn-t-line-up",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-bathroom-sink-plumbing-doesn-t-line-up.html"
+    },
+    {
+      "title": "The Hidden Costs of DIY Bathroom Plumbing",
+      "anchorSlug": "the-hidden-costs-of-diy-bathroom-plumbing",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-hidden-costs-of-diy-bathroom-plumbing.html"
+    },
+    {
+      "title": "How to Ensure Your New Vanity Plumbing is Leak-Free",
+      "anchorSlug": "how-to-ensure-your-new-vanity-plumbing-is-leak-free",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-new-vanity-plumbing-is-leak-free.html"
+    },
+    {
+      "title": "Dealing with Outdated Bathroom Wiring: What to Know",
+      "anchorSlug": "dealing-with-outdated-bathroom-wiring-what-to-know",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-outdated-bathroom-wiring-what-to-know.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Bathroom Electrical Upgrades",
+      "anchorSlug": "avoiding-common-mistakes-in-bathroom-electrical-upgrades",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-bathroom-electrical-upgrades.html"
+    },
+    {
+      "title": "When Your Bathroom Outlets Aren't Cutting It Anymore",
+      "anchorSlug": "when-your-bathroom-outlets-aren-t-cutting-it-anymore",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-bathroom-outlets-aren-t-cutting-it-anymore.html"
+    },
+    {
+      "title": "Tired of Your Bathroom Tile? Here's How to Upgrade",
+      "anchorSlug": "tired-of-your-bathroom-tile-here-s-how-to-upgrade",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tired-of-your-bathroom-tile-here-s-how-to-upgrade.html"
+    },
+    {
+      "title": "Mistakes to Steer Clear Of During Your Tile Project",
+      "anchorSlug": "mistakes-to-steer-clear-of-during-your-tile-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-steer-clear-of-during-your-tile-project.html"
+    },
+    {
+      "title": "Preparing for a Flawless Tile Installation: A Checklist",
+      "anchorSlug": "preparing-for-a-flawless-tile-installation-a-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-for-a-flawless-tile-installation-a-checklist.html"
+    },
+    {
+      "title": "When Your Paint Job Goes Wrong: Mistakes to Avoid",
+      "anchorSlug": "when-your-paint-job-goes-wrong-mistakes-to-avoid",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-paint-job-goes-wrong-mistakes-to-avoid.html"
+    },
+    {
+      "title": "What to Expect During Your Interior Painting Project",
+      "anchorSlug": "what-to-expect-during-your-interior-painting-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-interior-painting-project.html"
+    },
+    {
+      "title": "Beyond the Brush: When to Hire a Pro for Paint & Finish Work",
+      "anchorSlug": "beyond-the-brush-when-to-hire-a-pro-for-paint-finish-work",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/beyond-the-brush-when-to-hire-a-pro-for-paint-finish-work.html"
+    },
+    {
+      "title": "Making Your Bathroom Safe and Comfortable: A Guide",
+      "anchorSlug": "making-your-bathroom-safe-and-comfortable-a-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-bathroom-safe-and-comfortable-a-guide.html"
+    },
+    {
+      "title": "Common Mistakes in Bathroom Accessibility Modifications",
+      "anchorSlug": "common-mistakes-in-bathroom-accessibility-modifications",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-in-bathroom-accessibility-modifications.html"
+    },
+    {
+      "title": "Signs Your Bathroom Needs Accessibility Upgrades",
+      "anchorSlug": "signs-your-bathroom-needs-accessibility-upgrades",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-bathroom-needs-accessibility-upgrades.html"
+    },
+    {
+      "title": "How to Avoid Common Remodeling Headaches",
+      "anchorSlug": "how-to-avoid-common-remodeling-headaches",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-remodeling-headaches.html"
+    },
+    {
+      "title": "When to Bring in a Pro for Your Home Renovation",
+      "anchorSlug": "when-to-bring-in-a-pro-for-your-home-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-a-pro-for-your-home-renovation.html"
+    },
+    {
+      "title": "What to Do When Your Interior Renovation Budget Gets Tricky",
+      "anchorSlug": "what-to-do-when-your-interior-renovation-budget-gets-tricky",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-interior-renovation-budget-gets-tricky.html"
+    },
+    {
+      "title": "Navigating the Timeline of Your Home Remodeling Project",
+      "anchorSlug": "navigating-the-timeline-of-your-home-remodeling-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-the-timeline-of-your-home-remodeling-project.html"
+    },
+    {
+      "title": "Is a Full Home Remodel Right for Your Berkeley Home?",
+      "anchorSlug": "is-a-full-home-remodel-right-for-your-berkeley-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-full-home-remodel-right-for-your-berkeley-home.html"
+    },
+    {
+      "title": "Choosing the Right Contractor for Your Interior Update",
+      "anchorSlug": "choosing-the-right-contractor-for-your-interior-update",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-contractor-for-your-interior-update.html"
+    },
+    {
+      "title": "What to Do When Your Room Feels Outdated",
+      "anchorSlug": "what-to-do-when-your-room-feels-outdated",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-room-feels-outdated.html"
+    },
+    {
+      "title": "How to Modernize an Old Room Without a Full Remodel",
+      "anchorSlug": "how-to-modernize-an-old-room-without-a-full-remodel",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-modernize-an-old-room-without-a-full-remodel.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Updating an Outdated Room",
+      "anchorSlug": "mistakes-to-avoid-when-updating-an-outdated-room",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-updating-an-outdated-room.html"
+    },
+    {
+      "title": "When Your Room Layout Just Isn't Working",
+      "anchorSlug": "when-your-room-layout-just-isn-t-working",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-room-layout-just-isn-t-working.html"
+    },
+    {
+      "title": "How to Improve Your Home's Layout for Better Flow",
+      "anchorSlug": "how-to-improve-your-home-s-layout-for-better-flow",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-improve-your-home-s-layout-for-better-flow.html"
+    },
+    {
+      "title": "Common Mistakes When Redesigning Room Layouts",
+      "anchorSlug": "common-mistakes-when-redesigning-room-layouts",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-redesigning-room-layouts.html"
+    },
+    {
+      "title": "What to Expect During a Multi-Room Remodel",
+      "anchorSlug": "what-to-expect-during-a-multi-room-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-multi-room-remodel.html"
+    },
+    {
+      "title": "How to Plan Your Multi-Room Remodel",
+      "anchorSlug": "how-to-plan-your-multi-room-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-multi-room-remodel.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Multi-Room Remodeling",
+      "anchorSlug": "avoiding-common-mistakes-in-multi-room-remodeling",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-multi-room-remodeling.html"
+    },
+    {
+      "title": "When Your Interior Finishes Feel Outdated",
+      "anchorSlug": "when-your-interior-finishes-feel-outdated",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-interior-finishes-feel-outdated.html"
+    },
+    {
+      "title": "Choosing the Right Interior Finishes for Your Home",
+      "anchorSlug": "choosing-the-right-interior-finishes-for-your-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-interior-finishes-for-your-home.html"
+    },
+    {
+      "title": "Mistakes to Sidestep When Upgrading Your Interior Finishes",
+      "anchorSlug": "mistakes-to-sidestep-when-upgrading-your-interior-finishes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-sidestep-when-upgrading-your-interior-finishes.html"
+    },
+    {
+      "title": "When Your Remodel Budget Feels Out of Control",
+      "anchorSlug": "when-your-remodel-budget-feels-out-of-control",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-remodel-budget-feels-out-of-control.html"
+    },
+    {
+      "title": "How to Plan Your Berkeley Home Remodel",
+      "anchorSlug": "how-to-plan-your-berkeley-home-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-berkeley-home-remodel.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your Home Remodel",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-home-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-home-remodel.html"
+    },
+    {
+      "title": "Is a Room Addition Right for My East Bay Home?",
+      "anchorSlug": "is-a-room-addition-right-for-my-east-bay-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-room-addition-right-for-my-east-bay-home.html"
+    },
+    {
+      "title": "Navigating Room Addition Permits in the East Bay",
+      "anchorSlug": "navigating-room-addition-permits-in-the-east-bay",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-room-addition-permits-in-the-east-bay.html"
+    },
+    {
+      "title": "The Hidden Costs of Room Additions",
+      "anchorSlug": "the-hidden-costs-of-room-additions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-hidden-costs-of-room-additions.html"
+    },
+    {
+      "title": "Why Does My Home Addition Project Feel Like It's Taking Forever?",
+      "anchorSlug": "why-does-my-home-addition-project-feel-like-it-s-taking-forever",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-home-addition-project-feel-like-it-s-taking-forever.html"
+    },
+    {
+      "title": "How to Plan a Seamless Home Addition Without the Headaches",
+      "anchorSlug": "how-to-plan-a-seamless-home-addition-without-the-headaches",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-a-seamless-home-addition-without-the-headaches.html"
+    },
+    {
+      "title": "What to Watch Out For When Budgeting for a Home Addition",
+      "anchorSlug": "what-to-watch-out-for-when-budgeting-for-a-home-addition",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-watch-out-for-when-budgeting-for-a-home-addition.html"
+    },
+    {
+      "title": "How to Make Your Room Expansion Feel Like It's Always Been There",
+      "anchorSlug": "how-to-make-your-room-expansion-feel-like-it-s-always-been-there",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-make-your-room-expansion-feel-like-it-s-always-been-there.html"
+    },
+    {
+      "title": "Why Does My Room Expansion Keep Running Into Roadblocks?",
+      "anchorSlug": "why-does-my-room-expansion-keep-running-into-roadblocks",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-room-expansion-keep-running-into-roadblocks.html"
+    },
+    {
+      "title": "What Are the Hidden Costs of Expanding a Room?",
+      "anchorSlug": "what-are-the-hidden-costs-of-expanding-a-room",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-hidden-costs-of-expanding-a-room.html"
+    },
+    {
+      "title": "Why Does My New Room Construction Project Always Seem to Go Over Budget?",
+      "anchorSlug": "why-does-my-new-room-construction-project-always-seem-to-go-over-budget",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-new-room-construction-project-always-seem-to-go-over-budget.html"
+    },
+    {
+      "title": "What to Expect When Adding a New Room to Your Berkeley Home",
+      "anchorSlug": "what-to-expect-when-adding-a-new-room-to-your-berkeley-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-when-adding-a-new-room-to-your-berkeley-home.html"
+    },
+    {
+      "title": "Is a Home Addition the Right Move for My Property?",
+      "anchorSlug": "is-a-home-addition-the-right-move-for-my-property",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-home-addition-the-right-move-for-my-property.html"
+    },
+    {
+      "title": "What to Consider Before Starting an Interior Build-Out",
+      "anchorSlug": "what-to-consider-before-starting-an-interior-build-out",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-starting-an-interior-build-out.html"
+    },
+    {
+      "title": "Mistakes to Avoid During Your Interior Build-Out Project",
+      "anchorSlug": "mistakes-to-avoid-during-your-interior-build-out-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-during-your-interior-build-out-project.html"
+    },
+    {
+      "title": "Understanding the Phases of an Interior Build-Out",
+      "anchorSlug": "understanding-the-phases-of-an-interior-build-out",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-phases-of-an-interior-build-out.html"
+    },
+    {
+      "title": "Why Aren't My New Addition's Lights Working?",
+      "anchorSlug": "why-aren-t-my-new-addition-s-lights-working",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-aren-t-my-new-addition-s-lights-working.html"
+    },
+    {
+      "title": "How to Coordinate Plumbing and Electrical in Your Home Addition",
+      "anchorSlug": "how-to-coordinate-plumbing-and-electrical-in-your-home-addition",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-coordinate-plumbing-and-electrical-in-your-home-addition.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Coordinating Plumbing and Electrical for Your Addition",
+      "anchorSlug": "mistakes-to-avoid-when-coordinating-plumbing-and-electrical-for-your-add",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-coordinating-plumbing-and-electrical-for-your-add.html"
+    },
+    {
+      "title": "When Should I Hire a Professional for Addition Painting?",
+      "anchorSlug": "when-should-i-hire-a-professional-for-addition-painting",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-professional-for-addition-painting.html"
+    },
+    {
+      "title": "How to Get a Flawless Paint Finish in Your Home Addition",
+      "anchorSlug": "how-to-get-a-flawless-paint-finish-in-your-home-addition",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-a-flawless-paint-finish-in-your-home-addition.html"
+    },
+    {
+      "title": "5 Common Painting Mistakes in New Additions (and How to Avoid Them)",
+      "anchorSlug": "5-common-painting-mistakes-in-new-additions-and-how-to-avoid-them",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-common-painting-mistakes-in-new-additions-and-how-to-avoid-them.html"
+    },
+    {
+      "title": "Why Are My Cabinets Falling Apart?",
+      "anchorSlug": "why-are-my-cabinets-falling-apart",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-cabinets-falling-apart.html"
+    },
+    {
+      "title": "What to Ask Before You Hire a Cabinet Pro",
+      "anchorSlug": "what-to-ask-before-you-hire-a-cabinet-pro",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-before-you-hire-a-cabinet-pro.html"
+    },
+    {
+      "title": "When to Repair Your Cabinets vs. Replace Them",
+      "anchorSlug": "when-to-repair-your-cabinets-vs-replace-them",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-repair-your-cabinets-vs-replace-them.html"
+    },
+    {
+      "title": "Avoiding Common Cabinet Installation Headaches",
+      "anchorSlug": "avoiding-common-cabinet-installation-headaches",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-cabinet-installation-headaches.html"
+    },
+    {
+      "title": "How to Ensure Your Cabinet Quote is Complete",
+      "anchorSlug": "how-to-ensure-your-cabinet-quote-is-complete",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-cabinet-quote-is-complete.html"
+    },
+    {
+      "title": "How to Spot a Bad Cabinet Repair",
+      "anchorSlug": "how-to-spot-a-bad-cabinet-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-spot-a-bad-cabinet-repair.html"
+    },
+    {
+      "title": "When to Bring in the Pros for Cabinet Installation",
+      "anchorSlug": "when-to-bring-in-the-pros-for-cabinet-installation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-the-pros-for-cabinet-installation.html"
+    },
+    {
+      "title": "What to Expect During Cabinet Installation",
+      "anchorSlug": "what-to-expect-during-cabinet-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-cabinet-installation.html"
+    },
+    {
+      "title": "Choosing Between Cabinet Refacing and Replacement",
+      "anchorSlug": "choosing-between-cabinet-refacing-and-replacement",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-between-cabinet-refacing-and-replacement.html"
+    },
+    {
+      "title": "Common Pitfalls in Kitchen Cabinet Upgrades",
+      "anchorSlug": "common-pitfalls-in-kitchen-cabinet-upgrades",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-pitfalls-in-kitchen-cabinet-upgrades.html"
+    },
+    {
+      "title": "How to Plan Your Custom Kitchen Cabinet Project",
+      "anchorSlug": "how-to-plan-your-custom-kitchen-cabinet-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-custom-kitchen-cabinet-project.html"
+    },
+    {
+      "title": "How to avoid common mistakes when upgrading your bathroom vanity",
+      "anchorSlug": "how-to-avoid-common-mistakes-when-upgrading-your-bathroom-vanity",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-mistakes-when-upgrading-your-bathroom-vanity.html"
+    },
+    {
+      "title": "What are the steps for a smooth bathroom vanity upgrade?",
+      "anchorSlug": "what-are-the-steps-for-a-smooth-bathroom-vanity-upgrade",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-steps-for-a-smooth-bathroom-vanity-upgrade.html"
+    },
+    {
+      "title": "Is it really necessary to hire a professional for vanity installation?",
+      "anchorSlug": "is-it-really-necessary-to-hire-a-professional-for-vanity-installation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-really-necessary-to-hire-a-professional-for-vanity-installation.html"
+    },
+    {
+      "title": "What to do when your vanity hardware feels loose",
+      "anchorSlug": "what-to-do-when-your-vanity-hardware-feels-loose",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-vanity-hardware-feels-loose.html"
+    },
+    {
+      "title": "When should I call a pro for cabinet hardware issues?",
+      "anchorSlug": "when-should-i-call-a-pro-for-cabinet-hardware-issues",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-call-a-pro-for-cabinet-hardware-issues.html"
+    },
+    {
+      "title": "My cabinet doors are crooked, can I fix them myself?",
+      "anchorSlug": "my-cabinet-doors-are-crooked-can-i-fix-them-myself",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-cabinet-doors-are-crooked-can-i-fix-them-myself.html"
+    },
+    {
+      "title": "Why Aren't My Cabinets Working for My Space?",
+      "anchorSlug": "why-aren-t-my-cabinets-working-for-my-space",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-aren-t-my-cabinets-working-for-my-space.html"
+    },
+    {
+      "title": "Avoiding Regrets with Custom Cabinetry",
+      "anchorSlug": "avoiding-regrets-with-custom-cabinetry",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-regrets-with-custom-cabinetry.html"
+    },
+    {
+      "title": "Getting the Right Fit for Your Custom Cabinets",
+      "anchorSlug": "getting-the-right-fit-for-your-custom-cabinets",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-the-right-fit-for-your-custom-cabinets.html"
+    },
+    {
+      "title": "Signs Your Home Needs a Professional Interior Paint Job",
+      "anchorSlug": "signs-your-home-needs-a-professional-interior-paint-job",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-home-needs-a-professional-interior-paint-job.html"
+    },
+    {
+      "title": "When Your DIY Paint Job Goes Wrong",
+      "anchorSlug": "when-your-diy-paint-job-goes-wrong",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-diy-paint-job-goes-wrong.html"
+    },
+    {
+      "title": "How to Prep Your Walls for a Flawless Paint Finish",
+      "anchorSlug": "how-to-prep-your-walls-for-a-flawless-paint-finish",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prep-your-walls-for-a-flawless-paint-finish.html"
+    },
+    {
+      "title": "What to Ask Before Hiring for Whole-Home Painting",
+      "anchorSlug": "what-to-ask-before-hiring-for-whole-home-painting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-before-hiring-for-whole-home-painting.html"
+    },
+    {
+      "title": "Why is My New Paint Job Peeling So Soon?",
+      "anchorSlug": "why-is-my-new-paint-job-peeling-so-soon",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-new-paint-job-peeling-so-soon.html"
+    },
+    {
+      "title": "Preparing Your Home for an Interior Paint Project",
+      "anchorSlug": "preparing-your-home-for-an-interior-paint-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-home-for-an-interior-paint-project.html"
+    },
+    {
+      "title": "Is DIY Room Painting Worth the Trouble?",
+      "anchorSlug": "is-diy-room-painting-worth-the-trouble",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-diy-room-painting-worth-the-trouble.html"
+    },
+    {
+      "title": "Avoiding Common Room Painting Blunders",
+      "anchorSlug": "avoiding-common-room-painting-blunders",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-room-painting-blunders.html"
+    },
+    {
+      "title": "What's Included in a Professional Room Painting Quote?",
+      "anchorSlug": "what-s-included-in-a-professional-room-painting-quote",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-included-in-a-professional-room-painting-quote.html"
+    },
+    {
+      "title": "What to Expect When Painting Your Kitchen Cabinets",
+      "anchorSlug": "what-to-expect-when-painting-your-kitchen-cabinets",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-when-painting-your-kitchen-cabinets.html"
+    },
+    {
+      "title": "How Long Does Professional Kitchen Cabinet Painting Really Take?",
+      "anchorSlug": "how-long-does-professional-kitchen-cabinet-painting-really-take",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-professional-kitchen-cabinet-painting-really-take.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Painting Your Kitchen Cabinets Yourself",
+      "anchorSlug": "mistakes-to-avoid-when-painting-your-kitchen-cabinets-yourself",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-painting-your-kitchen-cabinets-yourself.html"
+    },
+    {
+      "title": "Why Your Bathroom Paint Isn't Holding Up (and What to Do)",
+      "anchorSlug": "why-your-bathroom-paint-isn-t-holding-up-and-what-to-do",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-bathroom-paint-isn-t-holding-up-and-what-to-do.html"
+    },
+    {
+      "title": "What's Involved in a Professional Bathroom Painting Project?",
+      "anchorSlug": "what-s-involved-in-a-professional-bathroom-painting-project",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-involved-in-a-professional-bathroom-painting-project.html"
+    },
+    {
+      "title": "When Should You Hire a Pro for Your Bathroom Painting Needs?",
+      "anchorSlug": "when-should-you-hire-a-pro-for-your-bathroom-painting-needs",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-hire-a-pro-for-your-bathroom-painting-needs.html"
+    },
+    {
+      "title": "When Should You Paint After a Remodel?",
+      "anchorSlug": "when-should-you-paint-after-a-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-paint-after-a-remodel.html"
+    },
+    {
+      "title": "Making Sense of Post-Remodel Painting Timelines",
+      "anchorSlug": "making-sense-of-post-remodel-painting-timelines",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-sense-of-post-remodel-painting-timelines.html"
+    },
+    {
+      "title": "How to Avoid Painting Mistakes in Your Remodel",
+      "anchorSlug": "how-to-avoid-painting-mistakes-in-your-remodel",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-painting-mistakes-in-your-remodel.html"
+    },
+    {
+      "title": "What’s the Right Time for Trim Painting?",
+      "anchorSlug": "what-s-the-right-time-for-trim-painting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-right-time-for-trim-painting.html"
+    },
+    {
+      "title": "Prepping for Perfect Trim Paint",
+      "anchorSlug": "prepping-for-perfect-trim-paint",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prepping-for-perfect-trim-paint.html"
+    },
+    {
+      "title": "Why Your Trim Paint Isn't Looking Great",
+      "anchorSlug": "why-your-trim-paint-isn-t-looking-great",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-trim-paint-isn-t-looking-great.html"
+    },
+    {
+      "title": "My Deck Boards Are Soft - What's Going On?",
+      "anchorSlug": "my-deck-boards-are-soft-what-s-going-on",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-deck-boards-are-soft-what-s-going-on.html"
+    },
+    {
+      "title": "When Should I Repair My Deck Versus Replacing It Entirely?",
+      "anchorSlug": "when-should-i-repair-my-deck-versus-replacing-it-entirely",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-repair-my-deck-versus-replacing-it-entirely.html"
+    },
+    {
+      "title": "How to Avoid Common Mistakes in Deck Repair",
+      "anchorSlug": "how-to-avoid-common-mistakes-in-deck-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-mistakes-in-deck-repair.html"
+    },
+    {
+      "title": "What Are the Signs My Deck's Structure is Compromised?",
+      "anchorSlug": "what-are-the-signs-my-deck-s-structure-is-compromised",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-signs-my-deck-s-structure-is-compromised.html"
+    },
+    {
+      "title": "Can I Repair My Deck's Support System Safely?",
+      "anchorSlug": "can-i-repair-my-deck-s-support-system-safely",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-repair-my-deck-s-support-system-safely.html"
+    },
+    {
+      "title": "How to Choose the Right Contractor for Deck Structural Repairs",
+      "anchorSlug": "how-to-choose-the-right-contractor-for-deck-structural-repairs",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-contractor-for-deck-structural-repairs.html"
+    },
+    {
+      "title": "My Deck Boards Feel Spongy—What Should I Do?",
+      "anchorSlug": "my-deck-boards-feel-spongy-what-should-i-do",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-deck-boards-feel-spongy-what-should-i-do.html"
+    },
+    {
+      "title": "How to Tell if Your Deck Needs New Boards or a Full Replacement",
+      "anchorSlug": "how-to-tell-if-your-deck-needs-new-boards-or-a-full-replacement",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-tell-if-your-deck-needs-new-boards-or-a-full-replacement.html"
+    },
+    {
+      "title": "When to Call a Pro for Deck Board Replacement",
+      "anchorSlug": "when-to-call-a-pro-for-deck-board-replacement",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-deck-board-replacement.html"
+    },
+    {
+      "title": "My Deck Railing Wiggles—Is It Still Safe?",
+      "anchorSlug": "my-deck-railing-wiggles-is-it-still-safe",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-deck-railing-wiggles-is-it-still-safe.html"
+    },
+    {
+      "title": "How to Fix a Loose Deck Railing Post",
+      "anchorSlug": "how-to-fix-a-loose-deck-railing-post",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-fix-a-loose-deck-railing-post.html"
+    },
+    {
+      "title": "Signs Your Deck Railing Needs Professional Repair",
+      "anchorSlug": "signs-your-deck-railing-needs-professional-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-deck-railing-needs-professional-repair.html"
+    },
+    {
+      "title": "Why Are My Stairs Creaking and What Should I Do?",
+      "anchorSlug": "why-are-my-stairs-creaking-and-what-should-i-do",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-stairs-creaking-and-what-should-i-do.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Stair Repair Projects",
+      "anchorSlug": "avoiding-common-mistakes-in-stair-repair-projects",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-stair-repair-projects.html"
+    },
+    {
+      "title": "When to Repair or Replace Your Damaged Stairs",
+      "anchorSlug": "when-to-repair-or-replace-your-damaged-stairs",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-repair-or-replace-your-damaged-stairs.html"
+    },
+    {
+      "title": "What to Do When Your Surfaces Look Worn and Tired",
+      "anchorSlug": "what-to-do-when-your-surfaces-look-worn-and-tired",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-surfaces-look-worn-and-tired.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Restoring Surfaces",
+      "anchorSlug": "mistakes-to-avoid-when-restoring-surfaces",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-restoring-surfaces.html"
+    },
+    {
+      "title": "What's Involved in a Professional Surface Restoration?",
+      "anchorSlug": "what-s-involved-in-a-professional-surface-restoration",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-involved-in-a-professional-surface-restoration.html"
+    },
+    {
+      "title": "When Your Deck Needs More Than Just a Cleaning",
+      "anchorSlug": "when-your-deck-needs-more-than-just-a-cleaning",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-deck-needs-more-than-just-a-cleaning.html"
+    },
+    {
+      "title": "Top Mistakes to Avoid with Deck Maintenance",
+      "anchorSlug": "top-mistakes-to-avoid-with-deck-maintenance",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/top-mistakes-to-avoid-with-deck-maintenance.html"
+    },
+    {
+      "title": "How to Keep Your Deck Looking Great Year-Round",
+      "anchorSlug": "how-to-keep-your-deck-looking-great-year-round",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-keep-your-deck-looking-great-year-round.html"
+    },
+    {
+      "title": "When to Call a Pro for That Leaning Fence",
+      "anchorSlug": "when-to-call-a-pro-for-that-leaning-fence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-that-leaning-fence.html"
+    },
+    {
+      "title": "Mistakes People Make Repairing Wood Fences",
+      "anchorSlug": "mistakes-people-make-repairing-wood-fences",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-people-make-repairing-wood-fences.html"
+    },
+    {
+      "title": "How to Tell if Your Wood Fence Can Be Saved",
+      "anchorSlug": "how-to-tell-if-your-wood-fence-can-be-saved",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-tell-if-your-wood-fence-can-be-saved.html"
+    },
+    {
+      "title": "What to Do When Your Fence Panel is Loose",
+      "anchorSlug": "what-to-do-when-your-fence-panel-is-loose",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-fence-panel-is-loose.html"
+    },
+    {
+      "title": "When Does a Leaning Fence Post Need Professional Help?",
+      "anchorSlug": "when-does-a-leaning-fence-post-need-professional-help",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-a-leaning-fence-post-need-professional-help.html"
+    },
+    {
+      "title": "Common Mistakes When Repairing a Wooden Fence Panel",
+      "anchorSlug": "common-mistakes-when-repairing-a-wooden-fence-panel",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-repairing-a-wooden-fence-panel.html"
+    },
+    {
+      "title": "The Right Way to Replace a Rotted Fence Post",
+      "anchorSlug": "the-right-way-to-replace-a-rotted-fence-post",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-right-way-to-replace-a-rotted-fence-post.html"
+    },
+    {
+      "title": "Should You Repair or Replace Your Fence Panel?",
+      "anchorSlug": "should-you-repair-or-replace-your-fence-panel",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-you-repair-or-replace-your-fence-panel.html"
+    },
+    {
+      "title": "Why is My Fence Post Wobbly?",
+      "anchorSlug": "why-is-my-fence-post-wobbly",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-fence-post-wobbly.html"
+    },
+    {
+      "title": "My Automatic Gate Isn't Opening — What's Happening?",
+      "anchorSlug": "my-automatic-gate-isn-t-opening-what-s-happening",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-automatic-gate-isn-t-opening-what-s-happening.html"
+    },
+    {
+      "title": "How Long Does Gate Repair Really Take?",
+      "anchorSlug": "how-long-does-gate-repair-really-take",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-long-does-gate-repair-really-take.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Troubleshooting Gate Issues",
+      "anchorSlug": "mistakes-to-avoid-when-troubleshooting-gate-issues",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-troubleshooting-gate-issues.html"
+    },
+    {
+      "title": "Signs Your Gate Control Board Needs Replacing",
+      "anchorSlug": "signs-your-gate-control-board-needs-replacing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-gate-control-board-needs-replacing.html"
+    },
+    {
+      "title": "How to Identify the Right Replacement Board for Your Gate Operator",
+      "anchorSlug": "how-to-identify-the-right-replacement-board-for-your-gate-operator",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-identify-the-right-replacement-board-for-your-gate-operator.html"
+    },
+    {
+      "title": "Do I Really Need a Professional for a Damaged Control Board?",
+      "anchorSlug": "do-i-really-need-a-professional-for-a-damaged-control-board",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/do-i-really-need-a-professional-for-a-damaged-control-board.html"
+    },
+    {
+      "title": "My Fence is Leaning: Repair or Replace?",
+      "anchorSlug": "my-fence-is-leaning-repair-or-replace",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-fence-is-leaning-repair-or-replace.html"
+    },
+    {
+      "title": "Tackling Persistent Plumbing Problems",
+      "anchorSlug": "tackling-persistent-plumbing-problems",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tackling-persistent-plumbing-problems.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Repairing Your Fence",
+      "anchorSlug": "mistakes-to-avoid-when-repairing-your-fence",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-repairing-your-fence.html"
+    },
+    {
+      "title": "Signs It's Time for a Plumbing or Electrical Pro",
+      "anchorSlug": "signs-it-s-time-for-a-plumbing-or-electrical-pro",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-it-s-time-for-a-plumbing-or-electrical-pro.html"
+    },
+    {
+      "title": "How to Stabilize a Wobbly Fence Post",
+      "anchorSlug": "how-to-stabilize-a-wobbly-fence-post",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-stabilize-a-wobbly-fence-post.html"
+    },
+    {
+      "title": "Is That Electrical Issue Just a Blip or a Big Problem?",
+      "anchorSlug": "is-that-electrical-issue-just-a-blip-or-a-big-problem",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-that-electrical-issue-just-a-blip-or-a-big-problem.html"
+    },
+    {
+      "title": "What to Do When Your Kitchen Plumbing Needs an Upgrade",
+      "anchorSlug": "what-to-do-when-your-kitchen-plumbing-needs-an-upgrade",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-kitchen-plumbing-needs-an-upgrade.html"
+    },
+    {
+      "title": "Avoiding Common Kitchen Plumbing Installation Mistakes",
+      "anchorSlug": "avoiding-common-kitchen-plumbing-installation-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-kitchen-plumbing-installation-mistakes.html"
+    },
+    {
+      "title": "When Should You Upgrade Your Kitchen Plumbing During a Remodel?",
+      "anchorSlug": "when-should-you-upgrade-your-kitchen-plumbing-during-a-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-upgrade-your-kitchen-plumbing-during-a-remodel.html"
+    },
+    {
+      "title": "Is Your Current Plumbing Ready for a Remodel?",
+      "anchorSlug": "is-your-current-plumbing-ready-for-a-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-current-plumbing-ready-for-a-remodel.html"
+    },
+    {
+      "title": "Don't Make These Remodel Plumbing Mistakes",
+      "anchorSlug": "don-t-make-these-remodel-plumbing-mistakes",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/don-t-make-these-remodel-plumbing-mistakes.html"
+    },
+    {
+      "title": "When to Call a Pro for Remodel Plumbing",
+      "anchorSlug": "when-to-call-a-pro-for-remodel-plumbing",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-remodel-plumbing.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Bathroom Plumbing Installation",
+      "anchorSlug": "avoiding-common-mistakes-in-bathroom-plumbing-installation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-bathroom-plumbing-installation.html"
+    },
+    {
+      "title": "What You Need to Know Before Your Bathroom Plumbing Installation",
+      "anchorSlug": "what-you-need-to-know-before-your-bathroom-plumbing-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-you-need-to-know-before-your-bathroom-plumbing-installation.html"
+    },
+    {
+      "title": "Is Moving My Bathroom Fixtures a DIY Job?",
+      "anchorSlug": "is-moving-my-bathroom-fixtures-a-diy-job",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-moving-my-bathroom-fixtures-a-diy-job.html"
+    },
+    {
+      "title": "How to Plan for New Electrical Work in Your Remodel",
+      "anchorSlug": "how-to-plan-for-new-electrical-work-in-your-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-new-electrical-work-in-your-remodel.html"
+    },
+    {
+      "title": "Common Electrical Mistakes to Avoid During a Home Remodel",
+      "anchorSlug": "common-electrical-mistakes-to-avoid-during-a-home-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-electrical-mistakes-to-avoid-during-a-home-remodel.html"
+    },
+    {
+      "title": "When to Bring in a Pro for Remodel Electrical Work",
+      "anchorSlug": "when-to-bring-in-a-pro-for-remodel-electrical-work",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-a-pro-for-remodel-electrical-work.html"
+    },
+    {
+      "title": "Why Isn't My Kitchen Lighting Working for Me?",
+      "anchorSlug": "why-isn-t-my-kitchen-lighting-working-for-me",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-kitchen-lighting-working-for-me.html"
+    },
+    {
+      "title": "How to Choose the Right Bathroom Lighting",
+      "anchorSlug": "how-to-choose-the-right-bathroom-lighting",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-bathroom-lighting.html"
+    },
+    {
+      "title": "Avoiding Common Lighting Mistakes in Your Remodel",
+      "anchorSlug": "avoiding-common-lighting-mistakes-in-your-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-lighting-mistakes-in-your-remodel.html"
+    },
+    {
+      "title": "Is Your New Light Fixture Too Heavy for the Box?",
+      "anchorSlug": "is-your-new-light-fixture-too-heavy-for-the-box",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-new-light-fixture-too-heavy-for-the-box.html"
+    },
+    {
+      "title": "What to Consider Before Installing New Electrical Fixtures",
+      "anchorSlug": "what-to-consider-before-installing-new-electrical-fixtures",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-installing-new-electrical-fixtures.html"
+    },
+    {
+      "title": "When to Call an Electrician for Fixture Installation",
+      "anchorSlug": "when-to-call-an-electrician-for-fixture-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-an-electrician-for-fixture-installation.html"
+    },
+    {
+      "title": "Why Does My Remodel Always Go Over Budget?",
+      "anchorSlug": "why-does-my-remodel-always-go-over-budget",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-remodel-always-go-over-budget.html"
+    },
+    {
+      "title": "How to Keep Your Remodel Schedule from Spiraling Out of Control",
+      "anchorSlug": "how-to-keep-your-remodel-schedule-from-spiraling-out-of-control",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-keep-your-remodel-schedule-from-spiraling-out-of-control.html"
+    },
+    {
+      "title": "When Should I Hire a Pro for My Remodeling Project?",
+      "anchorSlug": "when-should-i-hire-a-pro-for-my-remodeling-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-pro-for-my-remodeling-project.html"
+    },
+    {
+      "title": "What Do I Need to Decide Before My Remodel Contractor Starts Bidding?",
+      "anchorSlug": "what-do-i-need-to-decide-before-my-remodel-contractor-starts-bidding",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-do-i-need-to-decide-before-my-remodel-contractor-starts-bidding.html"
+    },
+    {
+      "title": "Why Is My Remodel Scope So Hard to Pin Down?",
+      "anchorSlug": "why-is-my-remodel-scope-so-hard-to-pin-down",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-remodel-scope-so-hard-to-pin-down.html"
+    },
+    {
+      "title": "When to Bring in a Professional for Remodel Planning?",
+      "anchorSlug": "when-to-bring-in-a-professional-for-remodel-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-a-professional-for-remodel-planning.html"
+    },
+    {
+      "title": "Why Your Remodel Schedule Keeps Slipping",
+      "anchorSlug": "why-your-remodel-schedule-keeps-slipping",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-remodel-schedule-keeps-slipping.html"
+    },
+    {
+      "title": "How to Plan Your Remodel Project's Sequence Effectively",
+      "anchorSlug": "how-to-plan-your-remodel-project-s-sequence-effectively",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-remodel-project-s-sequence-effectively.html"
+    },
+    {
+      "title": "Avoiding Costly Scheduling Mistakes in Your Renovation",
+      "anchorSlug": "avoiding-costly-scheduling-mistakes-in-your-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-scheduling-mistakes-in-your-renovation.html"
+    },
+    {
+      "title": "Getting Plumbing Rough-In Right the First Time",
+      "anchorSlug": "getting-plumbing-rough-in-right-the-first-time",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-plumbing-rough-in-right-the-first-time.html"
+    },
+    {
+      "title": "How to Coordinate Plumbing with Other Trades Seamlessly",
+      "anchorSlug": "how-to-coordinate-plumbing-with-other-trades-seamlessly",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-coordinate-plumbing-with-other-trades-seamlessly.html"
+    },
+    {
+      "title": "Common Mistakes to Sidestep in Plumbing Installation",
+      "anchorSlug": "common-mistakes-to-sidestep-in-plumbing-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-sidestep-in-plumbing-installation.html"
+    },
+    {
+      "title": "When Your Electrical System Needs a Coordination Check",
+      "anchorSlug": "when-your-electrical-system-needs-a-coordination-check",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-electrical-system-needs-a-coordination-check.html"
+    },
+    {
+      "title": "How to Avoid Electrical Coordination Headaches",
+      "anchorSlug": "how-to-avoid-electrical-coordination-headaches",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-electrical-coordination-headaches.html"
+    },
+    {
+      "title": "Electrical Coordination: Your Top Questions Answered",
+      "anchorSlug": "electrical-coordination-your-top-questions-answered",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/electrical-coordination-your-top-questions-answered.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid When Installing Cabinets",
+      "anchorSlug": "5-mistakes-to-avoid-when-installing-cabinets",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-when-installing-cabinets.html"
+    },
+    {
+      "title": "How to Plan for Flawless Cabinet Installation",
+      "anchorSlug": "how-to-plan-for-flawless-cabinet-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-flawless-cabinet-installation.html"
+    },
+    {
+      "title": "Why Proper Cabinet Installation Coordination Matters",
+      "anchorSlug": "why-proper-cabinet-installation-coordination-matters",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-proper-cabinet-installation-coordination-matters.html"
+    },
+    {
+      "title": "How to Avoid Common Countertop Installation Mistakes",
+      "anchorSlug": "how-to-avoid-common-countertop-installation-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-countertop-installation-mistakes.html"
+    },
+    {
+      "title": "What Happens During My Countertop Installation Project?",
+      "anchorSlug": "what-happens-during-my-countertop-installation-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-during-my-countertop-installation-project.html"
+    },
+    {
+      "title": "When to Bring in a Pro for Countertop Installation",
+      "anchorSlug": "when-to-bring-in-a-pro-for-countertop-installation",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-a-pro-for-countertop-installation.html"
+    },
+    {
+      "title": "How to Avoid Common Tile Installation Mistakes",
+      "anchorSlug": "how-to-avoid-common-tile-installation-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-tile-installation-mistakes.html"
+    },
+    {
+      "title": "What Should I Expect During My Tile Project?",
+      "anchorSlug": "what-should-i-expect-during-my-tile-project",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-expect-during-my-tile-project.html"
+    },
+    {
+      "title": "When Is It Time to Call a Pro for Tile Work?",
+      "anchorSlug": "when-is-it-time-to-call-a-pro-for-tile-work",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-pro-for-tile-work.html"
+    },
+    {
+      "title": "Why isn't my new flooring looking right?",
+      "anchorSlug": "why-isn-t-my-new-flooring-looking-right",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-new-flooring-looking-right.html"
+    },
+    {
+      "title": "How to plan for a smooth flooring installation",
+      "anchorSlug": "how-to-plan-for-a-smooth-flooring-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-a-smooth-flooring-installation.html"
+    },
+    {
+      "title": "When is professional flooring installation a must?",
+      "anchorSlug": "when-is-professional-flooring-installation-a-must",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-flooring-installation-a-must.html"
+    },
+    {
+      "title": "What to check before installing a new appliance?",
+      "anchorSlug": "what-to-check-before-installing-a-new-appliance",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-check-before-installing-a-new-appliance.html"
+    },
+    {
+      "title": "Avoiding common mistakes with new appliance hookups",
+      "anchorSlug": "avoiding-common-mistakes-with-new-appliance-hookups",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-with-new-appliance-hookups.html"
+    },
+    {
+      "title": "When to get a pro for appliance installation?",
+      "anchorSlug": "when-to-get-a-pro-for-appliance-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-get-a-pro-for-appliance-installation.html"
+    },
+    {
+      "title": "When Your Fixture Installation Goes Wrong: Common Mistakes to Avoid",
+      "anchorSlug": "when-your-fixture-installation-goes-wrong-common-mistakes-to-avoid",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-fixture-installation-goes-wrong-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "Smooth Fixture Installation: Your Step-by-Step Guide",
+      "anchorSlug": "smooth-fixture-installation-your-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smooth-fixture-installation-your-step-by-step-guide.html"
+    },
+    {
+      "title": "Why Your Fixture Installation Needs a Pro",
+      "anchorSlug": "why-your-fixture-installation-needs-a-pro",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-fixture-installation-needs-a-pro.html"
+    },
+    {
+      "title": "Painting Perfection: What to Do Before the Brushes Come Out",
+      "anchorSlug": "painting-perfection-what-to-do-before-the-brushes-come-out",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/painting-perfection-what-to-do-before-the-brushes-come-out.html"
+    },
+    {
+      "title": "Navigating Interior Painting: A Step-by-Step Guide",
+      "anchorSlug": "navigating-interior-painting-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-interior-painting-a-step-by-step-guide.html"
+    },
+    {
+      "title": "When Should You Hire a Pro for Your Interior Painting Project?",
+      "anchorSlug": "when-should-you-hire-a-pro-for-your-interior-painting-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-hire-a-pro-for-your-interior-painting-project.html"
+    },
+    {
+      "title": "How to Avoid Common Mistakes in Finish Carpentry Coordination",
+      "anchorSlug": "how-to-avoid-common-mistakes-in-finish-carpentry-coordination",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-mistakes-in-finish-carpentry-coordination.html"
+    },
+    {
+      "title": "When Should I Hire a Pro for Finish Carpentry Coordination?",
+      "anchorSlug": "when-should-i-hire-a-pro-for-finish-carpentry-coordination",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-pro-for-finish-carpentry-coordination.html"
+    },
+    {
+      "title": "How Do I Prepare My Home for Finish Carpentry Work?",
+      "anchorSlug": "how-do-i-prepare-my-home-for-finish-carpentry-work",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-prepare-my-home-for-finish-carpentry-work.html"
+    },
+    {
+      "title": "Why Are There Gaps in My Trim and Molding?",
+      "anchorSlug": "why-are-there-gaps-in-my-trim-and-molding",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-there-gaps-in-my-trim-and-molding.html"
+    },
+    {
+      "title": "When Is It Time to Call a Professional for Trim and Molding?",
+      "anchorSlug": "when-is-it-time-to-call-a-professional-for-trim-and-molding",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-professional-for-trim-and-molding.html"
+    },
+    {
+      "title": "Getting the Details Right: What to Look for in Trim and Molding Installation",
+      "anchorSlug": "getting-the-details-right-what-to-look-for-in-trim-and-molding-installat",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-the-details-right-what-to-look-for-in-trim-and-molding-installat.html"
+    },
+    {
+      "title": "When Your New Door Hardware Just Won't Cooperate",
+      "anchorSlug": "when-your-new-door-hardware-just-won-t-cooperate",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-new-door-hardware-just-won-t-cooperate.html"
+    },
+    {
+      "title": "What Happens During a Professional Door Hardware Install?",
+      "anchorSlug": "what-happens-during-a-professional-door-hardware-install",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-during-a-professional-door-hardware-install.html"
+    },
+    {
+      "title": "Mistakes to Avoid: Door and Hardware Installation",
+      "anchorSlug": "mistakes-to-avoid-door-and-hardware-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-door-and-hardware-installation.html"
+    },
+    {
+      "title": "Why Are the Final Touches on My Remodel So Important?",
+      "anchorSlug": "why-are-the-final-touches-on-my-remodel-so-important",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-the-final-touches-on-my-remodel-so-important.html"
+    },
+    {
+      "title": "What to Expect During the Project Closeout Phase",
+      "anchorSlug": "what-to-expect-during-the-project-closeout-phase",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-the-project-closeout-phase.html"
+    },
+    {
+      "title": "Don't Overlook These Final Details in Your Renovation",
+      "anchorSlug": "don-t-overlook-these-final-details-in-your-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/don-t-overlook-these-final-details-in-your-renovation.html"
+    },
+    {
+      "title": "What to Do When Your Punch List Feels Endless",
+      "anchorSlug": "what-to-do-when-your-punch-list-feels-endless",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-punch-list-feels-endless.html"
+    },
+    {
+      "title": "How to Master Your Punch List for a Smooth Project Closeout",
+      "anchorSlug": "how-to-master-your-punch-list-for-a-smooth-project-closeout",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-master-your-punch-list-for-a-smooth-project-closeout.html"
+    },
+    {
+      "title": "When Should I Worry About My Punch List Deadline?",
+      "anchorSlug": "when-should-i-worry-about-my-punch-list-deadline",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-worry-about-my-punch-list-deadline.html"
+    },
+    {
+      "title": "What to Expect During Your Home Renovation Walkthrough",
+      "anchorSlug": "what-to-expect-during-your-home-renovation-walkthrough",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-home-renovation-walkthrough.html"
+    },
+    {
+      "title": "How to Prepare for Your Renovation Walkthrough",
+      "anchorSlug": "how-to-prepare-for-your-renovation-walkthrough",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-your-renovation-walkthrough.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Your Final Walkthrough",
+      "anchorSlug": "avoiding-common-mistakes-in-your-final-walkthrough",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-your-final-walkthrough.html"
+    },
+    {
+      "title": "Why Your Kitchen Remodel Might Be More Complex Than You Think",
+      "anchorSlug": "why-your-kitchen-remodel-might-be-more-complex-than-you-think",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-remodel-might-be-more-complex-than-you-think.html"
+    },
+    {
+      "title": "When a Kitchen Layout Change Needs a Pro",
+      "anchorSlug": "when-a-kitchen-layout-change-needs-a-pro",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-a-kitchen-layout-change-needs-a-pro.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your Kitchen Renovation",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-kitchen-renovation.html"
+    },
+    {
+      "title": "What to Expect During a Full Kitchen Renovation",
+      "anchorSlug": "what-to-expect-during-a-full-kitchen-renovation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-full-kitchen-renovation.html"
+    },
+    {
+      "title": "Choosing the Right Contractor for Your Full Kitchen Remodel",
+      "anchorSlug": "choosing-the-right-contractor-for-your-full-kitchen-remodel",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-contractor-for-your-full-kitchen-remodel.html"
+    },
+    {
+      "title": "Is Your Kitchen Ready for a Complete Overhaul?",
+      "anchorSlug": "is-your-kitchen-ready-for-a-complete-overhaul",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-kitchen-ready-for-a-complete-overhaul.html"
+    },
+    {
+      "title": "Why Your Kitchen Layout Might Not Be Working for You",
+      "anchorSlug": "why-your-kitchen-layout-might-not-be-working-for-you",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-layout-might-not-be-working-for-you.html"
+    },
+    {
+      "title": "How to Plan Your Kitchen Layout for Better Flow and Function",
+      "anchorSlug": "how-to-plan-your-kitchen-layout-for-better-flow-and-function",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-kitchen-layout-for-better-flow-and-function.html"
+    },
+    {
+      "title": "When to Call a Pro for Kitchen Design and Layout Improvements",
+      "anchorSlug": "when-to-call-a-pro-for-kitchen-design-and-layout-improvements",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-kitchen-design-and-layout-improvements.html"
+    },
+    {
+      "title": "Are Your Cabinets Worth Repairing or Refinishing?",
+      "anchorSlug": "are-your-cabinets-worth-repairing-or-refinishing",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-your-cabinets-worth-repairing-or-refinishing.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Cabinet Refinishing Projects",
+      "anchorSlug": "avoiding-common-mistakes-in-cabinet-refinishing-projects",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-cabinet-refinishing-projects.html"
+    },
+    {
+      "title": "When to Bring in a Lead-Safe Professional for Cabinet Work",
+      "anchorSlug": "when-to-bring-in-a-lead-safe-professional-for-cabinet-work",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-a-lead-safe-professional-for-cabinet-work.html"
+    },
+    {
+      "title": "Why Your Kitchen Plumbing Upgrade Needs a Pro's Touch",
+      "anchorSlug": "why-your-kitchen-plumbing-upgrade-needs-a-pro-s-touch",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-plumbing-upgrade-needs-a-pro-s-touch.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Your Kitchen Plumbing Project",
+      "anchorSlug": "avoiding-costly-mistakes-in-your-kitchen-plumbing-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-your-kitchen-plumbing-project.html"
+    },
+    {
+      "title": "What to Expect During Your Kitchen Plumbing Upgrade",
+      "anchorSlug": "what-to-expect-during-your-kitchen-plumbing-upgrade",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-kitchen-plumbing-upgrade.html"
+    },
+    {
+      "title": "Why Your Kitchen Lighting Isn't Working How You Expected",
+      "anchorSlug": "why-your-kitchen-lighting-isn-t-working-how-you-expected",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-lighting-isn-t-working-how-you-expected.html"
+    },
+    {
+      "title": "Planning Your Kitchen Electrical Upgrade: A Checklist",
+      "anchorSlug": "planning-your-kitchen-electrical-upgrade-a-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-kitchen-electrical-upgrade-a-checklist.html"
+    },
+    {
+      "title": "Navigating Permits for Your Kitchen Electrical Work",
+      "anchorSlug": "navigating-permits-for-your-kitchen-electrical-work",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permits-for-your-kitchen-electrical-work.html"
+    },
+    {
+      "title": "Getting Your Kitchen Ready for New Appliances: What to Prepare First",
+      "anchorSlug": "getting-your-kitchen-ready-for-new-appliances-what-to-prepare-first",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-your-kitchen-ready-for-new-appliances-what-to-prepare-first.html"
+    },
+    {
+      "title": "Why Is Appliance Installation Coordination So Tricky?",
+      "anchorSlug": "why-is-appliance-installation-coordination-so-tricky",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-appliance-installation-coordination-so-tricky.html"
+    },
+    {
+      "title": "Choosing a Partner for Appliance Prep: How to Compare Your Options",
+      "anchorSlug": "choosing-a-partner-for-appliance-prep-how-to-compare-your-options",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-partner-for-appliance-prep-how-to-compare-your-options.html"
+    },
+    {
+      "title": "Dealing with Unfinished Walls: What to Know Before You Paint",
+      "anchorSlug": "dealing-with-unfinished-walls-what-to-know-before-you-paint",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-unfinished-walls-what-to-know-before-you-paint.html"
+    },
+    {
+      "title": "When Is Professional Interior Painting a Must-Have?",
+      "anchorSlug": "when-is-professional-interior-painting-a-must-have",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-interior-painting-a-must-have.html"
+    },
+    {
+      "title": "Avoiding Common Painting Blunders: What to Look Out For",
+      "anchorSlug": "avoiding-common-painting-blunders-what-to-look-out-for",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-painting-blunders-what-to-look-out-for.html"
+    },
+    {
+      "title": "Bathroom Remodeling: What to Expect During the Process",
+      "anchorSlug": "bathroom-remodeling-what-to-expect-during-the-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodeling-what-to-expect-during-the-process.html"
+    },
+    {
+      "title": "Full Bathroom Renovation: When to Consider a Complete Demolition",
+      "anchorSlug": "full-bathroom-renovation-when-to-consider-a-complete-demolition",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-bathroom-renovation-when-to-consider-a-complete-demolition.html"
+    },
+    {
+      "title": "Bathroom Remodeling: Avoiding Common Mistakes Before You Start",
+      "anchorSlug": "bathroom-remodeling-avoiding-common-mistakes-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodeling-avoiding-common-mistakes-before-you-start.html"
+    },
+    {
+      "title": "Full Bathroom Renovation: Understanding Permit and Inspection Needs",
+      "anchorSlug": "full-bathroom-renovation-understanding-permit-and-inspection-needs",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-bathroom-renovation-understanding-permit-and-inspection-needs.html"
+    },
+    {
+      "title": "Bathroom Remodeling: Deciding Between Cosmetic and Major Changes",
+      "anchorSlug": "bathroom-remodeling-deciding-between-cosmetic-and-major-changes",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodeling-deciding-between-cosmetic-and-major-changes.html"
+    },
+    {
+      "title": "Full Bathroom Renovation: How to Choose the Right Contractor",
+      "anchorSlug": "full-bathroom-renovation-how-to-choose-the-right-contractor",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/full-bathroom-renovation-how-to-choose-the-right-contractor.html"
+    },
+    {
+      "title": "Choosing the Right Bathroom Vanity: A Checklist for a Perfect Fit",
+      "anchorSlug": "choosing-the-right-bathroom-vanity-a-checklist-for-a-perfect-fit",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-bathroom-vanity-a-checklist-for-a-perfect-fit.html"
+    },
+    {
+      "title": "How to Plan Your Vanity Installation: A Step-by-Step Guide",
+      "anchorSlug": "how-to-plan-your-vanity-installation-a-step-by-step-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-vanity-installation-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Is Your Bathroom Vanity Project Stuck? How to Avoid Common Pitfalls",
+      "anchorSlug": "is-your-bathroom-vanity-project-stuck-how-to-avoid-common-pitfalls",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-bathroom-vanity-project-stuck-how-to-avoid-common-pitfalls.html"
+    },
+    {
+      "title": "When to Upgrade Your Bathroom Plumbing: Signs It's Time for Professional Help",
+      "anchorSlug": "when-to-upgrade-your-bathroom-plumbing-signs-it-s-time-for-professional-",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-upgrade-your-bathroom-plumbing-signs-it-s-time-for-professional-.html"
+    },
+    {
+      "title": "Relocating Bathroom Fixtures: What to Know Before You Start",
+      "anchorSlug": "relocating-bathroom-fixtures-what-to-know-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/relocating-bathroom-fixtures-what-to-know-before-you-start.html"
+    },
+    {
+      "title": "Common Bathroom Plumbing Mistakes to Avoid During Your Remodel",
+      "anchorSlug": "common-bathroom-plumbing-mistakes-to-avoid-during-your-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-bathroom-plumbing-mistakes-to-avoid-during-your-remodel.html"
+    },
+    {
+      "title": "Upgrading Your Bathroom Electrical: When to Call the Pros",
+      "anchorSlug": "upgrading-your-bathroom-electrical-when-to-call-the-pros",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/upgrading-your-bathroom-electrical-when-to-call-the-pros.html"
+    },
+    {
+      "title": "Choosing Bathroom Lighting: What to Consider for Wet Areas",
+      "anchorSlug": "choosing-bathroom-lighting-what-to-consider-for-wet-areas",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-bathroom-lighting-what-to-consider-for-wet-areas.html"
+    },
+    {
+      "title": "Bathroom Electrical Upgrades: How to Ensure Code Compliance",
+      "anchorSlug": "bathroom-electrical-upgrades-how-to-ensure-code-compliance",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-electrical-upgrades-how-to-ensure-code-compliance.html"
+    },
+    {
+      "title": "Planning Your Bathroom Tile Project: What to Prepare First",
+      "anchorSlug": "planning-your-bathroom-tile-project-what-to-prepare-first",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-bathroom-tile-project-what-to-prepare-first.html"
+    },
+    {
+      "title": "Tile and Surface Updates: What to Expect During the Process",
+      "anchorSlug": "tile-and-surface-updates-what-to-expect-during-the-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tile-and-surface-updates-what-to-expect-during-the-process.html"
+    },
+    {
+      "title": "Bathroom Surface Updates: Common Mistakes to Avoid",
+      "anchorSlug": "bathroom-surface-updates-common-mistakes-to-avoid",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-surface-updates-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "What to Ask a Contractor Before Starting Your Bathroom Modification Project",
+      "anchorSlug": "what-to-ask-a-contractor-before-starting-your-bathroom-modification-proj",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-a-contractor-before-starting-your-bathroom-modification-proj.html"
+    },
+    {
+      "title": "When to Call a Professional for Complex Bathroom Accessibility Upgrades",
+      "anchorSlug": "when-to-call-a-professional-for-complex-bathroom-accessibility-upgrades",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-complex-bathroom-accessibility-upgrades.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Bathroom Accessibility Project",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-bathroom-accessibility-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-bathroom-accessibility-project.html"
+    },
+    {
+      "title": "Understanding the Timeline for Your East Bay Interior Home Renovation",
+      "anchorSlug": "understanding-the-timeline-for-your-east-bay-interior-home-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-timeline-for-your-east-bay-interior-home-renovation.html"
+    },
+    {
+      "title": "Preparing Your Home for an Extensive Interior Renovation",
+      "anchorSlug": "preparing-your-home-for-an-extensive-interior-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-home-for-an-extensive-interior-renovation.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes During Your Interior Home Renovation",
+      "anchorSlug": "avoiding-common-mistakes-during-your-interior-home-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-during-your-interior-home-renovation.html"
+    },
+    {
+      "title": "Hiring a Kitchen Remodeling Contractor: What to Ask Before You Decide",
+      "anchorSlug": "hiring-a-kitchen-remodeling-contractor-what-to-ask-before-you-decide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hiring-a-kitchen-remodeling-contractor-what-to-ask-before-you-decide.html"
+    },
+    {
+      "title": "Avoiding Cost Surprises in Your Kitchen Remodeling Project",
+      "anchorSlug": "avoiding-cost-surprises-in-your-kitchen-remodeling-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-cost-surprises-in-your-kitchen-remodeling-project.html"
+    },
+    {
+      "title": "How to Plan Your Kitchen Remodel Layout Effectively",
+      "anchorSlug": "how-to-plan-your-kitchen-remodel-layout-effectively",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-kitchen-remodel-layout-effectively.html"
+    },
+    {
+      "title": "Is a Full Kitchen Renovation Right for Your Berkeley Home?",
+      "anchorSlug": "is-a-full-kitchen-renovation-right-for-your-berkeley-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-full-kitchen-renovation-right-for-your-berkeley-home.html"
+    },
+    {
+      "title": "Understanding the Timeline for Your Full Kitchen Renovation",
+      "anchorSlug": "understanding-the-timeline-for-your-full-kitchen-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-timeline-for-your-full-kitchen-renovation.html"
+    },
+    {
+      "title": "What Permits Do You Need for a Full Kitchen Renovation in the East Bay?",
+      "anchorSlug": "what-permits-do-you-need-for-a-full-kitchen-renovation-in-the-east-bay",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-permits-do-you-need-for-a-full-kitchen-renovation-in-the-east-bay.html"
+    },
+    {
+      "title": "When Your Kitchen Plumbing Upgrade Needs a Permit",
+      "anchorSlug": "when-your-kitchen-plumbing-upgrade-needs-a-permit",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-kitchen-plumbing-upgrade-needs-a-permit.html"
+    },
+    {
+      "title": "How to Prepare for Your Kitchen Plumbing Relocation",
+      "anchorSlug": "how-to-prepare-for-your-kitchen-plumbing-relocation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-your-kitchen-plumbing-relocation.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Kitchen Plumbing Upgrades",
+      "anchorSlug": "avoiding-costly-mistakes-in-kitchen-plumbing-upgrades",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-kitchen-plumbing-upgrades.html"
+    },
+    {
+      "title": "Signs You Need a Kitchen Electrical and Lighting Upgrade",
+      "anchorSlug": "signs-you-need-a-kitchen-electrical-and-lighting-upgrade",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-need-a-kitchen-electrical-and-lighting-upgrade.html"
+    },
+    {
+      "title": "Understanding Kitchen Electrical Requirements for Your Remodel",
+      "anchorSlug": "understanding-kitchen-electrical-requirements-for-your-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-kitchen-electrical-requirements-for-your-remodel.html"
+    },
+    {
+      "title": "Choosing the Right Kitchen Lighting for Your Remodel",
+      "anchorSlug": "choosing-the-right-kitchen-lighting-for-your-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-kitchen-lighting-for-your-remodel.html"
+    },
+    {
+      "title": "Is Your Kitchen Ready for a Smart Appliance Upgrade?",
+      "anchorSlug": "is-your-kitchen-ready-for-a-smart-appliance-upgrade",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-kitchen-ready-for-a-smart-appliance-upgrade.html"
+    },
+    {
+      "title": "Why Your New Appliance Might Not Fit: Planning for Delivery",
+      "anchorSlug": "why-your-new-appliance-might-not-fit-planning-for-delivery",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-new-appliance-might-not-fit-planning-for-delivery.html"
+    },
+    {
+      "title": "How to Prepare Your Home for New Appliance Installation",
+      "anchorSlug": "how-to-prepare-your-home-for-new-appliance-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-your-home-for-new-appliance-installation.html"
+    },
+    {
+      "title": "When is Professional Help Essential for Appliance Installation?",
+      "anchorSlug": "when-is-professional-help-essential-for-appliance-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-help-essential-for-appliance-installation.html"
+    },
+    {
+      "title": "Why Your New Interior Paint Job Isn't Looking Its Best",
+      "anchorSlug": "why-your-new-interior-paint-job-isn-t-looking-its-best",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-new-interior-paint-job-isn-t-looking-its-best.html"
+    },
+    {
+      "title": "How to Achieve a Smooth and Lasting Interior Paint Finish",
+      "anchorSlug": "how-to-achieve-a-smooth-and-lasting-interior-paint-finish",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-achieve-a-smooth-and-lasting-interior-paint-finish.html"
+    },
+    {
+      "title": "Choosing the Right Interior Paint Finish for Your East Bay Home",
+      "anchorSlug": "choosing-the-right-interior-paint-finish-for-your-east-bay-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-interior-paint-finish-for-your-east-bay-home.html"
+    },
+    {
+      "title": "Why Your Full Bathroom Renovation Might Be Taking Longer Than Expected",
+      "anchorSlug": "why-your-full-bathroom-renovation-might-be-taking-longer-than-expected",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-full-bathroom-renovation-might-be-taking-longer-than-expected.html"
+    },
+    {
+      "title": "Choosing the Right Contractor for Your Full Bathroom Renovation",
+      "anchorSlug": "choosing-the-right-contractor-for-your-full-bathroom-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-contractor-for-your-full-bathroom-renovation.html"
+    },
+    {
+      "title": "What to Expect During Your Full Bathroom Renovation Project",
+      "anchorSlug": "what-to-expect-during-your-full-bathroom-renovation-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-full-bathroom-renovation-project.html"
+    },
+    {
+      "title": "How to Prepare for Your Vanity and Cabinet Installation",
+      "anchorSlug": "how-to-prepare-for-your-vanity-and-cabinet-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-your-vanity-and-cabinet-installation.html"
+    },
+    {
+      "title": "When to Call a Pro for Your Vanity and Cabinet Installation",
+      "anchorSlug": "when-to-call-a-pro-for-your-vanity-and-cabinet-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-your-vanity-and-cabinet-installation.html"
+    },
+    {
+      "title": "Comparing Different Vanity and Cabinet Options for Your Bathroom",
+      "anchorSlug": "comparing-different-vanity-and-cabinet-options-for-your-bathroom",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-different-vanity-and-cabinet-options-for-your-bathroom.html"
+    },
+    {
+      "title": "Why Does My Bathroom Plumbing Keep Leaking?",
+      "anchorSlug": "why-does-my-bathroom-plumbing-keep-leaking",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-bathroom-plumbing-keep-leaking.html"
+    },
+    {
+      "title": "What to Prepare Before You Start Bathroom Plumbing Work",
+      "anchorSlug": "what-to-prepare-before-you-start-bathroom-plumbing-work",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-you-start-bathroom-plumbing-work.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid in Bathroom Plumbing Upgrades",
+      "anchorSlug": "common-mistakes-to-avoid-in-bathroom-plumbing-upgrades",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-in-bathroom-plumbing-upgrades.html"
+    },
+    {
+      "title": "Is My Bathroom Lighting Safe for Shower Areas?",
+      "anchorSlug": "is-my-bathroom-lighting-safe-for-shower-areas",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-bathroom-lighting-safe-for-shower-areas.html"
+    },
+    {
+      "title": "When is a New Circuit Needed for Bathroom Electrical?",
+      "anchorSlug": "when-is-a-new-circuit-needed-for-bathroom-electrical",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-new-circuit-needed-for-bathroom-electrical.html"
+    },
+    {
+      "title": "What to Know Before Upgrading Your Bathroom Electrical and Lighting",
+      "anchorSlug": "what-to-know-before-upgrading-your-bathroom-electrical-and-lighting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-upgrading-your-bathroom-electrical-and-lighting.html"
+    },
+    {
+      "title": "Planning an Accessible Bathroom Remodel: Where to Start?",
+      "anchorSlug": "planning-an-accessible-bathroom-remodel-where-to-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-an-accessible-bathroom-remodel-where-to-start.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid in Accessible Bathroom Design",
+      "anchorSlug": "common-mistakes-to-avoid-in-accessible-bathroom-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-in-accessible-bathroom-design.html"
+    },
+    {
+      "title": "When Should You Hire a Professional for Bathroom Modifications?",
+      "anchorSlug": "when-should-you-hire-a-professional-for-bathroom-modifications",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-hire-a-professional-for-bathroom-modifications.html"
+    },
+    {
+      "title": "Estimating the Timeline for Your Interior Home Renovation",
+      "anchorSlug": "estimating-the-timeline-for-your-interior-home-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/estimating-the-timeline-for-your-interior-home-renovation.html"
+    },
+    {
+      "title": "What to Look for in an Interior Renovation Contractor",
+      "anchorSlug": "what-to-look-for-in-an-interior-renovation-contractor",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-look-for-in-an-interior-renovation-contractor.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Home Renovation Budget",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-home-renovation-budget",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-home-renovation-budget.html"
+    },
+    {
+      "title": "Why Your Outdated Kitchen Might Need More Than a Fresh Coat of Paint",
+      "anchorSlug": "why-your-outdated-kitchen-might-need-more-than-a-fresh-coat-of-paint",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-outdated-kitchen-might-need-more-than-a-fresh-coat-of-paint.html"
+    },
+    {
+      "title": "How to Get Started on Modernizing Your Bathroom",
+      "anchorSlug": "how-to-get-started-on-modernizing-your-bathroom",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-started-on-modernizing-your-bathroom.html"
+    },
+    {
+      "title": "Common Mistakes When Planning a Room Modernization Project",
+      "anchorSlug": "common-mistakes-when-planning-a-room-modernization-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-planning-a-room-modernization-project.html"
+    },
+    {
+      "title": "Is Your Home Layout Making Life Harder? Signs You Need an Upgrade",
+      "anchorSlug": "is-your-home-layout-making-life-harder-signs-you-need-an-upgrade",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-home-layout-making-life-harder-signs-you-need-an-upgrade.html"
+    },
+    {
+      "title": "How to Plan for Better Circulation in Your Kitchen or Bath",
+      "anchorSlug": "how-to-plan-for-better-circulation-in-your-kitchen-or-bath",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-better-circulation-in-your-kitchen-or-bath.html"
+    },
+    {
+      "title": "What Affects the Timeline for Modernizing a Single Room",
+      "anchorSlug": "what-affects-the-timeline-for-modernizing-a-single-room",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-affects-the-timeline-for-modernizing-a-single-room.html"
+    },
+    {
+      "title": "Choosing Interior Finishes: How to Pick the Right Materials",
+      "anchorSlug": "choosing-interior-finishes-how-to-pick-the-right-materials",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-interior-finishes-how-to-pick-the-right-materials.html"
+    },
+    {
+      "title": "Preventing Mistakes in Interior Finish Upgrades",
+      "anchorSlug": "preventing-mistakes-in-interior-finish-upgrades",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preventing-mistakes-in-interior-finish-upgrades.html"
+    },
+    {
+      "title": "When to Call a Pro for Your Interior Finish Upgrades",
+      "anchorSlug": "when-to-call-a-pro-for-your-interior-finish-upgrades",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-your-interior-finish-upgrades.html"
+    },
+    {
+      "title": "Why Your Remodeling Project Needs a Solid Plan",
+      "anchorSlug": "why-your-remodeling-project-needs-a-solid-plan",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-remodeling-project-needs-a-solid-plan.html"
+    },
+    {
+      "title": "Navigating the Remodeling Process: What to Expect",
+      "anchorSlug": "navigating-the-remodeling-process-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-the-remodeling-process-what-to-expect.html"
+    },
+    {
+      "title": "Choosing the Right Kitchen Renovation Scope in Berkeley",
+      "anchorSlug": "choosing-the-right-kitchen-renovation-scope-in-berkeley",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-kitchen-renovation-scope-in-berkeley.html"
+    },
+    {
+      "title": "What to Expect During a Full Kitchen Renovation in the East Bay",
+      "anchorSlug": "what-to-expect-during-a-full-kitchen-renovation-in-the-east-bay",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-full-kitchen-renovation-in-the-east-bay.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Kitchen Remodel in Oakland",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-kitchen-remodel-in-oakland",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-kitchen-remodel-in-oakland.html"
+    },
+    {
+      "title": "Deciding on Electrical Upgrades for Your Kitchen in Albany",
+      "anchorSlug": "deciding-on-electrical-upgrades-for-your-kitchen-in-albany",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-on-electrical-upgrades-for-your-kitchen-in-albany.html"
+    },
+    {
+      "title": "How to Plan Your Kitchen Lighting Layout in El Cerrito",
+      "anchorSlug": "how-to-plan-your-kitchen-lighting-layout-in-el-cerrito",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-kitchen-lighting-layout-in-el-cerrito.html"
+    },
+    {
+      "title": "When to Upgrade Your Kitchen Electrical Panel in Kensington",
+      "anchorSlug": "when-to-upgrade-your-kitchen-electrical-panel-in-kensington",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-upgrade-your-kitchen-electrical-panel-in-kensington.html"
+    },
+    {
+      "title": "Ensuring Appliance Delivery Success in Berkeley: What to Prepare",
+      "anchorSlug": "ensuring-appliance-delivery-success-in-berkeley-what-to-prepare",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ensuring-appliance-delivery-success-in-berkeley-what-to-prepare.html"
+    },
+    {
+      "title": "How to Prepare Your Space for Appliance Installation in Oakland",
+      "anchorSlug": "how-to-prepare-your-space-for-appliance-installation-in-oakland",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-your-space-for-appliance-installation-in-oakland.html"
+    },
+    {
+      "title": "Avoiding Common Appliance Installation Mistakes in San Francisco",
+      "anchorSlug": "avoiding-common-appliance-installation-mistakes-in-san-francisco",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-appliance-installation-mistakes-in-san-francisco.html"
+    },
+    {
+      "title": "Preparing Your Walls for Painting: A Checklist for Albany Homeowners",
+      "anchorSlug": "preparing-your-walls-for-painting-a-checklist-for-albany-homeowners",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-walls-for-painting-a-checklist-for-albany-homeowners.html"
+    },
+    {
+      "title": "When is Professional Interior Painting a Must-Have in Tiburon?",
+      "anchorSlug": "when-is-professional-interior-painting-a-must-have-in-tiburon",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-interior-painting-a-must-have-in-tiburon.html"
+    },
+    {
+      "title": "Choosing a Bathroom Remodeling Contractor in Berkeley: What to Look For",
+      "anchorSlug": "choosing-a-bathroom-remodeling-contractor-in-berkeley-what-to-look-for",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-bathroom-remodeling-contractor-in-berkeley-what-to-look-for.html"
+    },
+    {
+      "title": "What to Expect During a Full Bathroom Renovation in Tiburon",
+      "anchorSlug": "what-to-expect-during-a-full-bathroom-renovation-in-tiburon",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-full-bathroom-renovation-in-tiburon.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Your East Bay Bathroom Remodel",
+      "anchorSlug": "avoiding-common-mistakes-in-your-east-bay-bathroom-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-your-east-bay-bathroom-remodel.html"
+    },
+    {
+      "title": "When to Upgrade Your Bathroom Electrical in Alameda",
+      "anchorSlug": "when-to-upgrade-your-bathroom-electrical-in-alameda",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-upgrade-your-bathroom-electrical-in-alameda.html"
+    },
+    {
+      "title": "Preparing for a Bathroom Electrical Upgrade in Kensington",
+      "anchorSlug": "preparing-for-a-bathroom-electrical-upgrade-in-kensington",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-for-a-bathroom-electrical-upgrade-in-kensington.html"
+    },
+    {
+      "title": "Understanding GFCI Protection for Your San Francisco Bathroom",
+      "anchorSlug": "understanding-gfci-protection-for-your-san-francisco-bathroom",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-gfci-protection-for-your-san-francisco-bathroom.html"
+    },
+    {
+      "title": "Planning an Accessible Bathroom Remodel: What to Consider in Berkeley",
+      "anchorSlug": "planning-an-accessible-bathroom-remodel-what-to-consider-in-berkeley",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-an-accessible-bathroom-remodel-what-to-consider-in-berkeley.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in East Bay Bathroom Modifications",
+      "anchorSlug": "avoiding-common-pitfalls-in-east-bay-bathroom-modifications",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-east-bay-bathroom-modifications.html"
+    },
+    {
+      "title": "Why Your Berkeley Bathroom Remodel Needs Professional Accessibility Expertise",
+      "anchorSlug": "why-your-berkeley-bathroom-remodel-needs-professional-accessibility-expe",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-berkeley-bathroom-remodel-needs-professional-accessibility-expe.html"
+    },
+    {
+      "title": "Navigating Interior Renovation Timelines in Albany",
+      "anchorSlug": "navigating-interior-renovation-timelines-in-albany",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-interior-renovation-timelines-in-albany.html"
+    },
+    {
+      "title": "What to Ask Before Hiring for Interior Renovation in El Cerrito",
+      "anchorSlug": "what-to-ask-before-hiring-for-interior-renovation-in-el-cerrito",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-before-hiring-for-interior-renovation-in-el-cerrito.html"
+    },
+    {
+      "title": "Making Sense of Material Choices for Your Kensington Renovation",
+      "anchorSlug": "making-sense-of-material-choices-for-your-kensington-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-sense-of-material-choices-for-your-kensington-renovation.html"
+    },
+    {
+      "title": "Why Your Berkeley Kitchen Feels Outdated (and What to Do About It)",
+      "anchorSlug": "why-your-berkeley-kitchen-feels-outdated-and-what-to-do-about-it",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-berkeley-kitchen-feels-outdated-and-what-to-do-about-it.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Modernizing Your Bathroom in Oakland",
+      "anchorSlug": "mistakes-to-avoid-when-modernizing-your-bathroom-in-oakland",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-modernizing-your-bathroom-in-oakland.html"
+    },
+    {
+      "title": "Timeline for a Typical Kitchen Modernization Project in El Cerrito",
+      "anchorSlug": "timeline-for-a-typical-kitchen-modernization-project-in-el-cerrito",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-for-a-typical-kitchen-modernization-project-in-el-cerrito.html"
+    },
+    {
+      "title": "Optimizing Your Small Kitchen Layout in Kensington: A How-To Guide",
+      "anchorSlug": "optimizing-your-small-kitchen-layout-in-kensington-a-how-to-guide",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/optimizing-your-small-kitchen-layout-in-kensington-a-how-to-guide.html"
+    },
+    {
+      "title": "When is a Professional Essential for Functional Layout Improvements in Alameda?",
+      "anchorSlug": "when-is-a-professional-essential-for-functional-layout-improvements-in-a",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-professional-essential-for-functional-layout-improvements-in-a.html"
+    },
+    {
+      "title": "Before Your Layout Improvement Project in San Francisco: A Checklist",
+      "anchorSlug": "before-your-layout-improvement-project-in-san-francisco-a-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/before-your-layout-improvement-project-in-san-francisco-a-checklist.html"
+    },
+    {
+      "title": "Navigating Permit Requirements for Your Home Remodel in Berkeley",
+      "anchorSlug": "navigating-permit-requirements-for-your-home-remodel-in-berkeley",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permit-requirements-for-your-home-remodel-in-berkeley.html"
+    },
+    {
+      "title": "Avoiding Cost Surprises in Your Home Addition Project in Alameda",
+      "anchorSlug": "avoiding-cost-surprises-in-your-home-addition-project-in-alameda",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-cost-surprises-in-your-home-addition-project-in-alameda.html"
+    },
+    {
+      "title": "Choosing the Right Contractor for Your Remodel in El Cerrito: A Checklist",
+      "anchorSlug": "choosing-the-right-contractor-for-your-remodel-in-el-cerrito-a-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-contractor-for-your-remodel-in-el-cerrito-a-checklist.html"
+    },
+    {
+      "title": "What to Consider When Adding Space to Your Kensington Home",
+      "anchorSlug": "what-to-consider-when-adding-space-to-your-kensington-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-when-adding-space-to-your-kensington-home.html"
+    },
+    {
+      "title": "How to Coordinate Subcontractors for Your East Bay Remodel",
+      "anchorSlug": "how-to-coordinate-subcontractors-for-your-east-bay-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-coordinate-subcontractors-for-your-east-bay-remodel.html"
+    },
+    {
+      "title": "Making Smart Material Selections for Your Sausalito Home Addition",
+      "anchorSlug": "making-smart-material-selections-for-your-sausalito-home-addition",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-smart-material-selections-for-your-sausalito-home-addition.html"
+    },
+    {
+      "title": "Navigating Room Expansion Permits in Berkeley: What to Expect",
+      "anchorSlug": "navigating-room-expansion-permits-in-berkeley-what-to-expect",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-room-expansion-permits-in-berkeley-what-to-expect.html"
+    },
+    {
+      "title": "Considering a Home Addition in Oakland? How to Plan for Structural Changes",
+      "anchorSlug": "considering-a-home-addition-in-oakland-how-to-plan-for-structural-change",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-home-addition-in-oakland-how-to-plan-for-structural-change.html"
+    },
+    {
+      "title": "Is a Room Expansion Worth It in Alameda? Comparing Your Options",
+      "anchorSlug": "is-a-room-expansion-worth-it-in-alameda-comparing-your-options",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-room-expansion-worth-it-in-alameda-comparing-your-options.html"
+    },
+    {
+      "title": "Interior Build-Outs in El Cerrito: Avoiding Common Mistakes",
+      "anchorSlug": "interior-build-outs-in-el-cerrito-avoiding-common-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/interior-build-outs-in-el-cerrito-avoiding-common-mistakes.html"
+    },
+    {
+      "title": "Planning an Interior Build-Out in Albany: What to Prepare",
+      "anchorSlug": "planning-an-interior-build-out-in-albany-what-to-prepare",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-an-interior-build-out-in-albany-what-to-prepare.html"
+    },
+    {
+      "title": "When Your Sausalito Interior Build-Out Needs Professional Coordination",
+      "anchorSlug": "when-your-sausalito-interior-build-out-needs-professional-coordination",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-sausalito-interior-build-out-needs-professional-coordination.html"
+    },
+    {
+      "title": "Why Your New Addition's Paint Job Looks Uneven in Berkeley",
+      "anchorSlug": "why-your-new-addition-s-paint-job-looks-uneven-in-berkeley",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-new-addition-s-paint-job-looks-uneven-in-berkeley.html"
+    },
+    {
+      "title": "Choosing the Right Paint Finish for Your East Bay Addition: A Comparison",
+      "anchorSlug": "choosing-the-right-paint-finish-for-your-east-bay-addition-a-comparison",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-paint-finish-for-your-east-bay-addition-a-comparison.html"
+    },
+    {
+      "title": "How to Prepare Surfaces for Painting a New Addition in Oakland",
+      "anchorSlug": "how-to-prepare-surfaces-for-painting-a-new-addition-in-oakland",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-surfaces-for-painting-a-new-addition-in-oakland.html"
+    },
+    {
+      "title": "What to Do When Your New Cabinets Arrive Damaged in Albany",
+      "anchorSlug": "what-to-do-when-your-new-cabinets-arrive-damaged-in-albany",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-new-cabinets-arrive-damaged-in-albany.html"
+    },
+    {
+      "title": "When to Call a Pro for Cabinet Installation in El Cerrito",
+      "anchorSlug": "when-to-call-a-pro-for-cabinet-installation-in-el-cerrito",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-cabinet-installation-in-el-cerrito.html"
+    },
+    {
+      "title": "Getting Your Cabinets Right: A Pre-Installation Checklist for Alameda",
+      "anchorSlug": "getting-your-cabinets-right-a-pre-installation-checklist-for-alameda",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-your-cabinets-right-a-pre-installation-checklist-for-alameda.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://frasheski-construction.aiovisibility.net/articles.html",
+    "https://frasheski-construction.aiovisibility.net/articles/getting-started.html",
+    "https://frasheski-construction.aiovisibility.net/articles/services-and-process.html",
+    "https://frasheski-construction.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://frasheski-construction.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://frasheski-construction.aiovisibility.net/articles/local-service-guidance.html",
+    "https://frasheski-construction.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}

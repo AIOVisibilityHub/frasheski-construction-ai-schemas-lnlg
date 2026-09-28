@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of finish carpentry does Frasheski Construction coordinate?",
+  "description": "Frasheski Construction coordinates installation for various finish carpentry elements such as trim, moldings, custom cabinetry, and built-ins, suiting diverse a",
+  "url": "frasheskiconstruction.com/faq/what-types-of-finish-carpentry-does-frasheski-construction-coordinate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of finish carpentry does Frasheski Construction coordinate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction coordinates a wide range of finish carpentry elements, including interior and exterior trim, crown molding, baseboards, door and window casings, custom cabinetry, built-in shelving, wainscoting, and specialty millwork. We manage the installation of both pre-fabricated and custom-made pieces. Our expertise covers diverse architectural styles common in areas like Albany and El Cerrito, ensuring each detail complements the overall design.",
+        "description": "Frasheski Construction coordinates installation for various finish carpentry elements such as trim, moldings, custom cabinetry, and built-ins, suiting diverse architectural styles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
