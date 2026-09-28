@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can surface restoration address structural issues, or is it purely cosmetic?",
+  "description": "Restoration addresses cosmetic damage and prevents minor structural issues from worsening, but it's not a solution for significant underlying structural failure",
+  "url": "frasheskiconstruction.com/faq/can-surface-restoration-address-structural-issues-or-is-it-purely-cosmetic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can surface restoration address structural issues, or is it purely cosmetic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surface restoration primarily addresses cosmetic damage and extends the life of existing surfaces, but it can also involve repairs that prevent minor structural issues from worsening. For example, filling cracks in concrete not only improves appearance but also prevents water intrusion that could lead to further deterioration. However, restoration is not a solution for significant underlying structural failures. Our initial assessment will identify if your surface has deeper structural problems that require more extensive foundational repairs, guiding you on the appropriate next steps.",
+        "description": "Restoration addresses cosmetic damage and prevents minor structural issues from worsening, but it's not a solution for significant underlying structural failures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

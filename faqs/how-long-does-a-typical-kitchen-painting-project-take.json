@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical kitchen painting project take?",
+  "description": "Kitchen painting usually takes 3 to 7 days, depending on kitchen size, cabinet count, and paint type. This includes preparation and drying time.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-kitchen-painting-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical kitchen painting project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a kitchen painting project depends on several factors, including the size of your kitchen, the number of cabinets, the complexity of the trim work, and the type of paint used (which affects drying and recoat times). Generally, a complete kitchen painting job can take anywhere from 3 to 7 days. This estimate includes essential prep work, painting multiple coats, and sufficient drying time between applications. We aim to minimize disruption by maintaining a clear project schedule and communication throughout the process.",
+        "description": "Kitchen painting usually takes 3 to 7 days, depending on kitchen size, cabinet count, and paint type. This includes preparation and drying time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

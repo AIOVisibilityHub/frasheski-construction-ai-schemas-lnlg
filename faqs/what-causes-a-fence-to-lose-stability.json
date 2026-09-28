@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes a fence to lose stability?",
+  "description": "Common causes of fence instability include rotting posts, corrosion, loose fasteners, and soil erosion.",
+  "url": "frasheskiconstruction.com/faq/what-causes-a-fence-to-lose-stability",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes a fence to lose stability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fences can lose stability due to several factors, including rotting wooden posts, corroded metal components, loose fasteners, or damage from strong winds or impacts. Soil erosion around the fence posts, particularly in areas with heavy rain or drainage issues common in the East Bay, can also weaken the foundation and compromise the fence's structural integrity over time. Regular inspections can help identify these issues early.",
+        "description": "Common causes of fence instability include rotting posts, corrosion, loose fasteners, and soil erosion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

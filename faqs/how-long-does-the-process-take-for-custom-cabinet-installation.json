@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the process take for custom cabinet installation?",
+  "description": "The timeline for custom cabinet installation varies, typically ranging from weeks to a few months, depending on project scope, complexity, and material availabi",
+  "url": "frasheskiconstruction.com/faq/how-long-does-the-process-take-for-custom-cabinet-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the process take for custom cabinet installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for custom cabinet installation typically varies based on the project's scope, complexity, and material availability. Generally, the process involves initial design consultations, material selection, fabrication, and finally, installation. Simple projects might be completed in a few weeks, while more intricate designs or those requiring specialized materials could take several months. It's important to discuss your desired timeline during the initial consultation, as this can influence material choices and design complexity.",
+        "description": "The timeline for custom cabinet installation varies, typically ranging from weeks to a few months, depending on project scope, complexity, and material availability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

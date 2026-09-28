@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer any guarantees or warranties on wood fence repairs?",
+  "description": "Specific guarantees and warranties on wood fence repairs are outlined in your contract. We prioritize lasting results and quality craftsmanship.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-any-guarantees-or-warranties-on-wood-fence-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer any guarantees or warranties on wood fence repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We stand by the quality of our work for wood fence repairs. Specific guarantees or warranties will be discussed and outlined within your repair contract. Our aim is to ensure lasting results using quality materials and craftsmanship. We encourage clients to discuss any concerns they have about the longevity of the repair during the initial consultation.",
+        "description": "Specific guarantees and warranties on wood fence repairs are outlined in your contract. We prioritize lasting results and quality craftsmanship."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

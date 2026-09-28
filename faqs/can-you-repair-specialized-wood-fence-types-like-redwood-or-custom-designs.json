@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you repair specialized wood fence types, like redwood or custom designs?",
+  "description": "Yes, we repair specialized wood fence types, including redwood and custom designs. Providing details on your fence type aids in our preparation.",
+  "url": "frasheskiconstruction.com/faq/can-you-repair-specialized-wood-fence-types-like-redwood-or-custom-designs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you repair specialized wood fence types, like redwood or custom designs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we can repair specialized wood fence types, including those made from redwood or featuring custom designs. Our team has experience working with various wood species and fence constructions common in areas like Berkeley and Albany. When you contact us, detailing your fence type and the nature of its construction will help us prepare effectively for the assessment and repair.",
+        "description": "Yes, we repair specialized wood fence types, including redwood and custom designs. Providing details on your fence type aids in our preparation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

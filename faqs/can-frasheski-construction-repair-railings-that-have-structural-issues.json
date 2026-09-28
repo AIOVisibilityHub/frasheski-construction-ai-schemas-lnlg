@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Frasheski Construction repair railings that have structural issues?",
+  "description": "Yes, we specialize in repairing structural railing issues by reinforcing posts, replacing compromised beams, and rectifying improper installations for safety.",
+  "url": "frasheskiconstruction.com/faq/can-frasheski-construction-repair-railings-that-have-structural-issues",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Frasheski Construction repair railings that have structural issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction specializes in addressing structural issues with railings, which often pose significant safety concerns. This can involve reinforcing existing posts, replacing compromised support beams, or rectifying improper installations that lead to instability. We prioritize structural integrity in all our repairs, ensuring the railing is secure and meets safety standards, which is particularly important for elevated decks and stairways.",
+        "description": "Yes, we specialize in repairing structural railing issues by reinforcing posts, replacing compromised beams, and rectifying improper installations for safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

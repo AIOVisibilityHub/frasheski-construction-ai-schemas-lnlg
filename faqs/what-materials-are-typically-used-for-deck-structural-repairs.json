@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are typically used for deck structural repairs?",
+  "description": "We typically use pressure-treated lumber for structural components, and high-quality galvanized or stainless steel fasteners for durability.",
+  "url": "frasheskiconstruction.com/faq/what-materials-are-typically-used-for-deck-structural-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are typically used for deck structural repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For deck structural repairs, we primarily use pressure-treated lumber for its resistance to rot and insects, suitable for ground contact and structural components. Depending on the original construction and specific needs, we might also use redwood or cedar for certain elements. High-quality fasteners and connectors, often galvanized or stainless steel, are essential for ensuring long-term stability and corrosion resistance, especially in the humid East Bay climate.",
+        "description": "We typically use pressure-treated lumber for structural components, and high-quality galvanized or stainless steel fasteners for durability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

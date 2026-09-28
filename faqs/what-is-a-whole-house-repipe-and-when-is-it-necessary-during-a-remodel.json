@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a 'whole-house repipe' and when is it necessary during a remodel?",
+  "description": "A whole-house repipe replaces all main water supply lines, necessary when existing pipes are deteriorated, causing low pressure or leaks.",
+  "url": "frasheskiconstruction.com/faq/what-is-a-whole-house-repipe-and-when-is-it-necessary-during-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a 'whole-house repipe' and when is it necessary during a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 'whole-house repipe' involves replacing all the main water supply lines throughout your entire home. It's necessary during a remodel when existing pipes, often galvanized steel or polybutylene, are deteriorating, causing low water pressure, frequent leaks, or poor water quality. For homeowners in the East Bay area planning extensive renovations, particularly in older properties, a repipe provides a fresh start with modern, durable materials like PEX or copper, ensuring reliable plumbing for decades to come. This is often a process clarity decision for long-term home value.",
+        "description": "A whole-house repipe replaces all main water supply lines, necessary when existing pipes are deteriorated, causing low pressure or leaks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider when choosing between copper and PEX piping for a plumbing project?",
+  "description": "Copper is durable but costly; PEX is flexible and affordable but less UV resistant. Consider budget, installation ease, and specific project needs.",
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-choosing-between-copper-and-pex-piping-for-a-plumbin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider when choosing between copper and PEX piping for a plumbing project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing between copper and PEX piping, several practical tradeoffs come into play. Copper is durable, resistant to UV light, and has been a reliable choice for decades, but it's more expensive and installation can be labor-intensive due to soldering. PEX is flexible, less expensive, easier to install, and resistant to freezing, making it a popular option. However, it's not UV resistant and can be susceptible to rodent damage. Your decision factor should weigh budget, ease of installation, water quality, and the specific requirements of your project.",
+        "description": "Copper is durable but costly; PEX is flexible and affordable but less UV resistant. Consider budget, installation ease, and specific project needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

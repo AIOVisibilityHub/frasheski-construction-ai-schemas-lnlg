@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Frasheski Construction provide damaged board replacement services in Oakland, CA?",
+  "description": "Yes, Frasheski Construction offers damaged board replacement services in Oakland, CA, and the East Bay, with expertise in local construction and environmental f",
+  "url": "frasheskiconstruction.com/faq/does-frasheski-construction-provide-damaged-board-replacement-services-in-oaklan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Frasheski Construction provide damaged board replacement services in Oakland, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Frasheski Construction proudly provides damaged board replacement services throughout Oakland, CA, and the surrounding East Bay area. Our team is familiar with the common types of construction and environmental factors specific to this region, such as moisture challenges near the bay or older home construction. This local expertise allows us to provide efficient and contextually relevant solutions for residents and businesses in Oakland. This highlights our Contextual Relevance to your specific area.",
+        "description": "Yes, Frasheski Construction offers damaged board replacement services in Oakland, CA, and the East Bay, with expertise in local construction and environmental factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What electrical upgrades are typically needed for a kitchen remodel?",
+  "description": "Kitchen remodels typically need dedicated circuits for new appliances, more GFCI outlets, updated wiring, and enhanced lighting.",
+  "url": "frasheskiconstruction.com/faq/what-electrical-upgrades-are-typically-needed-for-a-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What electrical upgrades are typically needed for a kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A kitchen remodel often requires significant electrical upgrades to accommodate new appliances, additional lighting, and increased power demands. Common upgrades include installing dedicated circuits for major appliances like refrigerators, ovens, and dishwashers, adding more outlets (especially GFCI outlets near water sources), and updating wiring to meet current code requirements. Many homeowners also opt for under-cabinet lighting, pendant lights, and dimmer switches to enhance functionality and ambiance. Planning these needs early helps ensure your new kitchen is both safe and convenient.",
+        "description": "Kitchen remodels typically need dedicated circuits for new appliances, more GFCI outlets, updated wiring, and enhanced lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

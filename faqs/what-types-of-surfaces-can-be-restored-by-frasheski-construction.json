@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of surfaces can be restored by Frasheski Construction?",
+  "description": "Frasheski Construction restores surfaces like concrete, stucco, and wood, assessing damage and applying repairs and finishes to rejuvenate them.",
+  "url": "frasheskiconstruction.com/faq/what-types-of-surfaces-can-be-restored-by-frasheski-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of surfaces can be restored by Frasheski Construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction specializes in restoring various surfaces impacted by wear, damage, or time. This often includes concrete, stucco, and wood surfaces found in residential and commercial properties. Our process typically involves assessing the current condition, cleaning, repairing damage like cracks or chips, and then applying appropriate finishes to rejuvenate the surface. We can evaluate your specific needs and recommend the best approach for different materials.",
+        "description": "Frasheski Construction restores surfaces like concrete, stucco, and wood, assessing damage and applying repairs and finishes to rejuvenate them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

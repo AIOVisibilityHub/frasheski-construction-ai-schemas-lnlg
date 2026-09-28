@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of railing materials can Frasheski Construction repair?",
+  "description": "We repair wood, composite, and metal railings (e.g., wrought iron, aluminum). Repair methods vary by material type.",
+  "url": "frasheskiconstruction.com/faq/what-types-of-railing-materials-can-frasheski-construction-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of railing materials can Frasheski Construction repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction is experienced in repairing various railing materials, including wood, composite, and metal railings such as wrought iron or aluminum. The repair process will vary significantly based on the material, often involving different techniques for structural reinforcement, component replacement, or surface restoration. Our team in Berkeley and the East Bay is equipped to handle the specific challenges presented by each material type.",
+        "description": "We repair wood, composite, and metal railings (e.g., wrought iron, aluminum). Repair methods vary by material type."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

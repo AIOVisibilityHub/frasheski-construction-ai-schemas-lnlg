@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for stair repair in the East Bay area?",
+  "description": "Permit needs for stair repair in the East Bay depend on the work scope. Minor cosmetic repairs usually don't need permits, but structural changes or safety impa",
+  "url": "frasheskiconstruction.com/faq/do-i-need-permits-for-stair-repair-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for stair repair in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you need permits for stair repair in the East Bay area, including Berkeley, Oakland, and Albany, depends on the scope and nature of the work. Minor cosmetic repairs typically do not require permits. However, if the repair involves significant structural alterations, changes to the staircase's dimensions, or impacts safety egress, a building permit may be necessary to ensure compliance with local building codes. Frasheski Construction can help you understand permit requirements for your specific project and assist with the application process if needed.",
+        "description": "Permit needs for stair repair in the East Bay depend on the work scope. Minor cosmetic repairs usually don't need permits, but structural changes or safety impacts often do. We can advise on requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

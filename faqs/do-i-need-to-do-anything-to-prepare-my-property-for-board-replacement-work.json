@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to do anything to prepare my property for board replacement work?",
+  "description": "Prepare by clearing the work area of furniture or obstacles, and for interior jobs, moving items and covering furniture to protect against dust.",
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-do-anything-to-prepare-my-property-for-board-replacement-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to do anything to prepare my property for board replacement work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, some preparation can help ensure a smooth replacement process. For exterior work, clearing the immediate area around the damaged boards of furniture, plants, or obstacles is helpful. For interior projects, moving personal items and covering nearby furniture to protect against dust is recommended. We will discuss specific preparation needs during the initial consultation, ensuring you understand what's required before our team arrives. This Preparation step helps streamline the project and protects your belongings.",
+        "description": "Prepare by clearing the work area of furniture or obstacles, and for interior jobs, moving items and covering furniture to protect against dust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

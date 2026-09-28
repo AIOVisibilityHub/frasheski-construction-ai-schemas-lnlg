@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for kitchen plumbing work in the East Bay area?",
+  "description": "Permits are often required for significant kitchen plumbing changes or new installations in the East Bay, and Frasheski Construction can manage this process for",
+  "url": "frasheskiconstruction.com/faq/what-permits-are-needed-for-kitchen-plumbing-work-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for kitchen plumbing work in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For significant kitchen plumbing installations or modifications, permits are often required by local authorities in the East Bay area, including cities like Oakland, Albany, and Berkeley. This is especially true for altering drain lines, water supply lines, or installing new fixtures that change the overall plumbing system. Frasheski Construction handles the permit application process as part of our service, ensuring all work adheres to local building codes and passes necessary inspections without issues.",
+        "description": "Permits are often required for significant kitchen plumbing changes or new installations in the East Bay, and Frasheski Construction can manage this process for you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer emergency wood fence panel repair services?",
+  "description": "We aim to accommodate urgent fence damage impacting security or safety. Contact us directly to discuss your specific needs.",
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-wood-fence-panel-repair-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer emergency wood fence panel repair services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We understand that sudden damage can occur due to storms or accidents. While we primarily schedule repairs, we strive to accommodate urgent situations, particularly for significant damage that compromises security or safety. Contact us directly to discuss your specific situation, and we will assess our capacity to respond promptly, especially for clients within our core service areas of Berkeley, Oakland, and Albany.",
+        "description": "We aim to accommodate urgent fence damage impacting security or safety. Contact us directly to discuss your specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

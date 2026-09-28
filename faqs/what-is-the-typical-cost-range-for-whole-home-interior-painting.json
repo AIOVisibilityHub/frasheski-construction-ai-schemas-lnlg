@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for whole-home interior painting?",
+  "description": "Costs vary based on square footage, ceiling height, wall condition, and paint type; we provide detailed quotes after an on-site evaluation.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-cost-range-for-whole-home-interior-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for whole-home interior painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of whole-home interior painting varies widely based on factors such as the total square footage, ceiling height, the condition of the walls, and the type of paint chosen. For example, homes requiring extensive plaster repair or multiple color changes will incur higher costs. We provide detailed, itemized quotes after an on-site evaluation, ensuring transparency regarding material and labor costs specifically for your project. This allows you to understand the investment based on your home's unique needs.",
+        "description": "Costs vary based on square footage, ceiling height, wall condition, and paint type; we provide detailed quotes after an on-site evaluation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

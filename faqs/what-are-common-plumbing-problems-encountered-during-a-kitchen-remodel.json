@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common plumbing problems encountered during a kitchen remodel?",
+  "description": "Common issues include outdated pipes, low water pressure, or drainage problems. A thorough initial inspection helps identify and address these early.",
+  "url": "frasheskiconstruction.com/faq/what-are-common-plumbing-problems-encountered-during-a-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common plumbing problems encountered during a kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common plumbing problems during a kitchen remodel include discovering outdated or corroded pipes, insufficient water pressure for new fixtures, and drainage issues due to improper venting or undersized drain lines. Our process at Frasheski Construction involves a thorough initial inspection to identify potential issues early, especially in older homes prevalent in Albany or El Cerrito. This proactive approach helps mitigate unexpected costs and delays by addressing underlying plumbing infrastructure before new installations begin.",
+        "description": "Common issues include outdated pipes, low water pressure, or drainage problems. A thorough initial inspection helps identify and address these early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

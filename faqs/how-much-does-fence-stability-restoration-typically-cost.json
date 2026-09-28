@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does fence stability restoration typically cost?",
+  "description": "Cost varies based on damage extent, material, and sections needing repair. A detailed quote after assessment provides accurate pricing.",
+  "url": "frasheskiconstruction.com/faq/how-much-does-fence-stability-restoration-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does fence stability restoration typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of fence stability restoration varies significantly based on the extent of damage, the type of fencing material, and the number of sections requiring repair. Minor repairs, such as replacing a single post, will be less expensive than comprehensive work on multiple sections. Getting a detailed quote after an on-site assessment is crucial, as the final price will reflect the specific materials and labor needed for your project.",
+        "description": "Cost varies based on damage extent, material, and sections needing repair. A detailed quote after assessment provides accurate pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

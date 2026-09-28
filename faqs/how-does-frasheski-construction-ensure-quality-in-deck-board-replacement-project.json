@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Frasheski Construction ensure quality in deck board replacement projects?",
+  "description": "Frasheski Construction ensures quality by thoroughly inspecting the substructure, using durable materials, and overseeing installation to meet structural and ae",
+  "url": "frasheskiconstruction.com/faq/how-does-frasheski-construction-ensure-quality-in-deck-board-replacement-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Frasheski Construction ensure quality in deck board replacement projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frasheski Construction ensures quality in deck board replacement projects by adhering to rigorous installation standards and using suitable materials. Our process includes a thorough inspection of the deck's substructure to identify any hidden issues before new boards are installed. We carefully select durable, weather-appropriate materials that are properly fastened to maximize longevity and safety. Furthermore, our project managers oversee the work to ensure precision and adherence to agreed-upon specifications, ensuring the final result meets both structural requirements and aesthetic expectations for homeowners in Berkeley and the wider East Bay area.",
+        "description": "Frasheski Construction ensures quality by thoroughly inspecting the substructure, using durable materials, and overseeing installation to meet structural and aesthetic standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

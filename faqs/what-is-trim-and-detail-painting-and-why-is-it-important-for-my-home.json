@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is trim and detail painting, and why is it important for my home?",
+  "description": "Trim and detail painting focuses on architectural elements like baseboards and moldings to improve aesthetics and protect surfaces, crucial for enhancing home v",
+  "url": "frasheskiconstruction.com/faq/what-is-trim-and-detail-painting-and-why-is-it-important-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is trim and detail painting, and why is it important for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trim and detail painting involves meticulously applying paint to architectural elements like baseboards, crown molding, door frames, window casings, and other intricate features. This specialized work requires precision to create clean lines and enhance the overall aesthetic of your interior or exterior. It protects these elements from wear and tear, moisture, and sunlight, extending their lifespan. For homeowners in the East Bay, including Berkeley and Oakland, precise trim painting significantly boosts curb appeal and interior sophistication, contributing to higher property value.",
+        "description": "Trim and detail painting focuses on architectural elements like baseboards and moldings to improve aesthetics and protect surfaces, crucial for enhancing home value and curb appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

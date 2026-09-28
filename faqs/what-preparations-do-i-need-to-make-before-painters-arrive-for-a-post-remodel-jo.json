@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparations do I need to make before painters arrive for a post-remodel job?",
+  "description": "Clear debris, protect or move heavy furniture, and remove small items before painters arrive to ensure a smooth workflow.",
+  "url": "frasheskiconstruction.com/faq/what-preparations-do-i-need-to-make-before-painters-arrive-for-a-post-remodel-jo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparations do I need to make before painters arrive for a post-remodel job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before painters arrive for a post-remodel job, ensure that all construction debris is cleared, and any heavy furniture or appliances that cannot be moved are protected or positioned away from walls. While professional painters will cover surfaces, removing smaller items, wall hangings, and valuables from the work area helps streamline the process and ensures their safety. Confirming access to water and electricity for tools is also helpful.",
+        "description": "Clear debris, protect or move heavy furniture, and remove small items before painters arrive to ensure a smooth workflow."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

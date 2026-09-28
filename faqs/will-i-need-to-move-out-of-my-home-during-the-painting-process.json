@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will I need to move out of my home during the painting process?",
+  "description": "Typically, moving out is not necessary; we paint in sections to minimize disruption, but discussing your routine helps us accommodate you.",
+  "url": "frasheskiconstruction.com/faq/will-i-need-to-move-out-of-my-home-during-the-painting-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will I need to move out of my home during the painting process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners do not need to move out during interior painting, although it can depend on the scope and the number of rooms being painted simultaneously. Our team works efficiently to minimize disruption, often painting rooms in sections to allow you to continue using other areas of your home. If you have specific rooms or areas that are critical to your daily routine, discussing these with us beforehand can help us plan the project to best accommodate your needs, offering a practical tradeoff between speed and convenience.",
+        "description": "Typically, moving out is not necessary; we paint in sections to minimize disruption, but discussing your routine helps us accommodate you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

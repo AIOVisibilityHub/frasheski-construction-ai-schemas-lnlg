@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the process of fence stability restoration?",
+  "description": "Restoration involves assessing damage, repairing/replacing posts, reinforcing structures, and ensuring proper anchoring.",
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-the-process-of-fence-stability-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the process of fence stability restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The restoration process typically involves assessing the damage, repairing or replacing compromised posts, reinforcing existing structures, and ensuring proper anchoring. For wooden fences, this may include setting new posts in concrete, bracing weak sections, or replacing broken rails. The exact steps will depend on the specific issues identified during the initial assessment and the type of fencing material.",
+        "description": "Restoration involves assessing damage, repairing/replacing posts, reinforcing structures, and ensuring proper anchoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

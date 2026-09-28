@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical design consultation process for custom cabinets?",
+  "description": "The design consultation process involves initial meetings, detailed measurements, preliminary sketches, 3D renderings, and revisions based on your feedback.",
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-design-consultation-process-for-custom-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical design consultation process for custom cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The design consultation process for custom cabinets typically begins with an initial meeting where we discuss your project goals, style preferences, and functional needs. We take detailed measurements of your space and assess its architectural context. Following this, our designers create preliminary sketches and 3D renderings to visualize the proposed solutions. We review these designs with you, incorporating your feedback and making any necessary revisions to materials, finishes, and features. This iterative process ensures the final design perfectly aligns with your vision before fabrication begins, guaranteeing satisfaction with your custom build.",
+        "description": "The design consultation process involves initial meetings, detailed measurements, preliminary sketches, 3D renderings, and revisions based on your feedback."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

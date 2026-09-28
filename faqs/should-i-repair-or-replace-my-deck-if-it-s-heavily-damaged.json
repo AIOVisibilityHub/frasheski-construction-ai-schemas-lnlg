@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I repair or replace my deck if it's heavily damaged?",
+  "description": "Choose repair for minor issues like a few rotted boards, but consider replacement if main supports or most decking is compromised for safety and long-term cost.",
+  "url": "frasheskiconstruction.com/faq/should-i-repair-or-replace-my-deck-if-it-s-heavily-damaged",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I repair or replace my deck if it's heavily damaged?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deciding between repair and replacement depends on the extent of damage and the overall structural integrity of your deck. If only a few boards are rotted or railings are loose, repairs are often a cost-effective solution. However, if the main support beams, posts, or a significant percentage of the decking boards are compromised, replacement might be safer and more economical in the long run. We can provide an assessment to help you make an informed decision based on your deck's condition and budget.",
+        "description": "Choose repair for minor issues like a few rotted boards, but consider replacement if main supports or most decking is compromised for safety and long-term cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

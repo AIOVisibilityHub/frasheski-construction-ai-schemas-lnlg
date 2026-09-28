@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right paint color for my home?",
+  "description": "Choose paint colors by considering decor, natural light, and desired mood. Testing swatches on walls at different times helps visualize the final look.",
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-paint-color-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right paint color for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right paint color involves considering your home's existing decor, natural light exposure, and the mood you want to create in each room. For instance, a south-facing room might handle cooler tones better, while a north-facing room could benefit from warmer hues. We can offer color consultation services and suggest samples to help you visualize the final result. Testing swatches on different walls throughout the day is a practical tradeoff that helps you see how the color interacts with varying light before committing.",
+        "description": "Choose paint colors by considering decor, natural light, and desired mood. Testing swatches on walls at different times helps visualize the final look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

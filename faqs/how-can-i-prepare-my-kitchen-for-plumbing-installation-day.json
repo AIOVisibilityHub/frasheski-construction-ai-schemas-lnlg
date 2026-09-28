@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prepare my kitchen for plumbing installation day?",
+  "description": "Clear the areas around your sink and under-sink cabinets, removing all items to provide clear access for the plumbing installation team.",
+  "url": "frasheskiconstruction.com/faq/how-can-i-prepare-my-kitchen-for-plumbing-installation-day",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prepare my kitchen for plumbing installation day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for plumbing installation day, clear the area around your sink, under-sink cabinet, and any other spaces where new fixtures will be installed or pipes accessed. Remove all items from cabinets and countertops to provide our team with clear access. If it's part of a larger remodel, ensure other trades have completed their initial rough-ins. This preparation helps our plumbers work efficiently, minimizing potential delays and ensuring a smooth installation process from start to finish within your Berkeley or East Bay home.",
+        "description": "Clear the areas around your sink and under-sink cabinets, removing all items to provide clear access for the plumbing installation team."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

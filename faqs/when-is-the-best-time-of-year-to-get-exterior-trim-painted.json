@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to get exterior trim painted?",
+  "description": "The best time to paint exterior trim in the East Bay is during mild, dry weather in spring and early fall, avoiding extreme heat or cold and damp conditions.",
+  "url": "frasheskiconstruction.com/faq/when-is-the-best-time-of-year-to-get-exterior-trim-painted",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to get exterior trim painted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal time to paint exterior trim in the East Bay, including areas like Oakland and El Cerrito, is typically during periods of mild, dry weather. This means spring and early fall are often optimal, as temperatures are moderate and humidity levels are lower. Extreme heat can cause paint to dry too quickly, leading to brush marks, while cold or damp conditions can hinder proper curing and adhesion, potentially leading to premature peeling. We monitor local weather forecasts closely to schedule projects during the most favorable conditions for a durable finish.",
+        "description": "The best time to paint exterior trim in the East Bay is during mild, dry weather in spring and early fall, avoiding extreme heat or cold and damp conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

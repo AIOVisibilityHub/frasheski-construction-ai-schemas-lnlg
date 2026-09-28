@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I choose the right color for my kitchen cabinets?",
+  "description": "Choose cabinet colors by considering your kitchen's aesthetics, lighting, and existing elements. Test samples in your kitchen to see how they look.",
+  "url": "frasheskiconstruction.com/faq/how-can-i-choose-the-right-color-for-my-kitchen-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I choose the right color for my kitchen cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right cabinet color involves considering your kitchen's overall aesthetic, lighting, and existing elements like flooring and countertops. Lighter colors can make a small kitchen feel larger and brighter, while darker shades add drama and sophistication. Consider how the color will interact with both natural and artificial light sources throughout the day. It's often helpful to test paint samples directly in your kitchen under different lighting conditions. Our team can offer insights into color trends and practical applications to help you make an informed decision that complements your home.",
+        "description": "Choose cabinet colors by considering your kitchen's aesthetics, lighting, and existing elements. Test samples in your kitchen to see how they look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

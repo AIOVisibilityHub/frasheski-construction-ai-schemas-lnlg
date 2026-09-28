@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider before starting a new bathroom plumbing installation project?",
+  "description": "Consider budget, desired layout, fixture choices, and potential structural changes before starting. Gathering ideas and measurements helps with accurate estimat",
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-before-starting-a-new-bathroom-plumbing-installation-proj",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider before starting a new bathroom plumbing installation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting a bathroom plumbing installation, you should consider your budget, the desired layout, fixture choices (toilets, sinks, showers, tubs), and any potential structural changes. It's crucial to think about water pressure requirements and energy efficiency for water heaters or specific shower systems. Gathering ideas and rough measurements can help us provide a more accurate initial estimate and ensure your vision aligns with practical plumbing considerations. Thinking about future needs can also help prevent costly reworks.",
+        "description": "Consider budget, desired layout, fixture choices, and potential structural changes before starting. Gathering ideas and measurements helps with accurate estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for getting a stair repair estimate from Frasheski Construction?",
+  "description": "Contact Frasheski Construction to schedule an on-site consultation. We will inspect your stairs, assess damage, and provide a detailed, no-obligation repair quo",
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-getting-a-stair-repair-estimate-from-frasheski-construct",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for getting a stair repair estimate from Frasheski Construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get a stair repair estimate from Frasheski Construction, you can contact us to schedule an on-site consultation. During this visit, our team will thoroughly inspect your stairs, assess the damage, discuss your concerns, and review potential repair options. We will then provide you with a detailed, no-obligation quote that outlines the scope of work, estimated timeline, and cost. Having clear photos of the damage ready can be helpful during the initial contact, but an in-person assessment is essential for an accurate estimate.",
+        "description": "Contact Frasheski Construction to schedule an on-site consultation. We will inspect your stairs, assess damage, and provide a detailed, no-obligation repair quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
