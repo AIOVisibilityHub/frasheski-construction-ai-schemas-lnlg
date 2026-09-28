@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-surface-restoration-project-take",
-  "name": "How long does a typical surface restoration project take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical surface restoration project take?",
+  "description": "Project duration depends on size, material, and damage severity, with weather also influencing exterior jobs. We provide an estimated timeline after assessment.",
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-surface-restoration-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical surface restoration project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a surface restoration project varies significantly based on the size of the area, the type of surface material, and the extent of the damage. A small concrete patio restoration might take a few days, while a large commercial facade could take several weeks. Weather conditions can also impact exterior projects, especially regarding curing times for sealants and coatings. We provide an estimated timeline after our initial assessment, which includes considering all these factors and discussing any potential delays.",
+        "description": "Project duration depends on size, material, and damage severity, with weather also influencing exterior jobs. We provide an estimated timeline after assessment."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a typical surface restoration project take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of a surface restoration project varies depending on the type of surface, the extent of the damage, and the size of the area. Minor repairs might take a day or two, while larger or more complex projects, such as extensive concrete resurfacing, could take several days to a week. We provide a detailed timeline during the initial assessment and consultation, keeping you informed throughout the process.",
-        "@type": "Answer",
-        "description": "Project duration varies based on surface type, damage, and area size; minor repairs take days, larger projects up to a week."
-      }
-    }
-  ],
-  "description": "Project duration varies based on surface type, damage, and area size; minor repairs take days, larger projects up to a week."
+  }
 }

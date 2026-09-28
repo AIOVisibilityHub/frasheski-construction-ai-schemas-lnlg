@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/what-is-post-remodel-finish-painting",
-  "name": "What is post-remodel finish painting?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is post-remodel finish painting?",
+  "description": "Post-remodel finish painting is the final application of paint after construction or renovation, focusing on surface preparation and durable finishing.",
+  "url": "frasheskiconstruction.com/faq/what-is-post-remodel-finish-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is post-remodel finish painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Post-remodel finish painting is the final coat of paint applied after construction or renovation work is complete. It involves preparing surfaces that may have been altered or damaged during the remodel, ensuring a smooth, clean, and durable finish. This process often includes patching nail holes, sanding, priming new drywall, and applying topcoats to achieve the desired aesthetic and protect the newly constructed or renovated elements.",
+        "description": "Post-remodel finish painting is the final application of paint after construction or renovation, focusing on surface preparation and durable finishing."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is post-remodel finish painting?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Post-remodel finish painting is the final stage of painting after a construction or remodeling project is complete. It involves preparing surfaces, applying primers, and then the final coats of paint to walls, trim, and other architectural elements. This process ensures a clean, professional, and durable finish that enhances the aesthetic appeal of the newly renovated space. It addresses any imperfections left from the construction phase and provides a protective layer to the surfaces.",
-        "@type": "Answer",
-        "description": "Post-remodel finish painting is the final painting stage after construction, ensuring a clean, professional, and durable finish."
-      }
-    }
-  ],
-  "description": "Post-remodel finish painting is the final painting stage after construction, ensuring a clean, professional, and durable finish."
+  }
 }

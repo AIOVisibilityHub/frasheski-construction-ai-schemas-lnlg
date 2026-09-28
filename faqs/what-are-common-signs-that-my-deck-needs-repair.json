@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-deck-needs-repair",
-  "name": "What are common signs that my deck needs repair?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my deck needs repair?",
+  "description": "Look for loose boards, unstable railings, rot, splinters, or structural sagging. Early detection can prevent extensive damage.",
+  "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-deck-needs-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my deck needs repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs your deck needs repair include loose or rotting boards, unstable railings, noticeable splinters, corrosion on fasteners, or a faded and worn finish. Water damage, insect infestation, or visible structural issues like sagging joists also indicate a need for professional assessment. Identifying these issues early can prevent more extensive and costly repairs down the line.",
+        "description": "Look for loose boards, unstable railings, rot, splinters, or structural sagging. Early detection can prevent extensive damage."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What are common signs that my deck needs repair?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Common signs your deck needs repair include loose or wobbly railings, rotten or decaying wood, splintering, cracked or missing boards, and an unstable foundation. Water pooling on the deck surface, significant fading or discoloration, and nails or screws popping out are also indicators. Regular inspection can help catch these issues early, preventing more extensive and costly damage down the line. Addressing these problems promptly ensures the safety and longevity of your deck.",
-        "@type": "Answer",
-        "description": "Look for loose railings, rotten wood, splintering, cracked boards, and an unstable foundation."
-      }
-    }
-  ],
-  "description": "Look for loose railings, rotten wood, splintering, cracked boards, and an unstable foundation."
+  }
 }

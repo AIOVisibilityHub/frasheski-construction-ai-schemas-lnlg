@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-bathroom-vanity",
-  "name": "When should I consider upgrading my bathroom vanity?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider upgrading my bathroom vanity?",
+  "description": "Upgrade your vanity if it's damaged, lacks functionality, is outdated, or if you want to refresh your bathroom's look and improve its value.",
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-bathroom-vanity",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider upgrading my bathroom vanity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider upgrading your bathroom vanity if it shows significant signs of wear and tear, has water damage, or no longer meets your functional needs due to insufficient storage or an inconvenient layout. Upgrading is also a great opportunity to refresh the aesthetic of your bathroom, improve its overall value, or address issues like a leaking faucet or outdated style. If your current vanity is contributing to moisture problems or is structurally unsound, it's a critical time to consider a replacement. This decision factor impacts both aesthetics and the long-term integrity of your bathroom.",
+        "description": "Upgrade your vanity if it's damaged, lacks functionality, is outdated, or if you want to refresh your bathroom's look and improve its value."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "When should I consider upgrading my bathroom vanity?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "You should consider upgrading your bathroom vanity when it shows significant signs of wear and tear, such as water damage, peeling laminate, or failing drawers and doors. An upgrade is also beneficial if your current vanity no longer meets your storage needs or if you want to update the aesthetic of your bathroom. If you are undertaking a larger bathroom renovation, replacing the vanity is a natural part of the process. Upgrading can also improve functionality, enhance the bathroom's overall appeal, and increase your home's value.",
-        "@type": "Answer",
-        "description": "Upgrade your vanity when it's worn out, lacks storage, you want a new look, or during a larger bathroom renovation."
-      }
-    }
-  ],
-  "description": "Upgrade your vanity when it's worn out, lacks storage, you want a new look, or during a larger bathroom renovation."
+  }
 }
