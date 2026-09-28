@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-deck-board-replacement-in-the-east-bay-area",
-  "name": "Do I need a permit for deck board replacement in the East Bay area?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for deck board replacement in the East Bay area?",
+  "description": "Permits for deck board replacement in the East Bay are generally not needed for like-for-like replacements, but may be required for structural changes or heavie",
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-deck-board-replacement-in-the-east-bay-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for deck board replacement in the East Bay area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In many East Bay cities, permits are typically required for significant structural changes to a deck, or for building a new deck. Simple like-for-like replacement of deck boards on an existing, compliant structure usually does not require a permit. However, if the replacement involves altering the deck's size, height, or structural components, or if you're upgrading to a heavier material, a permit may be necessary. It's always best to consult with your local building department (e.g., Berkeley, Oakland, Albany, El Cerrito) or with us directly, as we can help determine specific requirements for your project.",
+        "description": "Permits for deck board replacement in the East Bay are generally not needed for like-for-like replacements, but may be required for structural changes or heavier materials."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Do I need a permit for deck board replacement in the East Bay area?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Whether a permit is required for deck board replacement in the East Bay area, including Berkeley, Oakland, and Albany, depends on the extent of the work. Minor, like-for-like board replacement typically does not require a permit. However, if the project involves altering the deck's footprint, structural changes, or significant repairs to the support system, a permit may be necessary. It's always best to check with your local building department.",
-        "@type": "Answer",
-        "description": "Permits for deck board replacement depend on the scope of work. Minor replacement usually doesn't need one; structural changes often do. Check with your local building department."
-      }
-    }
-  ],
-  "description": "Permits for deck board replacement depend on the scope of work. Minor replacement usually doesn't need one; structural changes often do. Check with your local b"
+  }
 }

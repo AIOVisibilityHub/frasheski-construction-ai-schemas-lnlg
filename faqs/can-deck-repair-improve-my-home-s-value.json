@@ -1,8 +1,20 @@
 {
-  "url": "frasheskiconstruction.com/faq/can-deck-repair-improve-my-home-s-value",
-  "name": "Can deck repair improve my home's value?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can deck repair improve my home's value?",
+  "description": "Yes, professional deck repair can boost home value and curb appeal by enhancing outdoor living space and demonstrating good maintenance.",
+  "url": "frasheskiconstruction.com/faq/can-deck-repair-improve-my-home-s-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can deck repair improve my home's value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, professional deck repair can significantly improve your home's value and curb appeal, especially if the deck was previously in poor condition. A safe, well-maintained, and aesthetically pleasing deck enhances outdoor living space, which is a desirable feature for potential buyers. Addressing structural issues and refreshing the deck's appearance demonstrates good home maintenance, often leading to a positive return on investment. The quality of the repair and the choice of materials directly impact this value addition.",
+        "description": "Yes, professional deck repair can boost home value and curb appeal by enhancing outdoor living space and demonstrating good maintenance."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Can deck repair improve my home's value?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Yes, a well-maintained and properly repaired deck can significantly enhance your home's curb appeal and overall value. A safe, functional, and aesthetically pleasing deck is a desirable feature for potential buyers, making your home more attractive on the market. Addressing structural issues, replacing damaged boards, and refreshing the deck's appearance can transform it into a valuable outdoor living space. Investing in quality deck repair is often a cost-effective way to improve your property's value without the expense of a full replacement.",
-        "@type": "Answer",
-        "description": "Yes, a well-repaired deck improves curb appeal, functionality, and can significantly increase your home's value."
-      }
-    }
-  ],
-  "description": "Yes, a well-repaired deck improves curb appeal, functionality, and can significantly increase your home's value."
+  }
 }
