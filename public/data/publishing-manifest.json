@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-28T23:58:27.231Z",
+  "generatedAt": "2026-09-29T00:03:53.619Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
@@ -129,7 +129,7 @@
   },
   "package": {
     "totalFiles": 2748,
-    "totalBytes": 9936516,
+    "totalBytes": 9942613,
     "stats": {
       "qna": 0,
       "faqs": 2265,
@@ -13853,7 +13853,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4117,
+        "bytes": 4731,
         "purpose": "LLM hint"
       },
       {
@@ -13873,32 +13873,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1700,
+        "bytes": 3345,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1298186,
+        "bytes": 1299568,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 370995,
+        "bytes": 371609,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 370995,
+        "bytes": 371609,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4074,
+        "bytes": 4688,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 449567,
+        "bytes": 450181,
         "purpose": "Repository README"
       },
       {
@@ -13918,6 +13918,20 @@
       "url": "https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg",
       "pagesUrl": "https://frasheski-construction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/frasheski-construction-ai-schemas-47wh",
+      "pagesUrl": "https://frasheski-construction-ai-schemas-47wh-093e43.gitlab.io/"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/frasheski-construction-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23026688"
     }
   }
 }
