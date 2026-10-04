@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of tile and surface updates do you offer for kitchens and bathrooms?",
-  "description": "We offer updates for ceramic, porcelain, natural stone, and engineered surfaces in kitchens and bathrooms, including removal and installation.",
   "url": "frasheskiconstruction.com/faq/what-types-of-tile-and-surface-updates-do-you-offer-for-kitchens-and-bathrooms",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of tile and surface updates do you offer for kitchens and bathrooms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We specialize in updating various surfaces including ceramic, porcelain, natural stone (like granite and marble), and engineered materials for countertops, backsplashes, and flooring. Our services cover everything from removing old surfaces to precise installation of new ones, ensuring a durable and aesthetically pleasing finish. We focus on integrating these updates seamlessly with your existing kitchen or bathroom design.",
-        "description": "We offer updates for ceramic, porcelain, natural stone, and engineered surfaces in kitchens and bathrooms, including removal and installation."
-      }
-    }
-  ],
+  "name": "What types of tile and surface updates do you offer for kitchens and bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile and surface updates do you offer for kitchens and bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in updating various surfaces including ceramic, porcelain, natural stone (like granite and marble), and engineered materials for countertops, backsplashes, and flooring. Our services cover everything from removing old surfaces to precise installation of new ones, ensuring a durable and aesthetically pleasing finish. We focus on integrating these updates seamlessly with your existing kitchen or bathroom design.",
+        "@type": "Answer",
+        "description": "We offer updates for ceramic, porcelain, natural stone, and engineered surfaces in kitchens and bathrooms, including removal and installation."
+      }
+    }
+  ],
+  "description": "We offer updates for ceramic, porcelain, natural stone, and engineered surfaces in kitchens and bathrooms, including removal and installation."
 }

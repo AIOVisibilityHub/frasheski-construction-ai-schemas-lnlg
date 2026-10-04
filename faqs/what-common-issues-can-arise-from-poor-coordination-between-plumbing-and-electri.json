@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What common issues can arise from poor coordination between plumbing and electrical trades?",
-  "description": "Common issues include structural damage, lack of maintenance access, fixture conflicts, project delays, increased costs, and failure to pass local inspections.",
   "url": "frasheskiconstruction.com/faq/what-common-issues-can-arise-from-poor-coordination-between-plumbing-and-electri",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What common issues can arise from poor coordination between plumbing and electrical trades?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Poor coordination can lead to several significant issues. These include structural compromises if beams or studs are cut improperly to accommodate pipes or wires, insufficient space for future maintenance access, and conflicts where electrical outlets are planned too close to water lines. Other problems can involve delays due to rework, increased costs for materials and labor, and even failure to pass required inspections by local authorities in areas such as Albany or El Cerrito.",
-        "description": "Common issues include structural damage, lack of maintenance access, fixture conflicts, project delays, increased costs, and failure to pass local inspections."
-      }
-    }
-  ],
+  "name": "What common issues can arise from poor coordination between plumbing and electrical trades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues can arise from poor coordination between plumbing and electrical trades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Poor coordination can lead to several significant issues. These include structural compromises if beams or studs are cut improperly to accommodate pipes or wires, insufficient space for future maintenance access, and conflicts where electrical outlets are planned too close to water lines. Other problems can involve delays due to rework, increased costs for materials and labor, and even failure to pass required inspections by local authorities in areas such as Albany or El Cerrito.",
+        "@type": "Answer",
+        "description": "Common issues include structural damage, lack of maintenance access, fixture conflicts, project delays, increased costs, and failure to pass local inspections."
+      }
+    }
+  ],
+  "description": "Common issues include structural damage, lack of maintenance access, fixture conflicts, project delays, increased costs, and failure to pass local inspections."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when planning a kitchen cabinet upgrade for resale value?",
-  "description": "For resale, prioritize timeless designs, neutral colors, durable materials, and functional features like soft-close hardware to appeal to a wide range of buyers",
   "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-planning-a-kitchen-cabinet-upgrade-for-resale-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when planning a kitchen cabinet upgrade for resale value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When planning a kitchen cabinet upgrade for resale value, focus on timeless, appealing designs and durable materials that resonate with a broad range of potential buyers. Neutral colors, such as whites, grays, or natural wood tones, tend to have the widest appeal. Shaker-style cabinets are often a safe and popular choice. Investing in quality hardware and soft-close features can also enhance the perceived value. While custom features are nice for personal use, prioritize functionality and universal appeal over highly personalized elements that might not attract a future buyer. Our design consultation helps identify choices that balance your style with market trends.",
-        "description": "For resale, prioritize timeless designs, neutral colors, durable materials, and functional features like soft-close hardware to appeal to a wide range of buyers."
-      }
-    }
-  ],
+  "name": "What should I consider when planning a kitchen cabinet upgrade for resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning a kitchen cabinet upgrade for resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a kitchen cabinet upgrade for resale value, focus on timeless, appealing designs and durable materials that resonate with a broad range of potential buyers. Neutral colors, such as whites, grays, or natural wood tones, tend to have the widest appeal. Shaker-style cabinets are often a safe and popular choice. Investing in quality hardware and soft-close features can also enhance the perceived value. While custom features are nice for personal use, prioritize functionality and universal appeal over highly personalized elements that might not attract a future buyer. Our design consultation helps identify choices that balance your style with market trends.",
+        "@type": "Answer",
+        "description": "For resale, prioritize timeless designs, neutral colors, durable materials, and functional features like soft-close hardware to appeal to a wide range of buyers."
+      }
+    }
+  ],
+  "description": "For resale, prioritize timeless designs, neutral colors, durable materials, and functional features like soft-close hardware to appeal to a wide range of buyers"
 }

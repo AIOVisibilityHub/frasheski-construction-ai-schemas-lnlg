@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of upgrading kitchen cabinetry during an interior finish project?",
-  "description": "Upgrading kitchen cabinetry improves aesthetics, storage, and durability. Newer cabinets offer modern features and better long-term value.",
   "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-upgrading-kitchen-cabinetry-during-an-interior-finish-p",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of upgrading kitchen cabinetry during an interior finish project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Upgrading kitchen cabinetry offers improved aesthetics, increased storage functionality, and enhanced durability. Newer cabinets can integrate modern features like soft-close drawers and custom organizers, which significantly improve daily use. When considering cabinetry, think about the long-term wear and tear and your storage needs, as choosing higher-quality construction can prevent premature replacement and offer better value over time.",
-        "description": "Upgrading kitchen cabinetry improves aesthetics, storage, and durability. Newer cabinets offer modern features and better long-term value."
-      }
-    }
-  ],
+  "name": "What are the benefits of upgrading kitchen cabinetry during an interior finish project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading kitchen cabinetry during an interior finish project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading kitchen cabinetry offers improved aesthetics, increased storage functionality, and enhanced durability. Newer cabinets can integrate modern features like soft-close drawers and custom organizers, which significantly improve daily use. When considering cabinetry, think about the long-term wear and tear and your storage needs, as choosing higher-quality construction can prevent premature replacement and offer better value over time.",
+        "@type": "Answer",
+        "description": "Upgrading kitchen cabinetry improves aesthetics, storage, and durability. Newer cabinets offer modern features and better long-term value."
+      }
+    }
+  ],
+  "description": "Upgrading kitchen cabinetry improves aesthetics, storage, and durability. Newer cabinets offer modern features and better long-term value."
 }

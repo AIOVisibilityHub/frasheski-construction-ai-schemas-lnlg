@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best for an accessible bathroom to ensure safety and durability?",
-  "description": "Best materials include slip-resistant flooring, durable and easy-to-clean surfaces, robust grab bars, and lever-style faucets for safety and durability.",
   "url": "frasheskiconstruction.com/faq/what-materials-are-best-for-an-accessible-bathroom-to-ensure-safety-and-durabili",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best for an accessible bathroom to ensure safety and durability?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For an accessible bathroom, prioritizing materials that enhance safety and durability is key. This includes slip-resistant flooring options like textured tiles or vinyl, and durable, easy-to-clean surfaces for countertops and showers, such as solid-surface materials or large-format tiles to minimize grout lines. High-quality grab bars made from stainless steel or other robust materials are essential. When selecting fixtures, consider lever-style faucets and comfort-height toilets for ease of use. Frasheski Construction advises on material selections that meet both aesthetic and functional requirements for longevity.",
-        "description": "Best materials include slip-resistant flooring, durable and easy-to-clean surfaces, robust grab bars, and lever-style faucets for safety and durability."
-      }
-    }
-  ],
+  "name": "What materials are best for an accessible bathroom to ensure safety and durability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for an accessible bathroom to ensure safety and durability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an accessible bathroom, prioritizing materials that enhance safety and durability is key. This includes slip-resistant flooring options like textured tiles or vinyl, and durable, easy-to-clean surfaces for countertops and showers, such as solid-surface materials or large-format tiles to minimize grout lines. High-quality grab bars made from stainless steel or other robust materials are essential. When selecting fixtures, consider lever-style faucets and comfort-height toilets for ease of use. Frasheski Construction advises on material selections that meet both aesthetic and functional requirements for longevity.",
+        "@type": "Answer",
+        "description": "Best materials include slip-resistant flooring, durable and easy-to-clean surfaces, robust grab bars, and lever-style faucets for safety and durability."
+      }
+    }
+  ],
+  "description": "Best materials include slip-resistant flooring, durable and easy-to-clean surfaces, robust grab bars, and lever-style faucets for safety and durability."
 }

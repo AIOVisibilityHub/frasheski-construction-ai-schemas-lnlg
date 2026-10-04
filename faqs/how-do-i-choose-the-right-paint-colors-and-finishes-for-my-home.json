@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right paint colors and finishes for my home?",
-  "description": "Consider architectural style, light, and personal preference. We advise on suitable colors and finishes for different areas, including exterior considerations f",
   "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-paint-colors-and-finishes-for-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right paint colors and finishes for my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right paint colors and finishes involves considering your home's architectural style, existing decor, natural light, and personal preferences. We can offer guidance on color palettes and finish types (matte, eggshell, satin, semi-gloss) suitable for different areas, such as durable semi-gloss for trim or moisture-resistant paints for bathrooms. For exterior projects, consider colors that complement your neighborhood and the natural surroundings of the East Bay. Viewing samples in your home's lighting conditions is crucial for making the best decision.",
-        "description": "Consider architectural style, light, and personal preference. We advise on suitable colors and finishes for different areas, including exterior considerations for the East Bay."
-      }
-    }
-  ],
+  "name": "How do I choose the right paint colors and finishes for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right paint colors and finishes for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right paint colors and finishes involves considering your home's architectural style, existing decor, natural light, and personal preferences. We can offer guidance on color palettes and finish types (matte, eggshell, satin, semi-gloss) suitable for different areas, such as durable semi-gloss for trim or moisture-resistant paints for bathrooms. For exterior projects, consider colors that complement your neighborhood and the natural surroundings of the East Bay. Viewing samples in your home's lighting conditions is crucial for making the best decision.",
+        "@type": "Answer",
+        "description": "Consider architectural style, light, and personal preference. We advise on suitable colors and finishes for different areas, including exterior considerations for the East Bay."
+      }
+    }
+  ],
+  "description": "Consider architectural style, light, and personal preference. We advise on suitable colors and finishes for different areas, including exterior considerations f"
 }

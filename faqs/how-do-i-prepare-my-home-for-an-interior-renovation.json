@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I prepare my home for an interior renovation?",
-  "description": "Prepare by clearing the renovation area, storing valuables, covering immovable items, securing pets, and planning for temporary utility disruptions.",
   "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-home-for-an-interior-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I prepare my home for an interior renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prepare your home, clear the renovation area of furniture, personal items, and valuables. We recommend disconnecting and storing electronics, covering items that cannot be moved, and securing pets. If living in the home during construction, establish a dust-free zone and plan for temporary utility disruptions. Our team will discuss specific preparations with you to ensure a smooth and safe working environment.",
-        "description": "Prepare by clearing the renovation area, storing valuables, covering immovable items, securing pets, and planning for temporary utility disruptions."
-      }
-    }
-  ],
+  "name": "How do I prepare my home for an interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for an interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home, clear the renovation area of furniture, personal items, and valuables. We recommend disconnecting and storing electronics, covering items that cannot be moved, and securing pets. If living in the home during construction, establish a dust-free zone and plan for temporary utility disruptions. Our team will discuss specific preparations with you to ensure a smooth and safe working environment.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the renovation area, storing valuables, covering immovable items, securing pets, and planning for temporary utility disruptions."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the renovation area, storing valuables, covering immovable items, securing pets, and planning for temporary utility disruptions."
 }

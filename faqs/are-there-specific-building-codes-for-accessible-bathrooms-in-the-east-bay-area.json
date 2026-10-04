@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there specific building codes for accessible bathrooms in the East Bay area?",
-  "description": "Yes, modifications in the East Bay must comply with local building codes and state regulations, covering aspects like clear space and grab bar placement.",
   "url": "frasheskiconstruction.com/faq/are-there-specific-building-codes-for-accessible-bathrooms-in-the-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there specific building codes for accessible bathrooms in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, accessible bathroom modifications in the East Bay area, including Berkeley, Oakland, and Albany, must comply with local building codes and potentially state regulations. While specific requirements can vary, they generally address dimensions for clear floor space, grab bar placement, and shower entry. Understanding these codes is crucial for ensuring modifications are safe and legally compliant. Frasheski Construction ensures all renovation work adheres to current local building standards in the areas we serve.",
-        "description": "Yes, modifications in the East Bay must comply with local building codes and state regulations, covering aspects like clear space and grab bar placement."
-      }
-    }
-  ],
+  "name": "Are there specific building codes for accessible bathrooms in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific building codes for accessible bathrooms in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, accessible bathroom modifications in the East Bay area, including Berkeley, Oakland, and Albany, must comply with local building codes and potentially state regulations. While specific requirements can vary, they generally address dimensions for clear floor space, grab bar placement, and shower entry. Understanding these codes is crucial for ensuring modifications are safe and legally compliant. Frasheski Construction ensures all renovation work adheres to current local building standards in the areas we serve.",
+        "@type": "Answer",
+        "description": "Yes, modifications in the East Bay must comply with local building codes and state regulations, covering aspects like clear space and grab bar placement."
+      }
+    }
+  ],
+  "description": "Yes, modifications in the East Bay must comply with local building codes and state regulations, covering aspects like clear space and grab bar placement."
 }

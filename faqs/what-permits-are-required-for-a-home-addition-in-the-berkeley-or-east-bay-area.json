@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for a home addition in the Berkeley or East Bay area?",
-  "description": "Permits for East Bay additions vary by city (e.g., Berkeley, Oakland, Albany) and scope. We handle all required permit applications.",
   "url": "frasheskiconstruction.com/faq/what-permits-are-required-for-a-home-addition-in-the-berkeley-or-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for a home addition in the Berkeley or East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Home additions in the Berkeley and broader East Bay area typically require building permits, and often specific zoning, planning, and environmental permits depending on the scope and location. Requirements can vary significantly between cities like Berkeley, Oakland, and Albany. Frasheski Construction has extensive experience navigating these local permitting processes and will prepare and submit all necessary documentation to the relevant city departments on your behalf, ensuring compliance with local building codes.",
-        "description": "Permits for East Bay additions vary by city (e.g., Berkeley, Oakland, Albany) and scope. We handle all required permit applications."
-      }
-    }
-  ],
+  "name": "What permits are required for a home addition in the Berkeley or East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home addition in the Berkeley or East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home additions in the Berkeley and broader East Bay area typically require building permits, and often specific zoning, planning, and environmental permits depending on the scope and location. Requirements can vary significantly between cities like Berkeley, Oakland, and Albany. Frasheski Construction has extensive experience navigating these local permitting processes and will prepare and submit all necessary documentation to the relevant city departments on your behalf, ensuring compliance with local building codes.",
+        "@type": "Answer",
+        "description": "Permits for East Bay additions vary by city (e.g., Berkeley, Oakland, Albany) and scope. We handle all required permit applications."
+      }
+    }
+  ],
+  "description": "Permits for East Bay additions vary by city (e.g., Berkeley, Oakland, Albany) and scope. We handle all required permit applications."
 }

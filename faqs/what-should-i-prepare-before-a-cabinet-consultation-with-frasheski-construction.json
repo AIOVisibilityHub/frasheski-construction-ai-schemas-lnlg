@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I prepare before a cabinet consultation with Frasheski Construction?",
-  "description": "Before a consultation, prepare your desired style, functionality, budget, inspiration photos, needed features, and approximate space measurements.",
   "url": "frasheskiconstruction.com/faq/what-should-i-prepare-before-a-cabinet-consultation-with-frasheski-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I prepare before a cabinet consultation with Frasheski Construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before your cabinet consultation, it's helpful to have an idea of your desired style, functionality, and budget. Consider gathering inspiration photos, making a list of features you need (e.g., specific storage solutions), and noting any existing space constraints or preferences regarding materials or colors. Having approximate measurements of the area where cabinets will be installed can also aid in discussing preliminary design options and possibilities for your project.",
-        "description": "Before a consultation, prepare your desired style, functionality, budget, inspiration photos, needed features, and approximate space measurements."
-      }
-    }
-  ],
+  "name": "What should I prepare before a cabinet consultation with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a cabinet consultation with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your cabinet consultation, it's helpful to have an idea of your desired style, functionality, and budget. Consider gathering inspiration photos, making a list of features you need (e.g., specific storage solutions), and noting any existing space constraints or preferences regarding materials or colors. Having approximate measurements of the area where cabinets will be installed can also aid in discussing preliminary design options and possibilities for your project.",
+        "@type": "Answer",
+        "description": "Before a consultation, prepare your desired style, functionality, budget, inspiration photos, needed features, and approximate space measurements."
+      }
+    }
+  ],
+  "description": "Before a consultation, prepare your desired style, functionality, budget, inspiration photos, needed features, and approximate space measurements."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the average cost for a multi-room remodel in the East Bay area?",
-  "description": "Costs for multi-room remodels in the East Bay vary widely based on scope, materials, and complexity. We provide detailed estimates to explain expenses.",
   "url": "frasheskiconstruction.com/faq/what-is-the-average-cost-for-a-multi-room-remodel-in-the-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost for a multi-room remodel in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a multi-room remodel in the East Bay area is highly variable, depending on the scope of work, materials chosen, and the complexity of structural or system changes. A project could range from tens of thousands for modest updates to several hundred thousand dollars for major overhauls. Key factors influencing cost include the quality of finishes, the need for new plumbing or electrical work, and any custom cabinetry. During our initial consultation, we provide a detailed estimate that breaks down expenses and helps you understand where your investment is going.",
-        "description": "Costs for multi-room remodels in the East Bay vary widely based on scope, materials, and complexity. We provide detailed estimates to explain expenses."
-      }
-    }
-  ],
+  "name": "What is the average cost for a multi-room remodel in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for a multi-room remodel in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a multi-room remodel in the East Bay area is highly variable, depending on the scope of work, materials chosen, and the complexity of structural or system changes. A project could range from tens of thousands for modest updates to several hundred thousand dollars for major overhauls. Key factors influencing cost include the quality of finishes, the need for new plumbing or electrical work, and any custom cabinetry. During our initial consultation, we provide a detailed estimate that breaks down expenses and helps you understand where your investment is going.",
+        "@type": "Answer",
+        "description": "Costs for multi-room remodels in the East Bay vary widely based on scope, materials, and complexity. We provide detailed estimates to explain expenses."
+      }
+    }
+  ],
+  "description": "Costs for multi-room remodels in the East Bay vary widely based on scope, materials, and complexity. We provide detailed estimates to explain expenses."
 }
