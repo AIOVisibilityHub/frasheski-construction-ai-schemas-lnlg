@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of vanity and cabinet installation?",
-  "description": "Cost factors include material type, design complexity, installation area size, and necessary demolition or structural modifications. Custom cabinets typically c",
   "url": "frasheskiconstruction.com/faq/what-factors-influence-the-cost-of-vanity-and-cabinet-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of vanity and cabinet installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of vanity and cabinet installation is influenced by several factors, including the type and quality of materials (e.g., laminate, wood, custom finishes), the complexity of the design, the size of the installation area, and any necessary demolition or structural modifications. Custom cabinetry will generally be more expensive than pre-fabricated units. Additional costs may arise from plumbing or electrical work, which are sometimes required during a vanity installation. We provide transparent, itemized quotes after assessing your specific project requirements.",
-        "description": "Cost factors include material type, design complexity, installation area size, and necessary demolition or structural modifications. Custom cabinets typically cost more."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of vanity and cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of vanity and cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of vanity and cabinet installation is influenced by several factors, including the type and quality of materials (e.g., laminate, wood, custom finishes), the complexity of the design, the size of the installation area, and any necessary demolition or structural modifications. Custom cabinetry will generally be more expensive than pre-fabricated units. Additional costs may arise from plumbing or electrical work, which are sometimes required during a vanity installation. We provide transparent, itemized quotes after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Cost factors include material type, design complexity, installation area size, and necessary demolition or structural modifications. Custom cabinets typically cost more."
+      }
+    }
+  ],
+  "description": "Cost factors include material type, design complexity, installation area size, and necessary demolition or structural modifications. Custom cabinets typically c"
 }

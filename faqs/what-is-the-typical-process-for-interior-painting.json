@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for interior painting?",
-  "description": "The interior painting process involves consultation, surface preparation, priming, painting, cleanup, and a final walkthrough to ensure client satisfaction.",
   "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-interior-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for interior painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our interior painting process begins with a detailed consultation and estimate to understand your vision and assess the space. Once approved, we prepare the area by moving furniture, protecting floors, and performing necessary surface repairs like patching holes or sanding. We then apply primer if needed, followed by two coats of high-quality paint. The project concludes with a thorough cleanup and a final walkthrough with you to ensure satisfaction. The duration of this process can vary based on the size of the area, the complexity of the preparation work, and your chosen color scheme.",
-        "description": "The interior painting process involves consultation, surface preparation, priming, painting, cleanup, and a final walkthrough to ensure client satisfaction."
-      }
-    }
-  ],
+  "name": "What is the typical process for interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior painting process begins with a detailed consultation and estimate to understand your vision and assess the space. Once approved, we prepare the area by moving furniture, protecting floors, and performing necessary surface repairs like patching holes or sanding. We then apply primer if needed, followed by two coats of high-quality paint. The project concludes with a thorough cleanup and a final walkthrough with you to ensure satisfaction. The duration of this process can vary based on the size of the area, the complexity of the preparation work, and your chosen color scheme.",
+        "@type": "Answer",
+        "description": "The interior painting process involves consultation, surface preparation, priming, painting, cleanup, and a final walkthrough to ensure client satisfaction."
+      }
+    }
+  ],
+  "description": "The interior painting process involves consultation, surface preparation, priming, painting, cleanup, and a final walkthrough to ensure client satisfaction."
 }
