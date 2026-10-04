@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What local regulations impact plumbing coordination in the East Bay area?",
-  "description": "Plumbing coordination in the East Bay must comply with local building codes and the California Plumbing Code, impacting pipe sizing, venting, and specific insta",
   "url": "frasheskiconstruction.com/faq/what-local-regulations-impact-plumbing-coordination-in-the-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What local regulations impact plumbing coordination in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In the East Bay area, including cities like Berkeley, Oakland, and Albany, plumbing coordination must comply with specific local building codes and ordinances, often based on the California Plumbing Code. These regulations dictate aspects like pipe sizing, venting requirements, water heater installation, and backflow prevention. Our first-party insight at Frasheski Construction includes staying updated on these municipal requirements to ensure all plumbing designs and installations are compliant, avoiding inspection failures and potential penalties unique to the region.",
-        "description": "Plumbing coordination in the East Bay must comply with local building codes and the California Plumbing Code, impacting pipe sizing, venting, and specific installations."
-      }
-    }
-  ],
+  "name": "What local regulations impact plumbing coordination in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What local regulations impact plumbing coordination in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the East Bay area, including cities like Berkeley, Oakland, and Albany, plumbing coordination must comply with specific local building codes and ordinances, often based on the California Plumbing Code. These regulations dictate aspects like pipe sizing, venting requirements, water heater installation, and backflow prevention. Our first-party insight at Frasheski Construction includes staying updated on these municipal requirements to ensure all plumbing designs and installations are compliant, avoiding inspection failures and potential penalties unique to the region.",
+        "@type": "Answer",
+        "description": "Plumbing coordination in the East Bay must comply with local building codes and the California Plumbing Code, impacting pipe sizing, venting, and specific installations."
+      }
+    }
+  ],
+  "description": "Plumbing coordination in the East Bay must comply with local building codes and the California Plumbing Code, impacting pipe sizing, venting, and specific insta"
 }

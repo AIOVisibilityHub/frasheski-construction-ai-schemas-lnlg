@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I prepare before the punch list walk-through?",
-  "description": "Before the walk-through, inspect the project area yourself and note any concerns or questions to ensure all items are captured efficiently.",
   "url": "frasheskiconstruction.com/faq/what-should-i-prepare-before-the-punch-list-walk-through",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I prepare before the punch list walk-through?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before the punch list walk-through, it's beneficial to thoroughly inspect the entire project area yourself and note any concerns or incomplete items you observe. This might include checking paint finishes, fixture installations, and overall cleanliness. Gather any questions you have regarding specific details or areas of the project. Having your observations ready will help ensure a comprehensive and efficient walk-through, allowing Frasheski Construction to capture all your feedback accurately and proceed with addressing items promptly.",
-        "description": "Before the walk-through, inspect the project area yourself and note any concerns or questions to ensure all items are captured efficiently."
-      }
-    }
-  ],
+  "name": "What should I prepare before the punch list walk-through?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before the punch list walk-through?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the punch list walk-through, it's beneficial to thoroughly inspect the entire project area yourself and note any concerns or incomplete items you observe. This might include checking paint finishes, fixture installations, and overall cleanliness. Gather any questions you have regarding specific details or areas of the project. Having your observations ready will help ensure a comprehensive and efficient walk-through, allowing Frasheski Construction to capture all your feedback accurately and proceed with addressing items promptly.",
+        "@type": "Answer",
+        "description": "Before the walk-through, inspect the project area yourself and note any concerns or questions to ensure all items are captured efficiently."
+      }
+    }
+  ],
+  "description": "Before the walk-through, inspect the project area yourself and note any concerns or questions to ensure all items are captured efficiently."
 }

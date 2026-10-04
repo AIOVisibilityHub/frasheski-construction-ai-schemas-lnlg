@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is proper measurement critical for trim and molding projects?",
-  "description": "Accurate measurements prevent material waste, unsightly gaps, and ensure a professional finish, especially for mitered corners. Precise measurement reduces cost",
   "url": "frasheskiconstruction.com/faq/why-is-proper-measurement-critical-for-trim-and-molding-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is proper measurement critical for trim and molding projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Proper measurement is critical because inaccurate figures lead to material waste, visible gaps, and an unprofessional finish. Every cut must be precise, especially for mitered corners and long runs. Over-ordering material is common, but precise measurements can minimize excess and reduce costs. Professionals like Frasheski Construction use advanced techniques and tools to ensure exact measurements, leading to a perfect fit and seamless appearance that enhances your home's value.",
-        "description": "Accurate measurements prevent material waste, unsightly gaps, and ensure a professional finish, especially for mitered corners. Precise measurement reduces costs and enhances appearance."
-      }
-    }
-  ],
+  "name": "Why is proper measurement critical for trim and molding projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is proper measurement critical for trim and molding projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper measurement is critical because inaccurate figures lead to material waste, visible gaps, and an unprofessional finish. Every cut must be precise, especially for mitered corners and long runs. Over-ordering material is common, but precise measurements can minimize excess and reduce costs. Professionals like Frasheski Construction use advanced techniques and tools to ensure exact measurements, leading to a perfect fit and seamless appearance that enhances your home's value.",
+        "@type": "Answer",
+        "description": "Accurate measurements prevent material waste, unsightly gaps, and ensure a professional finish, especially for mitered corners. Precise measurement reduces costs and enhances appearance."
+      }
+    }
+  ],
+  "description": "Accurate measurements prevent material waste, unsightly gaps, and ensure a professional finish, especially for mitered corners. Precise measurement reduces cost"
 }

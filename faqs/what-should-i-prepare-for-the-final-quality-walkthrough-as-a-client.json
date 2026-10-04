@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I prepare for the final quality walkthrough as a client?",
-  "description": "Clients should review their contract and plans, and prepare a list of any specific concerns or questions to discuss during the walkthrough.",
   "url": "frasheskiconstruction.com/faq/what-should-i-prepare-for-the-final-quality-walkthrough-as-a-client",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I prepare for the final quality walkthrough as a client?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "As a client, preparing for the final quality walkthrough involves reviewing your contract, plans, and any change orders to familiarize yourself with the agreed-upon scope. Consider making a list of any specific concerns or observations you have noted during the construction process. Frasheski Construction encourages clients to bring their notes and questions, as this helps us address all expectations comprehensively during the inspection.",
-        "description": "Clients should review their contract and plans, and prepare a list of any specific concerns or questions to discuss during the walkthrough."
-      }
-    }
-  ],
+  "name": "What should I prepare for the final quality walkthrough as a client?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for the final quality walkthrough as a client?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a client, preparing for the final quality walkthrough involves reviewing your contract, plans, and any change orders to familiarize yourself with the agreed-upon scope. Consider making a list of any specific concerns or observations you have noted during the construction process. Frasheski Construction encourages clients to bring their notes and questions, as this helps us address all expectations comprehensively during the inspection.",
+        "@type": "Answer",
+        "description": "Clients should review their contract and plans, and prepare a list of any specific concerns or questions to discuss during the walkthrough."
+      }
+    }
+  ],
+  "description": "Clients should review their contract and plans, and prepare a list of any specific concerns or questions to discuss during the walkthrough."
 }

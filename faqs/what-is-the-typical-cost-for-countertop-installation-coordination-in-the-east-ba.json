@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for countertop installation coordination in the East Bay area?",
-  "description": "The cost for countertop installation coordination is typically included in the overall countertop project cost, varying based on material, slab size, and fabric",
   "url": "frasheskiconstruction.com/faq/what-is-the-typical-cost-for-countertop-installation-coordination-in-the-east-ba",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for countertop installation coordination in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost for countertop installation coordination is usually integrated into the overall project cost for your new countertops. It's not typically a separate line item but rather a service included when you choose a full-service provider. Factors influencing the total cost include the chosen material (e.g., quartz, granite, marble), the slab size, edge profiles, and any cutouts for sinks or cooktops. For projects in Berkeley, Oakland, or Albany, we provide detailed proposals that outline all associated costs, allowing you to understand the investment upfront.",
-        "description": "The cost for countertop installation coordination is typically included in the overall countertop project cost, varying based on material, slab size, and fabrication details."
-      }
-    }
-  ],
+  "name": "What is the typical cost for countertop installation coordination in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for countertop installation coordination in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for countertop installation coordination is usually integrated into the overall project cost for your new countertops. It's not typically a separate line item but rather a service included when you choose a full-service provider. Factors influencing the total cost include the chosen material (e.g., quartz, granite, marble), the slab size, edge profiles, and any cutouts for sinks or cooktops. For projects in Berkeley, Oakland, or Albany, we provide detailed proposals that outline all associated costs, allowing you to understand the investment upfront.",
+        "@type": "Answer",
+        "description": "The cost for countertop installation coordination is typically included in the overall countertop project cost, varying based on material, slab size, and fabrication details."
+      }
+    }
+  ],
+  "description": "The cost for countertop installation coordination is typically included in the overall countertop project cost, varying based on material, slab size, and fabric"
 }

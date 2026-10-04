@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when choosing between a chandelier and pendant lights for my dining room?",
-  "description": "Choose between a chandelier or pendant lights based on room size, ceiling height, and desired light distribution. Pendants offer flexibility, while chandeliers",
   "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-choosing-between-a-chandelier-and-pendant-lights-for",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when choosing between a chandelier and pendant lights for my dining room?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing between a chandelier and pendant lights, consider the size of your dining room, ceiling height, and desired light distribution. Chandeliers often provide a central, grand statement, while pendant lights offer more focused lighting and can be arranged in various configurations for a modern look. A practical tradeoff is that pendants offer more flexibility in placement and light zones, while a single chandelier simplifies wiring to one central point.",
-        "description": "Choose between a chandelier or pendant lights based on room size, ceiling height, and desired light distribution. Pendants offer flexibility, while chandeliers make a central statement."
-      }
-    }
-  ],
+  "name": "What should I consider when choosing between a chandelier and pendant lights for my dining room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing between a chandelier and pendant lights for my dining room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing between a chandelier and pendant lights, consider the size of your dining room, ceiling height, and desired light distribution. Chandeliers often provide a central, grand statement, while pendant lights offer more focused lighting and can be arranged in various configurations for a modern look. A practical tradeoff is that pendants offer more flexibility in placement and light zones, while a single chandelier simplifies wiring to one central point.",
+        "@type": "Answer",
+        "description": "Choose between a chandelier or pendant lights based on room size, ceiling height, and desired light distribution. Pendants offer flexibility, while chandeliers make a central statement."
+      }
+    }
+  ],
+  "description": "Choose between a chandelier or pendant lights based on room size, ceiling height, and desired light distribution. Pendants offer flexibility, while chandeliers"
 }

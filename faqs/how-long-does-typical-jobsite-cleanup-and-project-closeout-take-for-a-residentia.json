@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does typical jobsite cleanup and project closeout take for a residential remodel?",
-  "description": "Cleanup can take days, while full closeout might take 1-2 weeks, depending on project size and local requirements.",
   "url": "frasheskiconstruction.com/faq/how-long-does-typical-jobsite-cleanup-and-project-closeout-take-for-a-residentia",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does typical jobsite cleanup and project closeout take for a residential remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of jobsite cleanup and project closeout varies based on the project's size and complexity. For a standard residential remodel, cleanup might take a few days, while the full closeout process, including final inspections and documentation, can extend for a week or two. Projects in cities like Albany or El Cerrito with specific permitting requirements might have slightly longer closeout phases due to local inspection schedules.",
-        "description": "Cleanup can take days, while full closeout might take 1-2 weeks, depending on project size and local requirements."
-      }
-    }
-  ],
+  "name": "How long does typical jobsite cleanup and project closeout take for a residential remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does typical jobsite cleanup and project closeout take for a residential remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of jobsite cleanup and project closeout varies based on the project's size and complexity. For a standard residential remodel, cleanup might take a few days, while the full closeout process, including final inspections and documentation, can extend for a week or two. Projects in cities like Albany or El Cerrito with specific permitting requirements might have slightly longer closeout phases due to local inspection schedules.",
+        "@type": "Answer",
+        "description": "Cleanup can take days, while full closeout might take 1-2 weeks, depending on project size and local requirements."
+      }
+    }
+  ],
+  "description": "Cleanup can take days, while full closeout might take 1-2 weeks, depending on project size and local requirements."
 }

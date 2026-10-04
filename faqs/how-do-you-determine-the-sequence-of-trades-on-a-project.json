@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you determine the sequence of trades on a project?",
-  "description": "We determine trade sequence by analyzing logical work progression and task dependencies. A detailed project plan guides this, ensuring efficient flow and adapti",
   "url": "frasheskiconstruction.com/faq/how-do-you-determine-the-sequence-of-trades-on-a-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you determine the sequence of trades on a project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The sequence of trades is determined by evaluating the logical progression of work, considering dependencies between different tasks. For example, rough plumbing and electrical are typically completed before insulation and drywall. We create a detailed project plan that maps out each trade's role and timing, factoring in material lead times and inspection points. This planning helps us maintain a consistent workflow and adapt to any unforeseen site conditions or material delays.",
-        "description": "We determine trade sequence by analyzing logical work progression and task dependencies. A detailed project plan guides this, ensuring efficient flow and adapting to site conditions."
-      }
-    }
-  ],
+  "name": "How do you determine the sequence of trades on a project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine the sequence of trades on a project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sequence of trades is determined by evaluating the logical progression of work, considering dependencies between different tasks. For example, rough plumbing and electrical are typically completed before insulation and drywall. We create a detailed project plan that maps out each trade's role and timing, factoring in material lead times and inspection points. This planning helps us maintain a consistent workflow and adapt to any unforeseen site conditions or material delays.",
+        "@type": "Answer",
+        "description": "We determine trade sequence by analyzing logical work progression and task dependencies. A detailed project plan guides this, ensuring efficient flow and adapting to site conditions."
+      }
+    }
+  ],
+  "description": "We determine trade sequence by analyzing logical work progression and task dependencies. A detailed project plan guides this, ensuring efficient flow and adapti"
 }

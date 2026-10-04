@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Frasheski Construction install customer-supplied electrical fixtures?",
-  "description": "Yes, Frasheski Construction installs customer-supplied fixtures. We recommend checking compatibility with your electrical system and local codes beforehand.",
   "url": "frasheskiconstruction.com/faq/can-frasheski-construction-install-customer-supplied-electrical-fixtures",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Frasheski Construction install customer-supplied electrical fixtures?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Frasheski Construction can install electrical fixtures that you have purchased yourself. We understand that customers often have specific preferences for design and aesthetics, and we are happy to work with your chosen products. Before installation, we recommend checking the fixture's specifications to ensure it is compatible with your home's electrical system and adheres to local electrical codes. If you're unsure about compatibility, we can provide guidance during our initial consultation to help prevent issues during installation.",
-        "description": "Yes, Frasheski Construction installs customer-supplied fixtures. We recommend checking compatibility with your electrical system and local codes beforehand."
-      }
-    }
-  ],
+  "name": "Can Frasheski Construction install customer-supplied electrical fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Frasheski Construction install customer-supplied electrical fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction can install electrical fixtures that you have purchased yourself. We understand that customers often have specific preferences for design and aesthetics, and we are happy to work with your chosen products. Before installation, we recommend checking the fixture's specifications to ensure it is compatible with your home's electrical system and adheres to local electrical codes. If you're unsure about compatibility, we can provide guidance during our initial consultation to help prevent issues during installation.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction installs customer-supplied fixtures. We recommend checking compatibility with your electrical system and local codes beforehand."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction installs customer-supplied fixtures. We recommend checking compatibility with your electrical system and local codes beforehand."
 }

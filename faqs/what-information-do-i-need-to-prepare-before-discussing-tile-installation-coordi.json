@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need to prepare before discussing tile installation coordination with your team?",
-  "description": "Gather details on areas to be tiled, preferred materials, design ideas, budget, and desired timeline to help us assess your project.",
   "url": "frasheskiconstruction.com/faq/what-information-do-i-need-to-prepare-before-discussing-tile-installation-coordi",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need to prepare before discussing tile installation coordination with your team?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before discussing tile installation coordination, it's helpful to have an idea of the areas you want tiled, your preferred tile materials (e.g., ceramic, porcelain, natural stone), and any inspiration photos or design preferences. Knowing your budget range and desired project timeline also helps us provide accurate estimates and a tailored plan. For Frasheski Construction, providing these initial details allows us to quickly assess your needs and propose effective solutions.",
-        "description": "Gather details on areas to be tiled, preferred materials, design ideas, budget, and desired timeline to help us assess your project."
-      }
-    }
-  ],
+  "name": "What information do I need to prepare before discussing tile installation coordination with your team?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare before discussing tile installation coordination with your team?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before discussing tile installation coordination, it's helpful to have an idea of the areas you want tiled, your preferred tile materials (e.g., ceramic, porcelain, natural stone), and any inspiration photos or design preferences. Knowing your budget range and desired project timeline also helps us provide accurate estimates and a tailored plan. For Frasheski Construction, providing these initial details allows us to quickly assess your needs and propose effective solutions.",
+        "@type": "Answer",
+        "description": "Gather details on areas to be tiled, preferred materials, design ideas, budget, and desired timeline to help us assess your project."
+      }
+    }
+  ],
+  "description": "Gather details on areas to be tiled, preferred materials, design ideas, budget, and desired timeline to help us assess your project."
 }

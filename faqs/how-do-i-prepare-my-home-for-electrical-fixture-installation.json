@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I prepare my home for electrical fixture installation?",
-  "description": "Prepare by clearing the work area, having fixtures ready, and marking installation locations. Providing existing electrical plans can also be helpful.",
   "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-home-for-electrical-fixture-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I prepare my home for electrical fixture installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prepare for electrical fixture installation, ensure the work area is clear of furniture and obstacles to allow our team safe access. If you are supplying the fixtures, have them on-site and unboxed for inspection. It's also helpful to identify the exact location where you want new fixtures installed and discuss any specific aesthetic preferences beforehand. Gathering any existing electrical plans or previous inspection reports can also be useful, as these documents provide valuable insight into your home's current wiring setup.",
-        "description": "Prepare by clearing the work area, having fixtures ready, and marking installation locations. Providing existing electrical plans can also be helpful."
-      }
-    }
-  ],
+  "name": "How do I prepare my home for electrical fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for electrical fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for electrical fixture installation, ensure the work area is clear of furniture and obstacles to allow our team safe access. If you are supplying the fixtures, have them on-site and unboxed for inspection. It's also helpful to identify the exact location where you want new fixtures installed and discuss any specific aesthetic preferences beforehand. Gathering any existing electrical plans or previous inspection reports can also be useful, as these documents provide valuable insight into your home's current wiring setup.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the work area, having fixtures ready, and marking installation locations. Providing existing electrical plans can also be helpful."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the work area, having fixtures ready, and marking installation locations. Providing existing electrical plans can also be helpful."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can Frasheski Construction replace an existing light fixture with a ceiling fan that requires new bracing?",
-  "description": "Yes, we can replace light fixtures with ceiling fans, including adding new bracing for safe and secure installation if needed.",
   "url": "frasheskiconstruction.com/faq/can-frasheski-construction-replace-an-existing-light-fixture-with-a-ceiling-fan",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can Frasheski Construction replace an existing light fixture with a ceiling fan that requires new bracing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Frasheski Construction can replace an existing light fixture with a ceiling fan, even if it requires new bracing in the ceiling. Ceiling fans are heavier and produce movement, so they require a securely mounted electrical box rated for fan support. Our team will inspect your current electrical box and ceiling structure to ensure proper and safe installation, including adding new bracing if necessary.",
-        "description": "Yes, we can replace light fixtures with ceiling fans, including adding new bracing for safe and secure installation if needed."
-      }
-    }
-  ],
+  "name": "Can Frasheski Construction replace an existing light fixture with a ceiling fan that requires new bracing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can Frasheski Construction replace an existing light fixture with a ceiling fan that requires new bracing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction can replace an existing light fixture with a ceiling fan, even if it requires new bracing in the ceiling. Ceiling fans are heavier and produce movement, so they require a securely mounted electrical box rated for fan support. Our team will inspect your current electrical box and ceiling structure to ensure proper and safe installation, including adding new bracing if necessary.",
+        "@type": "Answer",
+        "description": "Yes, we can replace light fixtures with ceiling fans, including adding new bracing for safe and secure installation if needed."
+      }
+    }
+  ],
+  "description": "Yes, we can replace light fixtures with ceiling fans, including adding new bracing for safe and secure installation if needed."
 }

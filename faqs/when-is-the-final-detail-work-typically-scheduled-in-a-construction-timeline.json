@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the final detail work typically scheduled in a construction timeline?",
-  "description": "This work is scheduled after all major construction phases, right before project handover, to allow for final adjustments and corrections.",
   "url": "frasheskiconstruction.com/faq/when-is-the-final-detail-work-typically-scheduled-in-a-construction-timeline",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the final detail work typically scheduled in a construction timeline?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Final detail work is typically scheduled after all major construction and installation phases are complete, just before the project handover or final client walkthrough. This ensures that any last-minute adjustments or minor corrections can be made without interfering with ongoing heavy construction. At Frasheski Construction, we integrate this phase into our project management to allow sufficient time for thorough inspections and any necessary refinements, guaranteeing a polished result.",
-        "description": "This work is scheduled after all major construction phases, right before project handover, to allow for final adjustments and corrections."
-      }
-    }
-  ],
+  "name": "When is the final detail work typically scheduled in a construction timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the final detail work typically scheduled in a construction timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Final detail work is typically scheduled after all major construction and installation phases are complete, just before the project handover or final client walkthrough. This ensures that any last-minute adjustments or minor corrections can be made without interfering with ongoing heavy construction. At Frasheski Construction, we integrate this phase into our project management to allow sufficient time for thorough inspections and any necessary refinements, guaranteeing a polished result.",
+        "@type": "Answer",
+        "description": "This work is scheduled after all major construction phases, right before project handover, to allow for final adjustments and corrections."
+      }
+    }
+  ],
+  "description": "This work is scheduled after all major construction phases, right before project handover, to allow for final adjustments and corrections."
 }

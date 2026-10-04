@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for an electrical coordination study?",
-  "description": "The process includes data gathering, short-circuit analysis, and setting protective devices. We collaborate with engineers to tailor solutions based on your fac",
   "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-an-electrical-coordination-study",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for an electrical coordination study?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The typical process involves gathering existing electrical system data, performing a short-circuit analysis, and then determining optimal settings for protective devices. Our team at Frasheski Construction collaborates with electrical engineers to review your facility's specific needs, including future expansion plans, to tailor a solution. This detailed approach ensures that the final design is both compliant with safety standards and optimized for your operational continuity, a key component of our integrated project management.",
-        "description": "The process includes data gathering, short-circuit analysis, and setting protective devices. We collaborate with engineers to tailor solutions based on your facility's needs."
-      }
-    }
-  ],
+  "name": "What is the typical process for an electrical coordination study?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an electrical coordination study?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves gathering existing electrical system data, performing a short-circuit analysis, and then determining optimal settings for protective devices. Our team at Frasheski Construction collaborates with electrical engineers to review your facility's specific needs, including future expansion plans, to tailor a solution. This detailed approach ensures that the final design is both compliant with safety standards and optimized for your operational continuity, a key component of our integrated project management.",
+        "@type": "Answer",
+        "description": "The process includes data gathering, short-circuit analysis, and setting protective devices. We collaborate with engineers to tailor solutions based on your facility's needs."
+      }
+    }
+  ],
+  "description": "The process includes data gathering, short-circuit analysis, and setting protective devices. We collaborate with engineers to tailor solutions based on your fac"
 }

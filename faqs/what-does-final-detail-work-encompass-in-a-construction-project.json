@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does 'final detail work' encompass in a construction project?",
-  "description": "Final detail work includes finishing touches like paint touch-ups, hardware installation, and cleaning, ensuring the project meets design and client expectation",
   "url": "frasheskiconstruction.com/faq/what-does-final-detail-work-encompass-in-a-construction-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does 'final detail work' encompass in a construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Final detail work in construction refers to the finishing touches and meticulous adjustments made at the end of a project to ensure everything meets the design specifications and client expectations. This can include tasks like paint touch-ups, hardware installation, cleaning, final trim adjustments, and ensuring all systems are fully operational. For Frasheski Construction, our process ensures that all visible elements are aesthetically pleasing and functional, addressing any minor imperfections before final client walkthroughs.",
-        "description": "Final detail work includes finishing touches like paint touch-ups, hardware installation, and cleaning, ensuring the project meets design and client expectations."
-      }
-    }
-  ],
+  "name": "What does 'final detail work' encompass in a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'final detail work' encompass in a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Final detail work in construction refers to the finishing touches and meticulous adjustments made at the end of a project to ensure everything meets the design specifications and client expectations. This can include tasks like paint touch-ups, hardware installation, cleaning, final trim adjustments, and ensuring all systems are fully operational. For Frasheski Construction, our process ensures that all visible elements are aesthetically pleasing and functional, addressing any minor imperfections before final client walkthroughs.",
+        "@type": "Answer",
+        "description": "Final detail work includes finishing touches like paint touch-ups, hardware installation, and cleaning, ensuring the project meets design and client expectations."
+      }
+    }
+  ],
+  "description": "Final detail work includes finishing touches like paint touch-ups, hardware installation, and cleaning, ensuring the project meets design and client expectation"
 }

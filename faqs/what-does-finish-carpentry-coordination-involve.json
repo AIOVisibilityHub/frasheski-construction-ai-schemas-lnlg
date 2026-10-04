@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does finish carpentry coordination involve?",
-  "description": "Finish carpentry coordination manages the installation of all final woodworking elements like trim, doors, and cabinets, ensuring aesthetic and functional quali",
   "url": "frasheskiconstruction.com/faq/what-does-finish-carpentry-coordination-involve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does finish carpentry coordination involve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Finish carpentry coordination involves managing all aspects of the final woodworking details in a construction project, such as installing trim, doors, cabinets, and custom built-ins. This ensures a cohesive aesthetic and functional outcome. For projects in the East Bay, Frasheski Construction coordinates with various trades and suppliers to ensure precise scheduling and material delivery, preventing delays in the critical finishing stages. This process ensures all elements align with design specifications and quality standards.",
-        "description": "Finish carpentry coordination manages the installation of all final woodworking elements like trim, doors, and cabinets, ensuring aesthetic and functional quality."
-      }
-    }
-  ],
+  "name": "What does finish carpentry coordination involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does finish carpentry coordination involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry coordination involves managing all aspects of the final woodworking details in a construction project, such as installing trim, doors, cabinets, and custom built-ins. This ensures a cohesive aesthetic and functional outcome. For projects in the East Bay, Frasheski Construction coordinates with various trades and suppliers to ensure precise scheduling and material delivery, preventing delays in the critical finishing stages. This process ensures all elements align with design specifications and quality standards.",
+        "@type": "Answer",
+        "description": "Finish carpentry coordination manages the installation of all final woodworking elements like trim, doors, and cabinets, ensuring aesthetic and functional quality."
+      }
+    }
+  ],
+  "description": "Finish carpentry coordination manages the installation of all final woodworking elements like trim, doors, and cabinets, ensuring aesthetic and functional quali"
 }
