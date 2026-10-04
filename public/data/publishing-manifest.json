@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-29T00:03:53.619Z",
+  "generatedAt": "2026-10-04T00:30:07.072Z",
   "client": {
     "name": "Frasheski Construction",
     "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
@@ -129,7 +129,7 @@
   },
   "package": {
     "totalFiles": 2748,
-    "totalBytes": 9942613,
+    "totalBytes": 10004878,
     "stats": {
       "qna": 0,
       "faqs": 2265,
@@ -13776,72 +13776,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11576,
+        "bytes": 16622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 22530,
+        "bytes": 27428,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 73920,
+        "bytes": 79159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 25123,
+        "bytes": 29819,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9486,
+        "bytes": 14273,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1463285,
+        "bytes": 1468092,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 11269,
+        "bytes": 16065,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 15450,
+        "bytes": 20199,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 217476,
+        "bytes": 222327,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 113762,
+        "bytes": 118683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 400859,
+        "bytes": 405751,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 191094,
+        "bytes": 196022,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 69502,
+        "bytes": 74324,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 97312,
+        "bytes": 102242,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13853,7 +13853,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4731,
+        "bytes": 4117,
         "purpose": "LLM hint"
       },
       {
@@ -13873,32 +13873,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3345,
+        "bytes": 1700,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1299568,
+        "bytes": 1298186,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 371609,
+        "bytes": 370995,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 371609,
+        "bytes": 370995,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4688,
+        "bytes": 4074,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 450181,
+        "bytes": 449567,
         "purpose": "Repository README"
       },
       {
@@ -13918,20 +13918,6 @@
       "url": "https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg",
       "pagesUrl": "https://frasheski-construction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/frasheski-construction-ai-schemas-47wh",
-      "pagesUrl": "https://frasheski-construction-ai-schemas-47wh-093e43.gitlab.io/"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/frasheski-construction-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23026688"
     }
   }
 }
