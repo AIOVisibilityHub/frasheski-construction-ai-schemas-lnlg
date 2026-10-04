@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:33:54.455Z",
+  "generatedAt": "2026-10-04T00:37:37.398Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -10,21 +10,21 @@
   "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
   "notALinkWheel": true,
   "entity": {
-    "name": "Hometelligent Inc.",
-    "canonicalUrl": "https://hometelligentinc.aiovisibility.net",
-    "primaryWebsiteUrl": "https://hometelligentinc.com",
-    "aiDataHub": "https://hometelligentinc.aiovisibility.net/ai-data.html"
+    "name": "HH Remodeling LLC",
+    "canonicalUrl": "https://hh-remodeling.aiovisibility.net",
+    "primaryWebsiteUrl": "https://www.coloradoremodeling.company",
+    "aiDataHub": "https://hh-remodeling.aiovisibility.net/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
-      "label": "Hometelligent Inc. — canonical website",
-      "url": "https://hometelligentinc.aiovisibility.net"
+      "label": "HH Remodeling LLC — canonical website",
+      "url": "https://hh-remodeling.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
-      "label": "Hometelligent Inc. — AI Data Hub",
-      "url": "https://hometelligentinc.aiovisibility.net/ai-data.html"
+      "label": "HH Remodeling LLC — AI Data Hub",
+      "url": "https://hh-remodeling.aiovisibility.net/ai-data.html"
     },
     {
       "role": "mirror-repo",

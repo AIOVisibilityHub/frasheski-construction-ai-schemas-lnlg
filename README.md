@@ -1,8 +1,8 @@
-# Hometelligent Inc. — AI Data Package
+# HH Remodeling LLC — AI Data Package
 
-Canonical AI Data Package for Hometelligent Inc..
+Canonical AI Data Package for HH Remodeling LLC.
 
-- Canonical: https://hometelligentinc.aiovisibility.net
+- Canonical: https://hh-remodeling.aiovisibility.net
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
 
@@ -19,8 +19,8 @@ Canonical AI Data Package for Hometelligent Inc..
 - **2719** total
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Hometelligent Inc. — canonical website — https://hometelligentinc.aiovisibility.net
-- [ai-data-hub] Hometelligent Inc. — AI Data Hub — https://hometelligentinc.aiovisibility.net/ai-data.html
+- [canonical] HH Remodeling LLC — canonical website — https://hh-remodeling.aiovisibility.net
+- [ai-data-hub] HH Remodeling LLC — AI Data Hub — https://hh-remodeling.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg
 - [mirror-pages] GitHub — AI Data Hub mirror — https://frasheski-construction.aiovisibility.net/ai-data.html
 
@@ -2755,15 +2755,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-your-trim-paint-isn-t-looking-great.json`](./help/why-your-trim-paint-isn-t-looking-great.json) — schema
 - [`help/worried-about-hidden-problems-in-my-bathroom-remodel.json`](./help/worried-about-hidden-problems-in-my-bathroom-remodel.json) — schema
 
-### Public Pages (14)
+### Public Pages (8)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
-- [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
-- [`articles/getting-started.html`](./articles/getting-started.html) — LLM-optimized public page
-- [`articles/local-service-guidance.html`](./articles/local-service-guidance.html) — LLM-optimized public page
-- [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
-- [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
-- [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
@@ -2778,15 +2772,15 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`reviews/anonymous-12-review.json`](./reviews/anonymous-12-review.json) — schema
 - [`reviews/anonymous-13-review.json`](./reviews/anonymous-13-review.json) — schema
 - [`reviews/anonymous-14-review.json`](./reviews/anonymous-14-review.json) — schema
-- [`reviews/anonymous-15-review.json`](./reviews/anonymous-15-review.json) — schema
-- [`reviews/anonymous-3-review.json`](./reviews/anonymous-3-review.json) — schema
-- [`reviews/anonymous-4-review.json`](./reviews/anonymous-4-review.json) — schema
-- [`reviews/anonymous-5-review.json`](./reviews/anonymous-5-review.json) — schema
-- [`reviews/anonymous-6-review.json`](./reviews/anonymous-6-review.json) — schema
-- [`reviews/anonymous-7-review.json`](./reviews/anonymous-7-review.json) — schema
 - [`reviews/anonymous-8-review.json`](./reviews/anonymous-8-review.json) — schema
-- [`reviews/larry-m-9-review.json`](./reviews/larry-m-9-review.json) — schema
-- [`reviews/lb-1-review.json`](./reviews/lb-1-review.json) — schema
-- [`reviews/linda-y-2-review.json`](./reviews/linda-y-2-review.json) — schema
+- [`reviews/anonymous-9-review.json`](./reviews/anonymous-9-review.json) — schema
+- [`reviews/eric-s-1-review.json`](./reviews/eric-s-1-review.json) — schema
+- [`reviews/kimbra-d-15-review.json`](./reviews/kimbra-d-15-review.json) — schema
+- [`reviews/roger-w-2-review.json`](./reviews/roger-w-2-review.json) — schema
+- [`reviews/verified-customer-4-review.json`](./reviews/verified-customer-4-review.json) — schema
+- [`reviews/verified-customer-5-review.json`](./reviews/verified-customer-5-review.json) — schema
+- [`reviews/verified-customer-6-review.json`](./reviews/verified-customer-6-review.json) — schema
+- [`reviews/verified-customer-7-review.json`](./reviews/verified-customer-7-review.json) — schema
+- [`reviews/will-m-3-review.json`](./reviews/will-m-3-review.json) — schema
 
 
