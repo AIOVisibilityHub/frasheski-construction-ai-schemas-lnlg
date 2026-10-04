@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "Our bathroom looks beautiful! We are so pleased with the level of professionalism exuded by everyone involved in the project. Communication was outstanding and true craftsmanship went into each aspect of the job.",
+  "reviewBody": "We have already passed H&H on to others and will continue to recommend you as the first and best choice for home remodels.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Frasheski Construction",
-    "url": "https://frasheski-construction.aiovisibility.net",
+    "name": "HH Remodeling LLC",
+    "url": "https://hh-remodeling.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Bathroom remodel"
+        "name": "home remodeling / referrals"
       }
     }
   }

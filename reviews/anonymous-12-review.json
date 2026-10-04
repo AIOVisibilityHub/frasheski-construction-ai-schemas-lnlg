@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "Lou and his team did a fantastic job on an area I recently had built on my property! They showed up every day and did a timely job. I would highly recommend them!",
+  "reviewBody": "I already have recommended H & H to neighbors and friends.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Frasheski Construction",
-    "url": "https://frasheski-construction.aiovisibility.net",
+    "name": "HH Remodeling LLC",
+    "url": "https://hh-remodeling.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Room addition / build-out"
+        "name": "home remodeling"
       }
     }
   }

@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "The bathroom remodel we recently had done by Freschi Construction turned out beautiful! Brent kept us apprised of what was happening throughout the process. Thanks again, we love the outcome!",
+  "reviewBody": "So easy to work with, very friendly, and a lot of talent.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Frasheski Construction",
-    "url": "https://frasheski-construction.aiovisibility.net",
+    "name": "HH Remodeling LLC",
+    "url": "https://hh-remodeling.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Bathroom remodel"
+        "name": "home remodeling"
       }
     }
   }

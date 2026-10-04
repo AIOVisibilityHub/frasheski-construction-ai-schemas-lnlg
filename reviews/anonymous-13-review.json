@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "They did our deck, then flood reconstruction of our lower floor, and last a wonderful kitchen remodel. Brent and the rest of the crew are responsive, customer focused, and do excellent work. Brent had great suggestions and offered informed alternatives.",
+  "reviewBody": "Pride and quality of work were outstanding. The design was very well thought through and the difficulty of remodeling a 1937 Tudor presented challenges that most contractors would have struggled with and H&H seemed well equipped to manage.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Frasheski Construction",
-    "url": "https://frasheski-construction.aiovisibility.net",
+    "name": "HH Remodeling LLC",
+    "url": "https://hh-remodeling.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "Kitchen remodel / deck / flood reconstruction"
+        "name": "home remodel / design"
       }
     }
   }

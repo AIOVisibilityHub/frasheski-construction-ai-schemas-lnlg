@@ -3,9 +3,9 @@
   "@type": "Review",
   "author": {
     "@type": "Person",
-    "name": "Anonymous"
+    "name": "Verified Customer"
   },
-  "reviewBody": "Great team, easy to work with and completed the significant project on time - an unheard of feat. We are incredibly happy with our remodel and have already referred friends who are now underway with theirs!",
+  "reviewBody": "They helped us understand what it was going to cost. We knew that there are always surprises, and they helped us through that as well. Also, they helped us with the design phase. I didn’t know what I wanted in some instances, and they came up with some great ideas.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -19,7 +19,7 @@
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "home remodeling"
+        "name": "home renovation"
       }
     }
   }

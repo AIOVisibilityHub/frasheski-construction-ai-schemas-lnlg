@@ -3,9 +3,9 @@
   "@type": "Review",
   "author": {
     "@type": "Person",
-    "name": "Anonymous"
+    "name": "Verified Customer"
   },
-  "reviewBody": "Great team, easy to work with and completed the significant project on time - an unheard of feat. We are incredibly happy with our remodel and have already referred friends who are now underway with theirs!",
+  "reviewBody": "H & H Builders took a tiny, two bedroom, one car garage house and transformed it into a mini-mansion. I did not think it could be done, but I absolutely love my house!",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -19,7 +19,7 @@
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "home remodeling"
+        "name": "whole-home remodel"
       }
     }
   }

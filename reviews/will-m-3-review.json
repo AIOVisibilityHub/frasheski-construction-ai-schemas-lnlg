@@ -3,9 +3,9 @@
   "@type": "Review",
   "author": {
     "@type": "Person",
-    "name": "Anonymous"
+    "name": "Will M."
   },
-  "reviewBody": "Great team, easy to work with and completed the significant project on time - an unheard of feat. We are incredibly happy with our remodel and have already referred friends who are now underway with theirs!",
+  "reviewBody": "If I have work I need done in the future, I’ll turn to H&H again because I can trust that at the end of the day I’m going to end up with high-quality work, and that they will finish the project in a timely fashion.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -19,7 +19,7 @@
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "home remodeling"
+        "name": "general contracting / remodeling"
       }
     }
   }

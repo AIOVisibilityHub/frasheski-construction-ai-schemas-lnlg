@@ -5,7 +5,7 @@
     "@type": "Person",
     "name": "Anonymous"
   },
-  "reviewBody": "We were very pleased with the workmanship of your crew. They were prompt every day and had great cleanup habits, leaving all tools and materials organized and put away. Our home looks fabulous and adds so much grace to our entrance.",
+  "reviewBody": "Overall we were pleased with the final product we received from H&H, and also with their communication and commitment to helping bring to life what we were hoping to achieve with the space.",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": 5,
@@ -13,13 +13,13 @@
   },
   "itemReviewed": {
     "@type": "Organization",
-    "name": "Frasheski Construction",
-    "url": "https://frasheski-construction.aiovisibility.net",
+    "name": "HH Remodeling LLC",
+    "url": "https://hh-remodeling.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "General construction / exterior entry work"
+        "name": "home remodel / communication / project management"
       }
     }
   }
