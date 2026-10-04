@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does countertop replacement typically take?",
-  "description": "Countertop replacement duration varies by material and complexity, typically taking one to several days for installation after old countertops are removed. Cust",
   "url": "frasheskiconstruction.com/faq/how-long-does-countertop-replacement-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does countertop replacement typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of countertop replacement varies depending on the material, complexity of the installation, and the size of your kitchen or bathroom. Generally, once the old countertops are removed, installation of new countertops can take anywhere from one to several days. Custom fabrication, such as for natural stone, will add to the overall project timeline. It's important to allow for a few weeks from material selection to final installation, including potential template creation and fabrication time. Frasheski Construction provides a detailed timeline estimate during the project planning phase for clients in areas like Oakland and Albany.",
-        "description": "Countertop replacement duration varies by material and complexity, typically taking one to several days for installation after old countertops are removed. Custom fabrication extends the timeline."
-      }
-    }
-  ],
+  "name": "How long does countertop replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does countertop replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of countertop replacement varies depending on the material, complexity of the installation, and the size of your kitchen or bathroom. Generally, once the old countertops are removed, installation of new countertops can take anywhere from one to several days. Custom fabrication, such as for natural stone, will add to the overall project timeline. It's important to allow for a few weeks from material selection to final installation, including potential template creation and fabrication time. Frasheski Construction provides a detailed timeline estimate during the project planning phase for clients in areas like Oakland and Albany.",
+        "@type": "Answer",
+        "description": "Countertop replacement duration varies by material and complexity, typically taking one to several days for installation after old countertops are removed. Custom fabrication extends the timeline."
+      }
+    }
+  ],
+  "description": "Countertop replacement duration varies by material and complexity, typically taking one to several days for installation after old countertops are removed. Cust"
 }

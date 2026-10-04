@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for my kitchen remodel?",
-  "description": "Choose a contractor by checking experience, references, portfolio, communication, licensing, and insurance. Ask about their project management approach.",
   "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for my kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor involves researching their experience, checking references, and reviewing their portfolio of past kitchen projects. Look for a contractor with strong communication skills and a transparent process for budgeting and scheduling. In the East Bay, verify that the contractor is licensed and insured. We recommend preparing a list of questions about their specific approach to project management, including how they handle unexpected issues, before making a final decision.",
-        "description": "Choose a contractor by checking experience, references, portfolio, communication, licensing, and insurance. Ask about their project management approach."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves researching their experience, checking references, and reviewing their portfolio of past kitchen projects. Look for a contractor with strong communication skills and a transparent process for budgeting and scheduling. In the East Bay, verify that the contractor is licensed and insured. We recommend preparing a list of questions about their specific approach to project management, including how they handle unexpected issues, before making a final decision.",
+        "@type": "Answer",
+        "description": "Choose a contractor by checking experience, references, portfolio, communication, licensing, and insurance. Ask about their project management approach."
+      }
+    }
+  ],
+  "description": "Choose a contractor by checking experience, references, portfolio, communication, licensing, and insurance. Ask about their project management approach."
 }
