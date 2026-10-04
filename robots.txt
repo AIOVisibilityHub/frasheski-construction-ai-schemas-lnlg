@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://hh-remodeling.aiovisibility.net/sitemap.xml
-Sitemap: https://hh-remodeling.aiovisibility.net/ai-sitemap.xml
+Sitemap: https://angeloreyeslaw.aiovisibility.net/sitemap.xml
+Sitemap: https://angeloreyeslaw.aiovisibility.net/ai-sitemap.xml
