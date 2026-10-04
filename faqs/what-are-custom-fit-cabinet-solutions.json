@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are custom-fit cabinet solutions?",
-  "description": "Custom-fit cabinet solutions are cabinets designed and built specifically for your unique space to maximize storage and match your home's aesthetic.",
   "url": "frasheskiconstruction.com/faq/what-are-custom-fit-cabinet-solutions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are custom-fit cabinet solutions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom-fit cabinet solutions are designed and built specifically for your space, maximizing storage and optimizing functionality. Unlike standard, pre-made cabinets, custom options allow for unique dimensions, materials, finishes, and features to perfectly match your home's aesthetic and your specific needs. This approach ensures every inch of your space is utilized efficiently, providing tailored storage that off-the-shelf options cannot. The right fit can significantly enhance both the utility and visual appeal of a room.",
-        "description": "Custom-fit cabinet solutions are cabinets designed and built specifically for your unique space to maximize storage and match your home's aesthetic."
-      }
-    }
-  ],
+  "name": "What are custom-fit cabinet solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are custom-fit cabinet solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom-fit cabinet solutions are designed and built specifically for your space, maximizing storage and optimizing functionality. Unlike standard, pre-made cabinets, custom options allow for unique dimensions, materials, finishes, and features to perfectly match your home's aesthetic and your specific needs. This approach ensures every inch of your space is utilized efficiently, providing tailored storage that off-the-shelf options cannot. The right fit can significantly enhance both the utility and visual appeal of a room.",
+        "@type": "Answer",
+        "description": "Custom-fit cabinet solutions are cabinets designed and built specifically for your unique space to maximize storage and match your home's aesthetic."
+      }
+    }
+  ],
+  "description": "Custom-fit cabinet solutions are cabinets designed and built specifically for your unique space to maximize storage and match your home's aesthetic."
 }
