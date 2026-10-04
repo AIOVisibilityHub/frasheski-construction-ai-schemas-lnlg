@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to leave my home during interior painting?",
-  "description": "You generally don't need to leave your home during interior painting, but vacating painted areas is more comfortable, especially if sensitive to paint fumes.",
   "url": "frasheskiconstruction.com/faq/do-i-need-to-leave-my-home-during-interior-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to leave my home during interior painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most interior painting projects, you do not necessarily need to leave your home entirely, but it is often more comfortable to vacate the specific areas being painted. We use low-VOC (Volatile Organic Compound) paints when possible to minimize odors and ensure good ventilation. However, some people are more sensitive to paint fumes. Discussing your sensitivity and project scope with us beforehand allows us to recommend the best approach for your comfort and safety, balancing convenience with air quality.",
-        "description": "You generally don't need to leave your home during interior painting, but vacating painted areas is more comfortable, especially if sensitive to paint fumes."
-      }
-    }
-  ],
+  "name": "Do I need to leave my home during interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most interior painting projects, you do not necessarily need to leave your home entirely, but it is often more comfortable to vacate the specific areas being painted. We use low-VOC (Volatile Organic Compound) paints when possible to minimize odors and ensure good ventilation. However, some people are more sensitive to paint fumes. Discussing your sensitivity and project scope with us beforehand allows us to recommend the best approach for your comfort and safety, balancing convenience with air quality.",
+        "@type": "Answer",
+        "description": "You generally don't need to leave your home during interior painting, but vacating painted areas is more comfortable, especially if sensitive to paint fumes."
+      }
+    }
+  ],
+  "description": "You generally don't need to leave your home during interior painting, but vacating painted areas is more comfortable, especially if sensitive to paint fumes."
 }

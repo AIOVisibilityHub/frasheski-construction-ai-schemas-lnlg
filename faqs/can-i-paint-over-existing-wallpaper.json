@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I paint over existing wallpaper?",
-  "description": "Painting over wallpaper is not recommended due to potential bubbling or peeling; for best results, remove wallpaper and prep the walls properly.",
   "url": "frasheskiconstruction.com/faq/can-i-paint-over-existing-wallpaper",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I paint over existing wallpaper?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While it is technically possible to paint over wallpaper, it is generally not recommended for a high-quality, lasting finish. Painting over wallpaper can lead to issues such as bubbling, peeling, or visible seams as the moisture from the paint reactivates the wallpaper adhesive. For the best results, wallpaper should be completely removed, and the walls properly prepped by cleaning, patching, and priming. This extra preparation ensures a smooth, durable surface and prevents future problems that could compromise the paint's appearance and longevity.",
-        "description": "Painting over wallpaper is not recommended due to potential bubbling or peeling; for best results, remove wallpaper and prep the walls properly."
-      }
-    }
-  ],
+  "name": "Can I paint over existing wallpaper?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over existing wallpaper?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is technically possible to paint over wallpaper, it is generally not recommended for a high-quality, lasting finish. Painting over wallpaper can lead to issues such as bubbling, peeling, or visible seams as the moisture from the paint reactivates the wallpaper adhesive. For the best results, wallpaper should be completely removed, and the walls properly prepped by cleaning, patching, and priming. This extra preparation ensures a smooth, durable surface and prevents future problems that could compromise the paint's appearance and longevity.",
+        "@type": "Answer",
+        "description": "Painting over wallpaper is not recommended due to potential bubbling or peeling; for best results, remove wallpaper and prep the walls properly."
+      }
+    }
+  ],
+  "description": "Painting over wallpaper is not recommended due to potential bubbling or peeling; for best results, remove wallpaper and prep the walls properly."
 }

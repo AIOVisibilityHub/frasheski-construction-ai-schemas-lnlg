@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I start a custom cabinet project with Frasheski Construction?",
-  "description": "Start your custom cabinet project by scheduling an initial consultation with Frasheski Construction to discuss your vision, budget, and design preferences.",
   "url": "frasheskiconstruction.com/faq/how-do-i-start-a-custom-cabinet-project-with-frasheski-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I start a custom cabinet project with Frasheski Construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To start a custom cabinet project with Frasheski Construction, the first step is to schedule an initial consultation. During this meeting, we discuss your vision, functional requirements, budget, and design preferences for your space. It's helpful to have an idea of your desired aesthetic, any specific storage needs, and perhaps some inspiration photos. We then develop a detailed plan, including material selection and design renderings, to ensure the final product perfectly aligns with your expectations. This collaborative approach ensures your custom cabinets are tailored precisely to your home.",
-        "description": "Start your custom cabinet project by scheduling an initial consultation with Frasheski Construction to discuss your vision, budget, and design preferences."
-      }
-    }
-  ],
+  "name": "How do I start a custom cabinet project with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start a custom cabinet project with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To start a custom cabinet project with Frasheski Construction, the first step is to schedule an initial consultation. During this meeting, we discuss your vision, functional requirements, budget, and design preferences for your space. It's helpful to have an idea of your desired aesthetic, any specific storage needs, and perhaps some inspiration photos. We then develop a detailed plan, including material selection and design renderings, to ensure the final product perfectly aligns with your expectations. This collaborative approach ensures your custom cabinets are tailored precisely to your home.",
+        "@type": "Answer",
+        "description": "Start your custom cabinet project by scheduling an initial consultation with Frasheski Construction to discuss your vision, budget, and design preferences."
+      }
+    }
+  ],
+  "description": "Start your custom cabinet project by scheduling an initial consultation with Frasheski Construction to discuss your vision, budget, and design preferences."
 }

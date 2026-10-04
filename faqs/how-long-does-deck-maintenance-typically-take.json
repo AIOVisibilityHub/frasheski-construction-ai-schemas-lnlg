@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does deck maintenance typically take?",
-  "description": "Basic maintenance might take 1-2 days, while extensive repairs or staining could take 3-5+ days, depending on deck size and weather.",
   "url": "frasheskiconstruction.com/faq/how-long-does-deck-maintenance-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does deck maintenance typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of deck maintenance can vary widely. A basic cleaning and re-sealing might take 1-2 days, allowing for proper drying time between steps. More extensive projects involving repairs, sanding, or multiple coats of stain could take 3-5 days or longer, depending on the deck's size and weather conditions. Our team at Frasheski Construction provides a timeline estimate after assessing your deck's specific needs and considering local weather forecasts, especially important in regions with fluctuating conditions like the East Bay.",
-        "description": "Basic maintenance might take 1-2 days, while extensive repairs or staining could take 3-5+ days, depending on deck size and weather."
-      }
-    }
-  ],
+  "name": "How long does deck maintenance typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does deck maintenance typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of deck maintenance can vary widely. A basic cleaning and re-sealing might take 1-2 days, allowing for proper drying time between steps. More extensive projects involving repairs, sanding, or multiple coats of stain could take 3-5 days or longer, depending on the deck's size and weather conditions. Our team at Frasheski Construction provides a timeline estimate after assessing your deck's specific needs and considering local weather forecasts, especially important in regions with fluctuating conditions like the East Bay.",
+        "@type": "Answer",
+        "description": "Basic maintenance might take 1-2 days, while extensive repairs or staining could take 3-5+ days, depending on deck size and weather."
+      }
+    }
+  ],
+  "description": "Basic maintenance might take 1-2 days, while extensive repairs or staining could take 3-5+ days, depending on deck size and weather."
 }

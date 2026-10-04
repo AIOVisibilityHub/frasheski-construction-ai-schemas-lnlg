@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of fences can Frasheski Construction restore for stability?",
-  "description": "Frasheski Construction restores stability for wood, chain-link, and some ornamental metal fences, addressing issues like rotted posts and leaning sections.",
   "url": "frasheskiconstruction.com/faq/what-kind-of-fences-can-frasheski-construction-restore-for-stability",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of fences can Frasheski Construction restore for stability?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Frasheski Construction has experience restoring the stability of various fence types, including wood, chain-link, and some ornamental metal fences. Our expertise covers common issues like rotted posts, leaning sections, and damaged footings. We assess each project individually to ensure the most effective restoration approach, focusing on reinforcing the existing structure for durability.",
-        "description": "Frasheski Construction restores stability for wood, chain-link, and some ornamental metal fences, addressing issues like rotted posts and leaning sections."
-      }
-    }
-  ],
+  "name": "What kind of fences can Frasheski Construction restore for stability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of fences can Frasheski Construction restore for stability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction has experience restoring the stability of various fence types, including wood, chain-link, and some ornamental metal fences. Our expertise covers common issues like rotted posts, leaning sections, and damaged footings. We assess each project individually to ensure the most effective restoration approach, focusing on reinforcing the existing structure for durability.",
+        "@type": "Answer",
+        "description": "Frasheski Construction restores stability for wood, chain-link, and some ornamental metal fences, addressing issues like rotted posts and leaning sections."
+      }
+    }
+  ],
+  "description": "Frasheski Construction restores stability for wood, chain-link, and some ornamental metal fences, addressing issues like rotted posts and leaning sections."
 }

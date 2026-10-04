@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for surface restoration with Frasheski Construction?",
-  "description": "The process involves assessment, preparation, cleaning, repairs like crack filling, applying sealants, and final quality checks, with ongoing client communicati",
   "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-surface-restoration-with-frasheski-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for surface restoration with Frasheski Construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our surface restoration process begins with a detailed assessment of the existing surface to determine the type and extent of damage. This allows us to create a tailored plan which includes preparing the area, cleaning the surface thoroughly, making necessary repairs like crack filling or patching, and then applying sealants or protective coatings. The final steps often involve quality checks and site cleanup. We prioritize clear communication throughout the project, ensuring you are informed at each stage, from preparation to completion.",
-        "description": "The process involves assessment, preparation, cleaning, repairs like crack filling, applying sealants, and final quality checks, with ongoing client communication."
-      }
-    }
-  ],
+  "name": "What is the typical process for surface restoration with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for surface restoration with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our surface restoration process begins with a detailed assessment of the existing surface to determine the type and extent of damage. This allows us to create a tailored plan which includes preparing the area, cleaning the surface thoroughly, making necessary repairs like crack filling or patching, and then applying sealants or protective coatings. The final steps often involve quality checks and site cleanup. We prioritize clear communication throughout the project, ensuring you are informed at each stage, from preparation to completion.",
+        "@type": "Answer",
+        "description": "The process involves assessment, preparation, cleaning, repairs like crack filling, applying sealants, and final quality checks, with ongoing client communication."
+      }
+    }
+  ],
+  "description": "The process involves assessment, preparation, cleaning, repairs like crack filling, applying sealants, and final quality checks, with ongoing client communicati"
 }

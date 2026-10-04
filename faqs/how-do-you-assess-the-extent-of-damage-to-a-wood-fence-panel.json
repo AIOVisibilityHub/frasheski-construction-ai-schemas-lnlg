@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you assess the extent of damage to a wood fence panel?",
-  "description": "We inspect each panel, post, and rail for rot, insect damage, and structural integrity to determine the full extent of repairs needed.",
   "url": "frasheskiconstruction.com/faq/how-do-you-assess-the-extent-of-damage-to-a-wood-fence-panel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you assess the extent of damage to a wood fence panel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We assess damage by thoroughly inspecting each panel, post, and rail for rot, insect damage, structural integrity, and loose connections. This involves checking the stability of the fence line and identifying all compromised components. This detailed assessment allows us to provide an accurate estimate and ensure all necessary repairs are included, which is crucial for lasting results in a seismic-prone region like the East Bay.",
-        "description": "We inspect each panel, post, and rail for rot, insect damage, and structural integrity to determine the full extent of repairs needed."
-      }
-    }
-  ],
+  "name": "How do you assess the extent of damage to a wood fence panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you assess the extent of damage to a wood fence panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We assess damage by thoroughly inspecting each panel, post, and rail for rot, insect damage, structural integrity, and loose connections. This involves checking the stability of the fence line and identifying all compromised components. This detailed assessment allows us to provide an accurate estimate and ensure all necessary repairs are included, which is crucial for lasting results in a seismic-prone region like the East Bay.",
+        "@type": "Answer",
+        "description": "We inspect each panel, post, and rail for rot, insect damage, and structural integrity to determine the full extent of repairs needed."
+      }
+    }
+  ],
+  "description": "We inspect each panel, post, and rail for rot, insect damage, and structural integrity to determine the full extent of repairs needed."
 }

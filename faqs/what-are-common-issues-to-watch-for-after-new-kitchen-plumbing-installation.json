@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common issues to watch for after new kitchen plumbing installation?",
-  "description": "After new kitchen plumbing, watch for leaks, slow drainage, or unusual pipe noises. Contact your installer promptly if issues arise, even after thorough testing",
   "url": "frasheskiconstruction.com/faq/what-are-common-issues-to-watch-for-after-new-kitchen-plumbing-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common issues to watch for after new kitchen plumbing installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After a new kitchen plumbing installation, it's advisable to watch for common issues such as leaks around fixture connections, slow drainage, or unusual noises coming from pipes. Even with professional installation, minor adjustments may sometimes be needed. If you notice any issues, contact your installer promptly. Frasheski Construction conducts thorough testing before project completion to minimize these occurrences, but we also offer follow-up support to address any concerns in our service areas like Oakland, Albany, and El Cerrito.",
-        "description": "After new kitchen plumbing, watch for leaks, slow drainage, or unusual pipe noises. Contact your installer promptly if issues arise, even after thorough testing."
-      }
-    }
-  ],
+  "name": "What are common issues to watch for after new kitchen plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues to watch for after new kitchen plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a new kitchen plumbing installation, it's advisable to watch for common issues such as leaks around fixture connections, slow drainage, or unusual noises coming from pipes. Even with professional installation, minor adjustments may sometimes be needed. If you notice any issues, contact your installer promptly. Frasheski Construction conducts thorough testing before project completion to minimize these occurrences, but we also offer follow-up support to address any concerns in our service areas like Oakland, Albany, and El Cerrito.",
+        "@type": "Answer",
+        "description": "After new kitchen plumbing, watch for leaks, slow drainage, or unusual pipe noises. Contact your installer promptly if issues arise, even after thorough testing."
+      }
+    }
+  ],
+  "description": "After new kitchen plumbing, watch for leaks, slow drainage, or unusual pipe noises. Contact your installer promptly if issues arise, even after thorough testing"
 }

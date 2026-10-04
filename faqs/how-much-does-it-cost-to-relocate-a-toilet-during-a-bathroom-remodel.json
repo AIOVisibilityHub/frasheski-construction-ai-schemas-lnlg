@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to relocate a toilet during a bathroom remodel?",
-  "description": "The cost to relocate a toilet varies based on distance, subfloor alterations, and access to drain lines. Rerouting waste pipes is often complex.",
   "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-relocate-a-toilet-during-a-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to relocate a toilet during a bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost to relocate a toilet during a bathroom remodel varies significantly based on factors such as the distance of the relocation, the need to alter the subfloor or joists, and accessibility to existing drain lines. Moving a toilet even a short distance typically requires rerouting the waste pipe, which can be complex if it involves breaking through concrete slabs or structural elements. A detailed estimate from a contractor like Frasheski Construction will outline labor, materials, and any necessary structural modifications, providing transparency for your budget.",
-        "description": "The cost to relocate a toilet varies based on distance, subfloor alterations, and access to drain lines. Rerouting waste pipes is often complex."
-      }
-    }
-  ],
+  "name": "How much does it cost to relocate a toilet during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to relocate a toilet during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to relocate a toilet during a bathroom remodel varies significantly based on factors such as the distance of the relocation, the need to alter the subfloor or joists, and accessibility to existing drain lines. Moving a toilet even a short distance typically requires rerouting the waste pipe, which can be complex if it involves breaking through concrete slabs or structural elements. A detailed estimate from a contractor like Frasheski Construction will outline labor, materials, and any necessary structural modifications, providing transparency for your budget.",
+        "@type": "Answer",
+        "description": "The cost to relocate a toilet varies based on distance, subfloor alterations, and access to drain lines. Rerouting waste pipes is often complex."
+      }
+    }
+  ],
+  "description": "The cost to relocate a toilet varies based on distance, subfloor alterations, and access to drain lines. Rerouting waste pipes is often complex."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I perform deck maintenance myself, or should I hire professionals?",
-  "description": "While simple cleaning can be DIY, professionals offer expertise, specialized equipment, and knowledge for repairs, complex staining, and structural issues, ensu",
   "url": "frasheskiconstruction.com/faq/can-i-perform-deck-maintenance-myself-or-should-i-hire-professionals",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I perform deck maintenance myself, or should I hire professionals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While basic cleaning and simple re-sealing can be DIY tasks, hiring professionals for deck maintenance, especially for repairs or complex staining, offers several advantages. Professionals have specialized equipment, expertise in identifying structural issues, and knowledge of the best products and techniques for different wood types and local conditions. Incorrect cleaning or staining can damage the wood or lead to uneven results. For comprehensive inspections, repairs, or high-quality finishes that endure the varied East Bay weather, our Frasheski Construction team ensures safety, efficiency, and a lasting outcome.",
-        "description": "While simple cleaning can be DIY, professionals offer expertise, specialized equipment, and knowledge for repairs, complex staining, and structural issues, ensuring safety and quality."
-      }
-    }
-  ],
+  "name": "Can I perform deck maintenance myself, or should I hire professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform deck maintenance myself, or should I hire professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While basic cleaning and simple re-sealing can be DIY tasks, hiring professionals for deck maintenance, especially for repairs or complex staining, offers several advantages. Professionals have specialized equipment, expertise in identifying structural issues, and knowledge of the best products and techniques for different wood types and local conditions. Incorrect cleaning or staining can damage the wood or lead to uneven results. For comprehensive inspections, repairs, or high-quality finishes that endure the varied East Bay weather, our Frasheski Construction team ensures safety, efficiency, and a lasting outcome.",
+        "@type": "Answer",
+        "description": "While simple cleaning can be DIY, professionals offer expertise, specialized equipment, and knowledge for repairs, complex staining, and structural issues, ensuring safety and quality."
+      }
+    }
+  ],
+  "description": "While simple cleaning can be DIY, professionals offer expertise, specialized equipment, and knowledge for repairs, complex staining, and structural issues, ensu"
 }

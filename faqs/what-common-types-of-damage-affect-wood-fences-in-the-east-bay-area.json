@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What common types of damage affect wood fences in the East Bay area?",
-  "description": "Common damages in the East Bay include dry rot, moisture damage, insect infestations, weathering, and physical impacts. Consistent moisture at post bases is a f",
   "url": "frasheskiconstruction.com/faq/what-common-types-of-damage-affect-wood-fences-in-the-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What common types of damage affect wood fences in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wood fences in the East Bay area commonly experience issues like dry rot, moisture damage from rain and irrigation, insect infestation (termites or carpenter ants), and weathering from sun exposure. Additionally, fallen branches or impacts can cause physical damage. Our experience across Berkeley, Oakland, and El Cerrito shows that consistent moisture at the base of posts is a frequent culprit for early deterioration.",
-        "description": "Common damages in the East Bay include dry rot, moisture damage, insect infestations, weathering, and physical impacts. Consistent moisture at post bases is a frequent issue."
-      }
-    }
-  ],
+  "name": "What common types of damage affect wood fences in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of damage affect wood fences in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood fences in the East Bay area commonly experience issues like dry rot, moisture damage from rain and irrigation, insect infestation (termites or carpenter ants), and weathering from sun exposure. Additionally, fallen branches or impacts can cause physical damage. Our experience across Berkeley, Oakland, and El Cerrito shows that consistent moisture at the base of posts is a frequent culprit for early deterioration.",
+        "@type": "Answer",
+        "description": "Common damages in the East Bay include dry rot, moisture damage, insect infestations, weathering, and physical impacts. Consistent moisture at post bases is a frequent issue."
+      }
+    }
+  ],
+  "description": "Common damages in the East Bay include dry rot, moisture damage, insect infestations, weathering, and physical impacts. Consistent moisture at post bases is a f"
 }

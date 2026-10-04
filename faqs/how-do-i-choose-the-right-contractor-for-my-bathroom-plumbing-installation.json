@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for my bathroom plumbing installation?",
-  "description": "Choose a licensed, insured, and experienced contractor who understands local codes. Check portfolios, reviews, and get multiple quotes for your project.",
   "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-contractor-for-my-bathroom-plumbing-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for my bathroom plumbing installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor for your bathroom plumbing installation involves looking for licensed, insured, and experienced professionals who understand local building codes. It's advisable to check their portfolio, read customer reviews, and obtain multiple detailed quotes to compare services and pricing. Prioritize contractors who offer clear communication and a transparent process. Frasheski Construction, serving the East Bay, emphasizes our commitment to local code compliance and customer satisfaction, providing references and discussing project specifics upfront.",
-        "description": "Choose a licensed, insured, and experienced contractor who understands local codes. Check portfolios, reviews, and get multiple quotes for your project."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for my bathroom plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my bathroom plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for your bathroom plumbing installation involves looking for licensed, insured, and experienced professionals who understand local building codes. It's advisable to check their portfolio, read customer reviews, and obtain multiple detailed quotes to compare services and pricing. Prioritize contractors who offer clear communication and a transparent process. Frasheski Construction, serving the East Bay, emphasizes our commitment to local code compliance and customer satisfaction, providing references and discussing project specifics upfront.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and experienced contractor who understands local codes. Check portfolios, reviews, and get multiple quotes for your project."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and experienced contractor who understands local codes. Check portfolios, reviews, and get multiple quotes for your project."
 }

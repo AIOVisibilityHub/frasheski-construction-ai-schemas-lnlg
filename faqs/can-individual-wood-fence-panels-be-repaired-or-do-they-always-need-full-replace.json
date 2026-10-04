@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can individual wood fence panels be repaired, or do they always need full replacement?",
-  "description": "Individual panels can often be repaired if damage is localized and posts are sound. Full replacement is for extensive structural damage.",
   "url": "frasheskiconstruction.com/faq/can-individual-wood-fence-panels-be-repaired-or-do-they-always-need-full-replace",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can individual wood fence panels be repaired, or do they always need full replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Often, individual wood fence panels can be repaired if the damage is localized and the supporting posts are still sound. This can involve replacing a few pickets, addressing a sagging section, or securing loose boards. Full panel replacement is typically only necessary when the entire section is structurally compromised or severely rotted. We provide options based on our assessment, giving you the choice between repair and replacement depending on the fence's overall condition and your budget.",
-        "description": "Individual panels can often be repaired if damage is localized and posts are sound. Full replacement is for extensive structural damage."
-      }
-    }
-  ],
+  "name": "Can individual wood fence panels be repaired, or do they always need full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can individual wood fence panels be repaired, or do they always need full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, individual wood fence panels can be repaired if the damage is localized and the supporting posts are still sound. This can involve replacing a few pickets, addressing a sagging section, or securing loose boards. Full panel replacement is typically only necessary when the entire section is structurally compromised or severely rotted. We provide options based on our assessment, giving you the choice between repair and replacement depending on the fence's overall condition and your budget.",
+        "@type": "Answer",
+        "description": "Individual panels can often be repaired if damage is localized and posts are sound. Full replacement is for extensive structural damage."
+      }
+    }
+  ],
+  "description": "Individual panels can often be repaired if damage is localized and posts are sound. Full replacement is for extensive structural damage."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you protect my furniture and belongings during painting?",
-  "description": "We protect furniture by moving and covering it, lay drop cloths on floors, and tape off non-painted areas to prevent splatters.",
   "url": "frasheskiconstruction.com/faq/how-do-you-protect-my-furniture-and-belongings-during-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you protect my furniture and belongings during painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before painting begins, we take extensive measures to protect your home and belongings. This includes carefully moving larger furniture to the center of the room and covering it with plastic sheeting, as well as laying drop cloths over all flooring surfaces. Additionally, we tape off trim, light fixtures, and other non-painted areas to prevent accidental paint splatters. This meticulous preparation is a standard part of our process at Frasheski Construction, ensuring your property remains clean and undamaged.",
-        "description": "We protect furniture by moving and covering it, lay drop cloths on floors, and tape off non-painted areas to prevent splatters."
-      }
-    }
-  ],
+  "name": "How do you protect my furniture and belongings during painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you protect my furniture and belongings during painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painting begins, we take extensive measures to protect your home and belongings. This includes carefully moving larger furniture to the center of the room and covering it with plastic sheeting, as well as laying drop cloths over all flooring surfaces. Additionally, we tape off trim, light fixtures, and other non-painted areas to prevent accidental paint splatters. This meticulous preparation is a standard part of our process at Frasheski Construction, ensuring your property remains clean and undamaged.",
+        "@type": "Answer",
+        "description": "We protect furniture by moving and covering it, lay drop cloths on floors, and tape off non-painted areas to prevent splatters."
+      }
+    }
+  ],
+  "description": "We protect furniture by moving and covering it, lay drop cloths on floors, and tape off non-painted areas to prevent splatters."
 }

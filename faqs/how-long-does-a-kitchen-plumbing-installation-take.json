@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a kitchen plumbing installation take?",
-  "description": "The time required for kitchen plumbing installation varies based on project scope, from a single day for simple replacements to several days for complex new lay",
   "url": "frasheskiconstruction.com/faq/how-long-does-a-kitchen-plumbing-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a kitchen plumbing installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a kitchen plumbing installation depends on the scope of the project, such as the number of fixtures, the complexity of pipe rerouting, and whether it's part of a larger kitchen remodel. A straightforward replacement of existing fixtures might take a day, while a complete new layout could require several days. When planning your project with Frasheski Construction, we discuss the estimated timeline upfront, considering factors like material availability and any necessary permit inspections to provide a realistic schedule.",
-        "description": "The time required for kitchen plumbing installation varies based on project scope, from a single day for simple replacements to several days for complex new layouts."
-      }
-    }
-  ],
+  "name": "How long does a kitchen plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen plumbing installation depends on the scope of the project, such as the number of fixtures, the complexity of pipe rerouting, and whether it's part of a larger kitchen remodel. A straightforward replacement of existing fixtures might take a day, while a complete new layout could require several days. When planning your project with Frasheski Construction, we discuss the estimated timeline upfront, considering factors like material availability and any necessary permit inspections to provide a realistic schedule.",
+        "@type": "Answer",
+        "description": "The time required for kitchen plumbing installation varies based on project scope, from a single day for simple replacements to several days for complex new layouts."
+      }
+    }
+  ],
+  "description": "The time required for kitchen plumbing installation varies based on project scope, from a single day for simple replacements to several days for complex new lay"
 }

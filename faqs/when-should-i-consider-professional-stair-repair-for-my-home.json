@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider professional stair repair for my home?",
-  "description": "Consider professional stair repair for loose treads, wobbly handrails, structural cracks, or excessive wear that compromises safety.",
   "url": "frasheskiconstruction.com/faq/when-should-i-consider-professional-stair-repair-for-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider professional stair repair for my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider professional stair repair when you notice significant issues like loose treads, wobbly handrails, structural cracks, or excessive wear that compromises safety. Minor cosmetic issues might be manageable with DIY, but anything affecting stability or structural integrity requires expert assessment. Frasheski Construction serves the Berkeley, East Bay, Oakland, Albany, and El Cerrito areas, providing professional evaluation to determine the best course of action for your stairs.",
-        "description": "Consider professional stair repair for loose treads, wobbly handrails, structural cracks, or excessive wear that compromises safety."
-      }
-    }
-  ],
+  "name": "When should I consider professional stair repair for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional stair repair for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional stair repair when you notice significant issues like loose treads, wobbly handrails, structural cracks, or excessive wear that compromises safety. Minor cosmetic issues might be manageable with DIY, but anything affecting stability or structural integrity requires expert assessment. Frasheski Construction serves the Berkeley, East Bay, Oakland, Albany, and El Cerrito areas, providing professional evaluation to determine the best course of action for your stairs.",
+        "@type": "Answer",
+        "description": "Consider professional stair repair for loose treads, wobbly handrails, structural cracks, or excessive wear that compromises safety."
+      }
+    }
+  ],
+  "description": "Consider professional stair repair for loose treads, wobbly handrails, structural cracks, or excessive wear that compromises safety."
 }

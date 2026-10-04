@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the typical process for a room painting project?",
-  "description": "The process includes consultation, preparation (protection, cleaning, repairs), priming, two paint coats, cleanup, and final inspection.",
   "url": "frasheskiconstruction.com/faq/what-s-the-typical-process-for-a-room-painting-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the typical process for a room painting project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our room painting process generally begins with a consultation and estimate, followed by scheduling. Before painting, we prepare the room by protecting surfaces, cleaning walls, and making necessary minor repairs. Next, we apply primer if needed, then two coats of high-quality paint, allowing for adequate drying time between coats. Finally, we conduct a thorough cleanup and a walk-through inspection with you to ensure satisfaction. This structured approach helps ensure a high-quality finish and minimize disruption to your home.",
-        "description": "The process includes consultation, preparation (protection, cleaning, repairs), priming, two paint coats, cleanup, and final inspection."
-      }
-    }
-  ],
+  "name": "What's the typical process for a room painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the typical process for a room painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our room painting process generally begins with a consultation and estimate, followed by scheduling. Before painting, we prepare the room by protecting surfaces, cleaning walls, and making necessary minor repairs. Next, we apply primer if needed, then two coats of high-quality paint, allowing for adequate drying time between coats. Finally, we conduct a thorough cleanup and a walk-through inspection with you to ensure satisfaction. This structured approach helps ensure a high-quality finish and minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "The process includes consultation, preparation (protection, cleaning, repairs), priming, two paint coats, cleanup, and final inspection."
+      }
+    }
+  ],
+  "description": "The process includes consultation, preparation (protection, cleaning, repairs), priming, two paint coats, cleanup, and final inspection."
 }
