@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:39:05.297Z",
+  "generatedAt": "2026-10-04T00:39:18.461Z",
   "client": {
     "name": "Law Office of Angelo J. Reyes, APC",
     "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
@@ -169,7 +169,7 @@
   },
   "package": {
     "totalFiles": 512,
-    "totalBytes": 3266942,
+    "totalBytes": 3183197,
     "stats": {
       "qna": 0,
       "faqs": 112,
@@ -2638,72 +2638,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20733,
+        "bytes": 14572,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 38821,
+        "bytes": 32809,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 96480,
+        "bytes": 90330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18820,
+        "bytes": 12926,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 122215,
+        "bytes": 116321,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 20131,
+        "bytes": 14212,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23399,
+        "bytes": 17404,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 27393,
+        "bytes": 21539,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 222321,
+        "bytes": 216383,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 285079,
+        "bytes": 279071,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 84145,
+        "bytes": 78166,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 170484,
+        "bytes": 164469,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 54242,
+        "bytes": 48333,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 33467,
+        "bytes": 27450,
         "purpose": "LLM-optimized public page"
       }
     ],
