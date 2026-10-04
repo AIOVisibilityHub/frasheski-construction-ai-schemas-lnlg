@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in a full bathroom renovation?",
-  "description": "A full bathroom renovation updates or replaces major elements like flooring, fixtures, and finishes, potentially reconfiguring the layout. The scope varies base",
   "url": "frasheskiconstruction.com/faq/what-is-included-in-a-full-bathroom-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in a full bathroom renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A full bathroom renovation typically involves replacing or updating major elements such as flooring, wall finishes, plumbing fixtures (toilet, sink, shower/tub), and lighting. It can also include reconfiguring the layout, upgrading ventilation, and installing new cabinetry or storage solutions. The exact scope depends on the existing condition and your desired changes, ranging from cosmetic updates to a complete tear-down and rebuild.",
-        "description": "A full bathroom renovation updates or replaces major elements like flooring, fixtures, and finishes, potentially reconfiguring the layout. The scope varies based on existing conditions and desired changes."
-      }
-    }
-  ],
+  "name": "What is included in a full bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a full bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full bathroom renovation typically involves replacing or updating major elements such as flooring, wall finishes, plumbing fixtures (toilet, sink, shower/tub), and lighting. It can also include reconfiguring the layout, upgrading ventilation, and installing new cabinetry or storage solutions. The exact scope depends on the existing condition and your desired changes, ranging from cosmetic updates to a complete tear-down and rebuild.",
+        "@type": "Answer",
+        "description": "A full bathroom renovation updates or replaces major elements like flooring, fixtures, and finishes, potentially reconfiguring the layout. The scope varies based on existing conditions and desired changes."
+      }
+    }
+  ],
+  "description": "A full bathroom renovation updates or replaces major elements like flooring, fixtures, and finishes, potentially reconfiguring the layout. The scope varies base"
 }
