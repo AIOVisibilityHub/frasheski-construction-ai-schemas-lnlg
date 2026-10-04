@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:30:30.721Z",
+  "generatedAt": "2026-10-04T00:33:33.297Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -10,21 +10,21 @@
   "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
   "notALinkWheel": true,
   "entity": {
-    "name": "Frasheski Construction",
-    "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
-    "primaryWebsiteUrl": "frasheskiconstruction.com",
-    "aiDataHub": "https://frasheski-construction.aiovisibility.net/ai-data.html"
+    "name": "Hometelligent Inc.",
+    "canonicalUrl": "https://hometelligentinc.aiovisibility.net",
+    "primaryWebsiteUrl": "https://hometelligentinc.com",
+    "aiDataHub": "https://hometelligentinc.aiovisibility.net/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
-      "label": "Frasheski Construction — canonical website",
-      "url": "https://frasheski-construction.aiovisibility.net"
+      "label": "Hometelligent Inc. — canonical website",
+      "url": "https://hometelligentinc.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
-      "label": "Frasheski Construction — AI Data Hub",
-      "url": "https://frasheski-construction.aiovisibility.net/ai-data.html"
+      "label": "Hometelligent Inc. — AI Data Hub",
+      "url": "https://hometelligentinc.aiovisibility.net/ai-data.html"
     },
     {
       "role": "mirror-repo",

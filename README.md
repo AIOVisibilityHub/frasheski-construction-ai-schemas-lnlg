@@ -1,8 +1,8 @@
-# Frasheski Construction — AI Data Package
+# Hometelligent Inc. — AI Data Package
 
-Canonical AI Data Package for Frasheski Construction.
+Canonical AI Data Package for Hometelligent Inc..
 
-- Canonical: https://frasheski-construction.aiovisibility.net
+- Canonical: https://hometelligentinc.aiovisibility.net
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
 
@@ -19,8 +19,8 @@ Canonical AI Data Package for Frasheski Construction.
 - **2719** total
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Frasheski Construction — canonical website — https://frasheski-construction.aiovisibility.net
-- [ai-data-hub] Frasheski Construction — AI Data Hub — https://frasheski-construction.aiovisibility.net/ai-data.html
+- [canonical] Hometelligent Inc. — canonical website — https://hometelligentinc.aiovisibility.net
+- [ai-data-hub] Hometelligent Inc. — AI Data Hub — https://hometelligentinc.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg
 - [mirror-pages] GitHub — AI Data Hub mirror — https://frasheski-construction.aiovisibility.net/ai-data.html
 

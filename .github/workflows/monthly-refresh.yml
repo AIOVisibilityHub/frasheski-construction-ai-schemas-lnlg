@@ -21,11 +21,11 @@ jobs:
           git config user.name 'Schema Publisher'
           git config user.email 'noreply@schema.publisher'
           git add -A
-          git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Frasheski Construction' && git push)
+          git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Hometelligent Inc.' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://frasheski-construction.aiovisibility.net"
-          KEY="4ff1c084b0b798fa1c19e9286a68c2c5"
+          SITE="https://hometelligentinc.aiovisibility.net"
+          KEY="ddedf132c6d852aa0b133de998c19225"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)
