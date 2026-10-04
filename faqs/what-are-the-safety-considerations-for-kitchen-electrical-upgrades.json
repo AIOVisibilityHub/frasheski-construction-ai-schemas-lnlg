@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the safety considerations for kitchen electrical upgrades?",
-  "description": "Safety for kitchen electrical upgrades means proper grounding, GFCI outlets near water, and matching wiring to appliance loads, all per electrical codes.",
   "url": "frasheskiconstruction.com/faq/what-are-the-safety-considerations-for-kitchen-electrical-upgrades",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the safety considerations for kitchen electrical upgrades?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key safety considerations for kitchen electrical upgrades include ensuring proper grounding, installing GFCI outlets near water sources, and verifying that wiring capacity matches appliance loads. All work must comply with current electrical codes to prevent fire hazards and electrical shocks. A first-party insight from Frasheski Construction is that we prioritize thorough assessments of existing wiring and panel capacity, especially in older East Bay homes, to address potential hidden hazards before any new installations begin, ensuring a safe and reliable system.",
-        "description": "Safety for kitchen electrical upgrades means proper grounding, GFCI outlets near water, and matching wiring to appliance loads, all per electrical codes."
-      }
-    }
-  ],
+  "name": "What are the safety considerations for kitchen electrical upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the safety considerations for kitchen electrical upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key safety considerations for kitchen electrical upgrades include ensuring proper grounding, installing GFCI outlets near water sources, and verifying that wiring capacity matches appliance loads. All work must comply with current electrical codes to prevent fire hazards and electrical shocks. A first-party insight from Frasheski Construction is that we prioritize thorough assessments of existing wiring and panel capacity, especially in older East Bay homes, to address potential hidden hazards before any new installations begin, ensuring a safe and reliable system.",
+        "@type": "Answer",
+        "description": "Safety for kitchen electrical upgrades means proper grounding, GFCI outlets near water, and matching wiring to appliance loads, all per electrical codes."
+      }
+    }
+  ],
+  "description": "Safety for kitchen electrical upgrades means proper grounding, GFCI outlets near water, and matching wiring to appliance loads, all per electrical codes."
 }

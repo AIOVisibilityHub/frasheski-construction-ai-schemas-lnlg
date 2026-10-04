@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common challenges in appliance area preparation, and how can they be avoided?",
-  "description": "Common challenges like incorrect utility placements or insufficient space can be avoided with thorough planning, precise measurements, and early contractor comm",
   "url": "frasheskiconstruction.com/faq/what-are-common-challenges-in-appliance-area-preparation-and-how-can-they-be-avo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common challenges in appliance area preparation, and how can they be avoided?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges include incorrect utility placements, insufficient space, or inadequate structural support. These issues can lead to installation delays, appliance damage, or the need for costly modifications. To avoid them, thorough planning, precise measurements, and early communication with your contractor are key. Frasheski Construction emphasizes detailed planning during the initial stages, utilizing our experience in Berkeley and Oakland to identify potential issues before they arise, ensuring a smoother project flow.",
-        "description": "Common challenges like incorrect utility placements or insufficient space can be avoided with thorough planning, precise measurements, and early contractor communication."
-      }
-    }
-  ],
+  "name": "What are common challenges in appliance area preparation, and how can they be avoided?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in appliance area preparation, and how can they be avoided?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include incorrect utility placements, insufficient space, or inadequate structural support. These issues can lead to installation delays, appliance damage, or the need for costly modifications. To avoid them, thorough planning, precise measurements, and early communication with your contractor are key. Frasheski Construction emphasizes detailed planning during the initial stages, utilizing our experience in Berkeley and Oakland to identify potential issues before they arise, ensuring a smoother project flow.",
+        "@type": "Answer",
+        "description": "Common challenges like incorrect utility placements or insufficient space can be avoided with thorough planning, precise measurements, and early contractor communication."
+      }
+    }
+  ],
+  "description": "Common challenges like incorrect utility placements or insufficient space can be avoided with thorough planning, precise measurements, and early contractor comm"
 }

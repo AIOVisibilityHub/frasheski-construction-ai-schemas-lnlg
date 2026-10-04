@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does countertop installation coordination typically take?",
-  "description": "Countertop installation coordination typically takes 2-4 weeks, depending on material availability and project complexity, with custom materials often requiring",
   "url": "frasheskiconstruction.com/faq/how-long-does-countertop-installation-coordination-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does countertop installation coordination typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of countertop installation coordination varies depending on the countertop material, availability, and the complexity of your project. Typically, from initial template creation to final installation, the process can range from 2 to 4 weeks. Custom materials like natural stone or specialty fabrications often require more lead time. Frasheski Construction prioritizes clear communication about these timelines, ensuring you are informed about each phase and any potential scheduling impacts on your overall renovation.",
-        "description": "Countertop installation coordination typically takes 2-4 weeks, depending on material availability and project complexity, with custom materials often requiring more lead time."
-      }
-    }
-  ],
+  "name": "How long does countertop installation coordination typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does countertop installation coordination typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of countertop installation coordination varies depending on the countertop material, availability, and the complexity of your project. Typically, from initial template creation to final installation, the process can range from 2 to 4 weeks. Custom materials like natural stone or specialty fabrications often require more lead time. Frasheski Construction prioritizes clear communication about these timelines, ensuring you are informed about each phase and any potential scheduling impacts on your overall renovation.",
+        "@type": "Answer",
+        "description": "Countertop installation coordination typically takes 2-4 weeks, depending on material availability and project complexity, with custom materials often requiring more lead time."
+      }
+    }
+  ],
+  "description": "Countertop installation coordination typically takes 2-4 weeks, depending on material availability and project complexity, with custom materials often requiring"
 }

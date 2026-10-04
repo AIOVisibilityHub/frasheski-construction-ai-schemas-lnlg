@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What permits are required for kitchen plumbing upgrades in the East Bay area?",
-  "description": "Permits are generally needed for major changes like sink relocation or new drain lines, but not for minor repairs. Frasheski Construction manages permit applica",
   "url": "frasheskiconstruction.com/faq/what-permits-are-required-for-kitchen-plumbing-upgrades-in-the-east-bay-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What permits are required for kitchen plumbing upgrades in the East Bay area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permit requirements for kitchen plumbing upgrades in the East Bay area, including Berkeley, Oakland, and Albany, depend on the scope of work. Minor repairs like faucet replacement usually don't require a permit. However, significant alterations such as relocating a sink, installing new drain lines, or making substantial changes to your home's water supply system typically do. Frasheski Construction handles all necessary permit applications and ensures compliance with local building codes for your specific project.",
-        "description": "Permits are generally needed for major changes like sink relocation or new drain lines, but not for minor repairs. Frasheski Construction manages permit applications."
-      }
-    }
-  ],
+  "name": "What permits are required for kitchen plumbing upgrades in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for kitchen plumbing upgrades in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for kitchen plumbing upgrades in the East Bay area, including Berkeley, Oakland, and Albany, depend on the scope of work. Minor repairs like faucet replacement usually don't require a permit. However, significant alterations such as relocating a sink, installing new drain lines, or making substantial changes to your home's water supply system typically do. Frasheski Construction handles all necessary permit applications and ensures compliance with local building codes for your specific project.",
+        "@type": "Answer",
+        "description": "Permits are generally needed for major changes like sink relocation or new drain lines, but not for minor repairs. Frasheski Construction manages permit applications."
+      }
+    }
+  ],
+  "description": "Permits are generally needed for major changes like sink relocation or new drain lines, but not for minor repairs. Frasheski Construction manages permit applica"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a punch list in construction?",
-  "description": "A punch list is a document listing minor work items remaining at the end of a construction project, ensuring all agreed-upon tasks are completed to satisfaction",
   "url": "frasheskiconstruction.com/faq/what-is-a-punch-list-in-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a punch list in construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A punch list is a document generated near the end of a construction project that itemizes work not conforming to contract documents, often minor in nature, which the contractor must complete before final payment. It ensures all agreed-upon work is finished to satisfaction. For Frasheski Construction, this means a final walk-through with the client to identify any remaining items that need attention, from small cosmetic fixes to minor adjustments, ensuring the project aligns with the client's vision and our quality standards before project closure.",
-        "description": "A punch list is a document listing minor work items remaining at the end of a construction project, ensuring all agreed-upon tasks are completed to satisfaction."
-      }
-    }
-  ],
+  "name": "What is a punch list in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a punch list in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list is a document generated near the end of a construction project that itemizes work not conforming to contract documents, often minor in nature, which the contractor must complete before final payment. It ensures all agreed-upon work is finished to satisfaction. For Frasheski Construction, this means a final walk-through with the client to identify any remaining items that need attention, from small cosmetic fixes to minor adjustments, ensuring the project aligns with the client's vision and our quality standards before project closure.",
+        "@type": "Answer",
+        "description": "A punch list is a document listing minor work items remaining at the end of a construction project, ensuring all agreed-upon tasks are completed to satisfaction."
+      }
+    }
+  ],
+  "description": "A punch list is a document listing minor work items remaining at the end of a construction project, ensuring all agreed-upon tasks are completed to satisfaction"
 }

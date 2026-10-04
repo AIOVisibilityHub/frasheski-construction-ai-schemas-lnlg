@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some common challenges during a kitchen remodel?",
-  "description": "Challenges like unexpected structural issues, material delays, or budget overruns are common. Thorough planning and communication help mitigate these.",
   "url": "frasheskiconstruction.com/faq/what-are-some-common-challenges-during-a-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some common challenges during a kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common challenges during a kitchen remodel can include unexpected structural issues uncovered during demolition, delays in material delivery, or budget overruns if initial planning isn't thorough. Coordinating multiple trades (plumbers, electricians, cabinet installers) also requires careful management. We address these by performing thorough pre-construction assessments, maintaining clear communication with suppliers, and having contingency plans. Our experience in the East Bay allows us to anticipate and mitigate local project complexities.",
-        "description": "Challenges like unexpected structural issues, material delays, or budget overruns are common. Thorough planning and communication help mitigate these."
-      }
-    }
-  ],
+  "name": "What are some common challenges during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common challenges during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during a kitchen remodel can include unexpected structural issues uncovered during demolition, delays in material delivery, or budget overruns if initial planning isn't thorough. Coordinating multiple trades (plumbers, electricians, cabinet installers) also requires careful management. We address these by performing thorough pre-construction assessments, maintaining clear communication with suppliers, and having contingency plans. Our experience in the East Bay allows us to anticipate and mitigate local project complexities.",
+        "@type": "Answer",
+        "description": "Challenges like unexpected structural issues, material delays, or budget overruns are common. Thorough planning and communication help mitigate these."
+      }
+    }
+  ],
+  "description": "Challenges like unexpected structural issues, material delays, or budget overruns are common. Thorough planning and communication help mitigate these."
 }
