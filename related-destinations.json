@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-05T23:14:33.532Z",
+  "generatedAt": "2026-10-05T23:18:55.962Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,6 +37,66 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://frasheski-construction.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/frasheski-construction-ai-schemas-47wh"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://frasheski-construction-ai-schemas-47wh-093e43.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "huggingface",
+      "label": "Hugging Face repository",
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/frasheski-construction-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "huggingface",
+      "label": "Hugging Face — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub-frasheski-construction-ai-schemas.static.hf.space/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "codeberg",
+      "label": "Codeberg repository",
+      "url": "https://codeberg.org/aiovisibilityhub/frasheski-construction-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "codeberg",
+      "label": "Codeberg — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.codeberg.page/frasheski-construction-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/frasheski-construction-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/23173882"
     }
   ],
   "destinations": {
@@ -44,6 +104,30 @@
       "url": "https://github.com/AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg",
       "pagesUrl": "https://frasheski-construction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/frasheski-construction-ai-schemas-lnlg"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/frasheski-construction-ai-schemas-47wh",
+      "pagesUrl": "https://frasheski-construction-ai-schemas-47wh-093e43.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/frasheski-construction-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-frasheski-construction-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/frasheski-construction-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/frasheski-construction-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/frasheski-construction-ai-schemas/",
+      "repo": "aiovisibilityhub/frasheski-construction-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/frasheski-construction-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23173882"
     }
   }
 }
