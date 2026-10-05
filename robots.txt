@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://angeloreyeslaw.aiovisibility.net/sitemap.xml
-Sitemap: https://angeloreyeslaw.aiovisibility.net/ai-sitemap.xml
+Sitemap: https://frasheski-construction.aiovisibility.net/sitemap.xml
+Sitemap: https://frasheski-construction.aiovisibility.net/ai-sitemap.xml

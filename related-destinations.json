@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:39:18.457Z",
+  "generatedAt": "2026-10-05T23:14:07.081Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -10,21 +10,21 @@
   "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
   "notALinkWheel": true,
   "entity": {
-    "name": "Law Office of Angelo J. Reyes, APC",
-    "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
-    "primaryWebsiteUrl": "https://www.angeloreyeslaw.com",
-    "aiDataHub": "https://angeloreyeslaw.aiovisibility.net/ai-data.html"
+    "name": "Frasheski Construction",
+    "canonicalUrl": "https://frasheski-construction.aiovisibility.net",
+    "primaryWebsiteUrl": "frasheskiconstruction.com",
+    "aiDataHub": "https://frasheski-construction.aiovisibility.net/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
-      "label": "Law Office of Angelo J. Reyes, APC — canonical website",
-      "url": "https://angeloreyeslaw.aiovisibility.net"
+      "label": "Frasheski Construction — canonical website",
+      "url": "https://frasheski-construction.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
-      "label": "Law Office of Angelo J. Reyes, APC — AI Data Hub",
-      "url": "https://angeloreyeslaw.aiovisibility.net/ai-data.html"
+      "label": "Frasheski Construction — AI Data Hub",
+      "url": "https://frasheski-construction.aiovisibility.net/ai-data.html"
     },
     {
       "role": "mirror-repo",
