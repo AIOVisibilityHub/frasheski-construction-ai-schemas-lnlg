@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Services — Frasheski Construction</title>
-<meta name="description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Addition plumbing and electrical coordination, Appliance installation coordination, Appliance-area preparation and installation coordination, Backsplash installation.">
+<meta name="description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Backsplash installation, Bathroom electrical and lighting upgrades, Bathroom painting, Bathroom plumbing installation.">
 <style>
 body{font-family:system-ui,-apple-system,sans-serif;max-width:900px;margin:0 auto;padding:2rem 1.5rem;color:#1a1a2e;line-height:1.7}
 h1{border-bottom:2px solid #222;padding-bottom:.4rem}
@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -48,7 +56,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "item": {
         "@type": "Service",
         "name": "Accessibility-minded bathroom modifications",
-        "category": "Services",
+        "category": "Remodeling",
         "description": "Planning and construction support for accessibility-minded bathroom modifications projects, subject to project scope, availability, and the approved service area.",
         "provider": {
           "@type": "Organization",
@@ -62,9 +70,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "position": 2,
       "item": {
         "@type": "Service",
-        "name": "Addition plumbing and electrical coordination",
-        "category": "Services",
-        "description": "Planning and construction support for addition plumbing and electrical coordination projects, subject to project scope, availability, and the approved service area.",
+        "name": "Backsplash installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for backsplash installation, subject to site conditions, approved scope, availability, and service area.",
         "provider": {
           "@type": "Organization",
           "name": "Frasheski Construction",
@@ -75,6 +83,1041 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     {
       "@type": "ListItem",
       "position": 3,
+      "item": {
+        "@type": "Service",
+        "name": "Bathroom electrical and lighting upgrades",
+        "category": "Remodeling",
+        "description": "Planning and construction support for bathroom electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Service",
+        "name": "Bathroom painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for bathroom painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Service",
+        "name": "Bathroom plumbing installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for bathroom plumbing installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Service",
+        "name": "Bathroom plumbing work",
+        "category": "Remodeling",
+        "description": "Planning and construction support for bathroom plumbing work projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Service",
+        "name": "Bathroom Remodeling",
+        "category": "Remodeling",
+        "description": "Planning and construction support for bathroom remodeling projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Service",
+        "name": "Bathroom vanity/cabinet upgrades",
+        "category": "Remodeling",
+        "description": "Planning and construction support for bathroom vanity/cabinet upgrades projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Service",
+        "name": "Cabinet installation",
+        "category": "Remodeling",
+        "description": "Frasheski Construction provides Cabinet Installation in Berkeley, East Bay Area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Service",
+        "name": "Cabinet installation coordination",
+        "category": "Remodeling",
+        "description": "Planning and project support for cabinet installation coordination, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Service",
+        "name": "Cabinet repair",
+        "category": "Remodeling",
+        "description": "Assessment and project support for cabinet repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Service",
+        "name": "Cabinet repair and refinishing",
+        "category": "Remodeling",
+        "description": "Assessment and project support for cabinet repair and refinishing, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Service",
+        "name": "Cabinet Services",
+        "category": "Remodeling",
+        "description": "Planning and construction support for cabinet services projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Service",
+        "name": "Countertop installation coordination",
+        "category": "Remodeling",
+        "description": "Planning and project support for countertop installation coordination, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Service",
+        "name": "Countertop replacement",
+        "category": "Remodeling",
+        "description": "Assessment and project support for countertop replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Service",
+        "name": "Custom-fit cabinet solutions",
+        "category": "Remodeling",
+        "description": "Planning and construction support for custom-fit cabinet solutions projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "Service",
+        "name": "Flooring installation coordination",
+        "category": "Remodeling",
+        "description": "Planning and project support for flooring installation coordination, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "Service",
+        "name": "Full bathroom renovations",
+        "category": "Remodeling",
+        "description": "Planning and construction support for full bathroom renovations projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "Service",
+        "name": "Full kitchen renovations",
+        "category": "Remodeling",
+        "description": "Planning and construction support for full kitchen renovations projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "Service",
+        "name": "Home additions",
+        "category": "Remodeling",
+        "description": "Planning and construction support for home additions projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "Service",
+        "name": "Home Remodeling",
+        "category": "Remodeling",
+        "description": "Frasheski Construction provides Home Remodeling in Berkeley, East Bay Area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "Service",
+        "name": "Interior build-outs",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior build-outs projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "Service",
+        "name": "Interior home renovations",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior home renovations projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "Service",
+        "name": "Interior Painting",
+        "category": "Remodeling",
+        "description": "Frasheski Construction provides Interior Painting in Berkeley, East Bay Area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "Service",
+        "name": "Interior painting and finishing",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior painting and finishing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "Service",
+        "name": "Interior painting coordination",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior painting coordination projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen and bathroom lighting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for kitchen and bathroom lighting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen cabinet upgrades",
+        "category": "Remodeling",
+        "description": "Planning and construction support for kitchen cabinet upgrades projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen design and layout improvements",
+        "category": "Remodeling",
+        "description": "Planning and construction support for kitchen design and layout improvements projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen electrical and lighting upgrades",
+        "category": "Remodeling",
+        "description": "Planning and construction support for kitchen electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for kitchen painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen plumbing installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for kitchen plumbing installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen plumbing upgrades",
+        "category": "Remodeling",
+        "description": "Planning and construction support for kitchen plumbing upgrades projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen Remodeling",
+        "category": "Remodeling",
+        "description": "Frasheski Construction provides Kitchen Remodeling in Berkeley, East Bay Area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "Service",
+        "name": "Multi-room remodeling",
+        "category": "Remodeling",
+        "description": "Planning and construction support for multi-room remodeling projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "Service",
+        "name": "New-room construction",
+        "category": "Remodeling",
+        "description": "Planning and construction support for new-room construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "@type": "Service",
+        "name": "Outdated-room modernization",
+        "category": "Remodeling",
+        "description": "Planning and construction support for outdated-room modernization projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "@type": "Service",
+        "name": "Paint and finish work",
+        "category": "Remodeling",
+        "description": "Planning and construction support for paint and finish work projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "@type": "Service",
+        "name": "Painting and finishing for additions",
+        "category": "Remodeling",
+        "description": "Planning and construction support for painting and finishing for additions projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "item": {
+        "@type": "Service",
+        "name": "Post-remodel finish painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for post-remodel finish painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "item": {
+        "@type": "Service",
+        "name": "Room Additions",
+        "category": "Remodeling",
+        "description": "Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "item": {
+        "@type": "Service",
+        "name": "Room expansions",
+        "category": "Remodeling",
+        "description": "Planning and construction support for room expansions projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "item": {
+        "@type": "Service",
+        "name": "Room painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for room painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "item": {
+        "@type": "Service",
+        "name": "Shower and tub upgrades",
+        "category": "Remodeling",
+        "description": "Planning and construction support for shower and tub upgrades projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "item": {
+        "@type": "Service",
+        "name": "Tile and surface updates",
+        "category": "Remodeling",
+        "description": "Planning and construction support for tile and surface updates projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "item": {
+        "@type": "Service",
+        "name": "Tile installation coordination",
+        "category": "Remodeling",
+        "description": "Planning and project support for tile installation coordination, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "item": {
+        "@type": "Service",
+        "name": "Trim and detail painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for trim and detail painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "item": {
+        "@type": "Service",
+        "name": "Vanity and cabinet installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for vanity and cabinet installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "item": {
+        "@type": "Service",
+        "name": "Whole-home interior painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for whole-home interior painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 50,
+      "item": {
+        "@type": "Service",
+        "name": "Deck board replacement",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for deck board replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 51,
+      "item": {
+        "@type": "Service",
+        "name": "Deck maintenance improvements",
+        "category": "Outdoor Living",
+        "description": "Maintenance support for deck maintenance improvements, subject to system condition, requested scope, availability, and approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 52,
+      "item": {
+        "@type": "Service",
+        "name": "Deck Repair",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for deck repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 53,
+      "item": {
+        "@type": "Service",
+        "name": "Deck structural repairs",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for deck structural repairs, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 54,
+      "item": {
+        "@type": "Service",
+        "name": "Fence stability restoration",
+        "category": "Outdoor Living",
+        "description": "Planning and construction support for fence stability restoration projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 55,
+      "item": {
+        "@type": "Service",
+        "name": "Fence-post repair",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for fence-post repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 56,
+      "item": {
+        "@type": "Service",
+        "name": "Gate repair",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for gate repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 57,
+      "item": {
+        "@type": "Service",
+        "name": "Wood Fence Repair",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for wood fence repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 58,
+      "item": {
+        "@type": "Service",
+        "name": "Wood fence-panel repair",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for wood fence-panel repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 59,
+      "item": {
+        "@type": "Service",
+        "name": "Door and hardware installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for door and hardware installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 60,
+      "item": {
+        "@type": "Service",
+        "name": "Appliance-area preparation and installation coordination",
+        "category": "Construction",
+        "description": "Planning and project support for appliance-area preparation and installation coordination, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 61,
+      "item": {
+        "@type": "Service",
+        "name": "Functional layout improvements",
+        "category": "Construction",
+        "description": "Planning and construction support for functional layout improvements projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 62,
+      "item": {
+        "@type": "Service",
+        "name": "Addition plumbing and electrical coordination",
+        "category": "Electrical and Plumbing",
+        "description": "Planning and construction support for addition plumbing and electrical coordination projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
+      "item": {
+        "@type": "Service",
+        "name": "Electrical coordination",
+        "category": "Electrical and Plumbing",
+        "description": "Planning and construction support for electrical coordination projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 64,
+      "item": {
+        "@type": "Service",
+        "name": "Electrical fixture installation",
+        "category": "Electrical and Plumbing",
+        "description": "Planning and project support for electrical fixture installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 65,
+      "item": {
+        "@type": "Service",
+        "name": "Plumbing and Electrical",
+        "category": "Electrical and Plumbing",
+        "description": "Planning and construction support for plumbing and electrical projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 66,
+      "item": {
+        "@type": "Service",
+        "name": "Plumbing coordination",
+        "category": "Electrical and Plumbing",
+        "description": "Planning and construction support for plumbing coordination projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 67,
+      "item": {
+        "@type": "Service",
+        "name": "Remodel-related electrical work",
+        "category": "Electrical and Plumbing",
+        "description": "Planning and construction support for remodel-related electrical work projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 68,
+      "item": {
+        "@type": "Service",
+        "name": "Remodel-related plumbing",
+        "category": "Electrical and Plumbing",
+        "description": "Planning and construction support for remodel-related plumbing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 69,
+      "item": {
+        "@type": "Service",
+        "name": "Finish carpentry coordination",
+        "category": "Doors, Windows, and Finishes",
+        "description": "Planning and construction support for finish carpentry coordination projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 70,
+      "item": {
+        "@type": "Service",
+        "name": "Interior finish upgrades",
+        "category": "Doors, Windows, and Finishes",
+        "description": "Planning and construction support for interior finish upgrades projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 71,
+      "item": {
+        "@type": "Service",
+        "name": "Trim and molding installation",
+        "category": "Doors, Windows, and Finishes",
+        "description": "Planning and project support for trim and molding installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Frasheski Construction",
+          "url": "frasheskiconstruction.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 72,
       "item": {
         "@type": "Service",
         "name": "Appliance installation coordination",
@@ -89,202 +1132,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 4,
-      "item": {
-        "@type": "Service",
-        "name": "Appliance-area preparation and installation coordination",
-        "category": "Services",
-        "description": "Planning and project support for appliance-area preparation and installation coordination, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "item": {
-        "@type": "Service",
-        "name": "Backsplash installation",
-        "category": "Services",
-        "description": "Planning and project support for backsplash installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 6,
-      "item": {
-        "@type": "Service",
-        "name": "Bathroom electrical and lighting upgrades",
-        "category": "Services",
-        "description": "Planning and construction support for bathroom electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 7,
-      "item": {
-        "@type": "Service",
-        "name": "Bathroom painting",
-        "category": "Services",
-        "description": "Planning and construction support for bathroom painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 8,
-      "item": {
-        "@type": "Service",
-        "name": "Bathroom plumbing installation",
-        "category": "Services",
-        "description": "Planning and project support for bathroom plumbing installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 9,
-      "item": {
-        "@type": "Service",
-        "name": "Bathroom plumbing work",
-        "category": "Services",
-        "description": "Planning and construction support for bathroom plumbing work projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 10,
-      "item": {
-        "@type": "Service",
-        "name": "Bathroom Remodeling",
-        "category": "Services",
-        "description": "Planning and construction support for bathroom remodeling projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 11,
-      "item": {
-        "@type": "Service",
-        "name": "Bathroom vanity/cabinet upgrades",
-        "category": "Services",
-        "description": "Planning and construction support for bathroom vanity/cabinet upgrades projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 12,
-      "item": {
-        "@type": "Service",
-        "name": "Cabinet installation",
-        "category": "Services",
-        "description": "Frasheski Construction provides Cabinet Installation in Berkeley, East Bay Area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 13,
-      "item": {
-        "@type": "Service",
-        "name": "Cabinet installation coordination",
-        "category": "Services",
-        "description": "Planning and project support for cabinet installation coordination, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 14,
-      "item": {
-        "@type": "Service",
-        "name": "Cabinet repair",
-        "category": "Services",
-        "description": "Assessment and project support for cabinet repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 15,
-      "item": {
-        "@type": "Service",
-        "name": "Cabinet repair and refinishing",
-        "category": "Services",
-        "description": "Assessment and project support for cabinet repair and refinishing, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 16,
-      "item": {
-        "@type": "Service",
-        "name": "Cabinet Services",
-        "category": "Services",
-        "description": "Planning and construction support for cabinet services projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 17,
+      "position": 73,
       "item": {
         "@type": "Service",
         "name": "Complete remodeling project management",
@@ -299,52 +1147,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 18,
-      "item": {
-        "@type": "Service",
-        "name": "Countertop installation coordination",
-        "category": "Services",
-        "description": "Planning and project support for countertop installation coordination, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 19,
-      "item": {
-        "@type": "Service",
-        "name": "Countertop replacement",
-        "category": "Services",
-        "description": "Assessment and project support for countertop replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 20,
-      "item": {
-        "@type": "Service",
-        "name": "Custom-fit cabinet solutions",
-        "category": "Services",
-        "description": "Planning and construction support for custom-fit cabinet solutions projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 21,
+      "position": 74,
       "item": {
         "@type": "Service",
         "name": "Damaged-board replacement",
@@ -359,142 +1162,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 22,
-      "item": {
-        "@type": "Service",
-        "name": "Deck board replacement",
-        "category": "Services",
-        "description": "Assessment and project support for deck board replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 23,
-      "item": {
-        "@type": "Service",
-        "name": "Deck maintenance improvements",
-        "category": "Services",
-        "description": "Maintenance support for deck maintenance improvements, subject to system condition, requested scope, availability, and approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 24,
-      "item": {
-        "@type": "Service",
-        "name": "Deck Repair",
-        "category": "Services",
-        "description": "Assessment and project support for deck repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 25,
-      "item": {
-        "@type": "Service",
-        "name": "Deck structural repairs",
-        "category": "Services",
-        "description": "Assessment and project support for deck structural repairs, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 26,
-      "item": {
-        "@type": "Service",
-        "name": "Door and hardware installation",
-        "category": "Services",
-        "description": "Planning and project support for door and hardware installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 27,
-      "item": {
-        "@type": "Service",
-        "name": "Electrical coordination",
-        "category": "Services",
-        "description": "Planning and construction support for electrical coordination projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 28,
-      "item": {
-        "@type": "Service",
-        "name": "Electrical fixture installation",
-        "category": "Services",
-        "description": "Planning and project support for electrical fixture installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 29,
-      "item": {
-        "@type": "Service",
-        "name": "Fence stability restoration",
-        "category": "Services",
-        "description": "Planning and construction support for fence stability restoration projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 30,
-      "item": {
-        "@type": "Service",
-        "name": "Fence-post repair",
-        "category": "Services",
-        "description": "Assessment and project support for fence-post repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 31,
+      "position": 75,
       "item": {
         "@type": "Service",
         "name": "Final detail work",
@@ -509,7 +1177,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 32,
+      "position": 76,
       "item": {
         "@type": "Service",
         "name": "Final quality walkthrough",
@@ -524,22 +1192,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 33,
-      "item": {
-        "@type": "Service",
-        "name": "Finish carpentry coordination",
-        "category": "Services",
-        "description": "Planning and construction support for finish carpentry coordination projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 34,
+      "position": 77,
       "item": {
         "@type": "Service",
         "name": "Fixture installation coordination",
@@ -554,82 +1207,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 35,
-      "item": {
-        "@type": "Service",
-        "name": "Flooring installation coordination",
-        "category": "Services",
-        "description": "Planning and project support for flooring installation coordination, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 36,
-      "item": {
-        "@type": "Service",
-        "name": "Full bathroom renovations",
-        "category": "Services",
-        "description": "Planning and construction support for full bathroom renovations projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 37,
-      "item": {
-        "@type": "Service",
-        "name": "Full kitchen renovations",
-        "category": "Services",
-        "description": "Planning and construction support for full kitchen renovations projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 38,
-      "item": {
-        "@type": "Service",
-        "name": "Functional layout improvements",
-        "category": "Services",
-        "description": "Planning and construction support for functional layout improvements projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 39,
-      "item": {
-        "@type": "Service",
-        "name": "Gate repair",
-        "category": "Services",
-        "description": "Assessment and project support for gate repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 40,
+      "position": 78,
       "item": {
         "@type": "Service",
         "name": "Hardware and functional adjustments",
@@ -644,127 +1222,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 41,
-      "item": {
-        "@type": "Service",
-        "name": "Home additions",
-        "category": "Services",
-        "description": "Planning and construction support for home additions projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 42,
-      "item": {
-        "@type": "Service",
-        "name": "Home Remodeling",
-        "category": "Services",
-        "description": "Frasheski Construction provides Home Remodeling in Berkeley, East Bay Area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 43,
-      "item": {
-        "@type": "Service",
-        "name": "Interior build-outs",
-        "category": "Services",
-        "description": "Planning and construction support for interior build-outs projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 44,
-      "item": {
-        "@type": "Service",
-        "name": "Interior finish upgrades",
-        "category": "Services",
-        "description": "Planning and construction support for interior finish upgrades projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 45,
-      "item": {
-        "@type": "Service",
-        "name": "Interior home renovations",
-        "category": "Services",
-        "description": "Planning and construction support for interior home renovations projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 46,
-      "item": {
-        "@type": "Service",
-        "name": "Interior Painting",
-        "category": "Services",
-        "description": "Frasheski Construction provides Interior Painting in Berkeley, East Bay Area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 47,
-      "item": {
-        "@type": "Service",
-        "name": "Interior painting and finishing",
-        "category": "Services",
-        "description": "Planning and construction support for interior painting and finishing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 48,
-      "item": {
-        "@type": "Service",
-        "name": "Interior painting coordination",
-        "category": "Services",
-        "description": "Planning and construction support for interior painting coordination projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 49,
+      "position": 79,
       "item": {
         "@type": "Service",
         "name": "Jobsite cleanup and project closeout",
@@ -779,247 +1237,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 50,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen and bathroom lighting",
-        "category": "Services",
-        "description": "Planning and construction support for kitchen and bathroom lighting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 51,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen cabinet upgrades",
-        "category": "Services",
-        "description": "Planning and construction support for kitchen cabinet upgrades projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 52,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen design and layout improvements",
-        "category": "Services",
-        "description": "Planning and construction support for kitchen design and layout improvements projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 53,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen electrical and lighting upgrades",
-        "category": "Services",
-        "description": "Planning and construction support for kitchen electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 54,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen painting",
-        "category": "Services",
-        "description": "Planning and construction support for kitchen painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 55,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen plumbing installation",
-        "category": "Services",
-        "description": "Planning and project support for kitchen plumbing installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 56,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen plumbing upgrades",
-        "category": "Services",
-        "description": "Planning and construction support for kitchen plumbing upgrades projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 57,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen Remodeling",
-        "category": "Services",
-        "description": "Frasheski Construction provides Kitchen Remodeling in Berkeley, East Bay Area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 58,
-      "item": {
-        "@type": "Service",
-        "name": "Multi-room remodeling",
-        "category": "Services",
-        "description": "Planning and construction support for multi-room remodeling projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 59,
-      "item": {
-        "@type": "Service",
-        "name": "New-room construction",
-        "category": "Services",
-        "description": "Planning and construction support for new-room construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 60,
-      "item": {
-        "@type": "Service",
-        "name": "Outdated-room modernization",
-        "category": "Services",
-        "description": "Planning and construction support for outdated-room modernization projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 61,
-      "item": {
-        "@type": "Service",
-        "name": "Paint and finish work",
-        "category": "Services",
-        "description": "Planning and construction support for paint and finish work projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 62,
-      "item": {
-        "@type": "Service",
-        "name": "Painting and finishing for additions",
-        "category": "Services",
-        "description": "Planning and construction support for painting and finishing for additions projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 63,
-      "item": {
-        "@type": "Service",
-        "name": "Plumbing and Electrical",
-        "category": "Services",
-        "description": "Planning and construction support for plumbing and electrical projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 64,
-      "item": {
-        "@type": "Service",
-        "name": "Plumbing coordination",
-        "category": "Services",
-        "description": "Planning and construction support for plumbing coordination projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 65,
-      "item": {
-        "@type": "Service",
-        "name": "Post-remodel finish painting",
-        "category": "Services",
-        "description": "Planning and construction support for post-remodel finish painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 66,
+      "position": 80,
       "item": {
         "@type": "Service",
         "name": "Punch-list completion",
@@ -1034,7 +1252,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 67,
+      "position": 81,
       "item": {
         "@type": "Service",
         "name": "Railing repair",
@@ -1049,7 +1267,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 68,
+      "position": 82,
       "item": {
         "@type": "Service",
         "name": "Remodel planning and scope coordination",
@@ -1064,37 +1282,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 69,
-      "item": {
-        "@type": "Service",
-        "name": "Remodel-related electrical work",
-        "category": "Services",
-        "description": "Planning and construction support for remodel-related electrical work projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 70,
-      "item": {
-        "@type": "Service",
-        "name": "Remodel-related plumbing",
-        "category": "Services",
-        "description": "Planning and construction support for remodel-related plumbing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 71,
+      "position": 83,
       "item": {
         "@type": "Service",
         "name": "Remodeling project planning and coordination",
@@ -1109,67 +1297,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 72,
-      "item": {
-        "@type": "Service",
-        "name": "Room Additions",
-        "category": "Services",
-        "description": "Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 73,
-      "item": {
-        "@type": "Service",
-        "name": "Room expansions",
-        "category": "Services",
-        "description": "Planning and construction support for room expansions projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 74,
-      "item": {
-        "@type": "Service",
-        "name": "Room painting",
-        "category": "Services",
-        "description": "Planning and construction support for room painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 75,
-      "item": {
-        "@type": "Service",
-        "name": "Shower and tub upgrades",
-        "category": "Services",
-        "description": "Planning and construction support for shower and tub upgrades projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 76,
+      "position": 84,
       "item": {
         "@type": "Service",
         "name": "Stair repair",
@@ -1184,7 +1312,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 77,
+      "position": 85,
       "item": {
         "@type": "Service",
         "name": "Surface restoration",
@@ -1199,132 +1327,12 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 78,
-      "item": {
-        "@type": "Service",
-        "name": "Tile and surface updates",
-        "category": "Services",
-        "description": "Planning and construction support for tile and surface updates projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 79,
-      "item": {
-        "@type": "Service",
-        "name": "Tile installation coordination",
-        "category": "Services",
-        "description": "Planning and project support for tile installation coordination, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 80,
+      "position": 86,
       "item": {
         "@type": "Service",
         "name": "Trade scheduling and sequencing",
         "category": "Services",
         "description": "Planning and construction support for trade scheduling and sequencing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 81,
-      "item": {
-        "@type": "Service",
-        "name": "Trim and detail painting",
-        "category": "Services",
-        "description": "Planning and construction support for trim and detail painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 82,
-      "item": {
-        "@type": "Service",
-        "name": "Trim and molding installation",
-        "category": "Services",
-        "description": "Planning and project support for trim and molding installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 83,
-      "item": {
-        "@type": "Service",
-        "name": "Vanity and cabinet installation",
-        "category": "Services",
-        "description": "Planning and project support for vanity and cabinet installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 84,
-      "item": {
-        "@type": "Service",
-        "name": "Whole-home interior painting",
-        "category": "Services",
-        "description": "Planning and construction support for whole-home interior painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 85,
-      "item": {
-        "@type": "Service",
-        "name": "Wood Fence Repair",
-        "category": "Services",
-        "description": "Assessment and project support for wood fence repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Frasheski Construction",
-          "url": "frasheskiconstruction.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 86,
-      "item": {
-        "@type": "Service",
-        "name": "Wood fence-panel repair",
-        "category": "Services",
-        "description": "Assessment and project support for wood fence-panel repair, subject to existing conditions, approved scope, availability, and service area.",
         "provider": {
           "@type": "Organization",
           "name": "Frasheski Construction",
@@ -1338,13 +1346,13 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="author" content="Frasheski Construction">
 <meta property="og:title" content="Services — Frasheski Construction" />
-<meta property="og:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Addition plumbing and electrical coordination, Appliance installation coordination, Appliance-area preparation and installation coordination, Backsplash installation." />
+<meta property="og:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Backsplash installation, Bathroom electrical and lighting upgrades, Bathroom painting, Bathroom plumbing installation." />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Frasheski Construction" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Services — Frasheski Construction" />
-<meta name="twitter:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Addition plumbing and electrical coordination, Appliance installation coordination, Appliance-area preparation and installation coordination, Backsplash installation." />
+<meta name="twitter:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Backsplash installation, Bathroom electrical and lighting upgrades, Bathroom painting, Bathroom plumbing installation." />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1352,9 +1360,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "@id": "https://frasheski-construction.aiovisibility.net/services.html#webpage",
   "url": "https://frasheski-construction.aiovisibility.net/services.html",
   "name": "Services — Frasheski Construction",
-  "description": "Frasheski Construction services: Accessibility-minded bathroom modifications, Addition plumbing and electrical coordination, Appliance installation coordination, Appliance-area preparation and installation coordination, Backsplash installation.",
+  "description": "Frasheski Construction services: Accessibility-minded bathroom modifications, Backsplash installation, Bathroom electrical and lighting upgrades, Bathroom painting, Bathroom plumbing installation.",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-05",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Frasheski Construction",
@@ -1508,15 +1516,15 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <link rel="canonical" href="https://frasheski-construction.aiovisibility.net/services.html" />
 <link rel="sitemap" type="application/xml" href="https://frasheski-construction.aiovisibility.net/ai-sitemap.xml" />
 <meta property="og:title" content="Services — Frasheski Construction" />
-<meta property="og:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Addition plumbing and electrical coordination, Appliance installation coordination, Appliance-area preparation and installation coordination, Backsplash installation." />
+<meta property="og:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Backsplash installation, Bathroom electrical and lighting upgrades, Bathroom painting, Bathroom plumbing installation." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://frasheski-construction.aiovisibility.net/services.html" />
 <meta property="og:site_name" content="Frasheski Construction" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Services — Frasheski Construction" />
-<meta name="twitter:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Addition plumbing and electrical coordination, Appliance installation coordination, Appliance-area preparation and installation coordination, Backsplash installation." />
-<meta name="dcterms.modified" content="2026-10-05" />
+<meta name="twitter:description" content="Frasheski Construction services: Accessibility-minded bathroom modifications, Backsplash installation, Bathroom electrical and lighting upgrades, Bathroom painting, Bathroom plumbing installation." />
+<meta name="dcterms.modified" content="2026-10-24" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1524,10 +1532,10 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "@id": "https://frasheski-construction.aiovisibility.net/services.html#webpage",
   "url": "https://frasheski-construction.aiovisibility.net/services.html",
   "name": "Services — Frasheski Construction",
-  "description": "Frasheski Construction services: Accessibility-minded bathroom modifications, Addition plumbing and electrical coordination, Appliance installation coordination, Appliance-area preparation and installation coordination, Backsplash installation.",
+  "description": "Frasheski Construction services: Accessibility-minded bathroom modifications, Backsplash installation, Bathroom electrical and lighting upgrades, Bathroom painting, Bathroom plumbing installation.",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-05",
-  "dateModified": "2026-10-05",
+  "datePublished": "2026-10-24",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Frasheski Construction",
@@ -1687,101 +1695,143 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="faqs.html">FAQs</a>
 <a href="articles.html">Articles</a>
 <a href="team-members.html">Team Members</a></nav>
-<nav class="svc-index" id="top" aria-label="Service categories">
-<h2>Browse by category</h2>
-<ul>
-<li><a href="#cat-services">Services <span class="n">86</span></a></li>
+<nav class="svc-index" id="top" aria-label="Services index">
+<h2>Service categories</h2>
+<ul class="svc-bubbles">
+<li><a href="#cat-remodeling">Remodeling <span class="n">(49)</span></a></li>
+<li><a href="#cat-outdoor-living">Outdoor Living <span class="n">(9)</span></a></li>
+<li><a href="#cat-roofing-and-exterior">Roofing and Exterior <span class="n">(1)</span></a></li>
+<li><a href="#cat-construction">Construction <span class="n">(2)</span></a></li>
+<li><a href="#cat-electrical-and-plumbing">Electrical and Plumbing <span class="n">(7)</span></a></li>
+<li><a href="#cat-doors-windows-and-finishes">Doors, Windows, and Finishes <span class="n">(3)</span></a></li>
+<li><a href="#cat-services">Services <span class="n">(15)</span></a></li>
 </ul>
 </nav>
-<section class="cat" id="cat-services">
-<h2>Services<span class="count">86 services</span></h2>
+<section class="cat" id="cat-remodeling">
+<h2>Remodeling<span class="count">49 services</span></h2>
 <ul class="svc-list">
-<li><strong>Accessibility-minded bathroom modifications</strong> <span class="scope">&mdash; Planning and construction support for accessibility-minded bathroom modifications projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Addition plumbing and electrical coordination</strong> <span class="scope">&mdash; Planning and construction support for addition plumbing and electrical coordination projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Appliance installation coordination</strong> <span class="scope">&mdash; Planning and project support for appliance installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Appliance-area preparation and installation coordination</strong> <span class="scope">&mdash; Planning and project support for appliance-area preparation and installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Backsplash installation</strong> <span class="scope">&mdash; Planning and project support for backsplash installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Bathroom electrical and lighting upgrades</strong> <span class="scope">&mdash; Planning and construction support for bathroom electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Bathroom painting</strong> <span class="scope">&mdash; Planning and construction support for bathroom painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Bathroom plumbing installation</strong> <span class="scope">&mdash; Planning and project support for bathroom plumbing installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Bathroom plumbing work</strong> <span class="scope">&mdash; Planning and construction support for bathroom plumbing work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Bathroom Remodeling</strong> <span class="scope">&mdash; Planning and construction support for bathroom remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Bathroom vanity/cabinet upgrades</strong> <span class="scope">&mdash; Planning and construction support for bathroom vanity/cabinet upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Cabinet installation</strong> <span class="scope">&mdash; Frasheski Construction provides Cabinet Installation in Berkeley, East Bay Area.</span></li>
-<li><strong>Cabinet installation coordination</strong> <span class="scope">&mdash; Planning and project support for cabinet installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Cabinet repair</strong> <span class="scope">&mdash; Assessment and project support for cabinet repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Cabinet repair and refinishing</strong> <span class="scope">&mdash; Assessment and project support for cabinet repair and refinishing, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Cabinet Services</strong> <span class="scope">&mdash; Planning and construction support for cabinet services projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Complete remodeling project management</strong> <span class="scope">&mdash; Planning and construction support for complete remodeling project management projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Countertop installation coordination</strong> <span class="scope">&mdash; Planning and project support for countertop installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Countertop replacement</strong> <span class="scope">&mdash; Assessment and project support for countertop replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Custom-fit cabinet solutions</strong> <span class="scope">&mdash; Planning and construction support for custom-fit cabinet solutions projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Damaged-board replacement</strong> <span class="scope">&mdash; Assessment and project support for damaged-board replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Deck board replacement</strong> <span class="scope">&mdash; Assessment and project support for deck board replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Deck maintenance improvements</strong> <span class="scope">&mdash; Maintenance support for deck maintenance improvements, subject to system condition, requested scope, availability, and approved service area.</span></li>
-<li><strong>Deck Repair</strong> <span class="scope">&mdash; Assessment and project support for deck repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Deck structural repairs</strong> <span class="scope">&mdash; Assessment and project support for deck structural repairs, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Door and hardware installation</strong> <span class="scope">&mdash; Planning and project support for door and hardware installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Electrical coordination</strong> <span class="scope">&mdash; Planning and construction support for electrical coordination projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Electrical fixture installation</strong> <span class="scope">&mdash; Planning and project support for electrical fixture installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Fence stability restoration</strong> <span class="scope">&mdash; Planning and construction support for fence stability restoration projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Fence-post repair</strong> <span class="scope">&mdash; Assessment and project support for fence-post repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Final detail work</strong> <span class="scope">&mdash; Planning and construction support for final detail work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Final quality walkthrough</strong> <span class="scope">&mdash; Planning and construction support for final quality walkthrough projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Finish carpentry coordination</strong> <span class="scope">&mdash; Planning and construction support for finish carpentry coordination projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Fixture installation coordination</strong> <span class="scope">&mdash; Planning and project support for fixture installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Flooring installation coordination</strong> <span class="scope">&mdash; Planning and project support for flooring installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Full bathroom renovations</strong> <span class="scope">&mdash; Planning and construction support for full bathroom renovations projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Full kitchen renovations</strong> <span class="scope">&mdash; Planning and construction support for full kitchen renovations projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Functional layout improvements</strong> <span class="scope">&mdash; Planning and construction support for functional layout improvements projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Gate repair</strong> <span class="scope">&mdash; Assessment and project support for gate repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Hardware and functional adjustments</strong> <span class="scope">&mdash; Planning and construction support for hardware and functional adjustments projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Home additions</strong> <span class="scope">&mdash; Planning and construction support for home additions projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Home Remodeling</strong> <span class="scope">&mdash; Frasheski Construction provides Home Remodeling in Berkeley, East Bay Area.</span></li>
-<li><strong>Interior build-outs</strong> <span class="scope">&mdash; Planning and construction support for interior build-outs projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior finish upgrades</strong> <span class="scope">&mdash; Planning and construction support for interior finish upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior home renovations</strong> <span class="scope">&mdash; Planning and construction support for interior home renovations projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior Painting</strong> <span class="scope">&mdash; Frasheski Construction provides Interior Painting in Berkeley, East Bay Area.</span></li>
-<li><strong>Interior painting and finishing</strong> <span class="scope">&mdash; Planning and construction support for interior painting and finishing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior painting coordination</strong> <span class="scope">&mdash; Planning and construction support for interior painting coordination projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Jobsite cleanup and project closeout</strong> <span class="scope">&mdash; Planning and construction support for jobsite cleanup and project closeout projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Kitchen and bathroom lighting</strong> <span class="scope">&mdash; Planning and construction support for kitchen and bathroom lighting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Kitchen cabinet upgrades</strong> <span class="scope">&mdash; Planning and construction support for kitchen cabinet upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Kitchen design and layout improvements</strong> <span class="scope">&mdash; Planning and construction support for kitchen design and layout improvements projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Kitchen electrical and lighting upgrades</strong> <span class="scope">&mdash; Planning and construction support for kitchen electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Kitchen painting</strong> <span class="scope">&mdash; Planning and construction support for kitchen painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Kitchen plumbing installation</strong> <span class="scope">&mdash; Planning and project support for kitchen plumbing installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Kitchen plumbing upgrades</strong> <span class="scope">&mdash; Planning and construction support for kitchen plumbing upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Kitchen Remodeling</strong> <span class="scope">&mdash; Frasheski Construction provides Kitchen Remodeling in Berkeley, East Bay Area.</span></li>
-<li><strong>Multi-room remodeling</strong> <span class="scope">&mdash; Planning and construction support for multi-room remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>New-room construction</strong> <span class="scope">&mdash; Planning and construction support for new-room construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Outdated-room modernization</strong> <span class="scope">&mdash; Planning and construction support for outdated-room modernization projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Paint and finish work</strong> <span class="scope">&mdash; Planning and construction support for paint and finish work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Painting and finishing for additions</strong> <span class="scope">&mdash; Planning and construction support for painting and finishing for additions projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Plumbing and Electrical</strong> <span class="scope">&mdash; Planning and construction support for plumbing and electrical projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Plumbing coordination</strong> <span class="scope">&mdash; Planning and construction support for plumbing coordination projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Post-remodel finish painting</strong> <span class="scope">&mdash; Planning and construction support for post-remodel finish painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Punch-list completion</strong> <span class="scope">&mdash; Planning and construction support for punch-list completion projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Railing repair</strong> <span class="scope">&mdash; Assessment and project support for railing repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Remodel planning and scope coordination</strong> <span class="scope">&mdash; Planning and construction support for remodel planning and scope coordination projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Remodel-related electrical work</strong> <span class="scope">&mdash; Planning and construction support for remodel-related electrical work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Remodel-related plumbing</strong> <span class="scope">&mdash; Planning and construction support for remodel-related plumbing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Remodeling project planning and coordination</strong> <span class="scope">&mdash; Planning and construction support for remodeling project planning and coordination projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Room Additions</strong> <span class="scope">&mdash; Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Room expansions</strong> <span class="scope">&mdash; Planning and construction support for room expansions projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Room painting</strong> <span class="scope">&mdash; Planning and construction support for room painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Shower and tub upgrades</strong> <span class="scope">&mdash; Planning and construction support for shower and tub upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stair repair</strong> <span class="scope">&mdash; Assessment and project support for stair repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Surface restoration</strong> <span class="scope">&mdash; Planning and construction support for surface restoration projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Tile and surface updates</strong> <span class="scope">&mdash; Planning and construction support for tile and surface updates projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Tile installation coordination</strong> <span class="scope">&mdash; Planning and project support for tile installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Trade scheduling and sequencing</strong> <span class="scope">&mdash; Planning and construction support for trade scheduling and sequencing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Trim and detail painting</strong> <span class="scope">&mdash; Planning and construction support for trim and detail painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Trim and molding installation</strong> <span class="scope">&mdash; Planning and project support for trim and molding installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Vanity and cabinet installation</strong> <span class="scope">&mdash; Planning and project support for vanity and cabinet installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Whole-home interior painting</strong> <span class="scope">&mdash; Planning and construction support for whole-home interior painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Wood Fence Repair</strong> <span class="scope">&mdash; Assessment and project support for wood fence repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Wood fence-panel repair</strong> <span class="scope">&mdash; Assessment and project support for wood fence-panel repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-accessibility-minded-bathroom-modifications"><strong>Accessibility-minded bathroom modifications</strong> <span class="scope">&mdash; Planning and construction support for accessibility-minded bathroom modifications projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-backsplash-installation"><strong>Backsplash installation</strong> <span class="scope">&mdash; Planning and project support for backsplash installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-bathroom-electrical-and-lighting-upgrades"><strong>Bathroom electrical and lighting upgrades</strong> <span class="scope">&mdash; Planning and construction support for bathroom electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-bathroom-painting"><strong>Bathroom painting</strong> <span class="scope">&mdash; Planning and construction support for bathroom painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-bathroom-plumbing-installation"><strong>Bathroom plumbing installation</strong> <span class="scope">&mdash; Planning and project support for bathroom plumbing installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-bathroom-plumbing-work"><strong>Bathroom plumbing work</strong> <span class="scope">&mdash; Planning and construction support for bathroom plumbing work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-bathroom-remodeling"><strong>Bathroom Remodeling</strong> <span class="scope">&mdash; Planning and construction support for bathroom remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-bathroom-vanity-cabinet-upgrades"><strong>Bathroom vanity/cabinet upgrades</strong> <span class="scope">&mdash; Planning and construction support for bathroom vanity/cabinet upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-cabinet-installation"><strong>Cabinet installation</strong> <span class="scope">&mdash; Frasheski Construction provides Cabinet Installation in Berkeley, East Bay Area.</span></li>
+<li id="svc-cabinet-installation-coordination"><strong>Cabinet installation coordination</strong> <span class="scope">&mdash; Planning and project support for cabinet installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-cabinet-repair"><strong>Cabinet repair</strong> <span class="scope">&mdash; Assessment and project support for cabinet repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-cabinet-repair-and-refinishing"><strong>Cabinet repair and refinishing</strong> <span class="scope">&mdash; Assessment and project support for cabinet repair and refinishing, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-cabinet-services"><strong>Cabinet Services</strong> <span class="scope">&mdash; Planning and construction support for cabinet services projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-countertop-installation-coordination"><strong>Countertop installation coordination</strong> <span class="scope">&mdash; Planning and project support for countertop installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-countertop-replacement"><strong>Countertop replacement</strong> <span class="scope">&mdash; Assessment and project support for countertop replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-custom-fit-cabinet-solutions"><strong>Custom-fit cabinet solutions</strong> <span class="scope">&mdash; Planning and construction support for custom-fit cabinet solutions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-flooring-installation-coordination"><strong>Flooring installation coordination</strong> <span class="scope">&mdash; Planning and project support for flooring installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-full-bathroom-renovations"><strong>Full bathroom renovations</strong> <span class="scope">&mdash; Planning and construction support for full bathroom renovations projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-full-kitchen-renovations"><strong>Full kitchen renovations</strong> <span class="scope">&mdash; Planning and construction support for full kitchen renovations projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-home-additions"><strong>Home additions</strong> <span class="scope">&mdash; Planning and construction support for home additions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-home-remodeling"><strong>Home Remodeling</strong> <span class="scope">&mdash; Frasheski Construction provides Home Remodeling in Berkeley, East Bay Area.</span></li>
+<li id="svc-interior-build-outs"><strong>Interior build-outs</strong> <span class="scope">&mdash; Planning and construction support for interior build-outs projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-home-renovations"><strong>Interior home renovations</strong> <span class="scope">&mdash; Planning and construction support for interior home renovations projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-painting"><strong>Interior Painting</strong> <span class="scope">&mdash; Frasheski Construction provides Interior Painting in Berkeley, East Bay Area.</span></li>
+<li id="svc-interior-painting-and-finishing"><strong>Interior painting and finishing</strong> <span class="scope">&mdash; Planning and construction support for interior painting and finishing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-painting-coordination"><strong>Interior painting coordination</strong> <span class="scope">&mdash; Planning and construction support for interior painting coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-and-bathroom-lighting"><strong>Kitchen and bathroom lighting</strong> <span class="scope">&mdash; Planning and construction support for kitchen and bathroom lighting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-cabinet-upgrades"><strong>Kitchen cabinet upgrades</strong> <span class="scope">&mdash; Planning and construction support for kitchen cabinet upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-design-and-layout-improvements"><strong>Kitchen design and layout improvements</strong> <span class="scope">&mdash; Planning and construction support for kitchen design and layout improvements projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-electrical-and-lighting-upgrades"><strong>Kitchen electrical and lighting upgrades</strong> <span class="scope">&mdash; Planning and construction support for kitchen electrical and lighting upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-painting"><strong>Kitchen painting</strong> <span class="scope">&mdash; Planning and construction support for kitchen painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-plumbing-installation"><strong>Kitchen plumbing installation</strong> <span class="scope">&mdash; Planning and project support for kitchen plumbing installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-kitchen-plumbing-upgrades"><strong>Kitchen plumbing upgrades</strong> <span class="scope">&mdash; Planning and construction support for kitchen plumbing upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-remodeling"><strong>Kitchen Remodeling</strong> <span class="scope">&mdash; Frasheski Construction provides Kitchen Remodeling in Berkeley, East Bay Area.</span></li>
+<li id="svc-multi-room-remodeling"><strong>Multi-room remodeling</strong> <span class="scope">&mdash; Planning and construction support for multi-room remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-new-room-construction"><strong>New-room construction</strong> <span class="scope">&mdash; Planning and construction support for new-room construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-outdated-room-modernization"><strong>Outdated-room modernization</strong> <span class="scope">&mdash; Planning and construction support for outdated-room modernization projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-paint-and-finish-work"><strong>Paint and finish work</strong> <span class="scope">&mdash; Planning and construction support for paint and finish work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-painting-and-finishing-for-additions"><strong>Painting and finishing for additions</strong> <span class="scope">&mdash; Planning and construction support for painting and finishing for additions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-post-remodel-finish-painting"><strong>Post-remodel finish painting</strong> <span class="scope">&mdash; Planning and construction support for post-remodel finish painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-room-additions"><strong>Room Additions</strong> <span class="scope">&mdash; Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-room-expansions"><strong>Room expansions</strong> <span class="scope">&mdash; Planning and construction support for room expansions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-room-painting"><strong>Room painting</strong> <span class="scope">&mdash; Planning and construction support for room painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-shower-and-tub-upgrades"><strong>Shower and tub upgrades</strong> <span class="scope">&mdash; Planning and construction support for shower and tub upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-tile-and-surface-updates"><strong>Tile and surface updates</strong> <span class="scope">&mdash; Planning and construction support for tile and surface updates projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-tile-installation-coordination"><strong>Tile installation coordination</strong> <span class="scope">&mdash; Planning and project support for tile installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-trim-and-detail-painting"><strong>Trim and detail painting</strong> <span class="scope">&mdash; Planning and construction support for trim and detail painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-vanity-and-cabinet-installation"><strong>Vanity and cabinet installation</strong> <span class="scope">&mdash; Planning and project support for vanity and cabinet installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-whole-home-interior-painting"><strong>Whole-home interior painting</strong> <span class="scope">&mdash; Planning and construction support for whole-home interior painting projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-outdoor-living">
+<h2>Outdoor Living<span class="count">9 services</span></h2>
+<ul class="svc-list">
+<li id="svc-deck-board-replacement"><strong>Deck board replacement</strong> <span class="scope">&mdash; Assessment and project support for deck board replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-deck-maintenance-improvements"><strong>Deck maintenance improvements</strong> <span class="scope">&mdash; Maintenance support for deck maintenance improvements, subject to system condition, requested scope, availability, and approved service area.</span></li>
+<li id="svc-deck-repair"><strong>Deck Repair</strong> <span class="scope">&mdash; Assessment and project support for deck repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-deck-structural-repairs"><strong>Deck structural repairs</strong> <span class="scope">&mdash; Assessment and project support for deck structural repairs, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-fence-stability-restoration"><strong>Fence stability restoration</strong> <span class="scope">&mdash; Planning and construction support for fence stability restoration projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-fence-post-repair"><strong>Fence-post repair</strong> <span class="scope">&mdash; Assessment and project support for fence-post repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-gate-repair"><strong>Gate repair</strong> <span class="scope">&mdash; Assessment and project support for gate repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-wood-fence-repair"><strong>Wood Fence Repair</strong> <span class="scope">&mdash; Assessment and project support for wood fence repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-wood-fence-panel-repair"><strong>Wood fence-panel repair</strong> <span class="scope">&mdash; Assessment and project support for wood fence-panel repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-roofing-and-exterior">
+<h2>Roofing and Exterior<span class="count">1 service</span></h2>
+<ul class="svc-list">
+<li id="svc-door-and-hardware-installation"><strong>Door and hardware installation</strong> <span class="scope">&mdash; Planning and project support for door and hardware installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-construction">
+<h2>Construction<span class="count">2 services</span></h2>
+<ul class="svc-list">
+<li id="svc-appliance-area-preparation-and-installation-coordination"><strong>Appliance-area preparation and installation coordination</strong> <span class="scope">&mdash; Planning and project support for appliance-area preparation and installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-functional-layout-improvements"><strong>Functional layout improvements</strong> <span class="scope">&mdash; Planning and construction support for functional layout improvements projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-electrical-and-plumbing">
+<h2>Electrical and Plumbing<span class="count">7 services</span></h2>
+<ul class="svc-list">
+<li id="svc-addition-plumbing-and-electrical-coordination"><strong>Addition plumbing and electrical coordination</strong> <span class="scope">&mdash; Planning and construction support for addition plumbing and electrical coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-electrical-coordination"><strong>Electrical coordination</strong> <span class="scope">&mdash; Planning and construction support for electrical coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-electrical-fixture-installation"><strong>Electrical fixture installation</strong> <span class="scope">&mdash; Planning and project support for electrical fixture installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-plumbing-and-electrical"><strong>Plumbing and Electrical</strong> <span class="scope">&mdash; Planning and construction support for plumbing and electrical projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-plumbing-coordination"><strong>Plumbing coordination</strong> <span class="scope">&mdash; Planning and construction support for plumbing coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-remodel-related-electrical-work"><strong>Remodel-related electrical work</strong> <span class="scope">&mdash; Planning and construction support for remodel-related electrical work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-remodel-related-plumbing"><strong>Remodel-related plumbing</strong> <span class="scope">&mdash; Planning and construction support for remodel-related plumbing projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-doors-windows-and-finishes">
+<h2>Doors, Windows, and Finishes<span class="count">3 services</span></h2>
+<ul class="svc-list">
+<li id="svc-finish-carpentry-coordination"><strong>Finish carpentry coordination</strong> <span class="scope">&mdash; Planning and construction support for finish carpentry coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-finish-upgrades"><strong>Interior finish upgrades</strong> <span class="scope">&mdash; Planning and construction support for interior finish upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-trim-and-molding-installation"><strong>Trim and molding installation</strong> <span class="scope">&mdash; Planning and project support for trim and molding installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-services">
+<h2>Services<span class="count">15 services</span></h2>
+<ul class="svc-list">
+<li id="svc-appliance-installation-coordination"><strong>Appliance installation coordination</strong> <span class="scope">&mdash; Planning and project support for appliance installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-complete-remodeling-project-management"><strong>Complete remodeling project management</strong> <span class="scope">&mdash; Planning and construction support for complete remodeling project management projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-damaged-board-replacement"><strong>Damaged-board replacement</strong> <span class="scope">&mdash; Assessment and project support for damaged-board replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-final-detail-work"><strong>Final detail work</strong> <span class="scope">&mdash; Planning and construction support for final detail work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-final-quality-walkthrough"><strong>Final quality walkthrough</strong> <span class="scope">&mdash; Planning and construction support for final quality walkthrough projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-fixture-installation-coordination"><strong>Fixture installation coordination</strong> <span class="scope">&mdash; Planning and project support for fixture installation coordination, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-hardware-and-functional-adjustments"><strong>Hardware and functional adjustments</strong> <span class="scope">&mdash; Planning and construction support for hardware and functional adjustments projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-jobsite-cleanup-and-project-closeout"><strong>Jobsite cleanup and project closeout</strong> <span class="scope">&mdash; Planning and construction support for jobsite cleanup and project closeout projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-punch-list-completion"><strong>Punch-list completion</strong> <span class="scope">&mdash; Planning and construction support for punch-list completion projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-railing-repair"><strong>Railing repair</strong> <span class="scope">&mdash; Assessment and project support for railing repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-remodel-planning-and-scope-coordination"><strong>Remodel planning and scope coordination</strong> <span class="scope">&mdash; Planning and construction support for remodel planning and scope coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-remodeling-project-planning-and-coordination"><strong>Remodeling project planning and coordination</strong> <span class="scope">&mdash; Planning and construction support for remodeling project planning and coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stair-repair"><strong>Stair repair</strong> <span class="scope">&mdash; Assessment and project support for stair repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-surface-restoration"><strong>Surface restoration</strong> <span class="scope">&mdash; Planning and construction support for surface restoration projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-trade-scheduling-and-sequencing"><strong>Trade scheduling and sequencing</strong> <span class="scope">&mdash; Planning and construction support for trade scheduling and sequencing projects, subject to project scope, availability, and the approved service area.</span></li>
 </ul>
 <p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
